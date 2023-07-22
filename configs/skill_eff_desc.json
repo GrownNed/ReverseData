@@ -1,0 +1,2837 @@
+[
+    {
+        "id": 300,
+        "name": "反制",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": "赋予持续的反制状态，被攻击时触发效果"
+    },
+    {
+        "id": 301,
+        "name": "嘲讽",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "敌方的攻击目标必定为处于嘲讽状态的角色"
+    },
+    {
+        "id": 302,
+        "name": "反击",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受到敌人攻击后进行反击"
+    },
+    {
+        "id": 303,
+        "name": "反弹",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "被攻击时，对敌人造成本源创伤"
+    },
+    {
+        "id": 304,
+        "name": "能量汲取",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "被攻击时，自身激情+1"
+    },
+    {
+        "id": 305,
+        "name": "獠牙新宠",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受到攻击时反击，该反击视为1次额外行动"
+    },
+    {
+        "id": 306,
+        "name": "獠牙伙伴",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到【控制】影响；受到攻击时反击，该反击视为1次额外行动"
+    },
+    {
+        "id": 400,
+        "name": "控制",
+        "color": 2,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": "眩晕，石化，噩梦，冰冻，缴械，缄默，封印等限制角色行动的效果"
+    },
+    {
+        "id": 401,
+        "name": "眩晕",
+        "color": 2,
+        "isNoShow": 1,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法行动"
+    },
+    {
+        "id": 402,
+        "name": "石化",
+        "color": 2,
+        "isNoShow": 1,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法行动，受到现实创伤攻击后解除"
+    },
+    {
+        "id": 403,
+        "name": "噩梦",
+        "color": 2,
+        "isNoShow": 1,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法行动，受到任意攻击后解除"
+    },
+    {
+        "id": 404,
+        "name": "冰冻",
+        "color": 2,
+        "isNoShow": 1,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法行动，受到精神创伤攻击后解除"
+    },
+    {
+        "id": 405,
+        "name": "缴械",
+        "color": 2,
+        "isNoShow": 1,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法使用攻击类咒语"
+    },
+    {
+        "id": 406,
+        "name": "缄默",
+        "color": 2,
+        "isNoShow": 1,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法使用增益、减益、治疗、反制类咒语"
+    },
+    {
+        "id": 407,
+        "name": "封印",
+        "color": 2,
+        "isNoShow": 1,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法使用至终的仪式"
+    },
+    {
+        "id": 408,
+        "name": "僵硬",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "叠加到2层时，变为石化或使已存在的石化持续时间+1"
+    },
+    {
+        "id": 409,
+        "name": "寒冷",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "叠加到2层时，变为冰冻或使已存在的冰冻持续时间+1"
+    },
+    {
+        "id": 410,
+        "name": "麻痹",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "叠加到2层时，变为眩晕或使已存在的眩晕持续时间+1"
+    },
+    {
+        "id": 500,
+        "name": "增益",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": "提升角色状态的效果"
+    },
+    {
+        "id": 501,
+        "name": "愈合",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合开始时，基于使用者的攻击回复生命"
+    },
+    {
+        "id": 502,
+        "name": "免疫",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到【属性削弱】【状态异常】【控制】影响"
+    },
+    {
+        "id": 503,
+        "name": "激昂",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击时，创伤加成+50%(生效后减少1层）"
+    },
+    {
+        "id": 504,
+        "name": "坚固",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "被攻击时，受创减免+25%(生效后减少1层）"
+    },
+    {
+        "id": 505,
+        "name": "隐身",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "闪避所有现实创伤"
+    },
+    {
+        "id": 506,
+        "name": "银质子弹",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击后，使主目标3回合内现实防御-20%(生效后减少1层）"
+    },
+    {
+        "id": 507,
+        "name": "躁动摇滚",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "闪避所有非至终的仪式的任意攻击，行动后解除"
+    },
+    {
+        "id": 508,
+        "name": "控制免疫",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到【控制】影响（不可驱散）"
+    },
+    {
+        "id": 509,
+        "name": "成长",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成+10%（可以叠加）"
+    },
+    {
+        "id": 510,
+        "name": "光合作用",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成+20%，且免疫激情降低效果；持续3回合"
+    },
+    {
+        "id": 511,
+        "name": "自愈",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合开始时，基于持有者已损失生命治疗"
+    },
+    {
+        "id": 512,
+        "name": "护盾",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "持续时间内，抵挡一定创伤"
+    },
+    {
+        "id": 513,
+        "name": "毒牙",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击时，使目标陷入【中毒】状态"
+    },
+    {
+        "id": 514,
+        "name": "强韧",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "被现实创伤攻击时，受创减免+30%(生效后减少1层）"
+    },
+    {
+        "id": 515,
+        "name": "安定",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "被精神创伤攻击时，受创减免+30%(生效后减少1层）"
+    },
+    {
+        "id": 516,
+        "name": "鼓舞",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合开始时，激情+1"
+    },
+    {
+        "id": 517,
+        "name": "激情保护",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "免疫激情降低"
+    },
+    {
+        "id": 518,
+        "name": "咒语强化Ⅰ",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合开始时，随机1张咒语阶次+1"
+    },
+    {
+        "id": 600,
+        "name": "减益",
+        "color": 2,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": "降低角色状态的效果"
+    },
+    {
+        "id": 601,
+        "name": "重伤",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受到的治疗效果-50%"
+    },
+    {
+        "id": 602,
+        "name": "弱点感知",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "现实防御-20%，暴击防御-20%"
+    },
+    {
+        "id": 603,
+        "name": "中毒",
+        "color": 2,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合结束时，受到基于释放者攻击的本源创伤（可以叠加）"
+    },
+    {
+        "id": 604,
+        "name": "流血",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "行动后，受到使用者攻击*100%的本源创伤"
+    },
+    {
+        "id": 605,
+        "name": "腐蚀",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合结束时，受到基于持有者当前生命的本源创伤"
+    },
+    {
+        "id": 606,
+        "name": "脆化",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "下次受到的咒语造成的创伤+50%"
+    },
+    {
+        "id": 607,
+        "name": "仙境访客",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成-10%（效果可叠加，每层时间独立计算）"
+    },
+    {
+        "id": 608,
+        "name": "银弹侵蚀",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免-10%，受到的治疗效果-20%（可以叠加）"
+    },
+    {
+        "id": 609,
+        "name": "异常",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 1,
+        "desc": "包括【属性削弱】【状态异常】【控制】所有负面状态"
+    },
+    {
+        "id": 610,
+        "name": "心神不宁",
+        "color": 2,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法提升激情"
+    },
+    {
+        "id": 611,
+        "name": "脆弱",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "被攻击时，受创减免-50%(生效后减少1层）"
+    },
+    {
+        "id": 612,
+        "name": "虚弱",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击时，创伤加成-25%(生效后减少1层）"
+    },
+    {
+        "id": 613,
+        "name": "枯竭",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免-20%，且无法获得激情"
+    },
+    {
+        "id": 701,
+        "name": "暴击溢出",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "实际暴击率超过100%的部分"
+    },
+    {
+        "id": 702,
+        "name": "光环",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "角色登场且存活时，对满足条件的所有友方都有增益效果"
+    },
+    {
+        "id": 703,
+        "name": "平分生命",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "等比平分己方全体角色的生命"
+    },
+    {
+        "id": 704,
+        "name": "宾至如归",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "抗暴率、暴击防御-25%"
+    },
+    {
+        "id": 705,
+        "name": "酒醉",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "暴击率-50%，受创减免+30%；单次受到创伤超过自身最大生命的30%时解除"
+    },
+    {
+        "id": 706,
+        "name": "剧中愚者",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免、抗暴率+25%"
+    },
+    {
+        "id": 707,
+        "name": "派对气球",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "对攻击者造成气球派对现实防御*100%的本源创伤(生效后减少1层）"
+    },
+    {
+        "id": 708,
+        "name": "纯真气球",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免+25%，被攻击后回复20%已损失生命(生效后减少1层）"
+    },
+    {
+        "id": 709,
+        "name": "许愿失败",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成-20%，受创减免-20%"
+    },
+    {
+        "id": 710,
+        "name": "放射治疗",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免-15%，回合结束时受到基于释放者攻击的本源创伤"
+    },
+    {
+        "id": 711,
+        "name": "不竭",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "免疫激情降低；创伤加成+20%（不可驱散）"
+    },
+    {
+        "id": 712,
+        "name": "顽固",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到【控制】影响；穿透率+20%（不可驱散）"
+    },
+    {
+        "id": 713,
+        "name": "茁实",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "免疫属性降低；吸血率+20%（不可驱散）"
+    },
+    {
+        "id": 714,
+        "name": "“玻璃”大炮",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免大幅减少"
+    },
+    {
+        "id": 715,
+        "name": "玻璃“大炮”",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成大幅提升，吸血率大幅提升，攻击后消失"
+    },
+    {
+        "id": 716,
+        "name": "追猎",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "此目标被追猎中，受到斩杀爪击、穿甲爪击时会有额外效果（不可净化）"
+    },
+    {
+        "id": 717,
+        "name": "进攻标记",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "穿透率+15%，创伤加成+15%"
+    },
+    {
+        "id": 718,
+        "name": "攻击喵",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "穿透率+15%，创伤加成+15%"
+    },
+    {
+        "id": 719,
+        "name": "诅咒Ⅰ·血竭",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受到的治疗效果-15%"
+    },
+    {
+        "id": 720,
+        "name": "诅咒Ⅱ·衰败",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "现实防御-15%，精神防御-15%"
+    },
+    {
+        "id": 721,
+        "name": "诅咒Ⅲ·失明",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成-15%，暴击率-15%"
+    },
+    {
+        "id": 722,
+        "name": "枯萎结幕",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受到的治疗效果、现实防御、精神防御、创伤加成、暴击率-15%"
+    },
+    {
+        "id": 723,
+        "name": "躁动的心",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "暴击率+50%，溢出暴击率转化为暴击创伤；暴击后消失"
+    },
+    {
+        "id": 724,
+        "name": "夏日一梦",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到【属性削弱】【状态异常】【控制】影响；受创减免+20%，回合结束时激情+1"
+    },
+    {
+        "id": 725,
+        "name": "冬之友",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "现实防御、精神防御、受创减免+8%"
+    },
+    {
+        "id": 726,
+        "name": "治疗标记",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合开始时，回复自身15%最大生命"
+    },
+    {
+        "id": 727,
+        "name": "治疗喵",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合开始时，回复自身10%最大生命"
+    },
+    {
+        "id": 728,
+        "name": "石缝",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "现实防御、精神防御-10%(可以叠加）"
+    },
+    {
+        "id": 789,
+        "name": "风化",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成、受创减免-20%(可以叠加）"
+    },
+    {
+        "id": 790,
+        "name": "怒号",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "提升攻击、吸血率、治疗率"
+    },
+    {
+        "id": 791,
+        "name": "贪婪",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "提升攻击、暴击率、暴击创伤"
+    },
+    {
+        "id": 792,
+        "name": "兽群",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成+10%，吸血率+10%"
+    },
+    {
+        "id": 793,
+        "name": "林佑",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "抗暴率+15%，受创回复+15%"
+    },
+    {
+        "id": 794,
+        "name": "星映",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "暴击率+15%，暴击创伤+15%"
+    },
+    {
+        "id": 795,
+        "name": "岩封",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免+10%，暴击防御+15%"
+    },
+    {
+        "id": 796,
+        "name": "坚定",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "闪避非至终的仪式的精神创伤攻击"
+    },
+    {
+        "id": 797,
+        "name": "隐蔽",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "闪避非至终的仪式的现实创伤攻击"
+    },
+    {
+        "id": 798,
+        "name": "渴望",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "吸血率+10%（可以叠加）"
+    },
+    {
+        "id": 799,
+        "name": "滋养",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "治疗率+20%（可以叠加）"
+    },
+    {
+        "id": 800,
+        "name": "星芒",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击+5%（可以叠加）"
+    },
+    {
+        "id": 801,
+        "name": "磐石",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "现实防御、精神防御+10%（可以叠加）"
+    },
+    {
+        "id": 802,
+        "name": "灵智",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成、受创减免+5%（可以叠加）"
+    },
+    {
+        "id": 803,
+        "name": "聚沙",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "嘲讽，被攻击时获得【磐石】"
+    },
+    {
+        "id": 804,
+        "name": "祝福",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "仪式威力+20%（可以叠加）"
+    },
+    {
+        "id": 805,
+        "name": "诅咒",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "仪式威力-20%（可以叠加）"
+    },
+    {
+        "id": 806,
+        "name": "不可名状",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 807,
+        "name": "深层低语",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创回复+20%（可以叠加，且不可驱散）"
+    },
+    {
+        "id": 808,
+        "name": "深层释放",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "驱散敌方全体所有【属性提升】【状态增益】【反制】，并造成大量精神创伤"
+    },
+    {
+        "id": 809,
+        "name": "休息时间",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免+10%（不可驱散）"
+    },
+    {
+        "id": 810,
+        "name": "捉鬼时间",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成+10%，穿透率+10%（不可驱散）"
+    },
+    {
+        "id": 811,
+        "name": "祷言",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受到致命攻击时不会退场，并回复使用者攻击*100%生命（生效后消失，不可叠加）"
+    },
+    {
+        "id": 812,
+        "name": "蚀",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "现实防御-5%；可以叠加"
+    },
+    {
+        "id": 813,
+        "name": "刻印术式",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "赋予的状态持续回合+1"
+    },
+    {
+        "id": 814,
+        "name": "钻石子弹",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击后，使目标2回合内现实防御-30%(生效后减少1层）"
+    },
+    {
+        "id": 815,
+        "name": "一束星河",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": "使己方全体获得护盾"
+    },
+    {
+        "id": 816,
+        "name": "咒语强化Ⅱ",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合开始时，随机2张咒语阶次+1"
+    },
+    {
+        "id": 817,
+        "name": "湖林恩赐",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "叠加5层后，效果将发生变化"
+    },
+    {
+        "id": 818,
+        "name": "湖林的庇护",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到【属性削弱】【状态异常】【控制】影响，受到所有伤害固定为1（不可驱散）"
+    },
+    {
+        "id": 819,
+        "name": "湖林的斥责",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成-50%"
+    },
+    {
+        "id": 820,
+        "name": "躁动无界",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "闪避所有非至终的仪式的任意攻击"
+    },
+    {
+        "id": 821,
+        "name": "短路",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法行动（无视免疫，且不可净化）"
+    },
+    {
+        "id": 822,
+        "name": "锋芒初显",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击会使目标【麻痹】，持续3回合（不可驱散）"
+    },
+    {
+        "id": 823,
+        "name": "静默的激昂",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击会使目标【麻痹】,创伤加成+30%；无法释放至终的仪式（不可驱散）"
+    },
+    {
+        "id": 824,
+        "name": "烫伤",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "现实防御、精神防御、受创减免-5%（可以叠加，不可驱散）"
+    },
+    {
+        "id": 825,
+        "name": "手足无措",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "行动后激情-5（不可净化）"
+    },
+    {
+        "id": 826,
+        "name": "绝对现实防御",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受到现实创伤大幅减少"
+    },
+    {
+        "id": 827,
+        "name": "绝对精神防御",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受到精神创伤大幅减少"
+    },
+    {
+        "id": 828,
+        "name": "护盾·岩",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "抵挡伤害的庇护；存在时会强化自身的反击"
+    },
+    {
+        "id": 829,
+        "name": "护盾·星",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "抵挡伤害的庇护；存在时会强化自身的反击"
+    },
+    {
+        "id": 830,
+        "name": "护盾·木",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "抵挡伤害的庇护；存在时会强化自身的反击"
+    },
+    {
+        "id": 831,
+        "name": "护盾·兽",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "抵挡伤害的庇护；存在时会强化自身的反击"
+    },
+    {
+        "id": 832,
+        "name": "控制抗性",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "叠加4层时转为永久控制免疫"
+    },
+    {
+        "id": 833,
+        "name": "充能",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "累积3次时会释放强力炮击"
+    },
+    {
+        "id": 834,
+        "name": "控制抵抗",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到【控制】影响"
+    },
+    {
+        "id": 835,
+        "name": "斗志激昂",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "仪式威力+75%"
+    },
+    {
+        "id": 836,
+        "name": "屏息而待",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免+75%"
+    },
+    {
+        "id": 837,
+        "name": "受创回复",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合开始时，基于上回合受到的创伤恢复生命"
+    },
+    {
+        "id": 838,
+        "name": "士气高涨",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "仪式威力+75%"
+    },
+    {
+        "id": 839,
+        "name": "整装待发",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免+75%"
+    },
+    {
+        "id": 840,
+        "name": "护主本能",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "现实防御+5%(效果可叠加，上限5层，每层持续时间独立计算)"
+    },
+    {
+        "id": 841,
+        "name": "忠诚伙伴",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "现实防御+25%；不会受到激情削减效果的影响（不可驱散）"
+    },
+    {
+        "id": 842,
+        "name": "致盲",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "单体攻击时，创伤加成-30%"
+    },
+    {
+        "id": 843,
+        "name": "失准",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "群体攻击时，创伤加成-30%"
+    },
+    {
+        "id": 845,
+        "name": "入迷",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "对玛丽莲造成伤害降低10%（效果可叠加，每层时间独立计算）"
+    },
+    {
+        "id": 846,
+        "name": "隐现",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "被现实创伤攻击时，受创减免+50%"
+    },
+    {
+        "id": 848,
+        "name": "既定计划",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "仪式威力提升12%（最多叠加6层，且不可驱散）"
+    },
+    {
+        "id": 849,
+        "name": "巧手神偷",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "梅兰妮的下一次咒语获得强化（生效后减少1层）"
+    },
+    {
+        "id": 850,
+        "name": "远星的守望",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "对攻击者造成远旅攻击*100%的本源创伤(生效后减少1层）"
+    },
+    {
+        "id": 851,
+        "name": "恐惧",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合结束时，激情-1"
+    },
+    {
+        "id": 852,
+        "name": "远星的沉默",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法获得激情，行动后激情-1"
+    },
+    {
+        "id": 853,
+        "name": "免疫护盾",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "护盾存在时，不会受到【属性削弱】【状态异常】【控制】影响"
+    },
+    {
+        "id": 854,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 855,
+        "name": "群星的闪耀 ",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "己方全体【星】灵感角色，造成群体伤害时暴击率+12%（同调效果最多同时存在1个）"
+    },
+    {
+        "id": 856,
+        "name": "草木的滋养",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "己方全体【木】灵感角色，回合开始时回复攻击*20%的生命（同调效果最多同时存在1个）"
+    },
+    {
+        "id": 857,
+        "name": "长生之血",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "少量提升创伤加成和受创回复"
+    },
+    {
+        "id": 858,
+        "name": "永生之血",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成+25%，受创回复+25%；不会受到【属性削弱】影响（不可驱散）"
+    },
+    {
+        "id": 859,
+        "name": "炼金容器",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": ""
+    },
+    {
+        "id": 860,
+        "name": "仪式的灵感",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "使用至终的仪式后，激情+5"
+    },
+    {
+        "id": 861,
+        "name": "复仇傀儡",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成+30%，吸血率+30%，行动后失去15%当前生命（不可驱散）"
+    },
+    {
+        "id": 862,
+        "name": "献祭仪典",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "对敌方全体造成现实创伤"
+    },
+    {
+        "id": 863,
+        "name": "噪音缭绕",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法行动，受创减免+30%,回合开始时回复自身攻击*100%的生命"
+    },
+    {
+        "id": 864,
+        "name": "生生不息",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创回复+10%，吸血率+10%，永久持续"
+    },
+    {
+        "id": 865,
+        "name": "三倍用量！",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": ""
+    },
+    {
+        "id": 866,
+        "name": "浓缩精华！",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": ""
+    },
+    {
+        "id": 867,
+        "name": "兽",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": ""
+    },
+    {
+        "id": 868,
+        "name": "木",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": ""
+    },
+    {
+        "id": 869,
+        "name": "星",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": ""
+    },
+    {
+        "id": 870,
+        "name": "岩",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": ""
+    },
+    {
+        "id": 871,
+        "name": "灵",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": ""
+    },
+    {
+        "id": 872,
+        "name": "智",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": ""
+    },
+    {
+        "id": 876,
+        "name": "黑夜",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击+15%，受创减免+15%"
+    },
+    {
+        "id": 877,
+        "name": "白昼",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击-15%，受创减免-15%"
+    },
+    {
+        "id": 879,
+        "name": "长大",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击力提升6%"
+    },
+    {
+        "id": 880,
+        "name": "撕裂",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "接下来受到的2次伤害为1；受创减免-50%，持续一回合"
+    },
+    {
+        "id": 881,
+        "name": "应急保护",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "接下来2次受到的伤害固定为1"
+    },
+    {
+        "id": 882,
+        "name": "茸毛盔甲",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到【属性削弱】【状态异常】【控制】影响；创伤加成+50%（不可驱散）"
+    },
+    {
+        "id": 883,
+        "name": "圆浑躯体",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到【控制】影响；创伤加成+25%，受创减免+25%；行动点+1（不可驱散）"
+    },
+    {
+        "id": 884,
+        "name": "狡捷爪牙",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免+50%；行动点+2（不可驱散）"
+    },
+    {
+        "id": 885,
+        "name": "？？？",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合结束时，激情-1（不可驱散）"
+    },
+    {
+        "id": 886,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成+25%"
+    },
+    {
+        "id": 887,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "每处于1个【属性提升】【状态增益】效果，创伤加成+10%（不可驱散）"
+    },
+    {
+        "id": 888,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免+50%（不可驱散）"
+    },
+    {
+        "id": 889,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到【控制】影响（不可驱散）"
+    },
+    {
+        "id": 890,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "仪式威力提升50%（不可驱散）"
+    },
+    {
+        "id": 891,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "赋予状态时，持续时间+1回合（不可驱散）"
+    },
+    {
+        "id": 892,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合结束时，自身激情-1，其他友方激情+1（不可驱散）"
+    },
+    {
+        "id": 893,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "其他友方退场时，使敌方全体激情-5（不可驱散）"
+    },
+    {
+        "id": 894,
+        "name": "贪婪窥伺",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到【控制】影响；创伤加成+25%（不可驱散）"
+    },
+    {
+        "id": 895,
+        "name": "双耳警惕",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免+25%（不可驱散）"
+    },
+    {
+        "id": 896,
+        "name": "濒死挣扎",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "行动点+1（不可驱散）"
+    },
+    {
+        "id": 897,
+        "name": "复仇大傀儡",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成+50%，吸血率+30%，穿透率+30%，行动后失去15%当前生命（不可驱散）"
+    },
+    {
+        "id": 898,
+        "name": "能量获取",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受到攻击时，自身获得1点激情（不可驱散）"
+    },
+    {
+        "id": 899,
+        "name": "免疫控制",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到【控制】影响（不可驱散）"
+    },
+    {
+        "id": 900,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 901,
+        "name": "冥想",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成+15%，穿透率+15%（不可驱散，且可以叠加）"
+    },
+    {
+        "id": 902,
+        "name": "梦寐·燃灼",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合结束时，激情+1（不可驱散）"
+    },
+    {
+        "id": 903,
+        "name": "梦寐·新生",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "释放至终的仪式后，激情+1（不可驱散）"
+    },
+    {
+        "id": 904,
+        "name": "梦寐·盛怒",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "仪式威力提升75%（不可驱散）"
+    },
+    {
+        "id": 905,
+        "name": "梦寐·毁灭",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击+500%，回合结束时，激情+5（不可驱散）"
+    },
+    {
+        "id": 906,
+        "name": "坚韧",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免+5%（最多叠加10层）"
+    },
+    {
+        "id": 907,
+        "name": "强击",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成+4%（最多叠加10层）"
+    },
+    {
+        "id": 908,
+        "name": "大猫腐蚀",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免-5%"
+    },
+    {
+        "id": 909,
+        "name": "狂猫之血",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免+30%"
+    },
+    {
+        "id": 910,
+        "name": "混乱",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "叠加3层时，陷入【创伤加成降低I】状态2回合"
+    },
+    {
+        "id": 911,
+        "name": "迷失",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "叠加3层时，陷入【激情低迷】状态3回合"
+    },
+    {
+        "id": 912,
+        "name": "破坏",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "叠加3层时，陷入【破碎】状态2回合"
+    },
+    {
+        "id": 913,
+        "name": "月影",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免+15%，暴击防御+15%"
+    },
+    {
+        "id": 914,
+        "name": "陨星祝福",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合开始时，所有咒语阶次+1"
+    },
+    {
+        "id": 915,
+        "name": "激情低迷",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法获得激情"
+    },
+    {
+        "id": 916,
+        "name": "坚固I",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免+70%，被攻击后消失"
+    },
+    {
+        "id": 917,
+        "name": "创伤加成降低I",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成-40%"
+    },
+    {
+        "id": 918,
+        "name": "破碎",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免-40%"
+    },
+    {
+        "id": 919,
+        "name": "？？？",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "持续期间结束后，将吸取其5点激情（可净化）"
+    },
+    {
+        "id": 920,
+        "name": "？？？",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 921,
+        "name": "？？？",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 922,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 923,
+        "name": "？？？",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 924,
+        "name": "音律",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成增加2%，可叠加"
+    },
+    {
+        "id": 925,
+        "name": "僵化",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法行动(无视免疫,不可净化）"
+    },
+    {
+        "id": 926,
+        "name": "悲怆曲",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到【控制】影响，创伤加成+50%，吸血率+50%（不可驱散）"
+    },
+    {
+        "id": 927,
+        "name": "叠奏组曲",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "行动后若有敌方在场，则使敌方全体陷入【缄默】1回合（不可驱散）"
+    },
+    {
+        "id": 928,
+        "name": "祸兆·暴露",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受到普通咒语攻击时抗暴率降低50%，持续2回合（可以叠加，生效后移除）"
+    },
+    {
+        "id": 929,
+        "name": "仪式预兆·洞见",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "至终的仪式造成伤害提升30%，触发后消失"
+    },
+    {
+        "id": 930,
+        "name": "预兆·疗愈",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "使用普通咒语后，回复12%已损失生命，持续2回合（可以叠加，生效后移除）"
+    },
+    {
+        "id": 931,
+        "name": "仪式预兆·疗愈",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "至终的仪式额外回复自身30%最大生命，触发后消失"
+    },
+    {
+        "id": 932,
+        "name": "预兆·超脱",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "普通咒语的穿透率提升30%，持续2回合（可以叠加，生效后移除）"
+    },
+    {
+        "id": 933,
+        "name": "仪式预兆·超脱",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "至终的仪式的穿透率提升30%，触发后消失"
+    },
+    {
+        "id": 934,
+        "name": "祸兆·扼制",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "使用普通咒语后，受到使用者攻击*100%的本源创伤，持续2回合（可以叠加，生效后移除）"
+    },
+    {
+        "id": 935,
+        "name": "祸兆·苦痛",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "被普通咒语攻击，受到使用者最大生命*10%的本源创伤，持续2回合（可以叠加，生效后移除）"
+    },
+    {
+        "id": 936,
+        "name": "仪式祸兆·扼制",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "使用至终的仪式后，受到使用者攻击*150%的本源创伤，触发后消失"
+    },
+    {
+        "id": 937,
+        "name": "祸兆·疲乏",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "普通咒语造成伤害降低30%，持续2回合（可以叠加，生效后移除）"
+    },
+    {
+        "id": 938,
+        "name": "仪式祸兆·疲乏",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "至终的仪式造成伤害降低30%，触发后消失"
+    },
+    {
+        "id": 939,
+        "name": "祸兆·涣散",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "被普通咒语攻击后，激情-1，持续2回合（可以叠加，生效后移除）"
+    },
+    {
+        "id": 940,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 941,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 942,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 943,
+        "name": "梦境干扰",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成、受创减免-2%，受到的治疗效果-5%（不可净化，可以叠加）"
+    },
+    {
+        "id": 945,
+        "name": "麻痹反制",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受到攻击后，使对方获得1层【麻痹】"
+    },
+    {
+        "id": 946,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 947,
+        "name": "镣铐的新生",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法行动，被动技能失效，受到伤害降低15%，回合开始时回复5%最大生命"
+    },
+    {
+        "id": 948,
+        "name": "嬉闹不止",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受到致命伤害时，回复30%最大生命并失去当前所有激情（最多生效1次）"
+    },
+    {
+        "id": 949,
+        "name": "恶感",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "累计8层后，母体进行一次强力单体攻击"
+    },
+    {
+        "id": 950,
+        "name": "残念",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "累计8层后，母体进行一次强力群体攻击"
+    },
+    {
+        "id": 951,
+        "name": "动摇",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成、受创减免-50%"
+    },
+    {
+        "id": 952,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 953,
+        "name": "预兆",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": "特殊咒语触发的提升角色状态的效果"
+    },
+    {
+        "id": 954,
+        "name": "祸兆",
+        "color": 2,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": "特殊咒语触发的降低角色状态的效果"
+    },
+    {
+        "id": 955,
+        "name": "仪式预兆·护佑",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受到至终的仪式伤害降低30%，触发后消失"
+    },
+    {
+        "id": 956,
+        "name": "预兆·护佑",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受到普通咒语的伤害降低30%，持续2回合（可以叠加，生效后移除）"
+    },
+    {
+        "id": 957,
+        "name": "红色泡泡",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "吸血率+50%，触发后消失"
+    },
+    {
+        "id": 958,
+        "name": "绿色泡泡",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "被攻击后回复自身攻击*35%的生命，最多触发3次；持续1回合"
+    },
+    {
+        "id": 959,
+        "name": "蓝色泡泡",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "暴击率+50%"
+    },
+    {
+        "id": 960,
+        "name": "棕色泡泡",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "抵挡自身攻击*35%的伤害；持续1回合"
+    },
+    {
+        "id": 961,
+        "name": "仪式预兆",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": "至终的仪式触发提升角色状态的效果"
+    },
+    {
+        "id": 962,
+        "name": "仪式祸兆",
+        "color": 2,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": "至终的仪式触发降低角色状态的效果"
+    },
+    {
+        "id": 963,
+        "name": "奉献",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": ""
+    },
+    {
+        "id": 964,
+        "name": "高尚",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": ""
+    },
+    {
+        "id": 965,
+        "name": "崇高的痕迹",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": ""
+    },
+    {
+        "id": 966,
+        "name": "亢奋",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到【控制】影响，大幅提升暴击率、受创回复"
+    },
+    {
+        "id": 967,
+        "name": "梦寐·追忆",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "当有角色退场时，使己方全体进入【鼓舞】2回合"
+    },
+    {
+        "id": 968,
+        "name": "梦寐·守候",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "当有角色退场时，使自身进入【嘲讽】1回合"
+    },
+    {
+        "id": 969,
+        "name": "梦寐·丰饶",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "当有角色退场时，赋予自身2层【成长】"
+    },
+    {
+        "id": 970,
+        "name": "易折",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免-30%"
+    },
+    {
+        "id": 971,
+        "name": "磁力场屏障",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会陷入属性降低的状态（不可驱散）"
+    },
+    {
+        "id": 972,
+        "name": "抗干扰屏障",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到激情降低的影响（不可驱散）"
+    },
+    {
+        "id": 973,
+        "name": "超频运转",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成+30%，受创减免+30%，吸血率+30%"
+    },
+    {
+        "id": 974,
+        "name": "对决时刻",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "2层时，激情+1（不可驱散）"
+    },
+    {
+        "id": 975,
+        "name": "反击时刻",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "2层时，最右侧咒语阶次+1（不可驱散）"
+    },
+    {
+        "id": 976,
+        "name": "迸涌的恶感",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "进行一次强力单体攻击"
+    },
+    {
+        "id": 977,
+        "name": "坼裂的残念",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "进行一次强力群体攻击"
+    },
+    {
+        "id": 978,
+        "name": "意志坠落",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": ""
+    },
+    {
+        "id": 979,
+        "name": "思维崩塌",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": ""
+    },
+    {
+        "id": 980,
+        "name": "恶意",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免-5%，最多叠加5层"
+    },
+    {
+        "id": 981,
+        "name": "妄念",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成-5%，最多叠加5层"
+    },
+    {
+        "id": 982,
+        "name": "寒芒",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成+15%，穿透率+15%（可以叠加）"
+    },
+    {
+        "id": 983,
+        "name": "乘隙而入",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": ""
+    },
+    {
+        "id": 984,
+        "name": "发条鼠患",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": ""
+    },
+    {
+        "id": 985,
+        "name": "迅捷",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "移动咒语不消耗行动点、不获得激情"
+    },
+    {
+        "id": 986,
+        "name": "回音",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "本回合可无限使用此咒语"
+    },
+    {
+        "id": 987,
+        "name": "高效能",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合开始时，使自身【属性削弱】【状态异常】【控制】的回合、层数减1（不可驱散）"
+    },
+    {
+        "id": 988,
+        "name": "隐匿无迹",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "不会受到【属性削弱】【状态异常】【控制】影响，受到的伤害固定为1（不可驱散）"
+    },
+    {
+        "id": 989,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 990,
+        "name": "自我修复",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成-80%，受创减免+80%，无法使用至终的仪式；回合开始时回复15%最大生命"
+    },
+    {
+        "id": 991,
+        "name": "宕机保护",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法行动，受到伤害固定为1；回合开始时生命高于50%，则解除此状态"
+    },
+    {
+        "id": 992,
+        "name": "隐匿指令",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击-15%，创伤加成-15%；不会受到伤害"
+    },
+    {
+        "id": 993,
+        "name": "预备队",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合结束时召唤机器人补充战场，触发后消失"
+    },
+    {
+        "id": 994,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 995,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 996,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 997,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 998,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 999,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 1000,
+        "name": "激情庇护",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "免疫激情降低（不可驱散）"
+    },
+    {
+        "id": 1001,
+        "name": "咒怨-大猫",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "吸血率+30%，每回合额外使用1次【XX技能名】，此次攻击额外使目标获得1层【猫之诅咒】"
+    },
+    {
+        "id": 1002,
+        "name": "猫之诅咒",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "抗暴率-10%（可以叠加）"
+    },
+    {
+        "id": 1003,
+        "name": "属性提升",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": ""
+    },
+    {
+        "id": 1004,
+        "name": "属性削弱",
+        "color": 2,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": ""
+    },
+    {
+        "id": 1005,
+        "name": "状态增益",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": ""
+    },
+    {
+        "id": 1006,
+        "name": "状态异常",
+        "color": 2,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": ""
+    },
+    {
+        "id": 1007,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 1008,
+        "name": "XX技能名",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": "造成伤害，且赋予目标1层【脆弱】"
+    },
+    {
+        "id": 1009,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 1010,
+        "name": "嚎哭",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": "造成伤害，且使目标陷入【中毒】"
+    },
+    {
+        "id": 1011,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": "？？？"
+    },
+    {
+        "id": 1012,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": "？？？"
+    },
+    {
+        "id": 1013,
+        "name": "？？？",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 1014,
+        "name": "？？？",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "？？？"
+    },
+    {
+        "id": 1015,
+        "name": "思维壁垒",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免+50%，被攻击后消失"
+    },
+    {
+        "id": 1016,
+        "name": "思维短路",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "受创减免-50%（不可净化）"
+    },
+    {
+        "id": 1017,
+        "name": "错误论断",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "抗暴率-100%，受创减免-50%，创伤加成-30%（不可净化）"
+    },
+    {
+        "id": 1018,
+        "name": "和平主义",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "创伤加成-3%，受创减免+3%（可以叠加）"
+    },
+    {
+        "id": 1019,
+        "name": "正当立场",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "免疫所有伤害和负面状态（不可驱散）"
+    },
+    {
+        "id": 1020,
+        "name": "瘫痪",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法行动，行动点-1"
+    },
+    {
+        "id": 1022,
+        "name": "自我主义",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "无法行动，免疫所有伤害和负面状态"
+    },
+    {
+        "id": 1023,
+        "name": "腐化",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "回合结束受到自身5%最大生命的本源创伤"
+    },
+    {
+        "id": 1024,
+        "name": "麻醉弹",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击前驱散目标的【属性提升】【状态增益】【反制】，攻击后使目标陷入【眩晕】1回合（生效后减少1层）"
+    },
+    {
+        "id": 1025,
+        "name": "庄严的奉读",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "仪式威力+20%"
+    },
+    {
+        "id": 1026,
+        "name": "枯涩的篇章",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "抗暴率、暴击防御-2%，持续3回合（每层的持续时间独立计算）"
+    },
+    {
+        "id": 1027,
+        "name": "明昧",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "抗暴率-25%（效果可叠加，每层时间独立计算）"
+    },
+    {
+        "id": 1028,
+        "name": "激昂气势Ⅰ",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击+1%，创伤加成+1%（效果可以叠加）"
+    },
+    {
+        "id": 1029,
+        "name": "悲戚",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击-5%（效果可以叠加）"
+    },
+    {
+        "id": 1030,
+        "name": "激进",
+        "color": 1,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "攻击+5%（效果可以叠加）"
+    },
+    {
+        "id": 1031,
+        "name": "超·弱点感知",
+        "color": 2,
+        "isNoShow": 0,
+        "isNoShowCharacter": 0,
+        "isNoShow4ActiveSkill": 0,
+        "desc": "现实防御、暴击防御-30%（不可驱散）"
+    },
+    {
+        "id": 1032,
+        "name": "腐化之种",
+        "color": 1,
+        "isNoShow": 1,
+        "isNoShowCharacter": 1,
+        "isNoShow4ActiveSkill": 1,
+        "desc": ""
+    }
+]

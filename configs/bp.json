@@ -1,0 +1,12 @@
+[
+    {
+        "bpId": 1,
+        "chargeId1": 710001,
+        "chargeId2": 710002,
+        "chargeId1to2": 710003,
+        "payStatus2Bonus": "2#2#400|1#170004#1|10#20#5",
+        "name": "",
+        "payStatus2AddLevel": 10,
+        "avatar": "avatar1_1"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "id": 10115,
+        "invokeType": 0,
+        "param": 1,
+        "monster": 111101,
+        "completeWithGroup": "10115#0#1#111101",
+        "icon": "yd_img_hujisheng",
+        "isActivityVersion": "0",
+        "des": "推荐利用【斯奈德】与其他【兽】灵感角色进行克制"
+    },
+    {
+        "id": 10208,
+        "invokeType": 0,
+        "param": 1,
+        "monster": 120601,
+        "completeWithGroup": "10208#0#1#120601",
+        "icon": "yd_img_sanjiaoguai",
+        "isActivityVersion": "0",
+        "des": "控制敌方生命值接近但不低于【50%】，而后利用【爆发伤害击杀】（高阶咒语/至终的仪式）"
+    },
+    {
+        "id": 10213,
+        "invokeType": 0,
+        "param": 1,
+        "monster": 121103,
+        "completeWithGroup": "10213#0#1#121103",
+        "icon": "yd_img_wuwangwo",
+        "isActivityVersion": "0",
+        "des": "【清理拥趸者】，可减少勿忘我输出，削减勿忘我激情点"
+    },
+    {
+        "id": 10214,
+        "invokeType": 0,
+        "param": 1,
+        "monster": 121201,
+        "completeWithGroup": "10214#0#1#121201",
+        "icon": "yd_img_guanshangquan01|yd_img_guanshangquan02",
+        "isActivityVersion": "0|0",
+        "des": "敌方生命值与爆发伤害较高，推荐携带【治疗角色】续航作战|【融合咒语时激情额外+1】，敌方进入【反制状态】时，请利用该规则，快速积攒激情"
+    },
+    {
+        "id": 60101,
+        "invokeType": 0,
+        "param": 2,
+        "monster": 4030103,
+        "completeWithGroup": "60101#0#2#4030103",
+        "icon": "yd_img_tianeren",
+        "isActivityVersion": "0",
+        "des": "敌方每回合进行【自我强化】，5回合后将转换形态并释放至终的仪式，需【尽快完成击杀】"
+    },
+    {
+        "id": 70101,
+        "invokeType": 0,
+        "param": 2,
+        "monster": 7010104,
+        "completeWithGroup": "70101#0#2#7010104|70201#0#2#7020104|70301#0#2#7030104|70401#0#2#7040104",
+        "icon": "yd_img_yanshidongxi01|yd_img_yanshidongxi02",
+        "isActivityVersion": "0|0",
+        "des": "敌方受到攻击时将触发【反击】，请注意我方角色生命值|敌方在自身【护盾被击碎】时，将陷入削弱状态，请【集中攻击】！"
+    },
+    {
+        "id": 70201,
+        "invokeType": 0,
+        "param": 2,
+        "monster": 7020104,
+        "completeWithGroup": "70101#0#2#7010104|70201#0#2#7020104|70301#0#2#7030104|70401#0#2#7040104",
+        "icon": "yd_img_yanshidongxi01|yd_img_yanshidongxi02",
+        "isActivityVersion": "0|0",
+        "des": "敌方受到攻击时将触发【反击】，请注意我方角色生命值|敌方在自身【护盾被击碎】时，将陷入削弱状态，请【集中攻击】！"
+    },
+    {
+        "id": 70301,
+        "invokeType": 0,
+        "param": 2,
+        "monster": 7030104,
+        "completeWithGroup": "70101#0#2#7010104|70201#0#2#7020104|70301#0#2#7030104|70401#0#2#7040104",
+        "icon": "yd_img_yanshidongxi01|yd_img_yanshidongxi02",
+        "isActivityVersion": "0|0",
+        "des": "敌方受到攻击时将触发【反击】，请注意我方角色生命值|敌方在自身【护盾被击碎】时，将陷入削弱状态，请【集中攻击】！"
+    },
+    {
+        "id": 70401,
+        "invokeType": 0,
+        "param": 2,
+        "monster": 7040104,
+        "completeWithGroup": "70101#0#2#7010104|70201#0#2#7020104|70301#0#2#7030104|70401#0#2#7040104",
+        "icon": "yd_img_yanshidongxi01|yd_img_yanshidongxi02",
+        "isActivityVersion": "0|0",
+        "des": "敌方受到攻击时将触发【反击】，请注意我方角色生命值|敌方在自身【护盾被击碎】时，将陷入削弱状态，请【集中攻击】！"
+    },
+    {
+        "id": 10303,
+        "invokeType": 0,
+        "param": 1,
+        "monster": 130101,
+        "completeWithGroup": "10303#0#1#130101",
+        "icon": "yd_img_lajidai",
+        "isActivityVersion": "0",
+        "des": "敌方【精神防御极高】，现实防御较低，推荐利用【现实创伤】角色进行克制！"
+    },
+    {
+        "id": 10308,
+        "invokeType": 0,
+        "param": 1,
+        "monster": 130501,
+        "completeWithGroup": "10308#0#1#130501",
+        "icon": "yd_img_kongzhonglaixin01|yd_img_kongzhonglaixin02",
+        "isActivityVersion": "0|0",
+        "des": "敌方受到的群体伤害降低，推荐使用【单体伤害】角色进行输出|【攻击“凝眸的造物”】，可降低敌方激情点，阻止至终的仪式释放"
+    },
+    {
+        "id": 10315,
+        "invokeType": 0,
+        "param": 2,
+        "monster": 130902,
+        "completeWithGroup": "10315#0#2#130902",
+        "icon": "yd_img_guanshangquan01|yd_img_hongnujian",
+        "isActivityVersion": "0|0",
+        "des": "敌方生命值与爆发伤害较高，推荐携带【治疗角色】续航作战|优先【击败防御装置】，避免红弩箭获得现实/精神免疫护盾"
+    },
+    {
+        "id": 30305,
+        "invokeType": 0,
+        "param": 1,
+        "monster": 330504,
+        "completeWithGroup": "30305#0#1#330504",
+        "icon": "yd_img_kongzhonglaixin02",
+        "isActivityVersion": "0",
+        "des": "【攻击“凝眸的造物”】，可降低敌方激情点，阻止至终的仪式释放"
+    },
+    {
+        "id": 10410,
+        "invokeType": 0,
+        "param": 1,
+        "monster": 140501,
+        "completeWithGroup": "10410#0#1#140501",
+        "icon": "yd_img_zhanbuyaojing01|yd_img_zhanbuyaojing02",
+        "isActivityVersion": "0|0",
+        "des": "【妖精会复活】！请注意查看敌方详情，推荐使用克制攻击限制其复活能力|尽量【同时攻击】敌方，避免它们生命相差过大，从而获得增益"
+    },
+    {
+        "id": 10421,
+        "invokeType": 0,
+        "param": 2,
+        "monster": 141102,
+        "completeWithGroup": "10421#0#2#141102",
+        "icon": "yd_img_mengjingzhizhu01|yd_img_mengjingzhizhu02",
+        "isActivityVersion": "0|0",
+        "des": "优先进攻左手、右手，使该部位陷入【休眠】，可减轻生存压力|源流被击败后，将进入【休眠】，此时【击败】左手、右手、源流核心，可使其彻底死亡"
+    },
+    {
+        "id": 1110114,
+        "invokeType": 0,
+        "param": 1,
+        "monster": 911011102,
+        "completeWithGroup": "1110114#0#1#911011102",
+        "icon": "yd_img_pamiai|yd_img_jiqiren",
+        "isActivityVersion": "1|1",
+        "des": "机器人拥有较高的现实创伤减免，推荐上阵【精神创伤】角色|优先【击败机器人I型】，及时【击破护盾】，可以有效限制敌方召唤和输出节奏"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "活动",
+        "order": 1,
+        "bgIcon": "themesource_1",
+        "nameColor": "#ead59f",
+        "bgColor": "#ffffff"
+    },
+    {
+        "id": 2,
+        "name": "商城",
+        "order": 2,
+        "bgIcon": "themesource_2",
+        "nameColor": "#ff702b",
+        "bgColor": "#ffffff"
+    },
+    {
+        "id": 3,
+        "name": "额外",
+        "order": 3,
+        "bgIcon": "themesource_3",
+        "nameColor": "#7fc8ff",
+        "bgColor": "#5492c1"
+    }
+]

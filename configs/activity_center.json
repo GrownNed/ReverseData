@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "从无创造",
+        "reddotid": 1009,
+        "icon": "icon1"
+    },
+    {
+        "id": 2,
+        "name": "活动",
+        "reddotid": 1010,
+        "icon": "icon_2"
+    }
+]

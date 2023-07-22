@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "全部",
+        "subname": "All",
+        "includeitem": "",
+        "includecurrency": "1#2#3#10#11#21"
+    },
+    {
+        "id": 2,
+        "name": "素材",
+        "subname": "Materials",
+        "includeitem": "11#12#13#16#18#19#98",
+        "includecurrency": ""
+    },
+    {
+        "id": 3,
+        "name": "消耗品",
+        "subname": "Consumables",
+        "includeitem": "14#48#49#50",
+        "includecurrency": ""
+    }
+]

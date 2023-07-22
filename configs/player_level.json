@@ -1,0 +1,642 @@
+[
+    {
+        "level": 1,
+        "exp": 0,
+        "maxAutoRecoverPower": 92,
+        "addUpRecoverPower": 50,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 2,
+        "exp": 200,
+        "maxAutoRecoverPower": 93,
+        "addUpRecoverPower": 50,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 3,
+        "exp": 500,
+        "maxAutoRecoverPower": 94,
+        "addUpRecoverPower": 50,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 4,
+        "exp": 800,
+        "maxAutoRecoverPower": 95,
+        "addUpRecoverPower": 50,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 5,
+        "exp": 900,
+        "maxAutoRecoverPower": 96,
+        "addUpRecoverPower": 50,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 6,
+        "exp": 1020,
+        "maxAutoRecoverPower": 97,
+        "addUpRecoverPower": 50,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 7,
+        "exp": 1140,
+        "maxAutoRecoverPower": 98,
+        "addUpRecoverPower": 50,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 8,
+        "exp": 1260,
+        "maxAutoRecoverPower": 99,
+        "addUpRecoverPower": 50,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 9,
+        "exp": 1380,
+        "maxAutoRecoverPower": 100,
+        "addUpRecoverPower": 50,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 10,
+        "exp": 1500,
+        "maxAutoRecoverPower": 101,
+        "addUpRecoverPower": 60,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 11,
+        "exp": 1680,
+        "maxAutoRecoverPower": 102,
+        "addUpRecoverPower": 60,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 12,
+        "exp": 1860,
+        "maxAutoRecoverPower": 103,
+        "addUpRecoverPower": 60,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 13,
+        "exp": 2040,
+        "maxAutoRecoverPower": 104,
+        "addUpRecoverPower": 60,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 14,
+        "exp": 2220,
+        "maxAutoRecoverPower": 105,
+        "addUpRecoverPower": 60,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 15,
+        "exp": 2400,
+        "maxAutoRecoverPower": 106,
+        "addUpRecoverPower": 65,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 16,
+        "exp": 2580,
+        "maxAutoRecoverPower": 107,
+        "addUpRecoverPower": 65,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 17,
+        "exp": 2760,
+        "maxAutoRecoverPower": 108,
+        "addUpRecoverPower": 65,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 18,
+        "exp": 2940,
+        "maxAutoRecoverPower": 109,
+        "addUpRecoverPower": 65,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 19,
+        "exp": 3120,
+        "maxAutoRecoverPower": 110,
+        "addUpRecoverPower": 65,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 20,
+        "exp": 3300,
+        "maxAutoRecoverPower": 111,
+        "addUpRecoverPower": 70,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 21,
+        "exp": 3500,
+        "maxAutoRecoverPower": 111,
+        "addUpRecoverPower": 70,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 22,
+        "exp": 3700,
+        "maxAutoRecoverPower": 112,
+        "addUpRecoverPower": 70,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 23,
+        "exp": 3900,
+        "maxAutoRecoverPower": 112,
+        "addUpRecoverPower": 70,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 24,
+        "exp": 4100,
+        "maxAutoRecoverPower": 113,
+        "addUpRecoverPower": 70,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 25,
+        "exp": 4300,
+        "maxAutoRecoverPower": 113,
+        "addUpRecoverPower": 75,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 26,
+        "exp": 4500,
+        "maxAutoRecoverPower": 114,
+        "addUpRecoverPower": 75,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 27,
+        "exp": 4700,
+        "maxAutoRecoverPower": 114,
+        "addUpRecoverPower": 75,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 28,
+        "exp": 4900,
+        "maxAutoRecoverPower": 115,
+        "addUpRecoverPower": 75,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 29,
+        "exp": 5100,
+        "maxAutoRecoverPower": 115,
+        "addUpRecoverPower": 75,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 30,
+        "exp": 5300,
+        "maxAutoRecoverPower": 116,
+        "addUpRecoverPower": 80,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 31,
+        "exp": 5800,
+        "maxAutoRecoverPower": 116,
+        "addUpRecoverPower": 80,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 32,
+        "exp": 6300,
+        "maxAutoRecoverPower": 117,
+        "addUpRecoverPower": 80,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 33,
+        "exp": 6800,
+        "maxAutoRecoverPower": 117,
+        "addUpRecoverPower": 80,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 34,
+        "exp": 7300,
+        "maxAutoRecoverPower": 118,
+        "addUpRecoverPower": 80,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 35,
+        "exp": 7800,
+        "maxAutoRecoverPower": 118,
+        "addUpRecoverPower": 90,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 36,
+        "exp": 8300,
+        "maxAutoRecoverPower": 119,
+        "addUpRecoverPower": 90,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 37,
+        "exp": 8800,
+        "maxAutoRecoverPower": 119,
+        "addUpRecoverPower": 90,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 38,
+        "exp": 9300,
+        "maxAutoRecoverPower": 120,
+        "addUpRecoverPower": 90,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 39,
+        "exp": 9800,
+        "maxAutoRecoverPower": 120,
+        "addUpRecoverPower": 90,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 40,
+        "exp": 10300,
+        "maxAutoRecoverPower": 121,
+        "addUpRecoverPower": 100,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 41,
+        "exp": 11100,
+        "maxAutoRecoverPower": 121,
+        "addUpRecoverPower": 100,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 42,
+        "exp": 11900,
+        "maxAutoRecoverPower": 121,
+        "addUpRecoverPower": 100,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 43,
+        "exp": 12700,
+        "maxAutoRecoverPower": 122,
+        "addUpRecoverPower": 100,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 44,
+        "exp": 13500,
+        "maxAutoRecoverPower": 122,
+        "addUpRecoverPower": 100,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 45,
+        "exp": 14300,
+        "maxAutoRecoverPower": 122,
+        "addUpRecoverPower": 110,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 46,
+        "exp": 15100,
+        "maxAutoRecoverPower": 123,
+        "addUpRecoverPower": 110,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 47,
+        "exp": 15900,
+        "maxAutoRecoverPower": 123,
+        "addUpRecoverPower": 110,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 48,
+        "exp": 16700,
+        "maxAutoRecoverPower": 123,
+        "addUpRecoverPower": 110,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 49,
+        "exp": 17500,
+        "maxAutoRecoverPower": 124,
+        "addUpRecoverPower": 110,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 50,
+        "exp": 18300,
+        "maxAutoRecoverPower": 124,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 51,
+        "exp": 19300,
+        "maxAutoRecoverPower": 124,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 52,
+        "exp": 20300,
+        "maxAutoRecoverPower": 125,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 53,
+        "exp": 21300,
+        "maxAutoRecoverPower": 125,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 54,
+        "exp": 22300,
+        "maxAutoRecoverPower": 125,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 55,
+        "exp": 23300,
+        "maxAutoRecoverPower": 126,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 56,
+        "exp": 24300,
+        "maxAutoRecoverPower": 126,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 57,
+        "exp": 25300,
+        "maxAutoRecoverPower": 126,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 58,
+        "exp": 26300,
+        "maxAutoRecoverPower": 126,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 59,
+        "exp": 27300,
+        "maxAutoRecoverPower": 126,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 60,
+        "exp": 28300,
+        "maxAutoRecoverPower": 127,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 61,
+        "exp": 29500,
+        "maxAutoRecoverPower": 127,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 62,
+        "exp": 30700,
+        "maxAutoRecoverPower": 127,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 63,
+        "exp": 31900,
+        "maxAutoRecoverPower": 127,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 64,
+        "exp": 33100,
+        "maxAutoRecoverPower": 127,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 65,
+        "exp": 34300,
+        "maxAutoRecoverPower": 128,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 66,
+        "exp": 35500,
+        "maxAutoRecoverPower": 128,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 67,
+        "exp": 36700,
+        "maxAutoRecoverPower": 128,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 68,
+        "exp": 37900,
+        "maxAutoRecoverPower": 128,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 69,
+        "exp": 39100,
+        "maxAutoRecoverPower": 128,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 70,
+        "exp": 40300,
+        "maxAutoRecoverPower": 129,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 71,
+        "exp": 41800,
+        "maxAutoRecoverPower": 129,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 72,
+        "exp": 43300,
+        "maxAutoRecoverPower": 129,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 73,
+        "exp": 44800,
+        "maxAutoRecoverPower": 129,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 74,
+        "exp": 46300,
+        "maxAutoRecoverPower": 129,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 75,
+        "exp": 47800,
+        "maxAutoRecoverPower": 130,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 76,
+        "exp": 49300,
+        "maxAutoRecoverPower": 130,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 77,
+        "exp": 50800,
+        "maxAutoRecoverPower": 130,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 78,
+        "exp": 52300,
+        "maxAutoRecoverPower": 130,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 79,
+        "exp": 53800,
+        "maxAutoRecoverPower": 130,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    },
+    {
+        "level": 80,
+        "exp": 55300,
+        "maxAutoRecoverPower": 131,
+        "addUpRecoverPower": 120,
+        "addBuyRecoverPower": 100,
+        "bonus": 1000001
+    }
+]

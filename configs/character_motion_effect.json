@@ -1,0 +1,14 @@
+[
+    {
+        "heroResName": "305901_door_p",
+        "effectCompName": "DoorRoleEffect",
+        "motion": "",
+        "node": ""
+    },
+    {
+        "heroResName": "306402_wajueyishu",
+        "effectCompName": "CommonRoleEffect",
+        "motion": "b_paishou",
+        "node": "Drawables/bone/effect-Bone/roleeffect_paishou#Drawables/bone/effect-Bone/roleeffect_paopao"
+    }
+]

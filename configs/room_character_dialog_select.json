@@ -1,0 +1,537 @@
+[
+    {
+        "id": 1000101,
+        "dialogId": 10001,
+        "content": "冰淇淋"
+    },
+    {
+        "id": 1000102,
+        "dialogId": 10001,
+        "content": "子弹"
+    },
+    {
+        "id": 1000201,
+        "dialogId": 10002,
+        "content": "当它开花之时"
+    },
+    {
+        "id": 1000202,
+        "dialogId": 10002,
+        "content": "当它结果之时"
+    },
+    {
+        "id": 1000301,
+        "dialogId": 10003,
+        "content": "戏路比较重要"
+    },
+    {
+        "id": 1000302,
+        "dialogId": 10003,
+        "content": "戏路并不重要"
+    },
+    {
+        "id": 1000401,
+        "dialogId": 10004,
+        "content": "……"
+    },
+    {
+        "id": 1000402,
+        "dialogId": 10004,
+        "content": "你好。"
+    },
+    {
+        "id": 1000501,
+        "dialogId": 10005,
+        "content": "鹿角？"
+    },
+    {
+        "id": 1000502,
+        "dialogId": 10005,
+        "content": "草莓饼干？"
+    },
+    {
+        "id": 1000601,
+        "dialogId": 10006,
+        "content": "公牛？"
+    },
+    {
+        "id": 1000602,
+        "dialogId": 10006,
+        "content": "两败俱伤？"
+    },
+    {
+        "id": 1000701,
+        "dialogId": 10007,
+        "content": "曲奇"
+    },
+    {
+        "id": 1000702,
+        "dialogId": 10007,
+        "content": "糖霜"
+    },
+    {
+        "id": 1000801,
+        "dialogId": 10008,
+        "content": "灵魂？"
+    },
+    {
+        "id": 1000802,
+        "dialogId": 10008,
+        "content": "旋律？"
+    },
+    {
+        "id": 1000901,
+        "dialogId": 10009,
+        "content": "试着成为司辰怎么样？"
+    },
+    {
+        "id": 1000902,
+        "dialogId": 10009,
+        "content": "比如说……喜剧演员？"
+    },
+    {
+        "id": 1001001,
+        "dialogId": 10010,
+        "content": "我也不知道"
+    },
+    {
+        "id": 1001002,
+        "dialogId": 10010,
+        "content": "出于某些原因"
+    },
+    {
+        "id": 1001101,
+        "dialogId": 10011,
+        "content": "会"
+    },
+    {
+        "id": 1001102,
+        "dialogId": 10011,
+        "content": "不会"
+    },
+    {
+        "id": 1001201,
+        "dialogId": 10012,
+        "content": "你好，朋友"
+    },
+    {
+        "id": 1001202,
+        "dialogId": 10012,
+        "content": "啾啾"
+    },
+    {
+        "id": 1001301,
+        "dialogId": 10013,
+        "content": "更多电力？"
+    },
+    {
+        "id": 1001302,
+        "dialogId": 10013,
+        "content": "一场露天电影？"
+    },
+    {
+        "id": 1001401,
+        "dialogId": 10014,
+        "content": "比如考虑投资？"
+    },
+    {
+        "id": 1001402,
+        "dialogId": 10014,
+        "content": "散步是头等大事"
+    },
+    {
+        "id": 1001501,
+        "dialogId": 10015,
+        "content": "唱歌？"
+    },
+    {
+        "id": 1001502,
+        "dialogId": 10015,
+        "content": "没用那些新鲜玩意儿？"
+    },
+    {
+        "id": 1001601,
+        "dialogId": 10016,
+        "content": "一些小小的提示？"
+    },
+    {
+        "id": 1001602,
+        "dialogId": 10016,
+        "content": "加油，加油"
+    },
+    {
+        "id": 1001701,
+        "dialogId": 10017,
+        "content": "抓到你了"
+    },
+    {
+        "id": 1001702,
+        "dialogId": 10017,
+        "content": "很显眼"
+    },
+    {
+        "id": 1001801,
+        "dialogId": 10018,
+        "content": "岩石？"
+    },
+    {
+        "id": 1001802,
+        "dialogId": 10018,
+        "content": "轮廓很有趣"
+    },
+    {
+        "id": 1001901,
+        "dialogId": 10019,
+        "content": "孩子们？"
+    },
+    {
+        "id": 1001902,
+        "dialogId": 10019,
+        "content": "更响亮的礼炮"
+    },
+    {
+        "id": 1002001,
+        "dialogId": 10020,
+        "content": "更热闹？"
+    },
+    {
+        "id": 1002002,
+        "dialogId": 10020,
+        "content": "更美味？"
+    },
+    {
+        "id": 1002101,
+        "dialogId": 10021,
+        "content": "它们来自荒原？"
+    },
+    {
+        "id": 1002102,
+        "dialogId": 10021,
+        "content": "你要用来做什么？"
+    },
+    {
+        "id": 1002103,
+        "dialogId": 10021,
+        "content": "它们是怎么到你手里的？"
+    },
+    {
+        "id": 1002201,
+        "dialogId": 10022,
+        "content": "真划算"
+    },
+    {
+        "id": 1002202,
+        "dialogId": 10022,
+        "content": "不用了"
+    },
+    {
+        "id": 1002301,
+        "dialogId": 10023,
+        "content": "哪里相似？"
+    },
+    {
+        "id": 1002302,
+        "dialogId": 10023,
+        "content": "哪里不相似？"
+    },
+    {
+        "id": 1002401,
+        "dialogId": 10024,
+        "content": "如你所想？"
+    },
+    {
+        "id": 1002402,
+        "dialogId": 10024,
+        "content": "你会习惯的"
+    },
+    {
+        "id": 1002601,
+        "dialogId": 10026,
+        "content": "为了信仰"
+    },
+    {
+        "id": 1002602,
+        "dialogId": 10026,
+        "content": "为了放生硬币"
+    },
+    {
+        "id": 1002701,
+        "dialogId": 10027,
+        "content": "稍等"
+    },
+    {
+        "id": 1002702,
+        "dialogId": 10027,
+        "content": "一起回去"
+    },
+    {
+        "id": 1002703,
+        "dialogId": 10027,
+        "content": "路在另一边"
+    },
+    {
+        "id": 1003101,
+        "dialogId": 10031,
+        "content": "红弩箭"
+    },
+    {
+        "id": 1003102,
+        "dialogId": 10031,
+        "content": "斯普特尼克"
+    },
+    {
+        "id": 1003201,
+        "dialogId": 10032,
+        "content": "喜剧"
+    },
+    {
+        "id": 1003202,
+        "dialogId": 10032,
+        "content": "悲剧"
+    },
+    {
+        "id": 1003203,
+        "dialogId": 10032,
+        "content": "历史剧"
+    },
+    {
+        "id": 1003301,
+        "dialogId": 10033,
+        "content": "请休息吧"
+    },
+    {
+        "id": 1003302,
+        "dialogId": 10033,
+        "content": "密林深处"
+    },
+    {
+        "id": 1003501,
+        "dialogId": 10035,
+        "content": "破镜重圆？"
+    },
+    {
+        "id": 1003502,
+        "dialogId": 10035,
+        "content": "镜中景象？"
+    },
+    {
+        "id": 1003601,
+        "dialogId": 10036,
+        "content": "去往哪里？"
+    },
+    {
+        "id": 1003602,
+        "dialogId": 10036,
+        "content": "去做什么？"
+    },
+    {
+        "id": 1003701,
+        "dialogId": 10037,
+        "content": "《地球漫游指南》？"
+    },
+    {
+        "id": 1003702,
+        "dialogId": 10037,
+        "content": "“臭彩袜”？"
+    },
+    {
+        "id": 1003801,
+        "dialogId": 10038,
+        "content": "笑脸"
+    },
+    {
+        "id": 1003802,
+        "dialogId": 10038,
+        "content": "哭脸"
+    },
+    {
+        "id": 1003803,
+        "dialogId": 10038,
+        "content": "全都属于我"
+    },
+    {
+        "id": 1003804,
+        "dialogId": 10038,
+        "content": "都不属于我"
+    },
+    {
+        "id": 1003901,
+        "dialogId": 10039,
+        "content": "歌舞片"
+    },
+    {
+        "id": 1003902,
+        "dialogId": 10039,
+        "content": "公路片"
+    },
+    {
+        "id": 1003903,
+        "dialogId": 10039,
+        "content": "你想拍什么？"
+    },
+    {
+        "id": 1004001,
+        "dialogId": 10040,
+        "content": "工作很多吗？"
+    },
+    {
+        "id": 1004002,
+        "dialogId": 10040,
+        "content": "欢迎来到箱中博物馆"
+    },
+    {
+        "id": 1004003,
+        "dialogId": 10040,
+        "content": "“新的墓碑”？"
+    },
+    {
+        "id": 1004101,
+        "dialogId": 10041,
+        "content": "我没看到"
+    },
+    {
+        "id": 1004102,
+        "dialogId": 10041,
+        "content": "“好大的”？"
+    },
+    {
+        "id": 1004103,
+        "dialogId": 10041,
+        "content": "没有月亮"
+    },
+    {
+        "id": 1004301,
+        "dialogId": 10043,
+        "content": "事实如此"
+    },
+    {
+        "id": 1004302,
+        "dialogId": 10043,
+        "content": "我不确定"
+    },
+    {
+        "id": 1004401,
+        "dialogId": 10044,
+        "content": "寒冷？"
+    },
+    {
+        "id": 1004402,
+        "dialogId": 10044,
+        "content": "是什么样的？"
+    },
+    {
+        "id": 1004501,
+        "dialogId": 10045,
+        "content": "比芝加哥还大？"
+    },
+    {
+        "id": 1004502,
+        "dialogId": 10045,
+        "content": "你需要一匹小马"
+    },
+    {
+        "id": 1004601,
+        "dialogId": 10046,
+        "content": "为什么？"
+    },
+    {
+        "id": 1004602,
+        "dialogId": 10046,
+        "content": "那么应该……？"
+    },
+    {
+        "id": 1004701,
+        "dialogId": 10047,
+        "content": "“秘密”？"
+    },
+    {
+        "id": 1004702,
+        "dialogId": 10047,
+        "content": "然后？"
+    },
+    {
+        "id": 1004703,
+        "dialogId": 10047,
+        "content": "你的油漆……"
+    },
+    {
+        "id": 1004801,
+        "dialogId": 10048,
+        "content": "字面意思"
+    },
+    {
+        "id": 1004802,
+        "dialogId": 10048,
+        "content": "决斗的意思"
+    },
+    {
+        "id": 1004901,
+        "dialogId": 10049,
+        "content": "猜她赢下牌局"
+    },
+    {
+        "id": 1004902,
+        "dialogId": 10049,
+        "content": "猜她赢下赌局"
+    },
+    {
+        "id": 1005001,
+        "dialogId": 10050,
+        "content": "让它留下"
+    },
+    {
+        "id": 1005002,
+        "dialogId": 10050,
+        "content": "请它回家"
+    },
+    {
+        "id": 1005101,
+        "dialogId": 10051,
+        "content": "的确如此"
+    },
+    {
+        "id": 1005102,
+        "dialogId": 10051,
+        "content": "并非如此"
+    },
+    {
+        "id": 1005301,
+        "dialogId": 10053,
+        "content": "是的，我想"
+    },
+    {
+        "id": 1005302,
+        "dialogId": 10053,
+        "content": "不完全是"
+    },
+    {
+        "id": 1005401,
+        "dialogId": 10054,
+        "content": "这并不会发生，大概"
+    },
+    {
+        "id": 1005402,
+        "dialogId": 10054,
+        "content": "比如说……你？"
+    },
+    {
+        "id": 1005501,
+        "dialogId": 10055,
+        "content": "你想要一起吗？"
+    },
+    {
+        "id": 1005502,
+        "dialogId": 10055,
+        "content": "抱歉，也许下次？"
+    },
+    {
+        "id": 1005601,
+        "dialogId": 10056,
+        "content": "泡泡机？"
+    },
+    {
+        "id": 1005602,
+        "dialogId": 10056,
+        "content": "为什么不是一柄剑？"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "card1": "kapai_001",
+        "attribute": "attribute_1",
+        "card2": "jnk_gj1",
+        "cardname_en": "Attack",
+        "cardname": "创伤",
+        "carddescription1": "",
+        "carddescription2": "造成创伤的基本神秘术"
+    },
+    {
+        "id": 2,
+        "card1": "kapai_002",
+        "attribute": "attribute_4",
+        "card2": "jnk_gj4",
+        "cardname_en": "Buff",
+        "cardname": "增益",
+        "carddescription1": "",
+        "carddescription2": "增强目标状态的神秘术"
+    },
+    {
+        "id": 3,
+        "card1": "kapai_003",
+        "attribute": "attribute_5",
+        "card2": "jnk_gj5",
+        "cardname_en": "Counter",
+        "cardname": "反制",
+        "carddescription1": "",
+        "carddescription2": "反制敌人攻击的神秘术"
+    },
+    {
+        "id": 4,
+        "card1": "kapai_004",
+        "attribute": "attribute_3",
+        "card2": "jnk_gj3",
+        "cardname_en": "Debuff",
+        "cardname": "减益",
+        "carddescription1": "",
+        "carddescription2": "直接或间接削弱目标能力的神秘术"
+    },
+    {
+        "id": 5,
+        "card1": "kapai_005",
+        "attribute": "attribute_6",
+        "card2": "jnk_gj6",
+        "cardname_en": "Health",
+        "cardname": "治疗",
+        "carddescription1": "",
+        "carddescription2": "恢复目标生命的神秘术"
+    },
+    {
+        "id": 6,
+        "card1": "dzkapai_002",
+        "attribute": "",
+        "card2": "kp_04",
+        "cardname_en": "Ultimate",
+        "cardname": "至终仪式",
+        "carddescription1": "",
+        "carddescription2": "具有各种强大威力或效果的专属神秘术"
+    }
+]

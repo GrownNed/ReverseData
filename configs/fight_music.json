@@ -1,0 +1,626 @@
+[
+    {
+        "id": 10213,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 4,
+        "param": 0,
+        "switch": "Fightboos_First"
+    },
+    {
+        "id": 10213,
+        "battleId": 0,
+        "monster": 121103,
+        "invokeType": 1,
+        "param": 30080141,
+        "switch": "FightBoos_Second"
+    },
+    {
+        "id": 10213,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 10214,
+        "battleId": 0,
+        "monster": 121201,
+        "invokeType": 5,
+        "param": 0,
+        "switch": "Fightboos_First"
+    },
+    {
+        "id": 10214,
+        "battleId": 0,
+        "monster": 121201,
+        "invokeType": 3,
+        "param": 50,
+        "switch": "FightBoos_Second"
+    },
+    {
+        "id": 10214,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 20211,
+        "battleId": 0,
+        "monster": 221104,
+        "invokeType": 5,
+        "param": 0,
+        "switch": "Fightboos_First"
+    },
+    {
+        "id": 20211,
+        "battleId": 0,
+        "monster": 221104,
+        "invokeType": 1,
+        "param": 30080143,
+        "switch": "FightBoos_Second"
+    },
+    {
+        "id": 20211,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 20212,
+        "battleId": 0,
+        "monster": 221201,
+        "invokeType": 5,
+        "param": 0,
+        "switch": "Fightboos_First"
+    },
+    {
+        "id": 20212,
+        "battleId": 0,
+        "monster": 221201,
+        "invokeType": 3,
+        "param": 50,
+        "switch": "FightBoos_Second"
+    },
+    {
+        "id": 20212,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 10303,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 4,
+        "param": 0,
+        "switch": "Fightboos_First"
+    },
+    {
+        "id": 10303,
+        "battleId": 0,
+        "monster": 130101,
+        "invokeType": 3,
+        "param": 50,
+        "switch": "Fightboos_Second"
+    },
+    {
+        "id": 20301,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 4,
+        "param": 0,
+        "switch": "Fightboos_First"
+    },
+    {
+        "id": 20301,
+        "battleId": 0,
+        "monster": 230101,
+        "invokeType": 3,
+        "param": 50,
+        "switch": "Fightboos_Second"
+    },
+    {
+        "id": 10315,
+        "battleId": 0,
+        "monster": 130901,
+        "invokeType": 5,
+        "param": 0,
+        "switch": "Fightboos_First"
+    },
+    {
+        "id": 10315,
+        "battleId": 0,
+        "monster": 130902,
+        "invokeType": 5,
+        "param": 0,
+        "switch": "Fightboos_Second"
+    },
+    {
+        "id": 10315,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 20309,
+        "battleId": 0,
+        "monster": 230901,
+        "invokeType": 5,
+        "param": 0,
+        "switch": "Fightboos_First"
+    },
+    {
+        "id": 20309,
+        "battleId": 0,
+        "monster": 230902,
+        "invokeType": 5,
+        "param": 0,
+        "switch": "Fightboos_Second"
+    },
+    {
+        "id": 20309,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 10421,
+        "battleId": 0,
+        "monster": 141101,
+        "invokeType": 7,
+        "param": 0,
+        "switch": "Fightboos_First"
+    },
+    {
+        "id": 10421,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 20411,
+        "battleId": 0,
+        "monster": 241101,
+        "invokeType": 7,
+        "param": 0,
+        "switch": "Fightboos_First"
+    },
+    {
+        "id": 20411,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 10420,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 20410,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1110114,
+        "battleId": 0,
+        "monster": 911011102,
+        "invokeType": 5,
+        "param": 0,
+        "switch": "Fightboos_First"
+    },
+    {
+        "id": 1110114,
+        "battleId": 0,
+        "monster": 911011102,
+        "invokeType": 3,
+        "param": 50,
+        "switch": "Fightboos_Second"
+    },
+    {
+        "id": 1110114,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1130104,
+        "battleId": 0,
+        "monster": 911081102,
+        "invokeType": 5,
+        "param": 0,
+        "switch": "Fightboos_First"
+    },
+    {
+        "id": 1130104,
+        "battleId": 0,
+        "monster": 911081102,
+        "invokeType": 3,
+        "param": 50,
+        "switch": "Fightboos_Second"
+    },
+    {
+        "id": 1130104,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1140104,
+        "battleId": 0,
+        "monster": 911091102,
+        "invokeType": 5,
+        "param": 0,
+        "switch": "Fightboos_First"
+    },
+    {
+        "id": 1140104,
+        "battleId": 0,
+        "monster": 911091102,
+        "invokeType": 3,
+        "param": 50,
+        "switch": "Fightboos_Second"
+    },
+    {
+        "id": 1140104,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1120114,
+        "battleId": 0,
+        "monster": 911021102,
+        "invokeType": 5,
+        "param": 0,
+        "switch": "Fightboos_First"
+    },
+    {
+        "id": 1120114,
+        "battleId": 0,
+        "monster": 911021102,
+        "invokeType": 3,
+        "param": 50,
+        "switch": "Fightboos_Second"
+    },
+    {
+        "id": 1120114,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1110101,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1110102,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1110104,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1110105,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1110107,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1110108,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1110109,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1110111,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1110112,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1110113,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1120101,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1120102,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1120104,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1120105,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1120107,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1120108,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1120109,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1120111,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1120112,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1120113,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1130101,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1130102,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1130103,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1140101,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1140102,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1140103,
+        "battleId": 0,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1150101,
+        "battleId": 9110401,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1150101,
+        "battleId": 9110402,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1150101,
+        "battleId": 9110403,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1150101,
+        "battleId": 9110404,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1150101,
+        "battleId": 9110405,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1150101,
+        "battleId": 9110406,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1150101,
+        "battleId": 9110407,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1150101,
+        "battleId": 9110408,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1150101,
+        "battleId": 9110409,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1150101,
+        "battleId": 9110410,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    },
+    {
+        "id": 1150101,
+        "battleId": 9110411,
+        "monster": 911041101,
+        "invokeType": 5,
+        "param": 0,
+        "switch": "Fightboos_First"
+    },
+    {
+        "id": 1150101,
+        "battleId": 9110411,
+        "monster": 0,
+        "invokeType": 6,
+        "param": 0,
+        "switch": "Victory"
+    }
+]

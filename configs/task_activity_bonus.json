@@ -1,0 +1,282 @@
+[
+    {
+        "type": 1,
+        "id": 1,
+        "desc": "日常奖励1",
+        "needActivity": 2,
+        "bonus": "2#3#500",
+        "hideInVerifing": false
+    },
+    {
+        "type": 1,
+        "id": 2,
+        "desc": "日常奖励2",
+        "needActivity": 2,
+        "bonus": "2#5#500|2#3#800",
+        "hideInVerifing": false
+    },
+    {
+        "type": 1,
+        "id": 3,
+        "desc": "日常奖励3",
+        "needActivity": 3,
+        "bonus": "2#2#30|2#5#1000",
+        "hideInVerifing": false
+    },
+    {
+        "type": 1,
+        "id": 4,
+        "desc": "日常奖励4",
+        "needActivity": 3,
+        "bonus": "2#5#1000|2#3#1000",
+        "hideInVerifing": false
+    },
+    {
+        "type": 1,
+        "id": 5,
+        "desc": "日常奖励5",
+        "needActivity": 3,
+        "bonus": "9#1003#1|2#23#20",
+        "hideInVerifing": false
+    },
+    {
+        "type": 1,
+        "id": 6,
+        "desc": "日常奖励6",
+        "needActivity": 3,
+        "bonus": "2#2#60",
+        "hideInVerifing": false
+    },
+    {
+        "type": 2,
+        "id": 1,
+        "desc": "周常奖励1",
+        "needActivity": 3,
+        "bonus": "2#3#4000",
+        "hideInVerifing": false
+    },
+    {
+        "type": 2,
+        "id": 2,
+        "desc": "周常奖励2",
+        "needActivity": 3,
+        "bonus": "2#3#5000|2#5#2000",
+        "hideInVerifing": false
+    },
+    {
+        "type": 2,
+        "id": 3,
+        "desc": "周常奖励3",
+        "needActivity": 3,
+        "bonus": "2#5#5000|2#23#50",
+        "hideInVerifing": false
+    },
+    {
+        "type": 2,
+        "id": 4,
+        "desc": "周常奖励4",
+        "needActivity": 3,
+        "bonus": "9#1003#1|2#5#5000",
+        "hideInVerifing": false
+    },
+    {
+        "type": 2,
+        "id": 5,
+        "desc": "周常奖励5",
+        "needActivity": 3,
+        "bonus": "9#1004#1|2#23#50",
+        "hideInVerifing": false
+    },
+    {
+        "type": 2,
+        "id": 6,
+        "desc": "周常奖励6",
+        "needActivity": 4,
+        "bonus": "2#10#60|10#10#1",
+        "hideInVerifing": false
+    },
+    {
+        "type": 2,
+        "id": 7,
+        "desc": "周常奖励7",
+        "needActivity": 4,
+        "bonus": "2#2#100|10#10#1",
+        "hideInVerifing": false
+    },
+    {
+        "type": 2,
+        "id": 8,
+        "desc": "周常奖励8",
+        "needActivity": 4,
+        "bonus": "2#10#90|10#11#1",
+        "hideInVerifing": false
+    },
+    {
+        "type": 4,
+        "id": 1,
+        "desc": "幕前·一",
+        "needActivity": 5,
+        "bonus": "2#2#100|2#3#3000|1#110302#2|1#110402#2|1#110502#2",
+        "hideInVerifing": false
+    },
+    {
+        "type": 4,
+        "id": 2,
+        "desc": "幕前·二",
+        "needActivity": 5,
+        "bonus": "1#140001#1|2#3#6000|1#110102#2|1#110202#2|1#111001#2",
+        "hideInVerifing": false
+    },
+    {
+        "type": 4,
+        "id": 3,
+        "desc": "幕前·三",
+        "needActivity": 6,
+        "bonus": "9#1404#1|1#140001#1|1#120011#5|9#1003#2|2#5#6000|2#3#10000",
+        "hideInVerifing": false
+    },
+    {
+        "type": 4,
+        "id": 4,
+        "desc": "幕前·四",
+        "needActivity": 7,
+        "bonus": "1#140001#1|1#180001#5|1#120011#3|9#1003#2|2#3#8000|2#5#5000",
+        "hideInVerifing": false
+    },
+    {
+        "type": 4,
+        "id": 5,
+        "desc": "幕前·五",
+        "needActivity": 8,
+        "bonus": "9#4104#1|1#140001#1|1#180001#5|1#491003#3|9#1003#3|2#3#8000|2#5#5000",
+        "hideInVerifing": false
+    },
+    {
+        "type": 4,
+        "id": 6,
+        "desc": "幕前·六",
+        "needActivity": 11,
+        "bonus": "5#302303#1|1#140001#1|1#110303#2|1#110503#2|1#110403#2|9#1003#10",
+        "hideInVerifing": true
+    },
+    {
+        "type": 4,
+        "id": 7,
+        "desc": "幕前·七",
+        "needActivity": 9,
+        "bonus": "1#140001#1|1#111002#1|1#110103#1|1#110203#1|2#3#10000|2#5#10000",
+        "hideInVerifing": true
+    },
+    {
+        "type": 4,
+        "id": 8,
+        "desc": "幕前·八",
+        "needActivity": 9,
+        "bonus": "1#140001#1|1#481007#3|1#481006#3|1#180001#5|2#3#10000|2#5#10000",
+        "hideInVerifing": true
+    },
+    {
+        "type": 4,
+        "id": 9,
+        "desc": "幕前·九",
+        "needActivity": 12,
+        "bonus": "1#140001#3|1#180002#5|2#3#20000|2#5#20000",
+        "hideInVerifing": true
+    },
+    {
+        "type": 11,
+        "id": 1,
+        "desc": "雷米特杯·一",
+        "needActivity": 5,
+        "bonus": "2#111#1200",
+        "hideInVerifing": false
+    },
+    {
+        "type": 11,
+        "id": 2,
+        "desc": "雷米特杯·二",
+        "needActivity": 5,
+        "bonus": "2#111#1200",
+        "hideInVerifing": false
+    },
+    {
+        "type": 11,
+        "id": 3,
+        "desc": "雷米特杯·三",
+        "needActivity": 5,
+        "bonus": "2#111#1200",
+        "hideInVerifing": false
+    },
+    {
+        "type": 11,
+        "id": 4,
+        "desc": "雷米特杯·四",
+        "needActivity": 5,
+        "bonus": "2#111#1200",
+        "hideInVerifing": false
+    },
+    {
+        "type": 11,
+        "id": 5,
+        "desc": "雷米特杯·五",
+        "needActivity": 5,
+        "bonus": "2#111#1200",
+        "hideInVerifing": false
+    },
+    {
+        "type": 11,
+        "id": 6,
+        "desc": "雷米特杯·六",
+        "needActivity": 5,
+        "bonus": "2#111#1200",
+        "hideInVerifing": false
+    },
+    {
+        "type": 11,
+        "id": 7,
+        "desc": "雷米特杯·七",
+        "needActivity": 5,
+        "bonus": "2#111#1200",
+        "hideInVerifing": false
+    },
+    {
+        "type": 11,
+        "id": 8,
+        "desc": "雷米特杯·八",
+        "needActivity": 6,
+        "bonus": "2#111#1200",
+        "hideInVerifing": false
+    },
+    {
+        "type": 11,
+        "id": 9,
+        "desc": "雷米特杯·九",
+        "needActivity": 6,
+        "bonus": "2#111#1200",
+        "hideInVerifing": false
+    },
+    {
+        "type": 11,
+        "id": 10,
+        "desc": "雷米特杯·十",
+        "needActivity": 6,
+        "bonus": "2#111#1200",
+        "hideInVerifing": false
+    },
+    {
+        "type": 11,
+        "id": 11,
+        "desc": "雷米特杯·十一",
+        "needActivity": 6,
+        "bonus": "2#111#1200",
+        "hideInVerifing": false
+    },
+    {
+        "type": 11,
+        "id": 12,
+        "desc": "雷米特杯·十二",
+        "needActivity": 6,
+        "bonus": "2#111#1200",
+        "hideInVerifing": false
+    }
+]

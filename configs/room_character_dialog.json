@@ -1,0 +1,3122 @@
+[
+    {
+        "dialogId": 10001,
+        "stepId": 1,
+        "content": "问题。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10001,
+        "stepId": 2,
+        "content": "一打冰淇淋和一匣子弹，究竟谁更有价值？",
+        "relateContent": "",
+        "selectIds": "1000101#3|1000102#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10001,
+        "stepId": 3,
+        "content": "蠢货，显然是子弹更有价值。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10001,
+        "stepId": 4,
+        "content": "当你有了子弹，冰淇淋就会源源不断地送上门来。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10001,
+        "stepId": 5,
+        "content": "蠢货，显然是冰淇淋更有价值。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10001,
+        "stepId": 6,
+        "content": "子弹这玩意儿又不能吃……哈，毫无价值。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10002,
+        "stepId": 1,
+        "content": "一颗苹果，究竟是什么时候能够被称之为苹果的呢？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10002,
+        "stepId": 2,
+        "content": "就像是一杯醇厚的威士忌，究竟是发酵到何种程度，才能被定义为威士忌。",
+        "relateContent": "",
+        "selectIds": "1000201#3|1000202#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10002,
+        "stepId": 3,
+        "content": "有趣的答案。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10002,
+        "stepId": 4,
+        "content": "换句话说，对您而言，事物的存在即是自始而定的吗？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10002,
+        "stepId": 5,
+        "content": "常规的答案。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10002,
+        "stepId": 6,
+        "content": "但或许，这个过程是一个更加趋近于极限的过程……就像是，微积分。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10003,
+        "stepId": 1,
+        "content": "龙套演员与舞厅光球——究竟哪一个收入更高呢？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10003,
+        "stepId": 2,
+        "content": "你看，我可以在相关纪录片中扮演自——我是说，扮演某些大气层外物。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10003,
+        "stepId": 3,
+        "content": "",
+        "relateContent": "你的戏路似乎听上去并不是很宽敞。",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10003,
+        "stepId": 4,
+        "content": "我并不清楚这一行，您是怎么看待这件事情的呢？",
+        "relateContent": "",
+        "selectIds": "1000301#5|1000302#7",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10003,
+        "stepId": 5,
+        "content": "",
+        "relateContent": "很显然，复合型的演员会更受欢迎。",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10003,
+        "stepId": 6,
+        "content": "",
+        "relateContent": "如果能够出演主角的话，那就更好了。",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10003,
+        "stepId": 7,
+        "content": "戏路是否宽敞无关紧要，重要的是能否成为主角。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10003,
+        "stepId": 8,
+        "content": "我认同您的看法。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10004,
+        "stepId": 1,
+        "content": "……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10004,
+        "stepId": 2,
+        "content": "（她朝着你，轻轻的点头示意。）",
+        "relateContent": "",
+        "selectIds": "1000401#3|1000402#4",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10004,
+        "stepId": 3,
+        "content": "（她向你露出了笑容，来到了你的身旁，未发一言。）",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10004,
+        "stepId": 4,
+        "content": "（她微笑着朝你做出了嘘声的手势。）",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10004,
+        "stepId": 5,
+        "content": "（聆听风声时的心跳，要比言语来的更有力量。）",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10005,
+        "stepId": 1,
+        "content": "哦？嗨！你来得正好，我的魔药马上就要制作完成了。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10005,
+        "stepId": 2,
+        "content": "只是、只是它还缺少一味药材！",
+        "relateContent": "",
+        "selectIds": "1000501#3|1000502#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10005,
+        "stepId": 3,
+        "content": "鹿角？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10005,
+        "stepId": 4,
+        "content": "噢……我从来没有听过的神秘学素材。维尔汀小姐，你真是太博学了!",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10005,
+        "stepId": 5,
+        "content": "草莓饼干？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10005,
+        "stepId": 6,
+        "content": "太对了！我们都需要一块草莓饼干，维尔汀小姐！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10006,
+        "stepId": 1,
+        "content": "您听说过《夺牛记》吗，一部凯尔特神话史诗。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10006,
+        "stepId": 2,
+        "content": "两个国家为了争夺一头公牛，展开了一场两败俱伤的战争。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10006,
+        "stepId": 3,
+        "content": "在我幼时，母亲会用凯尔特语为我讲述这段故事。",
+        "relateContent": "",
+        "selectIds": "1000601#4|1000602#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10006,
+        "stepId": 4,
+        "content": "也许，战争的起因无关紧要。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10006,
+        "stepId": 5,
+        "content": "最终留下的是满目疮痍。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10007,
+        "stepId": 1,
+        "content": "泉水小姐……她的罐子里面藏着什么呢？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10007,
+        "stepId": 2,
+        "content": "是曲奇……还是糖霜？",
+        "relateContent": "",
+        "selectIds": "1000701#3|1000702#4",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10007,
+        "stepId": 3,
+        "content": "",
+        "relateContent": "大错特错！没人会在吃曲奇的时候沾泉水！",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10007,
+        "stepId": 4,
+        "content": "",
+        "relateContent": "喂！你在想什么？！这可不能喝！",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10008,
+        "stepId": 1,
+        "content": "嘿，维尔汀。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10008,
+        "stepId": 2,
+        "content": "你认为摇滚最重要的是什么？",
+        "relateContent": "",
+        "selectIds": "1000801#3|1000802#4",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10008,
+        "stepId": 3,
+        "content": "灵魂？哈，它当然很重要，但还有更加重要的东西！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10008,
+        "stepId": 4,
+        "content": "嘿嘿，答案是，摇滚本身。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10009,
+        "stepId": 1,
+        "content": "某人或许应该换个职业了——噢，请不要误会，某人并不是对身为骑士这件事情有所不满。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10009,
+        "stepId": 2,
+        "content": "只是各位的职业都颇具特色，不乏某人不曾见闻的职业。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10009,
+        "stepId": 3,
+        "content": "而某人对此很感兴趣，想要进行一些新的尝试。",
+        "relateContent": "",
+        "selectIds": "1000901#4|1000902#6",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10009,
+        "stepId": 4,
+        "content": "某人很愿意为您减轻负担。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10009,
+        "stepId": 5,
+        "content": "但很遗憾，能够承担起这份责任的，仅有您一人而已。某人不过是追随着您的一介骑士罢了。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10009,
+        "stepId": 6,
+        "content": "这是个听上去很不错的职业，某人相信自己能够胜任这份工作。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10009,
+        "stepId": 7,
+        "content": "不仅如此，它还蕴含着某种代表了骑士末路的寓意。实在是在合适不过了。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10010,
+        "stepId": 1,
+        "content": "司辰……司辰——请别在意，我只是在思考这个称呼的含义而已。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10010,
+        "stepId": 2,
+        "content": "我似乎还没有询问过您，您究竟是为何选择成为了司辰。",
+        "relateContent": "",
+        "selectIds": "1001001#3|1001002#4",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10010,
+        "stepId": 3,
+        "content": "是的，有很多时候，我们也不知道自己为何而动。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10010,
+        "stepId": 4,
+        "content": "每个人都有着这种原因，想必您也不曾例外，不是吗？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10011,
+        "stepId": 1,
+        "content": "哟，维尔汀。我有个问题想要问问你。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10011,
+        "stepId": 2,
+        "content": "你会想起过去吗？你知道的。",
+        "relateContent": "",
+        "selectIds": "1001101#3|1001102#4",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10011,
+        "stepId": 3,
+        "content": "这是个好习惯，它至少不会让你忘记某些东西。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10011,
+        "stepId": 4,
+        "content": "没错。让它就这样消失吧。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10012,
+        "stepId": 1,
+        "content": "爱宠……在等，鸟儿……朋友。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10012,
+        "stepId": 2,
+        "content": "朋友，靠近。爱宠，高兴……噜噜噜噜……",
+        "relateContent": "",
+        "selectIds": "1001201#3|1001202#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10012,
+        "stepId": 3,
+        "content": "你……好。啾啾……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10012,
+        "stepId": 4,
+        "content": "会飞的，朋友。也……好。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10012,
+        "stepId": 5,
+        "content": "啾啾……鸟儿，说话……爱宠……也会。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10012,
+        "stepId": 6,
+        "content": "喳喳……喳喳……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10013,
+        "stepId": 1,
+        "content": "泥土，植被，静静流淌的溪水——以及屏幕的亮光！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10013,
+        "stepId": 2,
+        "content": "这些显示屏的质量真是优秀！但是，我得说……它们实在是太、太、太耗电了！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10013,
+        "stepId": 3,
+        "content": "如果电量用尽，我该如何在荒原上探听秘密？我需要——",
+        "relateContent": "",
+        "selectIds": "1001301#4|1001302#6",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10013,
+        "stepId": 4,
+        "content": "你考虑过在这儿铺设电缆，多设置几块电子屏幕吗？隔一段路就……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10013,
+        "stepId": 5,
+        "content": "好吧，别看着我。我知道保护环境的重要性。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10013,
+        "stepId": 6,
+        "content": "好主意！秘密总会在最放松的时刻溜出嘴巴！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10013,
+        "stepId": 7,
+        "content": "比起四处探寻，或许我也得主动创造机会……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10014,
+        "stepId": 1,
+        "content": "滚开，滚一边儿去！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10014,
+        "stepId": 2,
+        "content": "自个儿找点随便什么事做，少来烦我。",
+        "relateContent": "",
+        "selectIds": "1001401#3|1001402#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10014,
+        "stepId": 3,
+        "content": "哦——哦！我正闲着呢，咱们可以慢慢商量！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10014,
+        "stepId": 4,
+        "content": "好几个实验项目只缺那么点资金就能推进，马上就能……你准备付多少？别犹豫了！这可是天大的好处，你该感谢我的慷慨。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10014,
+        "stepId": 5,
+        "content": "离我的实验场远点就行。等等……把脚拿开，游手好闲的蠢货！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10014,
+        "stepId": 6,
+        "content": "……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10014,
+        "stepId": 7,
+        "content": "很好，准备和你的“头等大事”说再见吧。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10015,
+        "stepId": 1,
+        "content": "怎么样，植物们茁壮生长着，对吧？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10015,
+        "stepId": 2,
+        "content": "毕竟有人早起浇水，定期驱虫和松土……还得时不时为它们唱几首歌。",
+        "relateContent": "",
+        "selectIds": "1001501#3|1001502#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10015,
+        "stepId": 3,
+        "content": "“使作物心情愉悦，将有利于收获”，院长把他的种植秘方教给了所有孩子。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10015,
+        "stepId": 4,
+        "content": "如果你童年时也总在清晨伴着吵闹……不，嘹亮的歌声醒来，一定也会牢牢记住这段旋律。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10015,
+        "stepId": 5,
+        "content": "在这件事上，我更倾向于亲力亲为～",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10015,
+        "stepId": 6,
+        "content": "放心吧，我的种植经验相当充足！在以前，福利院后门的土壤又干又硬……远比眼前这片难伺候得多。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10016,
+        "stepId": 1,
+        "content": "……！抱歉，司辰，我没能及时注意到您的脚步声。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10016,
+        "stepId": 2,
+        "content": "大家对待这场捉迷藏都很认真。我也在努力地寻找他们……",
+        "relateContent": "",
+        "selectIds": "1001601#3|1001602#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10016,
+        "stepId": 3,
+        "content": "不，谢谢您。我已经猜测了一些可能的藏身处，比如树干背后和岩洞中……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10016,
+        "stepId": 4,
+        "content": "就像……您在学校逃课时，我找到您的那些地方。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10016,
+        "stepId": 5,
+        "content": "感谢您的鼓励……！我会努力找到所有人，谁都不会落下。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10016,
+        "stepId": 6,
+        "content": "大家的步子都放得很轻。如果不仔细辨认，通常难以注意到那些细微的声响。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10016,
+        "stepId": 7,
+        "content": "司辰应该很擅长这样的游戏……这和您过去躲避教员的方式一样。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10016,
+        "stepId": 8,
+        "content": "啊，我是想说……如果您之后有闲暇……我很期待您能与我一同参与……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10017,
+        "stepId": 1,
+        "content": "小声点……别踩到叶子和树枝！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10017,
+        "stepId": 2,
+        "content": "伟大的玛蒂尔达可不想因为这种原因在捉迷藏中失败！",
+        "relateContent": "",
+        "selectIds": "1001701#3|1001702#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10017,
+        "stepId": 3,
+        "content": "怎么可能？！我没听见十四行诗靠近的声音……是你在找大家？你先被她抓住了吗？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10017,
+        "stepId": 4,
+        "content": "占卜结果明明说，躲在高大的树木之后就不会被发现……玛蒂尔达的占卜绝不可能出错！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10017,
+        "stepId": 5,
+        "content": "当……当然！被大家瞩目是我……是第一名应得的待遇！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10017,
+        "stepId": 6,
+        "content": "就算这样，玛蒂尔达也会好好地躲在树干背后，成为最后一个被找到的……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10018,
+        "stepId": 1,
+        "content": "如果你感到好奇，我正在观察岸边的岩石。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10018,
+        "stepId": 2,
+        "content": "如果你想加入……请注意保持距离。",
+        "relateContent": "",
+        "selectIds": "1001801#3|1001802#6",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10018,
+        "stepId": 3,
+        "content": "是我们眼前的这堆东西。通常来说，它们坚硬而稳定，极少变改。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10018,
+        "stepId": 4,
+        "content": "但如果没有人来收拾整理，它们往往只是随意地堆在一旁，散漫且毫无规律。好在我已经将它们从泥土掘出，规划了更为规整合理的布局——在我的脑海中。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10018,
+        "stepId": 5,
+        "content": "好了，问题解答完毕。现在我需要专注。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10018,
+        "stepId": 6,
+        "content": "有趣？它们被水流冲蚀，表面满是孔洞与不规则的棱角，既无规律，也无秩序。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10018,
+        "stepId": 7,
+        "content": "不过有这两点就够了。足够让神秘学家们望着这些石头抛洒过剩的想象力，白白浪费整个下午。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10019,
+        "stepId": 1,
+        "content": "嗝。嗝、嗝。孩子们还没有围过来吗？这么多草坪都已经准备好了……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10019,
+        "stepId": 2,
+        "content": "我必须不停地呼吸，呼气——吸气——派对的礼炮声会唤醒所有人！",
+        "relateContent": "",
+        "selectIds": "1001901#3|1001902#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10019,
+        "stepId": 3,
+        "content": "罐子和斗篷，还有绿衣裳，他们会从地上过来。曾经有许多孩子们从泥土里来，高高地伸着手，每五根手指可以领到一个气球——",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10019,
+        "stepId": 4,
+        "content": "但如果手拉着手，二十根指头有十根缠绕在一起，拿不下别的……那就是三个气球！或者，我会多奖励他们一个，因为友谊……你知道吗？派对需要友谊。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10019,
+        "stepId": 5,
+        "content": "更响也更多！但是嘭——嘭——全被扎破了。你能帮我拿着这些气球吗？别松手，别把它们放走。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10019,
+        "stepId": 6,
+        "content": "我会砍掉所有树枝，然后……嗝、嗝。屏住呼吸——你可以宣布派对开始！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10020,
+        "stepId": 1,
+        "content": "我来探望你啦，就像我们说好的～",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10020,
+        "stepId": 2,
+        "content": "你的仙境，和我的，有很大～的不同。",
+        "relateContent": "",
+        "selectIds": "1002001#3|1002002#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10020,
+        "stepId": 3,
+        "content": "兔子先生、小熊和每天都在微笑的猫咪，他们都是我熟悉的朋友。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10020,
+        "stepId": 4,
+        "content": "在这儿，有苹果先生和泉水小姐，还有数不完的新朋友，为茶会带来音乐与气球～",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10020,
+        "stepId": 5,
+        "content": "嗯嗯，虽然小溪里的糖浆一点儿都不甜，也没有被咬出缺口的巧克力长桌。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10020,
+        "stepId": 6,
+        "content": "但箭头小姐会和我分享新鲜的水果～茶会的座椅，也总是满满的～",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10021,
+        "stepId": 1,
+        "content": "好孩子，来得正巧。帮我把这几只不安分的海蛞蝓装进罐子里～",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10021,
+        "stepId": 2,
+        "content": "当心别被它们蛰了手，除非你对轮椅心驰神往。",
+        "relateContent": "",
+        "selectIds": "1002101#3|1002102#4|1002103#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10021,
+        "stepId": 3,
+        "content": "“自然从不吝啬”——靠海吃海的商人所须知的基本知识，我的小学徒。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10021,
+        "stepId": 4,
+        "content": "做旧封存，摆上货架，出手阔绰的客人自会发现它们的价值～",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10021,
+        "stepId": 5,
+        "content": "向它们招招手，再给几块太妃糖——噢，你不会真想听我唠唠叨叨地解释吧？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10021,
+        "stepId": 6,
+        "content": "我可比你更珍惜时间，孩子。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10022,
+        "stepId": 1,
+        "content": "哇？！维sir，好大个后花园，都够开大排档咯。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10022,
+        "stepId": 2,
+        "content": "不过呢，这里郁郁沉沉，阴云密布……孤魂野鬼、牛鬼蛇神嘞，最钟意这种地方……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10022,
+        "stepId": 3,
+        "content": "正好！我有一套驱邪避鬼的门符，维sir嘛，老友价啦！！只要八百八十八利齿子儿～",
+        "relateContent": "",
+        "selectIds": "1002201#4|1002202#7",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10022,
+        "stepId": 4,
+        "content": "不愧是维sir～你可以把门符贴在后花园的立柱或者门扉，什——么地方都可以～",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10022,
+        "stepId": 5,
+        "content": "但是呢……这个门符只包驱小鬼噢！大鬼呢，就要另外收费啦！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10022,
+        "stepId": 6,
+        "content": "至于收费内容呢，等我再同你详细介绍下……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10022,
+        "stepId": 7,
+        "content": "诶！维sir，别走那么急啦，你听我讲完……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10022,
+        "stepId": 8,
+        "content": "现在呢，我们事务所还有“捉一送一”活动，委托捉鬼就送一套门符，好划算噶！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10022,
+        "stepId": 9,
+        "content": "喂，维sir！维——sir！还，还有其他折扣啊，可以再谈噶！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10023,
+        "stepId": 1,
+        "content": "母牛舔舐手心时所感受到的愉悦，与收获喝彩时的心情无异……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10023,
+        "stepId": 2,
+        "content": "唔……我想说的是，愉悦并没有高下之分。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10023,
+        "stepId": 3,
+        "content": "对我而言，殿厅的幕前、农舍的牛棚——这两个地方大同小异。",
+        "relateContent": "",
+        "selectIds": "1002301#4|1002302#6",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10023,
+        "stepId": 4,
+        "content": "它们的归宿都是取悦普罗大众。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10023,
+        "stepId": 5,
+        "content": "挤出笑脸，或者——挤出牛奶。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10023,
+        "stepId": 6,
+        "content": "在牛棚里，我得小心牛蹄子踢断我的腿……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10023,
+        "stepId": 7,
+        "content": "而在幕前，我就得小心克伦威尔砍掉我的头……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10024,
+        "stepId": 1,
+        "content": "旷野的风——没有纱布和酚类消毒剂的味道。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10024,
+        "stepId": 2,
+        "content": "扑落的枯叶，口衔新枝的小鸟，潺潺的河流……一切都生机盎然。",
+        "relateContent": "",
+        "selectIds": "1002401#3|1002402#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10024,
+        "stepId": 3,
+        "content": "我还记得书页里的那片落叶。它如此精致……我从未想象过它可以构成这样美丽的树海。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10024,
+        "stepId": 4,
+        "content": "我是说……这一切都比想象中的美丽了太多。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10024,
+        "stepId": 5,
+        "content": "我不知道……但医院的老人们都说习以为常并不是一件好事。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10024,
+        "stepId": 6,
+        "content": "他们说：“这会让你逐渐忘记真正重要的事物……”",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10025,
+        "stepId": 1,
+        "content": "我们正在找和我们一样，一双、一对的好朋友～",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10025,
+        "stepId": 2,
+        "content": "鞋子、袖口、门扇……但是，没有一个朋友会说话。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10025,
+        "stepId": 3,
+        "content": "哪里，还有像丽莎&路易斯一样的好朋友呢？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10025,
+        "stepId": 4,
+        "content": "我们抓住小动物，放到河边。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10025,
+        "stepId": 5,
+        "content": "它在叫，河流里的它也在叫～",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10025,
+        "stepId": 6,
+        "content": "真高兴，它们是跟丽莎&路易斯一样的好朋友。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10026,
+        "stepId": 1,
+        "content": "有一些祈愿者，他们满怀憧憬地向池中抛出硬币——",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10026,
+        "stepId": 2,
+        "content": "最后却一句话也不说，就走得远远的……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10026,
+        "stepId": 3,
+        "content": "他们……到底为什么要这样做？公德心又没法从乱丢的硬币里来！",
+        "relateContent": "",
+        "selectIds": "1002601#4|1002602#6",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10026,
+        "stepId": 4,
+        "content": "可没有任何东西会回应他们！嘿，别看我……我才不会呢！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10026,
+        "stepId": 5,
+        "content": "如果他们能帮我清理掉池边滑溜溜的苔藓，我……或许会考虑考虑。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10026,
+        "stepId": 6,
+        "content": "天呐！我，我不知道这些小东西还有生命！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10026,
+        "stepId": 7,
+        "content": "……你不会在骗我吧？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10027,
+        "stepId": 1,
+        "content": "你，你也在？！我还以为……只有我一个人留了下来……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10027,
+        "stepId": 2,
+        "content": "床单上的泥巴？是的，我刚刚摔了一跤，哈……哈。我该把上面的孔洞挖大一点……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10027,
+        "stepId": 3,
+        "content": "……现在鞋子里尽是草籽，还有身上刺挠的叶子——",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10027,
+        "stepId": 4,
+        "content": "不，不，请不要过来！我会清理掉的……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10027,
+        "stepId": 5,
+        "content": "我，我先回去了，再见！",
+        "relateContent": "",
+        "selectIds": "1002701#6|1002702#10",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10027,
+        "stepId": 6,
+        "content": "抱歉，我还要赶着……对，回去缝补床单上的破洞！呃，不是那两个，是……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10027,
+        "stepId": 7,
+        "content": "再，再见！",
+        "relateContent": "",
+        "selectIds": "1002703#8",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10027,
+        "stepId": 8,
+        "content": "噢，噢！它们长得真是一模一样，泥土和树，还有一些草……哈哈。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10027,
+        "stepId": 9,
+        "content": "我这就走——",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10027,
+        "stepId": 10,
+        "content": "好吧……你要走在前面，还是后面？或，或者侧面……都可以！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10027,
+        "stepId": 11,
+        "content": "当然，我是说……你一定知道回去的路该往哪走吧……？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10028,
+        "stepId": 1,
+        "content": "他们说真正的童子军都需要踏上一次白浪岛……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10028,
+        "stepId": 2,
+        "content": "就算我登过除它以外的所有岛屿，我也……不能成为一名“真正的童子军”吗？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10028,
+        "stepId": 3,
+        "content": "可我的绳结仍然坚固，我所点燃的篝火……并不会因此更快熄灭。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10028,
+        "stepId": 4,
+        "content": "我的父亲曾经说，爬山或登岛本身，从不意味着任何事……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10029,
+        "stepId": 1,
+        "content": "哼哼，希望这里的河流够宽敞，最好能掀起比屋子还高的巨浪……！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10029,
+        "stepId": 2,
+        "content": "我那艘雄伟的长船，可没法在风平浪静的溪流里行驶。嗯……就像——",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10029,
+        "stepId": 3,
+        "content": "就像不能把浴缸的鸭子玩具塞进水杯里一样。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10029,
+        "stepId": 4,
+        "content": "当然……它也不能够太过凶猛，我可不能让它把我的小船掀个底朝天——呃，我是说长船。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10029,
+        "stepId": 5,
+        "content": "不过这里……应该有救生圈吧？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10029,
+        "stepId": 6,
+        "content": "不，我才用不着——作为领主，我只是要对那些旱鸭子船员负责～",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10030,
+        "stepId": 1,
+        "content": "“无人驾驶船涌现，舵手恐迎史上最大下岗潮……”",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10030,
+        "stepId": 2,
+        "content": "“衔着利齿子儿的鸟与日俱增，鸟笼或成为神秘学界通货膨胀的罪魁祸首。”",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10030,
+        "stepId": 3,
+        "content": "“犹如真菌般增殖的土地，有望打破纽约地产寡头的市场垄断。”",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10030,
+        "stepId": 4,
+        "content": "森林公园的失业、金融海啸……如果把这个匪夷所思的自然箱庭向大众揭示——",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10030,
+        "stepId": 5,
+        "content": "无疑会刷新电视台的收视率记录……！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10031,
+        "stepId": 1,
+        "content": "维尔汀小姐，我正要去海拔最高的地方。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10031,
+        "stepId": 2,
+        "content": "到了那儿……我就能俯拍整片荒原了。但……我飘浮的高度有限，您知道谁可以做我的向导么？",
+        "relateContent": "",
+        "selectIds": "1003101#3|1003102#6",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10031,
+        "stepId": 3,
+        "content": "航拍？这应该……行得通。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10031,
+        "stepId": 4,
+        "content": "红弩箭小姐经验丰富，同样是瞄准地面，这一次……不用导弹，改用镜头。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10031,
+        "stepId": 5,
+        "content": "嗯……我是说，她的空中悬停技术很优秀，我很方便就能取景抓拍。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10031,
+        "stepId": 6,
+        "content": "是啊，谁能比斯普特尼克小姐飞得更高呢？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10031,
+        "stepId": 7,
+        "content": "她或许愿意协助我按下快门——当然……如果我能为她提供报酬的话。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10031,
+        "stepId": 8,
+        "content": "又一个……“斯普特尼克时刻”！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10031,
+        "stepId": 9,
+        "content": "啊，请别误会。我明白，竞赛宣战并非她的本意，她名字的本意是——“旅行者”。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10032,
+        "stepId": 1,
+        "content": "咱在城中演过不少戏。最近，咱在思考一个问题。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10032,
+        "stepId": 2,
+        "content": "喜剧或是悲剧，哪一个对爱情的诠释更准确呢？",
+        "relateContent": "",
+        "selectIds": "1003201#3|1003202#4|1003203#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10032,
+        "stepId": 3,
+        "content": "“强烈的爱呵，它会使畜生变成人类，也会使人类变成畜生。”",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10032,
+        "stepId": 4,
+        "content": "“爱情里面要是搀杂了和它本身无关的算计，那就不是真的爱情。”",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10032,
+        "stepId": 5,
+        "content": "噢噢，是咱疏漏了。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10032,
+        "stepId": 6,
+        "content": "“可是我呢，天生我一副畸形陋相，不适于调情弄爱，也无从对着含情的明镜去讨取宠幸。”",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10033,
+        "stepId": 1,
+        "content": "很平静。血和大坏狼……腥臭味，都没有。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10033,
+        "stepId": 2,
+        "content": "我该……去哪里巡逻呢？",
+        "relateContent": "",
+        "selectIds": "1003301#3|1003302#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10033,
+        "stepId": 3,
+        "content": "要到天亮……我才睡得着。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10033,
+        "stepId": 4,
+        "content": "我只是……不太习惯。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10033,
+        "stepId": 5,
+        "content": "放心交给我吧。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10033,
+        "stepId": 6,
+        "content": "无论……那里有什么。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10034,
+        "stepId": 1,
+        "content": "旷远、缥缈，新生的土地孕育着无限的可能。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10034,
+        "stepId": 2,
+        "content": "一切都是崭新的、新鲜的，值得被抒写，理应被播报——",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10034,
+        "stepId": 3,
+        "content": "紧急插播一条社会快讯。近日，据不休荒原的目击者称：有一着绀色衣帽的身影常出没于树影或灌木深处，窥察他人的言行。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10034,
+        "stepId": 4,
+        "content": "不休荒原的游览者们无需惊慌。请留意周边环境，保护个人隐私安全。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10035,
+        "stepId": 1,
+        "content": "你脚下的孤屿就像是一块块碎片，它们连结、绵延，形成了一整块荒原。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10035,
+        "stepId": 2,
+        "content": "这不禁让我联想起自己的遭遇。",
+        "relateContent": "",
+        "selectIds": "1003501#3|1003502#6",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10035,
+        "stepId": 3,
+        "content": "感谢你的善心，那也是许多友人的期许，但是……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10035,
+        "stepId": 4,
+        "content": "悄悄告诉你，镜面破碎的那一天于我而言宛若新生。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10035,
+        "stepId": 5,
+        "content": "我猜，这一片片孤屿也有着与我相同的想法。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10035,
+        "stepId": 6,
+        "content": "啊，你说得对！就像是镜中的世界。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10035,
+        "stepId": 7,
+        "content": "毕竟，荒原的一切都可能变化，却同时不留痕迹。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10035,
+        "stepId": 8,
+        "content": "有一次，我看到了荒原未来的模样——那儿有很多华丽的新鲜玩意儿。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10036,
+        "stepId": 1,
+        "content": "496E7374616E74 617274",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10036,
+        "stepId": 2,
+        "content": "546F706F6C6F676963616C 737472756374757265",
+        "relateContent": "",
+        "selectIds": "1003601#3|1003602#4",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10036,
+        "stepId": 3,
+        "content": "446F776E 6E6F74 736F757468",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10036,
+        "stepId": 4,
+        "content": "4A6967736177 70757A7A6C65",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10037,
+        "stepId": 1,
+        "content": "哦……所以说……这片土地也是地球的一部分？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10037,
+        "stepId": 2,
+        "content": "好的……长肢人的储物舱内……包含着可延展的多维空间……！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10037,
+        "stepId": 3,
+        "content": "很好，我完全地——原原本本地——记下了！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10037,
+        "stepId": 4,
+        "content": "等这本《地球漫游指南》甩到那帮航测局的臭彩袜身上，下一批被裁的指定就是他们了。",
+        "relateContent": "",
+        "selectIds": "1003701#5|1003702#7",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10037,
+        "stepId": 5,
+        "content": "没错，我的这本著作在未来会代替《地球百科全书》成为地球学研究的经典。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10037,
+        "stepId": 6,
+        "content": "等着吧，我会在封面上印上这句话——“惊慌吧！”",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10037,
+        "stepId": 7,
+        "content": "噢，不用在意。那只是一个寻常的脏话。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 1,
+        "content": "慢些走，老爷！您刚才落下了一副面具。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 2,
+        "content": "笑脸与哭脸，哪一副才属于您呢？",
+        "relateContent": "",
+        "selectIds": "1003801#3|1003802#8|1003803#13|1003804#15",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 3,
+        "content": "狂妄地笑吧，老爷，戴上这副刺客的面具。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 4,
+        "content": "幽默是绝佳的天赋，将可怕的消息包裹成一个笑话。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 5,
+        "content": "当国王身亡的消息传遍大街小巷，每个人都会乐开怀。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 6,
+        "content": "人们都听说啦，刺客带着他精心准备的笑话俯身在国王的耳畔。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 7,
+        "content": "王冠与下巴同时落地。死亡和笑声都轻飘飘的，就像是两个屁。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 8,
+        "content": "尽情地哭吧，老爷，戴上这副智者的面具。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 9,
+        "content": "悲伤是上天的恩赐，把丁点的琐事都带进坟墓里。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 10,
+        "content": "泪水自然是止不住的，它只会流到干涸为止。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 11,
+        "content": "人们都听说啦，智者带着他洞见的预言倒在了异乡的河畔。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 12,
+        "content": "尸骸化作了两条轻舟。帆与桨都沉甸甸的，就像是两根骨头。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 13,
+        "content": "老爷，您也与我同样富有？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 14,
+        "content": "撒起谎来脸不红心不跳。不得不说，您是位天生的演员！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 15,
+        "content": "情绪可不会主动找上门，老爷。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10038,
+        "stepId": 16,
+        "content": "笑容与泪水从未消失，它们只是从一副面具转移到了另一幅面具上。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10039,
+        "stepId": 1,
+        "content": "哇……这里比加州最大的外景场还要气派！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10039,
+        "stepId": 2,
+        "content": "真适合来场大制作！比如……拍一部电影？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10039,
+        "stepId": 3,
+        "content": "呃……当然，一切都听您的安排。",
+        "relateContent": "",
+        "selectIds": "1003901#4|1003902#6|1003903#9",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10039,
+        "stepId": 4,
+        "content": "哦，抱歉，我……不太擅长跳舞。不过我可以学，我模仿得很快！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10039,
+        "stepId": 5,
+        "content": "或者，您觉得……面包舞怎么样？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10039,
+        "stepId": 6,
+        "content": "既然道路是现成的，我们只缺两位特技骑手就可以开拍啦！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10039,
+        "stepId": 7,
+        "content": "苏联飞行员追逐苏联卫星怎么样？如果能与这两位合作……那将是我演艺生涯的高光时刻！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10039,
+        "stepId": 8,
+        "content": "女巫追球的桥段好像是有点熟悉。呃……但公路片都是这样，俗套却刺激，不是么？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10039,
+        "stepId": 9,
+        "content": "我……我？我不敢奢求。毕竟电影是导演的艺术，而我只是个演员。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10039,
+        "stepId": 10,
+        "content": "一个有台词的角色……就很棒了。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10040,
+        "stepId": 1,
+        "content": "您好，欢迎来到墓碑博物馆……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10040,
+        "stepId": 2,
+        "content": "噢，是司辰您。抱歉……我似乎又忘记了。",
+        "relateContent": "",
+        "selectIds": "1004001#3|1004002#7",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10040,
+        "stepId": 3,
+        "content": "只是一些思考。在同五色月小姐聊过之后，我了解到一种新的墓碑……",
+        "relateContent": "",
+        "selectIds": "1004003#4",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10040,
+        "stepId": 4,
+        "content": "主人并未死去，却与主人年纪相同的墓碑。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10040,
+        "stepId": 5,
+        "content": "来自一些从小被贵族买去，培养长大的死士。他们知晓生命并不在自己手中。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10040,
+        "stepId": 6,
+        "content": "活着，却早已死去……这些人的墓碑，会说些什么呢？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10040,
+        "stepId": 7,
+        "content": "我会努力习惯……哦，是的。这很不错。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10040,
+        "stepId": 8,
+        "content": "的确。您珍视着我们这些箱中客人……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10040,
+        "stepId": 9,
+        "content": "您也在聆听我们。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10041,
+        "stepId": 1,
+        "content": "噢——唔哦！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10041,
+        "stepId": 2,
+        "content": "（快速飞行摩擦空气的声音）",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10041,
+        "stepId": 3,
+        "content": "好大的——咳，咳咳！没什么。",
+        "relateContent": "",
+        "selectIds": "1004101#4|1004102#6",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10041,
+        "stepId": 4,
+        "content": "是的，是的……没什么！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10041,
+        "stepId": 5,
+        "content": "我只是在活动活动身体——活动活动零件。避免生锈，你明白吗？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10041,
+        "stepId": 6,
+        "content": "月亮。荒原的月亮。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10041,
+        "stepId": 7,
+        "content": "它悬挂在天上……我也曾靠近过。更近的那种。",
+        "relateContent": "",
+        "selectIds": "1004103#8",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10041,
+        "stepId": 8,
+        "content": "不……不。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10041,
+        "stepId": 9,
+        "content": "每个人都有自己的月亮。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10042,
+        "stepId": 1,
+        "content": "“我们没有走着，而是被驱使；如同物什漂浮，此刻尚且悠然，旋即激荡，全凭潮流平缓或者湍急。”",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10042,
+        "stepId": 2,
+        "content": "……冬季，漫长……水面也，平静。凝结的，不再流动……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10042,
+        "stepId": 3,
+        "content": "我们也不再，流动。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10042,
+        "stepId": 4,
+        "content": "……是的。我们……已经离开，流向了……别的地方。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10042,
+        "stepId": 5,
+        "content": "冰面……开裂。鳟鱼……回到上游。时常在梦中。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10042,
+        "stepId": 6,
+        "content": "嘘……我好像，又听到了。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10043,
+        "stepId": 1,
+        "content": "“迟来的正义已非正义。”",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10043,
+        "stepId": 2,
+        "content": "你，怎样看待这句话？",
+        "relateContent": "",
+        "selectIds": "1004301#3|1004302#6",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10043,
+        "stepId": 3,
+        "content": "是吗？但我并不认同。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10043,
+        "stepId": 4,
+        "content": "正义女神的塑像会风化，千疮百孔。正义却必不会被时间侵蚀。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10043,
+        "stepId": 5,
+        "content": "对于真相而言，即使是迟到的揭示，也终有其意义。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10043,
+        "stepId": 6,
+        "content": "呵……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10043,
+        "stepId": 7,
+        "content": "与其像整理裹尸布一般，固执、冗长地谈论正义的时效性。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10043,
+        "stepId": 8,
+        "content": "不如着眼于如何避免“迟滞正义”的出现。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10044,
+        "stepId": 1,
+        "content": "荒原今日的天气，令奴家想起在茶屋度过的第一个新年……",
+        "relateContent": "",
+        "selectIds": "1004401#2|1004402#6",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10044,
+        "stepId": 2,
+        "content": "不，不。恰好相反……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10044,
+        "stepId": 3,
+        "content": "那是非常、非常温暖的日子。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10044,
+        "stepId": 4,
+        "content": "那是奴家度过的第一个，“真正”的新年。那时候，茶屋的大家聚在一起，耳边总能传来热闹的声响——",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10044,
+        "stepId": 5,
+        "content": "和如今的日子十分相似。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10044,
+        "stepId": 6,
+        "content": "茶屋的门扉旁，摆放有系着注连绳的门松。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10044,
+        "stepId": 7,
+        "content": "大家一起准备镜饼和荞麦面，拿出被炉……奴家从来不知道，原来新年有这样多的事情要做。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10044,
+        "stepId": 8,
+        "content": "……也许，之后，箱中的大家也能一起……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10045,
+        "stepId": 1,
+        "content": "我是不是——迷路了？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10045,
+        "stepId": 2,
+        "content": "这里也太大了……我觉得，我刚才见过你，也见过这棵树！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10045,
+        "stepId": 3,
+        "content": "如果是从镇上回家，现在，我应该已经吃上妈咪做的苹果派了。",
+        "relateContent": "",
+        "selectIds": "1004501#4|1004502#6",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10045,
+        "stepId": 4,
+        "content": "噢，当然不！或者，应该不？虽然我只踩上过酒吧附近三个街区的路沿……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10045,
+        "stepId": 5,
+        "content": "但我知道，芝加哥，应该是无穷大的！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10045,
+        "stepId": 6,
+        "content": "或者——其实是这里需要一间酒吧！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10045,
+        "stepId": 7,
+        "content": "所有疲惫的人都可以进来歇歇脚的酒吧。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10045,
+        "stepId": 8,
+        "content": "牛排三明治能快速恢复被旅程消耗的体力，粉色大象也会让疲惫的大脑精神百倍！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10045,
+        "stepId": 9,
+        "content": "哦！没错。我还可以——帮你种啤酒花！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10046,
+        "stepId": 1,
+        "content": "我曾在闲暇时，阅读过几部特工小说，发现有些创作者似乎总认为野外的草丛是隐蔽的好去处。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10046,
+        "stepId": 2,
+        "content": "这与事实……相去甚远。",
+        "relateContent": "",
+        "selectIds": "1004601#3|1004602#7",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10046,
+        "stepId": 3,
+        "content": "显然，大部分特工都无法精确控制呼吸。身体震动的频率稍有差池，草丛中便会出现不自然的声响。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10046,
+        "stepId": 4,
+        "content": "——对潜行而言，就像死亡前的丧钟。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10046,
+        "stepId": 5,
+        "content": "嗯……不过，或许那些能够长时间屏息、在瓷器上绘制美丽对称花纹的制瓷师傅，可以做到精准的呼吸控制。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10046,
+        "stepId": 6,
+        "content": "极致的素养，都是日复一日积累而来的。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10046,
+        "stepId": 7,
+        "content": "如果冲突无法避免——",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10046,
+        "stepId": 8,
+        "content": "最好的，当然是先下手为强。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10047,
+        "stepId": 1,
+        "content": "伟大的达利阿拉伯——要告诉你一个秘密！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10047,
+        "stepId": 2,
+        "content": "莉莉安，咳咳，也就是我从前的仆从。她曾经有一双马靴，与我的马鞍裁自同一张完整的牛皮。",
+        "relateContent": "",
+        "selectIds": "1004701#3|1004702#6",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10047,
+        "stepId": 3,
+        "content": "除了你，这儿还从未有人知道这件事。当然是秘密！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10047,
+        "stepId": 4,
+        "content": "这说明达利阿拉伯给了她极大的尊重和荣耀。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10047,
+        "stepId": 5,
+        "content": "而且，也愿意……也可以给你同样的机会！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10047,
+        "stepId": 6,
+        "content": "马靴上，还有两颗昂贵的彗星马刺——所有牛仔都会羡慕的那种，闪闪发光的锋利马刺。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10047,
+        "stepId": 7,
+        "content": "当然，也是我所有后代的噩梦。",
+        "relateContent": "",
+        "selectIds": "1004703#8",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10047,
+        "stepId": 8,
+        "content": "噢，什么？这个？不，当然不是。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10047,
+        "stepId": 9,
+        "content": "实际上，莉莉安为了我，放弃了那两颗马刺。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10047,
+        "stepId": 10,
+        "content": "也许她原本能在肯塔基州闯出一番牛仔事业来的。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10048,
+        "stepId": 1,
+        "content": "维尔汀！你觉得，如果有人跟你说，“带上你的面包和黄油，决斗场见”，会是什么意思？",
+        "relateContent": "",
+        "selectIds": "1004801#2|1004802#4",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10048,
+        "stepId": 2,
+        "content": "我就说是这样嘛！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10048,
+        "stepId": 3,
+        "content": "结果我带了她说的东西过去，她却说我戏弄她。真是搞不懂哇……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10048,
+        "stepId": 4,
+        "content": "什……什么？为什么！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10048,
+        "stepId": 5,
+        "content": "——那为什么需要面包和黄油？！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10048,
+        "stepId": 6,
+        "content": "……等等，难道她是想在中场休息的时候，和我分享食物？她可真是个周到的好人……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10049,
+        "stepId": 1,
+        "content": "嗨～想不想在这儿来场有趣的赌局？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10049,
+        "stepId": 2,
+        "content": "噢，这块石头的形状相当不错，平整光滑——一款天然的赌桌！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10049,
+        "stepId": 3,
+        "content": "那就……最简单的——抽牌。至于咱们猜点儿什么，你来决定。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10049,
+        "stepId": 4,
+        "content": "我相信你明白我的意图，老板。",
+        "relateContent": "",
+        "selectIds": "1004901#5|1004902#7",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10049,
+        "stepId": 5,
+        "content": "方片2……无论洗多少次都是这张，哈哈！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10049,
+        "stepId": 6,
+        "content": "真有意思，看来“好运”是结果主义者，不在乎某一场牌局。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10049,
+        "stepId": 7,
+        "content": "……黑桃Ace对黑桃Ace！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10049,
+        "stepId": 8,
+        "content": "噢～太棒了，你果然跟看起来一样聪明！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10049,
+        "stepId": 9,
+        "content": "这场宿命般的对决，可比三倍辣酱的塔可劲爆得多！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10050,
+        "stepId": 1,
+        "content": "嘘——安静些，仙人掌猫，你惊扰到司辰了。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10050,
+        "stepId": 2,
+        "content": "如此温暖、舒适的地方，即使是湿眶客也会懒洋洋地趴在你身边，任由你尽情抚摸。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10050,
+        "stepId": 3,
+        "content": "噢，它看起来多么喜欢这片温暖的草地呀。或许你能允许它留下来吗？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10050,
+        "stepId": 4,
+        "content": "机遇与缘分，往往正是来自于无数个如此“恰巧”的相遇。",
+        "relateContent": "",
+        "selectIds": "1005001#5|1005002#9",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10050,
+        "stepId": 5,
+        "content": "很高兴能得到你的信赖！下面是一些附赠的驯养服务，让我来为你一一演示。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10050,
+        "stepId": 6,
+        "content": "在它表现出胆怯与警惕的时候，你需要蹲下，背对着它并缓慢移动，然后轻轻抚摸它耳后的绒毛。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10050,
+        "stepId": 7,
+        "content": "第一次见到它的时候，它可比现在胆小得多。你不知道我究竟尝试了多少种办法来安抚它……",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10050,
+        "stepId": 8,
+        "content": "噢，抱歉，我的确很高兴，只是与它相处的时间稍微长了些罢了。总之，谢谢你能留下这孩子。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10050,
+        "stepId": 9,
+        "content": "好吧，可爱的湿眶客朋友，已是起床的时间了。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10050,
+        "stepId": 10,
+        "content": "真糟糕，我不该让它在这儿睡这么久的。你看，它已经变成一坨黏糊糊的泪水了。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10050,
+        "stepId": 11,
+        "content": "劳烦你稍微等待一会儿，它很快就会恢复原状。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10050,
+        "stepId": 12,
+        "content": "我猜测你不太喜欢过于安静的宠物。让我为你简单介绍一下仙人掌猫，如何？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10051,
+        "stepId": 1,
+        "content": "我有一个很棒的秘密想要与你分享。它就像我拍过的最好的电影一样迷人。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10051,
+        "stepId": 2,
+        "content": "一切完美的东西都是经过人工修饰的。一如电影剧本，一如维纳斯像。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10051,
+        "stepId": 3,
+        "content": "而人的心绪与精神……更是这世上最美妙、最值得精心修饰的东西。",
+        "relateContent": "",
+        "selectIds": "1005101#4|1005102#8",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10051,
+        "stepId": 4,
+        "content": "猜猜看：如果一幕戏能经由观众无数次地“第一次”观看，会发生什么样的好事？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10051,
+        "stepId": 5,
+        "content": "哎呀，你果然很聪明——是的，世界上最完美的演员从此诞生。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10051,
+        "stepId": 6,
+        "content": "人们喜欢目不转睛地盯着我看，好像我是一面镜子。但我从不愚弄别人，只是让他们自己哄骗自己。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10051,
+        "stepId": 7,
+        "content": "呵～镜面中的“玛丽莲”才是完美的“玛丽莲”。她存在于他们美好的梦境里。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10051,
+        "stepId": 8,
+        "content": "人们总会忘记许多，区别无非是主动或被动。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10051,
+        "stepId": 9,
+        "content": "也许你不会明白：精心修饰的笨拙总是更讨人喜欢。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10051,
+        "stepId": 10,
+        "content": "呵呵～真是一颗天真、年轻又让人羡慕的心啊。答应我，你会好好呵护它。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10052,
+        "stepId": 1,
+        "content": "真有趣，她与许多人对话。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10052,
+        "stepId": 2,
+        "content": "我想这与我的工作并不相似……好奇与窥探不可同一而论。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10052,
+        "stepId": 3,
+        "content": "阳光洒在旷野上，人们躺在白雏菊旁惬意地谈起诗歌。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10052,
+        "stepId": 4,
+        "content": "在这样美丽的地方，监听器、公文报告与冰冷的高墙似乎都不再被需要。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10052,
+        "stepId": 5,
+        "content": "噢……？她似乎注意到我了。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10052,
+        "stepId": 6,
+        "content": "嗯，是的，我一直在聆听你。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10053,
+        "stepId": 1,
+        "content": "讽刺的是，钻石本身就是谎言的造物。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10053,
+        "stepId": 2,
+        "content": "而我不过是在谎言上编制了一层新的谎言，不是么？",
+        "relateContent": "",
+        "selectIds": "1005301#3|1005302#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10053,
+        "stepId": 3,
+        "content": "比起诈骗犯，我更像一位在时代浪尖上起舞的艺术家。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10053,
+        "stepId": 4,
+        "content": "无论谎言与否，至少钻石的光辉永远是真实的，就像您的美德一样。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10053,
+        "stepId": 5,
+        "content": "绅士总愿意为女孩挥金如土，而我却愿意为您化土为金。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10053,
+        "stepId": 6,
+        "content": "某种意义上说，我赠送您的这一枚，要比世上的任何钻石都更加珍贵。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10054,
+        "stepId": 1,
+        "content": "嘿，一个小问题。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10054,
+        "stepId": 2,
+        "content": "你最害怕的事情是什么？",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10054,
+        "stepId": 3,
+        "content": "比如你的箱子有了另外的主人之类的？",
+        "relateContent": "",
+        "selectIds": "1005401#4|1005402#5",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10054,
+        "stepId": 4,
+        "content": "当你一直呆在里面的时候，外面什么情况可不好说。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10054,
+        "stepId": 5,
+        "content": "什么？噢，不。只是随便举个例子。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10054,
+        "stepId": 6,
+        "content": "顺便，目前我最害怕的事情是论文提前截止。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10055,
+        "stepId": 1,
+        "content": "汪，汪汪。<出门走走是个不错的选择，尤其是在这个美好的阳光之下。>",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10055,
+        "stepId": 2,
+        "content": "汪汪汪。<它有助于头脑将这个繁杂的世界重新归类。>",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10055,
+        "stepId": 3,
+        "content": "Doggie：小狗表示，他想要出门走走。",
+        "relateContent": "",
+        "selectIds": "1005501#4|1005502#6",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10055,
+        "stepId": 4,
+        "content": "汪呜……汪。<尽管我更想自己一个人……但我相信我们都会在其中获益。>",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10055,
+        "stepId": 5,
+        "content": "小狗很开心。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10055,
+        "stepId": 6,
+        "content": "狺狺。<我很高兴你尊重了我的意愿。>",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10056,
+        "stepId": 1,
+        "content": "我这个人——什么都是！",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10056,
+        "stepId": 2,
+        "content": "我是被高估的现代景观空虚的回声。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10056,
+        "stepId": 3,
+        "content": "我是一台战斗的泡泡机。",
+        "relateContent": "",
+        "selectIds": "1005601#4|1005602#6",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10056,
+        "stepId": 4,
+        "content": "没错，泡泡机。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10056,
+        "stepId": 5,
+        "content": "泡影如梦，我说过了。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    },
+    {
+        "dialogId": 10056,
+        "stepId": 6,
+        "content": "剑已经钝了，我的朋友。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": ""
+    },
+    {
+        "dialogId": 10056,
+        "stepId": 7,
+        "content": "现在需要的是和平。",
+        "relateContent": "",
+        "selectIds": "",
+        "nextStepId": "0"
+    }
+]

@@ -1,0 +1,2857 @@
+[
+    {
+        "id": 2000001,
+        "eventName": "play_ui_common_click",
+        "bankName": "uiclick"
+    },
+    {
+        "id": 2000002,
+        "eventName": "play_ui_common_close",
+        "bankName": "uiclick"
+    },
+    {
+        "id": 2000003,
+        "eventName": "pause_master_audio_bus",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 2000004,
+        "eventName": "resume_master_audio_bus",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 2000005,
+        "eventName": "stop_master_audio_bus",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 2000006,
+        "eventName": "stop_heronormalvoc_bus",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 2000007,
+        "eventName": "stop_scenenoise_bus",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 2000008,
+        "eventName": "stop_bgm_bus",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 2000009,
+        "eventName": "play_ui_universal_click",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000010,
+        "eventName": "play_ui_general_shutdown",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000011,
+        "eventName": "play_ui_taskinterface",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000012,
+        "eventName": "play_ui_task_page",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000013,
+        "eventName": "play_ui_tags",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000014,
+        "eventName": "play_ui_warehouse",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000015,
+        "eventName": "play_ui_tipsclose",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000016,
+        "eventName": "play_ui_tipsopen",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000017,
+        "eventName": "play_ui_operahouse",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000018,
+        "eventName": "play_ui_slippage",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000019,
+        "eventName": "play_ui_teartickets",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000020,
+        "eventName": "play_ui_copies",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000021,
+        "eventName": "play_ui_copiesdetails",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000022,
+        "eventName": "play_ui_closehouse",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000024,
+        "eventName": "play_ui_unsatisfied",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000025,
+        "eventName": "play_ui_magazines",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000026,
+        "eventName": "play_ui_magazinespage",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000027,
+        "eventName": "play_ui_mistakes",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000028,
+        "eventName": "play_ui_rolesout",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000029,
+        "eventName": "play_ui_rolesgo",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000030,
+        "eventName": "play_ui_formationsave",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000031,
+        "eventName": "play_ui_upgrade",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000032,
+        "eventName": "play_ui_rewards",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000033,
+        "eventName": "play_ui_mainback",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000034,
+        "eventName": "play_ui_rolesback",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000035,
+        "eventName": "play_ui_checkpoint_playcards",
+        "bankName": "fight_ui"
+    },
+    {
+        "id": 2000036,
+        "eventName": "play_ui_checkpoint_synthesizescards",
+        "bankName": "fight_ui"
+    },
+    {
+        "id": 2000037,
+        "eventName": "play_ui_checkpoint_switchplacescards",
+        "bankName": "fight_ui"
+    },
+    {
+        "id": 2000038,
+        "eventName": "play_ui_checkpoint_changeovercards",
+        "bankName": "fight_ui"
+    },
+    {
+        "id": 2000039,
+        "eventName": "play_ui_checkpoint_openingcards",
+        "bankName": "fight_ui"
+    },
+    {
+        "id": 2000040,
+        "eventName": "play_ui_checkpoint_recantingcards",
+        "bankName": "fight_ui"
+    },
+    {
+        "id": 2000041,
+        "eventName": "pause_mainmusic",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 2000042,
+        "eventName": "resume_mainmusic",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 2000043,
+        "eventName": "stop_mainmusic",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 2000044,
+        "eventName": "stop_uimusic",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 2000045,
+        "eventName": "play_ui_no_requirement",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000046,
+        "eventName": "play_ui_main_enterance",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000047,
+        "eventName": "play_ui_levelup",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000048,
+        "eventName": "stop_ui_bus",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 2000049,
+        "eventName": "trigger_music",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 2000051,
+        "eventName": "play_ui_shuffle_unfold",
+        "bankName": "fight_ui"
+    },
+    {
+        "id": 2000052,
+        "eventName": "play_ui_shuffle_allcard",
+        "bankName": "fight_ui"
+    },
+    {
+        "id": 2000053,
+        "eventName": "play_ui_add_universalcard",
+        "bankName": "fight_ui"
+    },
+    {
+        "id": 2000054,
+        "eventName": "play_ui_addhuoxing",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000055,
+        "eventName": "play_ui_enterhuoxing",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000056,
+        "eventName": "play_ui_player_interface_open",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000057,
+        "eventName": "play_ui_player_interface_close",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000058,
+        "eventName": "play_ui_player_roleshow",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000059,
+        "eventName": "play_ui_common_pause",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000060,
+        "eventName": "play_ui_bank_open",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000061,
+        "eventName": "play_ui_moor_open",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000062,
+        "eventName": "play_ui_admission_open",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000063,
+        "eventName": "play_ui_viability_click_1",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000064,
+        "eventName": "play_ui_viability_click_2",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000065,
+        "eventName": "play_ui_hero_sign",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000066,
+        "eventName": "play_ui_hero_card_click",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000067,
+        "eventName": "play_ui_hero_card_gone",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000068,
+        "eventName": "play_ui_hero_card_property",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000069,
+        "eventName": "play_ui_notice_open",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000070,
+        "eventName": "play_ui_search_clear",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000071,
+        "eventName": "play_ui_plot_common",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000072,
+        "eventName": "play_ui_checkpoint_cardstarup",
+        "bankName": "fight_ui"
+    },
+    {
+        "id": 2000073,
+        "eventName": "play_ui_fight_keeporquit",
+        "bankName": "fight_ui"
+    },
+    {
+        "id": 2000074,
+        "eventName": "play_ui_admission_open",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000075,
+        "eventName": "play_ui_main_shield",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000076,
+        "eventName": "play_ui_main_display",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000077,
+        "eventName": "play_ui_thumbnail_click",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000078,
+        "eventName": "play_ui_scene_switching",
+        "bankName": "fight_ui"
+    },
+    {
+        "id": 2000079,
+        "eventName": "play_ui_fight_roledetails",
+        "bankName": "fight_ui"
+    },
+    {
+        "id": 2000080,
+        "eventName": "play_ui_loading_common",
+        "bankName": "ui_loading"
+    },
+    {
+        "id": 2000081,
+        "eventName": "play_ui_rewards_rare",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000082,
+        "eventName": "play_ui_settleaccounts_resources_rare",
+        "bankName": "ui_settleaccounts"
+    },
+    {
+        "id": 2000083,
+        "eventName": "stop_ui_loading_common",
+        "bankName": "ui_loading"
+    },
+    {
+        "id": 2000084,
+        "eventName": "play_ui_hero_skill_fight",
+        "bankName": "fight_ui"
+    },
+    {
+        "id": 2000085,
+        "eventName": "play_ui_main_banniang_icon",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 2000086,
+        "eventName": "stop_uinoise_bus",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 20001001,
+        "eventName": "play_ui_checkpoint_click",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001002,
+        "eventName": "play_ui_checkpoint_detailed_amb",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001003,
+        "eventName": "play_ui_checkpoint_detailed_move",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001004,
+        "eventName": "play_ui_checkpoint_insight_cardpass",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001005,
+        "eventName": "play_ui_checkpoint_insight_rebound",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001006,
+        "eventName": "play_ui_checkpoint_resources_cardpass",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001007,
+        "eventName": "play_ui_checkpoint_resources_rebound",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001008,
+        "eventName": "play_ui_checkpoint_story_cardpass",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001009,
+        "eventName": "play_ui_checkpoint_story_rebound",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001010,
+        "eventName": "play_ui_checkpoint_story_click",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001011,
+        "eventName": "play_ui_checkpoint_resources_click",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001012,
+        "eventName": "play_ui_checkpoint_insight_click",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001013,
+        "eventName": "play_ui_checkpoint_story_open",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001014,
+        "eventName": "play_ui_checkpoint_story_close",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001015,
+        "eventName": "play_ui_checkpoint_resources_open",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001016,
+        "eventName": "play_ui_checkpoint_resources_close",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001017,
+        "eventName": "play_ui_checkpoint_insight_open",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001018,
+        "eventName": "play_ui_checkpoint_insight_close",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001019,
+        "eventName": "play_ui_checkpoint_story_amb",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001020,
+        "eventName": "play_ui_checkpoint_resources_amb",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001021,
+        "eventName": "play_ui_checkpoint_insight_amb",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001022,
+        "eventName": "play_ui_checkpoint_detailed_move",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001023,
+        "eventName": "play_ui_checkpoint_detailed_tabs_click",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001024,
+        "eventName": "play_ui_checkpoint_detailed_action",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001025,
+        "eventName": "stop_ui_checkpoint_story_amb",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001026,
+        "eventName": "stop_ui_checkpoint_resources_amb",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001027,
+        "eventName": "stop_ui_checkpoint_insight_amb",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001028,
+        "eventName": "stop_ui_slippage_music",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001029,
+        "eventName": "play_ui_slippage_music",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001030,
+        "eventName": "play_amb_hillssound_noise",
+        "bankName": "ui_insightcheckpoint_amb"
+    },
+    {
+        "id": 20001031,
+        "eventName": "play_amb_wildbeast_noise",
+        "bankName": "ui_insightcheckpoint_amb"
+    },
+    {
+        "id": 20001032,
+        "eventName": "play_amb_deepforest_noise",
+        "bankName": "ui_insightcheckpoint_amb"
+    },
+    {
+        "id": 20001033,
+        "eventName": "play_amb_starshardswc_noise",
+        "bankName": "ui_insightcheckpoint_amb"
+    },
+    {
+        "id": 20001034,
+        "eventName": "play_vehiclegraveyard_noise",
+        "bankName": "ui_insightcheckpoint_amb"
+    },
+    {
+        "id": 20001035,
+        "eventName": "play_gunpowderwin_noise",
+        "bankName": "ui_insightcheckpoint_amb"
+    },
+    {
+        "id": 20001036,
+        "eventName": "play_ui_checkpoint_rewardgain",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001037,
+        "eventName": "play_ui_checkpoint_deblockingmap",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001038,
+        "eventName": "play_ui_checkpoint_pagesopen",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001039,
+        "eventName": "play_ui_checkpoint_pagesclose",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001040,
+        "eventName": "play_ui_checkpoint_switch",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001041,
+        "eventName": "play_ui_checkpoint_warnopen",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001042,
+        "eventName": "play_ui_checkpoint_warnclose",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001043,
+        "eventName": "play_ui_checkpoint_continueappear",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001044,
+        "eventName": "play_ui_checkpoint_continuemesh",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001045,
+        "eventName": "play_ui_checkpoint_point",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001046,
+        "eventName": "play_ui_checkpoint_pagesopen",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001047,
+        "eventName": "play_ui_checkpoint_switch",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001048,
+        "eventName": "play_ui_checkpoint_pagesclose",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001049,
+        "eventName": "play_ui_checkpoint_warnopen",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001050,
+        "eventName": "play_ui_checkpoint_warnclose",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001051,
+        "eventName": "play_ui_checkpoint_continuedisappear",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001052,
+        "eventName": "play_ui_checkpoint_rewardgain",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001053,
+        "eventName": "play_ui_checkpoint_deblockingmap",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001054,
+        "eventName": "play_city_noise",
+        "bankName": "ui_checkpoint_amb01"
+    },
+    {
+        "id": 20001055,
+        "eventName": "play_ui_checkpoint_noise_manor",
+        "bankName": "ui_checkpoint_amb01"
+    },
+    {
+        "id": 20001056,
+        "eventName": "play_ui_checkpoint_noise_river",
+        "bankName": "ui_checkpoint_amb01"
+    },
+    {
+        "id": 20001057,
+        "eventName": "play_ui_checkpoint_noise_rivulet",
+        "bankName": "ui_checkpoint_amb01"
+    },
+    {
+        "id": 20001058,
+        "eventName": "play_ui_checkpoint_noise_scorched",
+        "bankName": "ui_checkpoint_amb01"
+    },
+    {
+        "id": 20001059,
+        "eventName": "play_ui_checkpoint_noise_sea",
+        "bankName": "ui_checkpoint_amb01"
+    },
+    {
+        "id": 20001060,
+        "eventName": "play_ui_checkpoint_noise_tribe",
+        "bankName": "ui_checkpoint_amb01"
+    },
+    {
+        "id": 20001061,
+        "eventName": "play_chapter01ui_mixnoise",
+        "bankName": "ui_checkpoint_amb01"
+    },
+    {
+        "id": 20001062,
+        "eventName": "play_ui_checkpoint_sources_open",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001063,
+        "eventName": "play_ui_checkpoint_chainstart",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001064,
+        "eventName": "play_ui_checkpoint_chain",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001065,
+        "eventName": "stop_ui_checkpoint_chain",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001066,
+        "eventName": "play_ui_checkpoint_warnopen",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001067,
+        "eventName": "play_ui_checkpoint_insight_close",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001068,
+        "eventName": "play_ui_checkpoint_story_open",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001069,
+        "eventName": "play_chapter03ui_mixnoise",
+        "bankName": "chapter03ui_mixnoise"
+    },
+    {
+        "id": 20001070,
+        "eventName": "play_ui_checkpoint_noise_library",
+        "bankName": "ui_checkpoint_noise_library"
+    },
+    {
+        "id": 20001071,
+        "eventName": "play_ui_checkpoint_noise_office",
+        "bankName": "ui_checkpoint_noise_office"
+    },
+    {
+        "id": 20001072,
+        "eventName": "play_ui_checkpoint_noise_square",
+        "bankName": "ui_checkpoint_noise_square"
+    },
+    {
+        "id": 20001073,
+        "eventName": "play_ui_checkpoint_noise_underpass",
+        "bankName": "ui_checkpoint_noise_underpass"
+    },
+    {
+        "id": 20001075,
+        "eventName": "play_ui_checkpoint_noise_class",
+        "bankName": "ui_checkpoint_noise_class"
+    },
+    {
+        "id": 20001074,
+        "eventName": "play_ui_checkpoin_chapter_unlock",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001076,
+        "eventName": "stop_ui_noise_allarea",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 20001077,
+        "eventName": "play_ui_checkpoint_unlock",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001078,
+        "eventName": "play_ui_checkpoint_elementappear",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001079,
+        "eventName": "play_ui_checkpoint_swath_open",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001080,
+        "eventName": "play_ui_main_puzzles_character",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 20001081,
+        "eventName": "play_ui_main_puzzles_achievement",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 20001082,
+        "eventName": "play_ui_main_puzzles_move",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 20001083,
+        "eventName": "play_ui_main_puzzles_unlock",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 20001084,
+        "eventName": "play_ui_main_puzzles_warn",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 20001085,
+        "eventName": "play_ui_payment_click",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 20001086,
+        "eventName": "play_ui_track_main_eject",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001087,
+        "eventName": "play_ui_track_achievement_multiple",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001088,
+        "eventName": "play_ui_track_achievement_single",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001089,
+        "eventName": "play_ui_track_achievement_flip",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001090,
+        "eventName": "play_ui_circuit_click",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001091,
+        "eventName": "play_ui_circuit_shortcircuit",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001092,
+        "eventName": "play_ui_capacitors_connection",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001093,
+        "eventName": "play_ui_powersupply_connection",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001095,
+        "eventName": "play_ui_checkpoint_noise_forest_square1",
+        "bankName": "chapter04ui_amb"
+    },
+    {
+        "id": 20001096,
+        "eventName": "play_ui_checkpoint_noise_forest_square2",
+        "bankName": "chapter04ui_amb"
+    },
+    {
+        "id": 20001097,
+        "eventName": "play_ui_checkpoint_noise_office_building",
+        "bankName": "chapter04ui_amb"
+    },
+    {
+        "id": 20001098,
+        "eventName": "play_chapter04ui_mixnoise",
+        "bankName": "chapter04ui_amb"
+    },
+    {
+        "id": 20001099,
+        "eventName": "play_ui_checkpoint_noise_manor",
+        "bankName": "ui_checkpoint_amb01"
+    },
+    {
+        "id": 20001100,
+        "eventName": "play_ui_checkpoint_noise_library",
+        "bankName": "ui_checkpoint_noise_library"
+    },
+    {
+        "id": 20001101,
+        "eventName": "play_ui_checkpoint_extrafall",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001102,
+        "eventName": "play_ui_checkpoint_boat_connection",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001103,
+        "eventName": "play_ui_checkpoint_boat_open",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001104,
+        "eventName": "play_ui_checkpoint_boat_tips",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001106,
+        "eventName": "play_ui_checkpoint_noise_cemetery",
+        "bankName": "activity_leimi1_1_amb"
+    },
+    {
+        "id": 20001107,
+        "eventName": "play_ui_checkpoint_noise_street",
+        "bankName": "activity_leimi1_1_amb"
+    },
+    {
+        "id": 20001108,
+        "eventName": "play_ui_checkpoint_noise_exhibition_hall",
+        "bankName": "activity_leimi1_1_amb"
+    },
+    {
+        "id": 20001109,
+        "eventName": "play_ui_checkpoint_noise_seaside",
+        "bankName": "activity_leimi1_1_amb"
+    },
+    {
+        "id": 20001110,
+        "eventName": "play_leimi_mixnoise",
+        "bankName": "activity_leimi1_1_amb"
+    },
+    {
+        "id": 20001111,
+        "eventName": "play_ui_activity_level_chosen",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001112,
+        "eventName": "play_ui_activity_mark_finish",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001113,
+        "eventName": "play_ui_activity_role_move",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001114,
+        "eventName": "play_ui_activity_box_push",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001115,
+        "eventName": "play_ui_activity_organ_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001116,
+        "eventName": "play_ui_activity_door_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001117,
+        "eventName": "play_ui_activity_alert",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001118,
+        "eventName": "play_ui_activity_exhaust",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001119,
+        "eventName": "play_ui_checkpoint_elementappear",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001120,
+        "eventName": "play_ui_checkpoint_original_arrow",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 20001501,
+        "eventName": "play_ui_foreverlakewater_noise",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001502,
+        "eventName": "play_ui_callfor_waterwheel_one",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001503,
+        "eventName": "play_ui_callfor_waterwheel_ten",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001504,
+        "eventName": "play_ui_luckdraw_hero_one",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001505,
+        "eventName": "play_ui_luckdraw_hero_stars",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001506,
+        "eventName": "play_ui_luckdraw_tenhero_openall",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001507,
+        "eventName": "play_ui_luckdraw_tenhero_stars",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001508,
+        "eventName": "play_ui_callfor_open",
+        "bankName": "ui_callfor_part01"
+    },
+    {
+        "id": 20001509,
+        "eventName": "play_ui_callfor_close",
+        "bankName": "ui_callfor_part01"
+    },
+    {
+        "id": 20001510,
+        "eventName": "play_ui_callfor_spin",
+        "bankName": "ui_callfor_part01"
+    },
+    {
+        "id": 20001511,
+        "eventName": "play_ui_luckdraw_hero_general",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001512,
+        "eventName": "play_ui_luckdraw_hero_medium",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001513,
+        "eventName": "play_ui_luckdraw_hero_special",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001515,
+        "eventName": "play_ui_luckdraw_general_last",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001517,
+        "eventName": "play_ui_luckdraw_medium_last",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001519,
+        "eventName": "play_ui_luckdraw_special_last",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001520,
+        "eventName": "play_ui_callfor_once",
+        "bankName": "ui_callfor_part01"
+    },
+    {
+        "id": 20001521,
+        "eventName": "play_ui_callfor_ten",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001522,
+        "eventName": "play_ui_callfor_click",
+        "bankName": "ui_callfor_part01"
+    },
+    {
+        "id": 20001523,
+        "eventName": "play_ui_callfor_inscription_amb",
+        "bankName": "ui_callfor_part01"
+    },
+    {
+        "id": 20001524,
+        "eventName": "play_ui_callfor_inscription_draw_card",
+        "bankName": "ui_callfor_part01"
+    },
+    {
+        "id": 20001525,
+        "eventName": "play_ui_callfor_begin",
+        "bankName": "ui_callfor_part01"
+    },
+    {
+        "id": 20001526,
+        "eventName": "play_ui_callfor_waterwheelloop",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001527,
+        "eventName": "stop_ui_callfor_waterwheelloop",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001528,
+        "eventName": "play_ui_callfor_spray",
+        "bankName": "ui_callfor_part01"
+    },
+    {
+        "id": 20001529,
+        "eventName": "play_ui_callfor_waterwheelstop",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001530,
+        "eventName": "play_ui_callfor_cordage01",
+        "bankName": "ui_callfor_part01"
+    },
+    {
+        "id": 20001531,
+        "eventName": "play_ui_callfor_cordage02",
+        "bankName": "ui_callfor_part01"
+    },
+    {
+        "id": 20001532,
+        "eventName": "play_ui_callfor_cordage03",
+        "bankName": "ui_callfor_part01"
+    },
+    {
+        "id": 20001533,
+        "eventName": "play_ui_callfor_chestsopen",
+        "bankName": "ui_callfor_part01"
+    },
+    {
+        "id": 20001534,
+        "eventName": "stop_ui_callfor_cordage01",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001535,
+        "eventName": "stop_ui_callfor_cordage02",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001536,
+        "eventName": "stop_ui_callfor_cordage03",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001537,
+        "eventName": "stop_ui_callfor_spray",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001538,
+        "eventName": "play_ui_skin_get",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20001601,
+        "eventName": "play_nameitsfx_done",
+        "bankName": "nameit_sfx"
+    },
+    {
+        "id": 20001602,
+        "eventName": "play_nameitsfx_eject",
+        "bankName": "nameit_sfx"
+    },
+    {
+        "id": 20001701,
+        "eventName": "play_ui_activity_close",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001702,
+        "eventName": "play_ui_activity_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001703,
+        "eventName": "play_ui_activity_tips",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001704,
+        "eventName": "play_ui_activity_switch",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001705,
+        "eventName": "play_ui_feedback_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001706,
+        "eventName": "play_ui_feedback_close",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001707,
+        "eventName": "play_ui_activity_jump",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001708,
+        "eventName": "play_ui_activity_act",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20001801,
+        "eventName": "play_ui_mail_close",
+        "bankName": "ui_mail"
+    },
+    {
+        "id": 20001802,
+        "eventName": "play_ui_mail_open",
+        "bankName": "ui_mail"
+    },
+    {
+        "id": 20001803,
+        "eventName": "play_ui_mail_switch",
+        "bankName": "ui_mail"
+    },
+    {
+        "id": 20001804,
+        "eventName": "play_ui_mail_delete",
+        "bankName": "ui_mail"
+    },
+    {
+        "id": 20001901,
+        "eventName": "play_ui_mission_close",
+        "bankName": "ui_mission"
+    },
+    {
+        "id": 20001902,
+        "eventName": "play_ui_mission_open",
+        "bankName": "ui_mission"
+    },
+    {
+        "id": 20001903,
+        "eventName": "play_ui_mission_switch",
+        "bankName": "ui_mission"
+    },
+    {
+        "id": 20001904,
+        "eventName": "play_ui_team_raise",
+        "bankName": "ui_team"
+    },
+    {
+        "id": 20001905,
+        "eventName": "play_ui_team_release",
+        "bankName": "ui_team"
+    },
+    {
+        "id": 20001906,
+        "eventName": "play_ui_team_switch",
+        "bankName": "ui_team"
+    },
+    {
+        "id": 20001907,
+        "eventName": "play_ui_team_open",
+        "bankName": "ui_team"
+    },
+    {
+        "id": 20001908,
+        "eventName": "play_ui_team_close",
+        "bankName": "ui_team"
+    },
+    {
+        "id": 20001909,
+        "eventName": "play_ui_task_newtask",
+        "bankName": "ui_task"
+    },
+    {
+        "id": 20001910,
+        "eventName": "play_ui_task_slide",
+        "bankName": "ui_task"
+    },
+    {
+        "id": 20001911,
+        "eventName": "play_ui_task_smallball",
+        "bankName": "ui_task"
+    },
+    {
+        "id": 20001912,
+        "eventName": "play_ui_mail_open_1",
+        "bankName": "ui_mail"
+    },
+    {
+        "id": 20001913,
+        "eventName": "play_ui_mail_close_1",
+        "bankName": "ui_mail"
+    },
+    {
+        "id": 20002001,
+        "eventName": "play_ui_transverse_tabs_click",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002002,
+        "eventName": "play_ui_vertical_first_tabs_click",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002003,
+        "eventName": "play_ui_vertical_second_tabs_click",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002004,
+        "eventName": "play_ui_help_open",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002005,
+        "eventName": "play_ui_help_close",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002006,
+        "eventName": "play_ui_role_skin_open",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002007,
+        "eventName": "play_ui_role_skin_close",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002008,
+        "eventName": "play_ui_role_introduce_open",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002009,
+        "eventName": "play_ui_role_introduce_close",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002010,
+        "eventName": "play_ui_role_upgrade",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002011,
+        "eventName": "play_ui_role_introduce_switch",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002012,
+        "eventName": "play_ui_rolesopen",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002013,
+        "eventName": "play_ui_rolesclose",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002014,
+        "eventName": "play_ui_help_switch",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002015,
+        "eventName": "play_ui_unsatisfied_music",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002016,
+        "eventName": "play_ui_level_unfold",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002017,
+        "eventName": "play_ui_role_story_switch",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002018,
+        "eventName": "play_ui_role_description",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002019,
+        "eventName": "play_ui_role_open",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002020,
+        "eventName": "play_ui_role_cover_open_1",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002021,
+        "eventName": "play_ui_role_cover_open_2",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002022,
+        "eventName": "play_ui_role_voice_open",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002023,
+        "eventName": "play_ui_role_pieces_open",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002024,
+        "eventName": "play_ui_role_culture_open",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002025,
+        "eventName": "play_ui_role_insight_open",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002026,
+        "eventName": "play_ui_role_story_switch",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002027,
+        "eventName": "play_ui_role_story_switch",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002028,
+        "eventName": "heroinsight_win_trigger",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 20002029,
+        "eventName": "play_ui_role_upgrade_2",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002100,
+        "eventName": "play_ui_poltsfx_landmark",
+        "bankName": "ui_poltsfx"
+    },
+    {
+        "id": 20002101,
+        "eventName": "play_ui_rolesopen",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 20002200,
+        "eventName": "play_ui_formation_action",
+        "bankName": "ui_formation"
+    },
+    {
+        "id": 20002201,
+        "eventName": "play_ui_formation_cardsdisappear",
+        "bankName": "ui_formation"
+    },
+    {
+        "id": 20002202,
+        "eventName": "play_ui_formation_monstermessage",
+        "bankName": "ui_formation"
+    },
+    {
+        "id": 20002203,
+        "eventName": "play_ui_formation_scale",
+        "bankName": "ui_formation"
+    },
+    {
+        "id": 20002300,
+        "eventName": "play_ui_action_mainstart",
+        "bankName": "ui_action"
+    },
+    {
+        "id": 20002301,
+        "eventName": "play_ui_action_mapopen",
+        "bankName": "ui_action"
+    },
+    {
+        "id": 20002302,
+        "eventName": "play_ui_action_cardsopen",
+        "bankName": "ui_action"
+    },
+    {
+        "id": 20002303,
+        "eventName": "play_ui_action_explore",
+        "bankName": "ui_action"
+    },
+    {
+        "id": 20002304,
+        "eventName": "play_ui_action_return",
+        "bankName": "ui_action"
+    },
+    {
+        "id": 20002400,
+        "eventName": "play_ui_inking_addmood",
+        "bankName": "ui_inking"
+    },
+    {
+        "id": 20002401,
+        "eventName": "play_ui_inking_lock",
+        "bankName": "ui_inking"
+    },
+    {
+        "id": 20002402,
+        "eventName": "play_ui_inking_unlock",
+        "bankName": "ui_inking"
+    },
+    {
+        "id": 20002403,
+        "eventName": "play_ui_inking_remember",
+        "bankName": "ui_inking"
+    },
+    {
+        "id": 20002404,
+        "eventName": "play_ui_inking_forget",
+        "bankName": "ui_inking"
+    },
+    {
+        "id": 20002405,
+        "eventName": "play_ui_inking_open",
+        "bankName": "ui_inking"
+    },
+    {
+        "id": 20002406,
+        "eventName": "play_ui_inking_addall",
+        "bankName": "ui_inking"
+    },
+    {
+        "id": 20002407,
+        "eventName": "play_ui_inking_finish",
+        "bankName": "ui_inking"
+    },
+    {
+        "id": 20002408,
+        "eventName": "play_ui_inking_fail",
+        "bankName": "ui_inking"
+    },
+    {
+        "id": 20002409,
+        "eventName": "play_ui_inking_success",
+        "bankName": "ui_inking"
+    },
+    {
+        "id": 20002501,
+        "eventName": "play_artificial_ui_fight_choosecard",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002502,
+        "eventName": "play_artificial_ui_entrance",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002503,
+        "eventName": "play_artificial_amb_map_floor01",
+        "bankName": "artificial_amb"
+    },
+    {
+        "id": 20002504,
+        "eventName": "play_artificial_amb_map_floor02",
+        "bankName": "artificial_amb"
+    },
+    {
+        "id": 20002505,
+        "eventName": "play_artificial_amb_map_floor03",
+        "bankName": "artificial_amb"
+    },
+    {
+        "id": 20002506,
+        "eventName": "play_ui_home_music_master",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002507,
+        "eventName": "stop_sleepwalkingaudio",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002508,
+        "eventName": "stop_artificial_music",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002509,
+        "eventName": "play_artificial_ui_changemap",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002510,
+        "eventName": "play_artificial_ui_cardappear",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002511,
+        "eventName": "play_artificial_ui_carddisappear",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002512,
+        "eventName": "play_artificial_ui_answerchoose",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002513,
+        "eventName": "play_artificial_amb_map_floor03_01",
+        "bankName": "artificial_amb"
+    },
+    {
+        "id": 20002514,
+        "eventName": "play_artificial_ui_commonchoose",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002515,
+        "eventName": "play_artificial_ui_talkchoose",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002516,
+        "eventName": "play_artificial_amb_map_floor04_1b",
+        "bankName": "artificial_amb"
+    },
+    {
+        "id": 20002517,
+        "eventName": "play_artificial_amb_map_floor04_1a",
+        "bankName": "artificial_amb"
+    },
+    {
+        "id": 20002518,
+        "eventName": "play_artificial_amb_map_floor04_2a",
+        "bankName": "artificial_amb"
+    },
+    {
+        "id": 20002519,
+        "eventName": "play_artificial_amb_map_floor04_2b",
+        "bankName": "artificial_amb"
+    },
+    {
+        "id": 20002520,
+        "eventName": "play_artificial_ui_mapfinish",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002521,
+        "eventName": "play_artificial_amb_map_floor05",
+        "bankName": "artificial_amb"
+    },
+    {
+        "id": 20002522,
+        "eventName": "play_artificial_ui_slotmachines",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002523,
+        "eventName": "play_artificial_ui_luckydice01",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002524,
+        "eventName": "play_artificial_ui_luckydice02",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002525,
+        "eventName": "play_artificial_ui_taskopen",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002526,
+        "eventName": "play_artificial_ui_mapopen",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002527,
+        "eventName": "play_artificial_ui_resetmap",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002528,
+        "eventName": "play_artificial_ui_taskreceive",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002529,
+        "eventName": "play_artificial_amb_noiselevel01",
+        "bankName": "artificial_amb"
+    },
+    {
+        "id": 20002530,
+        "eventName": "play_artificial_amb_noiselevel02",
+        "bankName": "artificial_amb"
+    },
+    {
+        "id": 20002531,
+        "eventName": "play_artificial_amb_noiselevel03",
+        "bankName": "artificial_amb"
+    },
+    {
+        "id": 20002532,
+        "eventName": "play_artificial_ui_rewardpoints",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002533,
+        "eventName": "play_artificial_ui_checkpointswitch",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002534,
+        "eventName": "play_artificial_ui_completelement",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002535,
+        "eventName": "play_artificial_ui_openfunction",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002536,
+        "eventName": "play_artificial_ui_unlockdream",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002537,
+        "eventName": "play_artificial_ui_slipmap",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002538,
+        "eventName": "stop_artificial_ui_slipmap",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002539,
+        "eventName": "play_artificial_ui_slip",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002540,
+        "eventName": "play_ui_artificial_challenge_success",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002541,
+        "eventName": "play_ui_artificial_challenge_success_star",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002542,
+        "eventName": "play_amb_artificial_mist",
+        "bankName": "artificial_amb"
+    },
+    {
+        "id": 20002543,
+        "eventName": "play_ui_artificial_installation_open",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002544,
+        "eventName": "play_ui_artificial_settlement_open",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002545,
+        "eventName": "play_ui_artificial_settlement_close",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 20002601,
+        "eventName": "play_ui_activity_switch",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20002602,
+        "eventName": "play_ui_hero_sign",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 20002603,
+        "eventName": "play_ui_skin_get_1",
+        "bankName": "ui_callfor"
+    },
+    {
+        "id": 20003001,
+        "eventName": "play_summoningaltar_music",
+        "bankName": "ui_summoningaltar"
+    },
+    {
+        "id": 20004002,
+        "eventName": "play_ui_mould_close",
+        "bankName": "ui_mould"
+    },
+    {
+        "id": 20004003,
+        "eventName": "play_ui_mould_button",
+        "bankName": "ui_mould"
+    },
+    {
+        "id": 20004005,
+        "eventName": "play_ui_mould_succeed",
+        "bankName": "ui_mould"
+    },
+    {
+        "id": 20004006,
+        "eventName": "play_ui_mould_cancel",
+        "bankName": "ui_mould"
+    },
+    {
+        "id": 20004007,
+        "eventName": "play_ui_mould_skipgeneral",
+        "bankName": "ui_mould"
+    },
+    {
+        "id": 20004008,
+        "eventName": "play_ui_mould_skipspecial",
+        "bankName": "ui_mould"
+    },
+    {
+        "id": 20004009,
+        "eventName": "play_ui_mould_succeedgeneral",
+        "bankName": "ui_mould"
+    },
+    {
+        "id": 20004010,
+        "eventName": "play_ui_mould_succeedspecial",
+        "bankName": "ui_mould"
+    },
+    {
+        "id": 20004011,
+        "eventName": "play_ui_mould_opengeneral",
+        "bankName": "ui_mould"
+    },
+    {
+        "id": 20004012,
+        "eventName": "play_ui_mould_open",
+        "bankName": "ui_mould"
+    },
+    {
+        "id": 20004013,
+        "eventName": "stop_ui_mould",
+        "bankName": "ui_mould"
+    },
+    {
+        "id": 20005001,
+        "eventName": "play_ui_settleaccounts_win",
+        "bankName": "ui_settleaccounts"
+    },
+    {
+        "id": 20005002,
+        "eventName": "play_ui_settleaccounts_lose",
+        "bankName": "ui_settleaccounts"
+    },
+    {
+        "id": 20005003,
+        "eventName": "play_ui_settleaccounts_resources",
+        "bankName": "ui_settleaccounts"
+    },
+    {
+        "id": 20006001,
+        "eventName": "play_ui_screenplay_open",
+        "bankName": "ui_screenplay"
+    },
+    {
+        "id": 20006002,
+        "eventName": "play_ui_screenplay_plot_playback",
+        "bankName": "ui_screenplay"
+    },
+    {
+        "id": 20006003,
+        "eventName": "play_ui_screenplay_plot_switch",
+        "bankName": "ui_screenplay"
+    },
+    {
+        "id": 20006004,
+        "eventName": "play_ui_screenplay_photo_open",
+        "bankName": "ui_screenplay"
+    },
+    {
+        "id": 20006005,
+        "eventName": "play_ui_screenplay_photo_close",
+        "bankName": "ui_screenplay"
+    },
+    {
+        "id": 20006006,
+        "eventName": "play_ui_screenplay_photo_click",
+        "bankName": "ui_screenplay"
+    },
+    {
+        "id": 20007001,
+        "eventName": "play_ui_resonate_open",
+        "bankName": "ui_resonate"
+    },
+    {
+        "id": 20007002,
+        "eventName": "play_ui_resonate_property_open",
+        "bankName": "ui_resonate"
+    },
+    {
+        "id": 20007003,
+        "eventName": "play_ui_resonate_property_close",
+        "bankName": "ui_resonate"
+    },
+    {
+        "id": 20007004,
+        "eventName": "play_ui_resonate_level_open",
+        "bankName": "ui_resonate"
+    },
+    {
+        "id": 20007005,
+        "eventName": "play_ui_resonate_level_success",
+        "bankName": "ui_resonate"
+    },
+    {
+        "id": 20007006,
+        "eventName": "play_ui_resonate_success_close",
+        "bankName": "ui_resonate"
+    },
+    {
+        "id": 20007007,
+        "eventName": "play_ui_resonate_property_click",
+        "bankName": "ui_resonate"
+    },
+    {
+        "id": 20007008,
+        "eventName": "play_ui_property_success",
+        "bankName": "ui_resonate"
+    },
+    {
+        "id": 20007009,
+        "eventName": "play_ui_property_fail",
+        "bankName": "ui_resonate"
+    },
+    {
+        "id": 20007010,
+        "eventName": "play_ui_resonate_close",
+        "bankName": "ui_resonate"
+    },
+    {
+        "id": 20008001,
+        "eventName": "play_ui_inscription_engrave",
+        "bankName": "ui_inscription"
+    },
+    {
+        "id": 20008002,
+        "eventName": "play_ui_inscription_breach",
+        "bankName": "ui_inscription"
+    },
+    {
+        "id": 20008003,
+        "eventName": "play_ui_inscription_refine",
+        "bankName": "ui_inscription"
+    },
+    {
+        "id": 20009001,
+        "eventName": "play_ui_home_board_remove",
+        "bankName": "home"
+    },
+    {
+        "id": 20009002,
+        "eventName": "play_ui_home_board_fix",
+        "bankName": "home"
+    },
+    {
+        "id": 20009003,
+        "eventName": "play_ui_home_board_switch",
+        "bankName": "home"
+    },
+    {
+        "id": 20009004,
+        "eventName": "play_ui_home_board_put",
+        "bankName": "home"
+    },
+    {
+        "id": 20009005,
+        "eventName": "play_amb_home_ocean",
+        "bankName": "home"
+    },
+    {
+        "id": 20009006,
+        "eventName": "play_amb_home_forest",
+        "bankName": "home"
+    },
+    {
+        "id": 20009007,
+        "eventName": "play_amb_home_sculpture",
+        "bankName": "home"
+    },
+    {
+        "id": 20009008,
+        "eventName": "play_amb_home_ruins",
+        "bankName": "home"
+    },
+    {
+        "id": 20009009,
+        "eventName": "play_amb_home_river",
+        "bankName": "home"
+    },
+    {
+        "id": 20009010,
+        "eventName": "stop_amb_home",
+        "bankName": "home"
+    },
+    {
+        "id": 20009011,
+        "eventName": "play_ui_home_board_upgrade",
+        "bankName": "home"
+    },
+    {
+        "id": 20009012,
+        "eventName": "play_amb_home_build_barn",
+        "bankName": "home"
+    },
+    {
+        "id": 20009013,
+        "eventName": "play_amb_home_build_dock",
+        "bankName": "home"
+    },
+    {
+        "id": 20009014,
+        "eventName": "play_ui_home_collect_bubble",
+        "bankName": "home"
+    },
+    {
+        "id": 20009015,
+        "eventName": "play_ui_home_board_put",
+        "bankName": "home"
+    },
+    {
+        "id": 20009016,
+        "eventName": "play_ui_home_board_remove",
+        "bankName": "home"
+    },
+    {
+        "id": 20009017,
+        "eventName": "play_ui_home_board_lay",
+        "bankName": "home"
+    },
+    {
+        "id": 20009018,
+        "eventName": "play_ui_home_board_drag",
+        "bankName": "home"
+    },
+    {
+        "id": 20009019,
+        "eventName": "play_ui_home_board_fix",
+        "bankName": "home"
+    },
+    {
+        "id": 20009020,
+        "eventName": "play_ui_home_board_recovery",
+        "bankName": "home"
+    },
+    {
+        "id": 20009021,
+        "eventName": "play_amb_home_mist",
+        "bankName": "home"
+    },
+    {
+        "id": 20009022,
+        "eventName": "play_ui_home_yield_click",
+        "bankName": "home"
+    },
+    {
+        "id": 20009023,
+        "eventName": "play_ui_home_yield_open",
+        "bankName": "home"
+    },
+    {
+        "id": 20009024,
+        "eventName": "play_ui_home_firmup_close",
+        "bankName": "home"
+    },
+    {
+        "id": 20009025,
+        "eventName": "play_ui_home_firmup_upgrade",
+        "bankName": "home"
+    },
+    {
+        "id": 20009026,
+        "eventName": "play_ui_home_role_drag",
+        "bankName": "home"
+    },
+    {
+        "id": 20009027,
+        "eventName": "play_ui_home_role_put",
+        "bankName": "home"
+    },
+    {
+        "id": 20009028,
+        "eventName": "play_ui_home_door_effect_move",
+        "bankName": "home"
+    },
+    {
+        "id": 20009029,
+        "eventName": "play_ui_home_door_effect_put",
+        "bankName": "home"
+    },
+    {
+        "id": 20009030,
+        "eventName": "play_ui_home_shop_collect",
+        "bankName": "home"
+    },
+    {
+        "id": 20009031,
+        "eventName": "play_ui_home_firmup_open",
+        "bankName": "home"
+    },
+    {
+        "id": 20009032,
+        "eventName": "play_ui_home_firmup_open",
+        "bankName": "home"
+    },
+    {
+        "id": 20009033,
+        "eventName": "play_ui_home_role_switch",
+        "bankName": "home"
+    },
+    {
+        "id": 20009034,
+        "eventName": "play_ui_home_role_fix",
+        "bankName": "home"
+    },
+    {
+        "id": 20009035,
+        "eventName": "play_ui_home_role_remove",
+        "bankName": "home"
+    },
+    {
+        "id": 20009036,
+        "eventName": "play_ui_home_lens_push",
+        "bankName": "home"
+    },
+    {
+        "id": 20009037,
+        "eventName": "play_ui_home_lens_pull",
+        "bankName": "home"
+    },
+    {
+        "id": 20009038,
+        "eventName": "play_amb_home_build_beacon",
+        "bankName": "home"
+    },
+    {
+        "id": 20009039,
+        "eventName": "play_amb_home_build_workshop",
+        "bankName": "home"
+    },
+    {
+        "id": 20009040,
+        "eventName": "play_amb_home_build_greenhouse",
+        "bankName": "home"
+    },
+    {
+        "id": 20009041,
+        "eventName": "play_amb_home_build_fair",
+        "bankName": "home"
+    },
+    {
+        "id": 20009042,
+        "eventName": "play_amb_home_build_belfry",
+        "bankName": "home"
+    },
+    {
+        "id": 20009043,
+        "eventName": "play_amb_home_build_fountain",
+        "bankName": "home"
+    },
+    {
+        "id": 20009044,
+        "eventName": "play_ui_home_fountain_mix",
+        "bankName": "home"
+    },
+    {
+        "id": 20009045,
+        "eventName": "play_ui_home_mission_complete",
+        "bankName": "home"
+    },
+    {
+        "id": 20009046,
+        "eventName": "play_amb_home_build_belfry_gear",
+        "bankName": "home"
+    },
+    {
+        "id": 20009047,
+        "eventName": "play_amb_home_build_big_ben",
+        "bankName": "home"
+    },
+    {
+        "id": 20009048,
+        "eventName": "play_amb_home_build_london_bridge",
+        "bankName": "home"
+    },
+    {
+        "id": 20009049,
+        "eventName": "play_amb_home_build_bus_horn",
+        "bankName": "home"
+    },
+    {
+        "id": 20009050,
+        "eventName": "play_amb_home_build_ferris_wheel",
+        "bankName": "home"
+    },
+    {
+        "id": 20010001,
+        "eventName": "play_ui_mail_open",
+        "bankName": "ui_mail"
+    },
+    {
+        "id": 20010002,
+        "eventName": "play_ui_activity_switch",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20010003,
+        "eventName": "play_ui_taskinterface",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 20010004,
+        "eventName": "play_ui_activity_jump",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20010005,
+        "eventName": "play_ui_activity_act",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20010006,
+        "eventName": "play_ui_no_requirement",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 20010007,
+        "eventName": "play_ui_closehouse",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 20010008,
+        "eventName": "play_ui_note_course_finish",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 20010009,
+        "eventName": "play_ui_note_course_unlock",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 20011001,
+        "eventName": "play_ui_sign_special",
+        "bankName": "sign_ui"
+    },
+    {
+        "id": 20011002,
+        "eventName": "play_ui_sign_calendar_day_turn",
+        "bankName": "sign_ui"
+    },
+    {
+        "id": 20011003,
+        "eventName": "play_ui_sign_calendar_month_turn",
+        "bankName": "sign_ui"
+    },
+    {
+        "id": 20011004,
+        "eventName": "play_ui_sign_general",
+        "bankName": "sign_ui"
+    },
+    {
+        "id": 20011005,
+        "eventName": "play_ui_feedback_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 20011006,
+        "eventName": "play_ui_plot_common",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 20011007,
+        "eventName": "play_ui_sign_receive",
+        "bankName": "sign_ui"
+    },
+    {
+        "id": 20011008,
+        "eventName": "play_ui_sign_menology",
+        "bankName": "sign_ui"
+    },
+    {
+        "id": 20011009,
+        "eventName": "play_ui_sign_dailyrewards",
+        "bankName": "sign_ui"
+    },
+    {
+        "id": 20012001,
+        "eventName": "play_ui_set_volume_button",
+        "bankName": "set_ui"
+    },
+    {
+        "id": 20012002,
+        "eventName": "play_ui_set_click",
+        "bankName": "set_ui"
+    },
+    {
+        "id": 20012003,
+        "eventName": "play_ui_set_select",
+        "bankName": "set_ui"
+    },
+    {
+        "id": 20012004,
+        "eventName": "play_amb_willparse_noise",
+        "bankName": "amb_willparse_noise"
+    },
+    {
+        "id": 20012010,
+        "eventName": "play_ui_inking_preference_open",
+        "bankName": "ui_inking"
+    },
+    {
+        "id": 25000001,
+        "eventName": "play_ui_activity_countdown",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25000002,
+        "eventName": "play_ui_activity_utensils",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25000003,
+        "eventName": "stop_ui_activity_utensils",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25000004,
+        "eventName": "play_ui_activity_add_success",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25000005,
+        "eventName": "play_ui_activity_develop_success",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25000006,
+        "eventName": "play_ui_activity_develop_fail",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25000051,
+        "eventName": "play_artificial_ui_carddisappear",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 25000053,
+        "eventName": "play_ui_checkpoint_resources_cardpass",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 25000055,
+        "eventName": "play_ui_plot_common",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 25000057,
+        "eventName": "play_ui_help_close",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 25000060,
+        "eventName": "play_ui_permit_enter_button",
+        "bankName": "ui_permit"
+    },
+    {
+        "id": 25000061,
+        "eventName": "play_ui_permit_enter_button",
+        "bankName": "ui_permit"
+    },
+    {
+        "id": 25000062,
+        "eventName": "play_ui_permit_receive_button",
+        "bankName": "ui_permit"
+    },
+    {
+        "id": 25000063,
+        "eventName": "play_ui_permit_decibel_upgrade",
+        "bankName": "ui_permit"
+    },
+    {
+        "id": 25000064,
+        "eventName": "play_ui_permit_slide",
+        "bankName": "ui_permit"
+    },
+    {
+        "id": 25000065,
+        "eventName": "stop_ui_permit_slide",
+        "bankName": "ui_permit"
+    },
+    {
+        "id": 25000081,
+        "eventName": "play_ui_petrus_exchange_icon_lock",
+        "bankName": "ui_remitcup"
+    },
+    {
+        "id": 25000082,
+        "eventName": "play_ui_petrus_exchange_icon_unlock",
+        "bankName": "ui_remitcup"
+    },
+    {
+        "id": 25000083,
+        "eventName": "play_ui_petrus_exchange_page_turn",
+        "bankName": "ui_remitcup"
+    },
+    {
+        "id": 25000084,
+        "eventName": "play_ui_petrus_exchange_element_get",
+        "bankName": "ui_remitcup"
+    },
+    {
+        "id": 25000085,
+        "eventName": "play_ui_petrus_mission_skip",
+        "bankName": "ui_remitcup"
+    },
+    {
+        "id": 25001001,
+        "eventName": "play_artificial_ui_cardappear",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 25001002,
+        "eventName": "play_artificial_ui_carddisappear",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 25001003,
+        "eventName": "play_ui_common_pause",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 25001004,
+        "eventName": "play_ui_player_interface_open",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 25001005,
+        "eventName": "play_ui_player_interface_close",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 25001006,
+        "eventName": "play_ui_player_roleshow",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 25001007,
+        "eventName": "play_ui_screenplay_photo_close",
+        "bankName": "ui_screenplay"
+    },
+    {
+        "id": 25001008,
+        "eventName": "play_ui_checkpoint_insight_click",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 25001009,
+        "eventName": "play_ui_screenplay_photo_open",
+        "bankName": "ui_screenplay"
+    },
+    {
+        "id": 25001010,
+        "eventName": "play_ui_checkpoint_story_open",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 25001011,
+        "eventName": "play_ui_checkpoint_insight_close",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 25001012,
+        "eventName": "play_ui_task_page",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 25001013,
+        "eventName": "play_artificial_ui_fight_choosecard",
+        "bankName": "artificial_ui"
+    },
+    {
+        "id": 25001014,
+        "eventName": "play_ui_checkpoint_continuemesh",
+        "bankName": "ui_checkpoint"
+    },
+    {
+        "id": 25001015,
+        "eventName": "play_ui_mln_receive",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001016,
+        "eventName": "play_ui_mln_move",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001017,
+        "eventName": "play_ui_mln_details_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001018,
+        "eventName": "play_ui_mln_delete_features",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001019,
+        "eventName": "play_ui_mln_day_night",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001020,
+        "eventName": "play_ui_activity_leimi_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001021,
+        "eventName": "play_ui_leimi_paraphrase_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001022,
+        "eventName": "play_ui_leimi_hippie_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001023,
+        "eventName": "play_ui_leimi_theft_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001024,
+        "eventName": "play_ui_leimi_souvenir_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001025,
+        "eventName": "play_ui_leimi_level_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001026,
+        "eventName": "play_ui_leimi_unlock",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001027,
+        "eventName": "play_ui_mln_page_turn",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001028,
+        "eventName": "play_ui_mln_stamp",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001029,
+        "eventName": "play_ui_mln_progress_grow",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001030,
+        "eventName": "play_ui_mln_unlock",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001031,
+        "eventName": "play_ui_role_culture_open",
+        "bankName": "ui_role"
+    },
+    {
+        "id": 25001032,
+        "eventName": "play_ui_hero_sign",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 25001033,
+        "eventName": "play_ui_taskinterface",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 25001034,
+        "eventName": "play_ui_leimi_decrypt_correct",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001035,
+        "eventName": "play_ui_leimi_decrypt_incorrect",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001036,
+        "eventName": "play_ui_activity_lyrics_complete",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001037,
+        "eventName": "play_ui_hero_sign",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 25001038,
+        "eventName": "play_ui_mission_open",
+        "bankName": "ui_mission"
+    },
+    {
+        "id": 25001039,
+        "eventName": "play_ui_task_slide",
+        "bankName": "ui_task"
+    },
+    {
+        "id": 25001040,
+        "eventName": "play_ui_leimi_explore_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001041,
+        "eventName": "play_ui_leimi_level_difficulty",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001042,
+        "eventName": "play_ui_leimi_smalluncharted_return",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001043,
+        "eventName": "play_ui_leimi_season_clearing",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001044,
+        "eventName": "play_ui_leimi_season_succeed",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001045,
+        "eventName": "play_ui_leimi_clearing_unfold",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001046,
+        "eventName": "play_ui_leimi_biguncharted_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001047,
+        "eventName": "play_ui_leimi_smalluncharted_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001048,
+        "eventName": "play_ui_leimi_celebrity_synthesis",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001049,
+        "eventName": "play_ui_leimi_celebrity_get",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001050,
+        "eventName": "play_ui_leimi_map_upgrade",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001051,
+        "eventName": "play_ui_leimi_smalluncharted_refresh",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001052,
+        "eventName": "play_ui_leimi_symbol_upgrade",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001053,
+        "eventName": "play_ui_leimi_decrypt_correct",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001054,
+        "eventName": "play_ui_leimi_decrypt_incorrect",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001055,
+        "eventName": "play_ui_mln_remove_effect",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001056,
+        "eventName": "play_ui_mln_no_effect",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001057,
+        "eventName": "play_ui_checkpoint_noise_exhibition_hall",
+        "bankName": "activity_leimi1_1_amb"
+    },
+    {
+        "id": 25001201,
+        "eventName": "play_amb_activity_pikelesi_street",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001202,
+        "eventName": "play_amb_activity_pikelesi_ship",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001203,
+        "eventName": "play_ui_pkls_star_light",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001204,
+        "eventName": "play_ui_pkls_endpoint_arrival",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001205,
+        "eventName": "play_ui_pkls_challenge_fail",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001206,
+        "eventName": "play_ui_pkls_prop_get",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001207,
+        "eventName": "play_ui_pkls_role_move",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001208,
+        "eventName": "play_ui_pkls_enemy_move",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001209,
+        "eventName": "play_ui_pkls_prop_pick",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001210,
+        "eventName": "play_ui_pkls_prop_put",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001211,
+        "eventName": "play_ui_pkls_role_disappear",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001212,
+        "eventName": "play_ui_activity_dog_open",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001213,
+        "eventName": "play_ui_activity_dog_danger",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001214,
+        "eventName": "play_ui_activity_dog_happy",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001215,
+        "eventName": "play_ui_activity_dog_page",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001216,
+        "eventName": "play_ui_pkls_game_reopen",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001217,
+        "eventName": "play_ui_pkls_hit_sheriff",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001218,
+        "eventName": "play_ui_pkls_dog_chosen",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001219,
+        "eventName": "play_ui_pkls_wjys_chosen",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001220,
+        "eventName": "play_ui_pkls_apple_chosen",
+        "bankName": "ui_activity"
+    },
+    {
+        "id": 25001221,
+        "eventName": "muisc_obscure_open",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 25001222,
+        "eventName": "muisc_obscure_close",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 29999998,
+        "eventName": "stop_hero_voc_bus",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 29999999,
+        "eventName": "stop_ui_noise",
+        "bankName": "controlling_behavior"
+    }
+]

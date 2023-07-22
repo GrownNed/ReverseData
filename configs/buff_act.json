@@ -1,0 +1,749 @@
+[
+    {
+        "id": 100,
+        "type": "Attr",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 101,
+        "type": "EquipAttr",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 102,
+        "type": "ExPointAttr",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 103,
+        "type": "BuffAttr",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 104,
+        "type": "AttrReal",
+        "effectTime": 202,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 105,
+        "type": "AttrMagic",
+        "effectTime": 202,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 106,
+        "type": "AttrSkillSingle",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 107,
+        "type": "AttrSkillMultiple",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 108,
+        "type": "Attr",
+        "effectTime": 203,
+        "effectCondition": 2,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 109,
+        "type": "Attr",
+        "effectTime": 202,
+        "effectCondition": 2,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 110,
+        "type": "Attr",
+        "effectTime": 203,
+        "effectCondition": 1,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 111,
+        "type": "Attr",
+        "effectTime": 202,
+        "effectCondition": 1,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 201,
+        "type": "Cure",
+        "effectTime": 102,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 202,
+        "type": "Dot",
+        "effectTime": 302,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 203,
+        "type": "Dot",
+        "effectTime": 210,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 204,
+        "type": "Cure",
+        "effectTime": 2091,
+        "effectCondition": 3,
+        "effect": "buff_huixue",
+        "effectHangPoint": "mountbottom",
+        "audioId": 410000015
+    },
+    {
+        "id": 205,
+        "type": "Dot",
+        "effectTime": 208,
+        "effectCondition": 1,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 206,
+        "type": "Cure",
+        "effectTime": 2111,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 207,
+        "type": "Cure",
+        "effectTime": 2081,
+        "effectCondition": 1,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 208,
+        "type": "Dot",
+        "effectTime": 2091,
+        "effectCondition": 1,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 209,
+        "type": "CureBeAttacked",
+        "effectTime": 2091,
+        "effectCondition": 3,
+        "effect": "buff_huixue",
+        "effectHangPoint": "mountbottom",
+        "audioId": 410000015
+    },
+    {
+        "id": 301,
+        "type": "Taunt",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 302,
+        "type": "BeatBack",
+        "effectTime": 401,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 303,
+        "type": "Rebound",
+        "effectTime": 209,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 304,
+        "type": "ExPointFix",
+        "effectTime": 207,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 305,
+        "type": "AddToAttacker",
+        "effectTime": 2091,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 306,
+        "type": "ExPointFix",
+        "effectTime": 211,
+        "effectCondition": 0,
+        "effect": "buff_nuqizengjia",
+        "effectHangPoint": "mountbottom",
+        "audioId": 410000022
+    },
+    {
+        "id": 307,
+        "type": "ExPointFix",
+        "effectTime": 211,
+        "effectCondition": 0,
+        "effect": "buff_nuqijiangdi",
+        "effectHangPoint": "mountbottom",
+        "audioId": 410000023
+    },
+    {
+        "id": 401,
+        "type": "Dizzy",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 402,
+        "type": "Petrified",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 403,
+        "type": "Sleep",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 404,
+        "type": "Frozen",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 405,
+        "type": "Disarm",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 406,
+        "type": "Forbid",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 407,
+        "type": "Seal",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 408,
+        "type": "ForbidSpecEffect",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 409,
+        "type": "Rigid",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 410,
+        "type": "Cold",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 411,
+        "type": "Palsy",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 501,
+        "type": "Shield",
+        "effectTime": 207,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 502,
+        "type": "Immunity",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 503,
+        "type": "AddToTarget",
+        "effectTime": 208,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 504,
+        "type": "DamageExtra",
+        "effectTime": 208,
+        "effectCondition": 0,
+        "effect": "buff_fujia",
+        "effectHangPoint": "mountmiddle",
+        "audioId": 410000043
+    },
+    {
+        "id": 505,
+        "type": "DodgeSpecSkill",
+        "effectTime": 207,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 507,
+        "type": "DodgeSpecSkill2",
+        "effectTime": 207,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 508,
+        "type": "ExPointAdd",
+        "effectTime": 102,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 509,
+        "type": "ImmunityExpointChange",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 510,
+        "type": "DamageNotMoreThan",
+        "effectTime": 207,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 511,
+        "type": "FixedHurt",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 512,
+        "type": "Cure",
+        "effectTime": 12,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 513,
+        "type": "ExPointAddAfterDelOrAbsorbExPoint",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 514,
+        "type": "ExSkillNoConsumption",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 515,
+        "type": "ExPointAdd",
+        "effectTime": 301,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 516,
+        "type": "ExPointAdd",
+        "effectTime": 2091,
+        "effectCondition": 4,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 517,
+        "type": "HurtExtra",
+        "effectTime": 2061,
+        "effectCondition": 1,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 518,
+        "type": "AddToTarget",
+        "effectTime": 201,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 601,
+        "type": "Injury",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 602,
+        "type": "CantCrit",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 603,
+        "type": "ExPointCantAdd",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 604,
+        "type": "BuffRoundAdd",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 605,
+        "type": "ExPointDel",
+        "effectTime": 302,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 606,
+        "type": "ExPointCardUpgrade",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 607,
+        "type": "ExPointCardMove",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 608,
+        "type": "BuffRoundAddByBuffTypeId",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 609,
+        "type": "ExPointDel",
+        "effectTime": 2081,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 610,
+        "type": "FixedDamage",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 611,
+        "type": "BuffRoundAddByBuffTypeGroup",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 612,
+        "type": "AddSkillBuffCountAndDuration",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 701,
+        "type": "CardLevelAdd",
+        "effectTime": 102,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 702,
+        "type": "BuffReplace",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 703,
+        "type": "ExPointMaxAdd",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 704,
+        "type": "HaloBase",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 705,
+        "type": "SelectLast",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 706,
+        "type": "PassiveSkillInvalid",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 707,
+        "type": "CantSelect",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 708,
+        "type": "HideLife",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 709,
+        "type": "BuffAddAct",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 710,
+        "type": "Freeze",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 711,
+        "type": "CantSelectEx",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 713,
+        "type": "ExSkillPointChange",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 714,
+        "type": "OverflowHealToShield",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 715,
+        "type": "HarmStatistic",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    },
+    {
+        "id": 716,
+        "type": "InjuryAbsorb",
+        "effectTime": 0,
+        "effectCondition": 0,
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0
+    }
+]

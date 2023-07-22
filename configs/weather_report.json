@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "lightMode": 1,
+        "roleMode": 1,
+        "effect": 1
+    },
+    {
+        "id": 2,
+        "lightMode": 1,
+        "roleMode": 1,
+        "effect": 2
+    },
+    {
+        "id": 3,
+        "lightMode": 1,
+        "roleMode": 1,
+        "effect": 3
+    },
+    {
+        "id": 4,
+        "lightMode": 1,
+        "roleMode": 1,
+        "effect": 4
+    },
+    {
+        "id": 5,
+        "lightMode": 2,
+        "roleMode": 2,
+        "effect": 1
+    },
+    {
+        "id": 6,
+        "lightMode": 2,
+        "roleMode": 2,
+        "effect": 3
+    },
+    {
+        "id": 7,
+        "lightMode": 2,
+        "roleMode": 2,
+        "effect": 4
+    },
+    {
+        "id": 8,
+        "lightMode": 2,
+        "roleMode": 2,
+        "effect": 5
+    },
+    {
+        "id": 9,
+        "lightMode": 2,
+        "roleMode": 2,
+        "effect": 8
+    },
+    {
+        "id": 10,
+        "lightMode": 2,
+        "roleMode": 2,
+        "effect": 6
+    },
+    {
+        "id": 11,
+        "lightMode": 2,
+        "roleMode": 2,
+        "effect": 7
+    },
+    {
+        "id": 12,
+        "lightMode": 3,
+        "roleMode": 3,
+        "effect": 1
+    },
+    {
+        "id": 13,
+        "lightMode": 3,
+        "roleMode": 3,
+        "effect": 2
+    },
+    {
+        "id": 14,
+        "lightMode": 3,
+        "roleMode": 3,
+        "effect": 3
+    },
+    {
+        "id": 15,
+        "lightMode": 4,
+        "roleMode": 4,
+        "effect": 1
+    },
+    {
+        "id": 16,
+        "lightMode": 4,
+        "roleMode": 4,
+        "effect": 3
+    },
+    {
+        "id": 17,
+        "lightMode": 4,
+        "roleMode": 4,
+        "effect": 4
+    },
+    {
+        "id": 18,
+        "lightMode": 4,
+        "roleMode": 4,
+        "effect": 5
+    }
+]

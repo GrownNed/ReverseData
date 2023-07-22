@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "bpId": 1,
+        "type": 1,
+        "iconType": 5,
+        "icon": "301703",
+        "des": "[夏利]限定衣着"
+    },
+    {
+        "id": 2,
+        "bpId": 1,
+        "type": 1,
+        "iconType": 1,
+        "icon": "140001",
+        "des": "独一律奖励"
+    },
+    {
+        "id": 3,
+        "bpId": 1,
+        "type": 1,
+        "iconType": 1,
+        "icon": "120013",
+        "des": "共鸣养成素材"
+    },
+    {
+        "id": 4,
+        "bpId": 1,
+        "type": 1,
+        "iconType": 9,
+        "icon": "1005",
+        "des": "心相养成素材"
+    },
+    {
+        "id": 5,
+        "bpId": 1,
+        "type": 1,
+        "iconType": 2,
+        "icon": "5",
+        "des": "微尘奖励"
+    },
+    {
+        "id": 6,
+        "bpId": 1,
+        "type": 1,
+        "iconType": 2,
+        "icon": "3",
+        "des": "利齿子儿奖励"
+    },
+    {
+        "id": 7,
+        "bpId": 1,
+        "type": 2,
+        "iconType": 1,
+        "icon": "170004",
+        "des": "「金杯岁月」限定头像"
+    },
+    {
+        "id": 8,
+        "bpId": 1,
+        "type": 2,
+        "iconType": 2,
+        "icon": "2",
+        "des": "纯雨滴×400"
+    },
+    {
+        "id": 9,
+        "bpId": 1,
+        "type": 2,
+        "iconType": 10,
+        "icon": "10",
+        "des": "苦目糖果×5"
+    }
+]

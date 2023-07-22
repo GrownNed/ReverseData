@@ -1,0 +1,3922 @@
+[
+    {
+        "id": 1000000,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "",
+        "fixBonus": "2#3#1",
+        "bonusView": "",
+        "dailyGainWarning": 5
+    },
+    {
+        "id": 1000001,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#3#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1000002,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "100",
+        "score": "",
+        "fixBonus": "2#3#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1000003,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "1000",
+        "fixBonus": "2#3#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1000004,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#3#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1000005,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#3#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1000006,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#3#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1000096,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1000097,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1000098,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1000099,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1001001,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1001002,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1001003,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1001004,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1001005,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1001006,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#400",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010201,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#400",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010301,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#400",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010401,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#400",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010501,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#400",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010601,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#400",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010701,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#400",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010801,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#400",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010901,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#400",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1011001,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1011101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010102,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#3#5000|2#5#5000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010202,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010302,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010402,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#5#1000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010502,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010602,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010702,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010802,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010902,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "7#1#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1011002,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1011102,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010103,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010203,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010303,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010403,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010503,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010603,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010703,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010803,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1010903,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1011003,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1011103,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#800",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020201,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020301,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020401,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020501,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020601,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#800",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020701,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#3#1000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020801,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#3#1000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020901,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1021001,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1021101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1021201,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020102,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020202,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020302,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020402,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020502,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020602,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020702,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020802,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "9#1306#1|9#1307#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020902,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1021002,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "1#980027#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1021102,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1021202,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "1#190010#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1021302,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "1#980025#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020103,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020203,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020303,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020403,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020503,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020603,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020703,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020803,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1020903,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1021003,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1021103,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1021203,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#3#1000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030201,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030301,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030401,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030501,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030601,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#800",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030701,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030801,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030901,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#3#1000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030102,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030202,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030302,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030402,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030502,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030602,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030702,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030802,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030902,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "1#190010#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1031002,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "1#120011#5",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030103,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030203,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030303,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030403,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030503,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030603,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030703,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030803,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1030903,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#3#1000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040201,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#800",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040301,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040401,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#3#1000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040501,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040601,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040701,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040801,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#800",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040901,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#800",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1041001,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#3#1000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1041101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040102,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040202,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040302,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040402,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040502,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040602,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040702,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040802,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040902,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1041002,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1041102,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "1#190010#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040103,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040203,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040303,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040403,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040503,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040603,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040703,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040803,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1040903,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1041003,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 1041103,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010104,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010204,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "1#110501#2",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010304,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010404,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010504,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010604,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010704,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010804,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010904,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2011004,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2011104,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#3#1000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010105,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010205,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010305,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010405,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010505,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010605,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010705,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010805,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2010905,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2011005,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2011105,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020104,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#800",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020204,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020304,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020404,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020504,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020604,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020704,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020804,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020904,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2021004,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2021104,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2021204,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#3#1000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020105,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020205,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020305,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020405,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020505,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020605,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020705,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020805,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2020905,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2021005,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2021105,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2021205,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030104,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030204,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030304,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030404,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030504,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030604,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030704,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030804,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030904,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030105,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030205,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030305,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030405,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030505,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030605,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030705,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030805,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2030905,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040104,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#3#1000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040204,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040304,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040404,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#800",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040504,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040604,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040704,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040804,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "1#110502#2",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040904,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#3#1000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2041004,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2041104,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040105,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040205,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040305,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040405,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040505,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040605,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040705,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040805,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2040905,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2041005,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 2041105,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 4010101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#4200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 4010201,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#5700",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 4010301,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#7400",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 4010401,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#8800",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 4010501,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#10350",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 4010601,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#5#12500",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 5010101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "",
+        "fixBonus": "2#3#2600",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 5010201,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "",
+        "fixBonus": "2#3#3600",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 5010301,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "",
+        "fixBonus": "2#3#4750",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 5010401,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "",
+        "fixBonus": "2#3#5800",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 5010501,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "",
+        "fixBonus": "2#3#7150",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 5010601,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "",
+        "fixBonus": "2#3#9000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6010101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#21#2|9#1003#1|9#1002#2",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6010201,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#21#2|9#1003#1|9#1002#2",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6010301,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#21#2|9#1003#1|9#1002#2",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6010401,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#21#2|9#1003#1|9#1002#3",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6010501,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#21#2|9#1003#1|9#1002#3",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6010601,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#21#2|9#1003#1|9#1002#3",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6010701,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#21#2|9#1003#1|9#1002#3",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6010102,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60|2#21#20|2#20#30",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6010202,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60|2#21#20|2#20#30",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6010302,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60|2#21#20|2#20#30",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6010402,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60|2#21#20|2#20#30",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6010502,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60|2#21#20|2#20#30",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6010602,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60|2#21#20|2#20#30",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6010702,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#2#60|2#21#20|2#20#30",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6020101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#21#5|9#1003#1|9#1002#3",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6020201,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#21#5|9#1003#1|9#1002#4",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6020301,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#21#5|9#1003#2|9#1002#2",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6020401,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#21#5|9#1003#2|9#1002#3",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6020501,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#21#5|9#1003#3|9#1002#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6020601,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#21#5|9#1003#2|9#1002#4",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 6020701,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#21#5|9#1003#3|9#1002#2",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7010101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7010201,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7010301,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7010401,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7010501,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7010601,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7020101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7020201,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7020301,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7020401,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7020501,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7020601,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7030101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7030201,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7030301,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7030401,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7030501,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7030601,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7040101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7040201,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7040301,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7040401,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7040501,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 7040601,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 8010101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "9#1002#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 8020101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "9#1002#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 8030101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "9#1002#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 8040101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "9#1002#1",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 901101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 901102,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 10010101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "1#190007#8",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 10010201,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "1#190007#10",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 10010301,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "1#190007#11",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 10010401,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011011,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#2400",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011021,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#2400",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011031,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#2400",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011041,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#2400",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011051,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#2700",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011061,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#2700",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011071,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#2700",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011081,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#2700",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011091,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#2700",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#3000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011111,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#3000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011121,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#3000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011131,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#3000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011141,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#3000",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011151,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#3200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011161,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#3200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011171,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#3200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011181,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#3200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011191,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#3200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011201,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#3500",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011211,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#1200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011221,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#1200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011231,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#1200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011241,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#1200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011251,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#1200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011261,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#1500",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011271,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#1500",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011281,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#1500",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011291,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#1500",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011301,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#1500",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011311,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#1500",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011321,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#1500",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011331,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#1500",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011341,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#1500",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11011351,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1112#1500",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11101011,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#120",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11101021,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#120",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11101031,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#120",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11101041,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#120",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11101051,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#120",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11101061,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#120",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11101071,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#120",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11101081,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#120",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11101091,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#120",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11101101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#120",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11101111,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#120",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11301011,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#170",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11301021,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#170",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11301031,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#180",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11301041,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11301012,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#111#250",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11301022,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#111#250",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11301032,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#111#250",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11301042,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#111#250",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11401011,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#250",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11401021,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#250",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11401031,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#270",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11401041,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#111#300",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11401012,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#111#250",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11401022,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#111#250",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11401032,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#111#250",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 11401042,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#111#250",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12101011,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#160",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12101021,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#160",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12101031,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#160",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12101041,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#160",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12101051,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#160",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12101061,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#160",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12101071,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#160",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12101081,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#160",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12101091,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#160",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12101101,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#160",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12101111,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#160",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12301011,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#210",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12301021,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#230",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12301031,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#260",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12301012,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1201#320",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12301022,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1201#320",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12301032,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1201#320",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12401011,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#320",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12401021,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#350",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12401031,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#400",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12401012,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1201#320",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12401022,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1201#320",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12401032,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1201#320",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12501011,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#180|2#1202#100",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12501021,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#250|2#1202#150",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12501031,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "10*cost",
+        "score": "10*cost",
+        "fixBonus": "2#1201#380|2#1202#200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12501012,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1202#200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12501022,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1202#200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    },
+    {
+        "id": 12501032,
+        "dailyGainLimit": 0,
+        "heroExp": "",
+        "playerExp": "",
+        "score": "",
+        "fixBonus": "2#1202#200",
+        "bonusView": "",
+        "dailyGainWarning": 0
+    }
+]

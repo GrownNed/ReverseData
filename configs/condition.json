@@ -1,0 +1,163 @@
+[
+    {
+        "id": 10,
+        "type": 1,
+        "desc": "胜利时我方全员存活",
+        "attr": "1",
+        "progress": 0
+    },
+    {
+        "id": 11,
+        "type": 1,
+        "desc": "胜利时我方死亡单位不超过1名",
+        "attr": "2",
+        "progress": 0
+    },
+    {
+        "id": 20,
+        "type": 2,
+        "desc": "5回合内胜利",
+        "attr": "5",
+        "progress": 0
+    },
+    {
+        "id": 21,
+        "type": 2,
+        "desc": "6回合内胜利",
+        "attr": "6",
+        "progress": 0
+    },
+    {
+        "id": 22,
+        "type": 2,
+        "desc": "8回合内胜利",
+        "attr": "8",
+        "progress": 0
+    },
+    {
+        "id": 23,
+        "type": 2,
+        "desc": "10回合内胜利",
+        "attr": "10",
+        "progress": 0
+    },
+    {
+        "id": 24,
+        "type": 2,
+        "desc": "12回合内胜利",
+        "attr": "12",
+        "progress": 0
+    },
+    {
+        "id": 25,
+        "type": 2,
+        "desc": "15回合内胜利",
+        "attr": "15",
+        "progress": 0
+    },
+    {
+        "id": 30,
+        "type": 3,
+        "desc": "10回合内我方全员存活且胜利",
+        "attr": "10",
+        "progress": 0
+    },
+    {
+        "id": 31,
+        "type": 3,
+        "desc": "12回合内我方全员存活且胜利",
+        "attr": "12",
+        "progress": 0
+    },
+    {
+        "id": 32,
+        "type": 3,
+        "desc": "15回合内我方全员存活且胜利",
+        "attr": "15",
+        "progress": 0
+    },
+    {
+        "id": 41,
+        "type": 4,
+        "desc": "以至终的仪式终结战斗",
+        "attr": "1",
+        "progress": 0
+    },
+    {
+        "id": 42,
+        "type": 4,
+        "desc": "以3阶神秘术咒语终结战斗",
+        "attr": "2",
+        "progress": 0
+    },
+    {
+        "id": 52,
+        "type": 5,
+        "desc": "同时击败至少2名敌方且终结战斗",
+        "attr": "2",
+        "progress": 0
+    },
+    {
+        "id": 61,
+        "type": 6,
+        "desc": "未移动咒语位置且胜利",
+        "attr": "1",
+        "progress": 0
+    },
+    {
+        "id": 62,
+        "type": 6,
+        "desc": "未使用“律的调校”且胜利",
+        "attr": "2",
+        "progress": 0
+    },
+    {
+        "id": 63,
+        "type": 6,
+        "desc": "未使用治疗类咒语且胜利",
+        "attr": "3",
+        "progress": 0
+    },
+    {
+        "id": 64,
+        "type": 6,
+        "desc": "未使用减益类咒语且胜利",
+        "attr": "4",
+        "progress": 0
+    },
+    {
+        "id": 71,
+        "type": 7,
+        "desc": "单回合释放至少3次至终的仪式且胜利",
+        "attr": "3",
+        "progress": 1
+    },
+    {
+        "id": 81,
+        "type": 8,
+        "desc": "单次造成5000以上的创伤且胜利",
+        "attr": "5000",
+        "progress": 1
+    },
+    {
+        "id": 82,
+        "type": 8,
+        "desc": "单次造成2500以上的创伤且胜利",
+        "attr": "2500",
+        "progress": 1
+    },
+    {
+        "id": 91,
+        "type": 9,
+        "desc": "胜利时角色平均生命比例高于50%",
+        "attr": "500",
+        "progress": 1
+    },
+    {
+        "id": 92,
+        "type": 9,
+        "desc": "胜利时角色平均生命比例高于75%",
+        "attr": "750",
+        "progress": 1
+    }
+]

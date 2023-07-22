@@ -1,0 +1,1130 @@
+[
+    {
+        "heroId": 3002,
+        "skillLevel": 1,
+        "skillPassive": 30020141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3002,
+        "skillLevel": 2,
+        "skillPassive": 30020142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3002,
+        "skillLevel": 3,
+        "skillPassive": 30020143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3003,
+        "skillLevel": 1,
+        "skillPassive": 30030141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3003,
+        "skillLevel": 2,
+        "skillPassive": 30030142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3003,
+        "skillLevel": 3,
+        "skillPassive": 30030143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3004,
+        "skillLevel": 1,
+        "skillPassive": 30040141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3004,
+        "skillLevel": 2,
+        "skillPassive": 30040142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3004,
+        "skillLevel": 3,
+        "skillPassive": 30040143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3005,
+        "skillLevel": 1,
+        "skillPassive": 30050141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3005,
+        "skillLevel": 2,
+        "skillPassive": 30050142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3006,
+        "skillLevel": 1,
+        "skillPassive": 30060141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3006,
+        "skillLevel": 2,
+        "skillPassive": 30060142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3007,
+        "skillLevel": 1,
+        "skillPassive": 30070141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3007,
+        "skillLevel": 2,
+        "skillPassive": 30070142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3007,
+        "skillLevel": 3,
+        "skillPassive": 30070143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3008,
+        "skillLevel": 1,
+        "skillPassive": 30080141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3008,
+        "skillLevel": 2,
+        "skillPassive": 30080142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3008,
+        "skillLevel": 3,
+        "skillPassive": 30080143,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3009,
+        "skillLevel": 1,
+        "skillPassive": 30090141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3009,
+        "skillLevel": 2,
+        "skillPassive": 30090142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3009,
+        "skillLevel": 3,
+        "skillPassive": 30090143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3010,
+        "skillLevel": 1,
+        "skillPassive": 30100141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3010,
+        "skillLevel": 2,
+        "skillPassive": 30100142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3010,
+        "skillLevel": 3,
+        "skillPassive": 30100143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3011,
+        "skillLevel": 1,
+        "skillPassive": 30110141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3011,
+        "skillLevel": 2,
+        "skillPassive": 30110142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3011,
+        "skillLevel": 3,
+        "skillPassive": 30110143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3012,
+        "skillLevel": 1,
+        "skillPassive": 30120141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3012,
+        "skillLevel": 2,
+        "skillPassive": 30120142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3013,
+        "skillLevel": 1,
+        "skillPassive": 30130141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3013,
+        "skillLevel": 2,
+        "skillPassive": 30130142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3014,
+        "skillLevel": 1,
+        "skillPassive": 30140141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3014,
+        "skillLevel": 2,
+        "skillPassive": 30140142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3015,
+        "skillLevel": 1,
+        "skillPassive": 30150141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3015,
+        "skillLevel": 2,
+        "skillPassive": 30150142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3016,
+        "skillLevel": 1,
+        "skillPassive": 30160141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3016,
+        "skillLevel": 2,
+        "skillPassive": 30160142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3016,
+        "skillLevel": 3,
+        "skillPassive": 30160143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3017,
+        "skillLevel": 1,
+        "skillPassive": 30170141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3017,
+        "skillLevel": 2,
+        "skillPassive": 30170142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3017,
+        "skillLevel": 3,
+        "skillPassive": 30170143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3018,
+        "skillLevel": 1,
+        "skillPassive": 30180141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3018,
+        "skillLevel": 2,
+        "skillPassive": 30180142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3019,
+        "skillLevel": 1,
+        "skillPassive": 30190141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3019,
+        "skillLevel": 2,
+        "skillPassive": 30190142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3019,
+        "skillLevel": 3,
+        "skillPassive": 30190143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3020,
+        "skillLevel": 1,
+        "skillPassive": 30200141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3020,
+        "skillLevel": 2,
+        "skillPassive": 30200142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3020,
+        "skillLevel": 3,
+        "skillPassive": 30200143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3021,
+        "skillLevel": 1,
+        "skillPassive": 30210141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3021,
+        "skillLevel": 2,
+        "skillPassive": 30210142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3021,
+        "skillLevel": 3,
+        "skillPassive": 30210143,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3022,
+        "skillLevel": 1,
+        "skillPassive": 30220141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3022,
+        "skillLevel": 2,
+        "skillPassive": 30220142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3022,
+        "skillLevel": 3,
+        "skillPassive": 30220143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3023,
+        "skillLevel": 1,
+        "skillPassive": 30230141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3023,
+        "skillLevel": 2,
+        "skillPassive": 30230142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3023,
+        "skillLevel": 3,
+        "skillPassive": 30230143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3024,
+        "skillLevel": 1,
+        "skillPassive": 30240141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3024,
+        "skillLevel": 2,
+        "skillPassive": 30240142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3024,
+        "skillLevel": 3,
+        "skillPassive": 30240143,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3025,
+        "skillLevel": 1,
+        "skillPassive": 30250141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3025,
+        "skillLevel": 2,
+        "skillPassive": 30250142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3025,
+        "skillLevel": 3,
+        "skillPassive": 30250143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3026,
+        "skillLevel": 1,
+        "skillPassive": 30260141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3026,
+        "skillLevel": 2,
+        "skillPassive": 30260142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3027,
+        "skillLevel": 1,
+        "skillPassive": 30270141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3027,
+        "skillLevel": 2,
+        "skillPassive": 30270142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3028,
+        "skillLevel": 1,
+        "skillPassive": 30280141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3028,
+        "skillLevel": 2,
+        "skillPassive": 30280142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3029,
+        "skillLevel": 1,
+        "skillPassive": 30290141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3029,
+        "skillLevel": 2,
+        "skillPassive": 30290142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3029,
+        "skillLevel": 3,
+        "skillPassive": 30290143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3030,
+        "skillLevel": 1,
+        "skillPassive": 30300141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3030,
+        "skillLevel": 2,
+        "skillPassive": 30300142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3031,
+        "skillLevel": 1,
+        "skillPassive": 30310141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3031,
+        "skillLevel": 2,
+        "skillPassive": 30310142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3032,
+        "skillLevel": 1,
+        "skillPassive": 30320141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3032,
+        "skillLevel": 2,
+        "skillPassive": 30320142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3032,
+        "skillLevel": 3,
+        "skillPassive": 30320143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3033,
+        "skillLevel": 1,
+        "skillPassive": 30330141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3033,
+        "skillLevel": 2,
+        "skillPassive": 30330142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3034,
+        "skillLevel": 1,
+        "skillPassive": 30340141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3034,
+        "skillLevel": 2,
+        "skillPassive": 30340142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3035,
+        "skillLevel": 1,
+        "skillPassive": 30350141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3035,
+        "skillLevel": 2,
+        "skillPassive": 30350142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3036,
+        "skillLevel": 1,
+        "skillPassive": 30360141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3036,
+        "skillLevel": 2,
+        "skillPassive": 30360142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3037,
+        "skillLevel": 1,
+        "skillPassive": 30370141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3037,
+        "skillLevel": 2,
+        "skillPassive": 30370142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3037,
+        "skillLevel": 3,
+        "skillPassive": 30370143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3038,
+        "skillLevel": 1,
+        "skillPassive": 30380141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3038,
+        "skillLevel": 2,
+        "skillPassive": 30380142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3038,
+        "skillLevel": 3,
+        "skillPassive": 30380143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3039,
+        "skillLevel": 1,
+        "skillPassive": 30390141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3039,
+        "skillLevel": 2,
+        "skillPassive": 30390142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3039,
+        "skillLevel": 3,
+        "skillPassive": 30390143,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3040,
+        "skillLevel": 1,
+        "skillPassive": 30400141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3040,
+        "skillLevel": 2,
+        "skillPassive": 30400142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3041,
+        "skillLevel": 1,
+        "skillPassive": 30410141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3041,
+        "skillLevel": 2,
+        "skillPassive": 30410142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3041,
+        "skillLevel": 3,
+        "skillPassive": 30410143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3042,
+        "skillLevel": 1,
+        "skillPassive": 30420141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3042,
+        "skillLevel": 2,
+        "skillPassive": 30420142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3043,
+        "skillLevel": 1,
+        "skillPassive": 30430141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3043,
+        "skillLevel": 2,
+        "skillPassive": 30430142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3043,
+        "skillLevel": 3,
+        "skillPassive": 30430143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3044,
+        "skillLevel": 1,
+        "skillPassive": 30440141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3044,
+        "skillLevel": 2,
+        "skillPassive": 30440142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3045,
+        "skillLevel": 1,
+        "skillPassive": 30450141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3045,
+        "skillLevel": 2,
+        "skillPassive": 30450142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3046,
+        "skillLevel": 1,
+        "skillPassive": 30460141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3046,
+        "skillLevel": 2,
+        "skillPassive": 30460142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3047,
+        "skillLevel": 1,
+        "skillPassive": 30470141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3047,
+        "skillLevel": 2,
+        "skillPassive": 30470142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3047,
+        "skillLevel": 3,
+        "skillPassive": 30470143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3048,
+        "skillLevel": 1,
+        "skillPassive": 30480141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3048,
+        "skillLevel": 2,
+        "skillPassive": 30480142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3048,
+        "skillLevel": 3,
+        "skillPassive": 30480143,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3049,
+        "skillLevel": 1,
+        "skillPassive": 30490141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3049,
+        "skillLevel": 2,
+        "skillPassive": 30490142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3049,
+        "skillLevel": 3,
+        "skillPassive": 30490143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3050,
+        "skillLevel": 1,
+        "skillPassive": 30500141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3050,
+        "skillLevel": 2,
+        "skillPassive": 30500142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3051,
+        "skillLevel": 1,
+        "skillPassive": 30510141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3051,
+        "skillLevel": 2,
+        "skillPassive": 30510142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3051,
+        "skillLevel": 3,
+        "skillPassive": 30510143,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3052,
+        "skillLevel": 1,
+        "skillPassive": 30520141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3052,
+        "skillLevel": 2,
+        "skillPassive": 30520142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3052,
+        "skillLevel": 3,
+        "skillPassive": 30520143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3053,
+        "skillLevel": 1,
+        "skillPassive": 30530141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3053,
+        "skillLevel": 2,
+        "skillPassive": 30530142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3053,
+        "skillLevel": 3,
+        "skillPassive": 30530143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3054,
+        "skillLevel": 1,
+        "skillPassive": 30540141,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3054,
+        "skillLevel": 2,
+        "skillPassive": 30540142,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3055,
+        "skillLevel": 1,
+        "skillPassive": 30550141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3055,
+        "skillLevel": 2,
+        "skillPassive": 30550142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3056,
+        "skillLevel": 1,
+        "skillPassive": 30560141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3056,
+        "skillLevel": 2,
+        "skillPassive": 30560142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3056,
+        "skillLevel": 3,
+        "skillPassive": 30560143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3057,
+        "skillLevel": 1,
+        "skillPassive": 30570141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3057,
+        "skillLevel": 2,
+        "skillPassive": 30570142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3058,
+        "skillLevel": 1,
+        "skillPassive": 30580141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3058,
+        "skillLevel": 2,
+        "skillPassive": 30580142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3059,
+        "skillLevel": 1,
+        "skillPassive": 30590141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3059,
+        "skillLevel": 2,
+        "skillPassive": 30590142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3060,
+        "skillLevel": 1,
+        "skillPassive": 30600141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3060,
+        "skillLevel": 2,
+        "skillPassive": 30600142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3060,
+        "skillLevel": 3,
+        "skillPassive": 30600143,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3061,
+        "skillLevel": 1,
+        "skillPassive": 30610141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3061,
+        "skillLevel": 2,
+        "skillPassive": 30610142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3061,
+        "skillLevel": 3,
+        "skillPassive": 30610143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3062,
+        "skillLevel": 1,
+        "skillPassive": 30620141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3062,
+        "skillLevel": 2,
+        "skillPassive": 30620142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3062,
+        "skillLevel": 3,
+        "skillPassive": 30620143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3063,
+        "skillLevel": 1,
+        "skillPassive": 30630141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3063,
+        "skillLevel": 2,
+        "skillPassive": 30630142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3063,
+        "skillLevel": 3,
+        "skillPassive": 30630143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3064,
+        "skillLevel": 1,
+        "skillPassive": 30640141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3064,
+        "skillLevel": 2,
+        "skillPassive": 30640142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3064,
+        "skillLevel": 3,
+        "skillPassive": 30640143,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3070,
+        "skillLevel": 1,
+        "skillPassive": 30700141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3070,
+        "skillLevel": 2,
+        "skillPassive": 30700142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3070,
+        "skillLevel": 3,
+        "skillPassive": 30700143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 3071,
+        "skillLevel": 1,
+        "skillPassive": 30710141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3071,
+        "skillLevel": 2,
+        "skillPassive": 30710142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3071,
+        "skillLevel": 3,
+        "skillPassive": 30710143,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3072,
+        "skillLevel": 1,
+        "skillPassive": 30720141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 3072,
+        "skillLevel": 2,
+        "skillPassive": 30720142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 3072,
+        "skillLevel": 3,
+        "skillPassive": 30720143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 9994,
+        "skillLevel": 1,
+        "skillPassive": 99940141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 9994,
+        "skillLevel": 2,
+        "skillPassive": 99940142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 9994,
+        "skillLevel": 3,
+        "skillPassive": 99940143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 9995,
+        "skillLevel": 1,
+        "skillPassive": 99950141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 9995,
+        "skillLevel": 2,
+        "skillPassive": 99950142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 9995,
+        "skillLevel": 3,
+        "skillPassive": 99950143,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 9996,
+        "skillLevel": 1,
+        "skillPassive": 30480141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 9996,
+        "skillLevel": 2,
+        "skillPassive": 30480142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 9996,
+        "skillLevel": 3,
+        "skillPassive": 30480143,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 9999,
+        "skillLevel": 1,
+        "skillPassive": 99980141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 9999,
+        "skillLevel": 2,
+        "skillPassive": 99980142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 9998,
+        "skillLevel": 1,
+        "skillPassive": 99980141,
+        "skillGroup": 3
+    },
+    {
+        "heroId": 9998,
+        "skillLevel": 2,
+        "skillPassive": 99980142,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 9998,
+        "skillLevel": 3,
+        "skillPassive": 99980143,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 9997,
+        "skillLevel": 1,
+        "skillPassive": 99970141,
+        "skillGroup": 1
+    },
+    {
+        "heroId": 9997,
+        "skillLevel": 2,
+        "skillPassive": 99970142,
+        "skillGroup": 2
+    },
+    {
+        "heroId": 9997,
+        "skillLevel": 3,
+        "skillPassive": 99970143,
+        "skillGroup": 3
+    }
+]

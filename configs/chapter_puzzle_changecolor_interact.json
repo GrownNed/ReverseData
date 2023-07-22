@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "desc": "切换1、2块颜色1步",
+        "interactvalue": "1|1#2"
+    },
+    {
+        "id": 2,
+        "desc": "切换2、4块颜色1步",
+        "interactvalue": "1|2#4"
+    },
+    {
+        "id": 3,
+        "desc": "切换1、3、4块颜色1步",
+        "interactvalue": "1|1#3#4"
+    },
+    {
+        "id": 4,
+        "desc": "切换1、4块颜色1步",
+        "interactvalue": "1|1#4"
+    },
+    {
+        "id": 5,
+        "desc": "切换1块颜色2步",
+        "interactvalue": "2|1"
+    },
+    {
+        "id": 6,
+        "desc": "切换2、4块颜色2步",
+        "interactvalue": "2|2#4"
+    }
+]

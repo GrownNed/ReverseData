@@ -1,0 +1,1586 @@
+[
+    {
+        "id": 0,
+        "type": "None"
+    },
+    {
+        "id": 1,
+        "type": "LifeLess"
+    },
+    {
+        "id": 1101,
+        "type": "LifeLess"
+    },
+    {
+        "id": 1102,
+        "type": "LifeLess"
+    },
+    {
+        "id": 1103,
+        "type": "LifeLess"
+    },
+    {
+        "id": 1104,
+        "type": "LifeLess"
+    },
+    {
+        "id": 1105,
+        "type": "LifeLess"
+    },
+    {
+        "id": 1201,
+        "type": "LifeLess"
+    },
+    {
+        "id": 1202,
+        "type": "LifeLess"
+    },
+    {
+        "id": 1203,
+        "type": "LifeLess"
+    },
+    {
+        "id": 1204,
+        "type": "LifeLess"
+    },
+    {
+        "id": 1207,
+        "type": "LifeLess"
+    },
+    {
+        "id": 1208,
+        "type": "LifeLess"
+    },
+    {
+        "id": 1209,
+        "type": "LifeLess"
+    },
+    {
+        "id": 1301,
+        "type": "LifeLess"
+    },
+    {
+        "id": 1302,
+        "type": "LifeLess"
+    },
+    {
+        "id": 1304,
+        "type": "LifeLess"
+    },
+    {
+        "id": 2,
+        "type": "LifeMore"
+    },
+    {
+        "id": 2101,
+        "type": "LifeMore"
+    },
+    {
+        "id": 2104,
+        "type": "LifeMore"
+    },
+    {
+        "id": 2201,
+        "type": "LifeMore"
+    },
+    {
+        "id": 2202,
+        "type": "LifeMore"
+    },
+    {
+        "id": 2203,
+        "type": "LifeMore"
+    },
+    {
+        "id": 2204,
+        "type": "LifeMore"
+    },
+    {
+        "id": 2210,
+        "type": "LifeMore"
+    },
+    {
+        "id": 2301,
+        "type": "LifeMore"
+    },
+    {
+        "id": 2302,
+        "type": "LifeMore"
+    },
+    {
+        "id": 2303,
+        "type": "LifeMore"
+    },
+    {
+        "id": 2304,
+        "type": "LifeMore"
+    },
+    {
+        "id": 3,
+        "type": "LifeMoreThanTarget"
+    },
+    {
+        "id": 3101,
+        "type": "LifeMoreThanTarget"
+    },
+    {
+        "id": 3203,
+        "type": "LifeMoreThanTarget"
+    },
+    {
+        "id": 4,
+        "type": "LifeLessThanTarget"
+    },
+    {
+        "id": 4201,
+        "type": "LifeLessThanTarget"
+    },
+    {
+        "id": 4202,
+        "type": "LifeLessThanTarget"
+    },
+    {
+        "id": 4203,
+        "type": "LifeLessThanTarget"
+    },
+    {
+        "id": 4208,
+        "type": "LifeLessThanTarget"
+    },
+    {
+        "id": 4209,
+        "type": "LifeLessThanTarget"
+    },
+    {
+        "id": 5,
+        "type": "EnterFight"
+    },
+    {
+        "id": 5021,
+        "type": "EnterFight"
+    },
+    {
+        "id": 6000,
+        "type": "UseSkillStar"
+    },
+    {
+        "id": 6201,
+        "type": "UseSkillStar"
+    },
+    {
+        "id": 6202,
+        "type": "UseSkillStar"
+    },
+    {
+        "id": 6203,
+        "type": "UseSkillStar"
+    },
+    {
+        "id": 6208,
+        "type": "UseSkillStar"
+    },
+    {
+        "id": 6209,
+        "type": "UseSkillStar"
+    },
+    {
+        "id": 6210,
+        "type": "UseSkillStar"
+    },
+    {
+        "id": 7,
+        "type": "BeforeCrit"
+    },
+    {
+        "id": 7203,
+        "type": "BeforeCrit"
+    },
+    {
+        "id": 8,
+        "type": "Dead"
+    },
+    {
+        "id": 812,
+        "type": "Dead"
+    },
+    {
+        "id": 9,
+        "type": "GenderHurt"
+    },
+    {
+        "id": 9208,
+        "type": "GenderHurt"
+    },
+    {
+        "id": 9209,
+        "type": "GenderHurt"
+    },
+    {
+        "id": 10,
+        "type": "BuffIdAdd"
+    },
+    {
+        "id": 11,
+        "type": "SingleKillNum"
+    },
+    {
+        "id": 11210,
+        "type": "SingleKillNum"
+    },
+    {
+        "id": 12000,
+        "type": "LostLifePer"
+    },
+    {
+        "id": 12208,
+        "type": "LostLifePer"
+    },
+    {
+        "id": 12203,
+        "type": "LostLifePer"
+    },
+    {
+        "id": 12204,
+        "type": "LostLifePer"
+    },
+    {
+        "id": 14,
+        "type": "BuffDelMyTeam"
+    },
+    {
+        "id": 15,
+        "type": "BuffDisperseEnemyTeam"
+    },
+    {
+        "id": 16,
+        "type": "TargetCareer"
+    },
+    {
+        "id": 16002,
+        "type": "TargetCareer"
+    },
+    {
+        "id": 16021,
+        "type": "TargetCareer"
+    },
+    {
+        "id": 16101,
+        "type": "TargetCareer"
+    },
+    {
+        "id": 16203,
+        "type": "TargetCareer"
+    },
+    {
+        "id": 16204,
+        "type": "TargetCareer"
+    },
+    {
+        "id": 16210,
+        "type": "TargetCareer"
+    },
+    {
+        "id": 16212,
+        "type": "TargetCareer"
+    },
+    {
+        "id": 16213,
+        "type": "TargetCareer"
+    },
+    {
+        "id": 16304,
+        "type": "TargetCareer"
+    },
+    {
+        "id": 17,
+        "type": "TeammateDead"
+    },
+    {
+        "id": 18,
+        "type": "HasBuff"
+    },
+    {
+        "id": 18003,
+        "type": "HasBuff"
+    },
+    {
+        "id": 18004,
+        "type": "HasBuff"
+    },
+    {
+        "id": 18101,
+        "type": "HasBuff"
+    },
+    {
+        "id": 18102,
+        "type": "HasBuff"
+    },
+    {
+        "id": 18103,
+        "type": "HasBuff"
+    },
+    {
+        "id": 18104,
+        "type": "HasBuff"
+    },
+    {
+        "id": 18201,
+        "type": "HasBuff"
+    },
+    {
+        "id": 18202,
+        "type": "HasBuff"
+    },
+    {
+        "id": 18203,
+        "type": "HasBuff"
+    },
+    {
+        "id": 18209,
+        "type": "HasBuff"
+    },
+    {
+        "id": 18210,
+        "type": "HasBuff"
+    },
+    {
+        "id": 18208,
+        "type": "HasBuff"
+    },
+    {
+        "id": 18301,
+        "type": "HasBuff"
+    },
+    {
+        "id": 18304,
+        "type": "HasBuff"
+    },
+    {
+        "id": 19,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19003,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19004,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19005,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19010,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19012,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19101,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19102,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19104,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19106,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19201,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19202,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19203,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19204,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19205,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19208,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19209,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19210,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19301,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19302,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19303,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 19304,
+        "type": "HasBuffId"
+    },
+    {
+        "id": 20,
+        "type": "HurtReal"
+    },
+    {
+        "id": 20202,
+        "type": "HurtReal"
+    },
+    {
+        "id": 20203,
+        "type": "HurtReal"
+    },
+    {
+        "id": 20204,
+        "type": "HurtReal"
+    },
+    {
+        "id": 21,
+        "type": "HurtMagic"
+    },
+    {
+        "id": 21203,
+        "type": "HurtMagic"
+    },
+    {
+        "id": 21204,
+        "type": "HurtMagic"
+    },
+    {
+        "id": 21209,
+        "type": "HurtMagic"
+    },
+    {
+        "id": 22,
+        "type": "BeAttacked"
+    },
+    {
+        "id": 22209,
+        "type": "BeAttacked"
+    },
+    {
+        "id": 222091,
+        "type": "BeAttacked"
+    },
+    {
+        "id": 22213,
+        "type": "BeAttacked"
+    },
+    {
+        "id": 23,
+        "type": "CardUpgrade"
+    },
+    {
+        "id": 24,
+        "type": "TeammateAlive"
+    },
+    {
+        "id": 2412,
+        "type": "TeammateAlive"
+    },
+    {
+        "id": 24102,
+        "type": "TeammateAlive"
+    },
+    {
+        "id": 24204,
+        "type": "TeammateAlive"
+    },
+    {
+        "id": 25,
+        "type": "UseExSkill"
+    },
+    {
+        "id": 25201,
+        "type": "UseExSkill"
+    },
+    {
+        "id": 25203,
+        "type": "UseExSkill"
+    },
+    {
+        "id": 25204,
+        "type": "UseExSkill"
+    },
+    {
+        "id": 25205,
+        "type": "UseExSkill"
+    },
+    {
+        "id": 25208,
+        "type": "UseExSkill"
+    },
+    {
+        "id": 25209,
+        "type": "UseExSkill"
+    },
+    {
+        "id": 25210,
+        "type": "UseExSkill"
+    },
+    {
+        "id": 25212,
+        "type": "UseExSkill"
+    },
+    {
+        "id": 25213,
+        "type": "UseExSkill"
+    },
+    {
+        "id": 25402,
+        "type": "UseExSkill"
+    },
+    {
+        "id": 26,
+        "type": "UseNohurtSkill"
+    },
+    {
+        "id": 26208,
+        "type": "UseNohurtSkill"
+    },
+    {
+        "id": 27,
+        "type": "NoCareerRestainAct"
+    },
+    {
+        "id": 29,
+        "type": "NoCrit"
+    },
+    {
+        "id": 30,
+        "type": "AttackCrit"
+    },
+    {
+        "id": 30201,
+        "type": "AttackCrit"
+    },
+    {
+        "id": 30208,
+        "type": "AttackCrit"
+    },
+    {
+        "id": 30209,
+        "type": "AttackCrit"
+    },
+    {
+        "id": 30210,
+        "type": "AttackCrit"
+    },
+    {
+        "id": 30212,
+        "type": "AttackCrit"
+    },
+    {
+        "id": 30402,
+        "type": "AttackCrit"
+    },
+    {
+        "id": 32,
+        "type": "EnterFight"
+    },
+    {
+        "id": 33,
+        "type": "HurtRestraint"
+    },
+    {
+        "id": 33201,
+        "type": "HurtRestraint"
+    },
+    {
+        "id": 33202,
+        "type": "HurtRestraint"
+    },
+    {
+        "id": 33209,
+        "type": "HurtRestraint"
+    },
+    {
+        "id": 33211,
+        "type": "HurtRestraint"
+    },
+    {
+        "id": 34,
+        "type": "UseSkillEffectTag"
+    },
+    {
+        "id": 34208,
+        "type": "UseSkillEffectTag"
+    },
+    {
+        "id": 34210,
+        "type": "UseSkillEffectTag"
+    },
+    {
+        "id": 35,
+        "type": "ActOrder"
+    },
+    {
+        "id": 35201,
+        "type": "ActOrder"
+    },
+    {
+        "id": 35203,
+        "type": "ActOrder"
+    },
+    {
+        "id": 35208,
+        "type": "ActOrder"
+    },
+    {
+        "id": 35210,
+        "type": "ActOrder"
+    },
+    {
+        "id": 36,
+        "type": "HeroReal"
+    },
+    {
+        "id": 36002,
+        "type": "HeroReal"
+    },
+    {
+        "id": 36021,
+        "type": "HeroReal"
+    },
+    {
+        "id": 37,
+        "type": "HeroMagic"
+    },
+    {
+        "id": 37002,
+        "type": "HeroMagic"
+    },
+    {
+        "id": 37021,
+        "type": "HeroMagic"
+    },
+    {
+        "id": 40,
+        "type": "LostExPoint"
+    },
+    {
+        "id": 40209,
+        "type": "LostExPoint"
+    },
+    {
+        "id": 41,
+        "type": "DamagePercentMoreThan"
+    },
+    {
+        "id": 42,
+        "type": "HasTypeBuffMoreThan"
+    },
+    {
+        "id": 42102,
+        "type": "HasTypeBuffMoreThan"
+    },
+    {
+        "id": 42201,
+        "type": "HasTypeBuffMoreThan"
+    },
+    {
+        "id": 42208,
+        "type": "HasTypeBuffMoreThan"
+    },
+    {
+        "id": 42210,
+        "type": "HasTypeBuffMoreThan"
+    },
+    {
+        "id": 42301,
+        "type": "HasTypeBuffMoreThan"
+    },
+    {
+        "id": 42302,
+        "type": "HasTypeBuffMoreThan"
+    },
+    {
+        "id": 42303,
+        "type": "HasTypeBuffMoreThan"
+    },
+    {
+        "id": 42304,
+        "type": "HasTypeBuffMoreThan"
+    },
+    {
+        "id": 43,
+        "type": "HasTypeBuffLessThan"
+    },
+    {
+        "id": 43004,
+        "type": "HasTypeBuffLessThan"
+    },
+    {
+        "id": 43302,
+        "type": "HasTypeBuffLessThan"
+    },
+    {
+        "id": 43303,
+        "type": "HasTypeBuffLessThan"
+    },
+    {
+        "id": 43304,
+        "type": "HasTypeBuffLessThan"
+    },
+    {
+        "id": 44,
+        "type": "LifeLess"
+    },
+    {
+        "id": 45,
+        "type": "HeroRoundInterval"
+    },
+    {
+        "id": 45100,
+        "type": "HeroRoundInterval"
+    },
+    {
+        "id": 45101,
+        "type": "HeroRoundInterval"
+    },
+    {
+        "id": 45102,
+        "type": "HeroRoundInterval"
+    },
+    {
+        "id": 45104,
+        "type": "HeroRoundInterval"
+    },
+    {
+        "id": 45105,
+        "type": "HeroRoundInterval"
+    },
+    {
+        "id": 45106,
+        "type": "HeroRoundInterval"
+    },
+    {
+        "id": 45301,
+        "type": "HeroRoundInterval"
+    },
+    {
+        "id": 45302,
+        "type": "HeroRoundInterval"
+    },
+    {
+        "id": 45303,
+        "type": "HeroRoundInterval"
+    },
+    {
+        "id": 45304,
+        "type": "HeroRoundInterval"
+    },
+    {
+        "id": 46,
+        "type": "NoActRound"
+    },
+    {
+        "id": 46301,
+        "type": "NoActRound"
+    },
+    {
+        "id": 46303,
+        "type": "NoActRound"
+    },
+    {
+        "id": 46304,
+        "type": "NoActRound"
+    },
+    {
+        "id": 47,
+        "type": "HurtNotRestraint"
+    },
+    {
+        "id": 47202,
+        "type": "HurtNotRestraint"
+    },
+    {
+        "id": 47204,
+        "type": "HurtNotRestraint"
+    },
+    {
+        "id": 47209,
+        "type": "HurtNotRestraint"
+    },
+    {
+        "id": 48,
+        "type": "None"
+    },
+    {
+        "id": 48001,
+        "type": "None"
+    },
+    {
+        "id": 48002,
+        "type": "None"
+    },
+    {
+        "id": 48003,
+        "type": "None"
+    },
+    {
+        "id": 48004,
+        "type": "None"
+    },
+    {
+        "id": 48005,
+        "type": "None"
+    },
+    {
+        "id": 48006,
+        "type": "None"
+    },
+    {
+        "id": 48007,
+        "type": "None"
+    },
+    {
+        "id": 48008,
+        "type": "None"
+    },
+    {
+        "id": 48009,
+        "type": "None"
+    },
+    {
+        "id": 48010,
+        "type": "None"
+    },
+    {
+        "id": 48011,
+        "type": "None"
+    },
+    {
+        "id": 48012,
+        "type": "None"
+    },
+    {
+        "id": 49,
+        "type": "BuffIdDel"
+    },
+    {
+        "id": 50,
+        "type": "LostLifePerTimes"
+    },
+    {
+        "id": 50209,
+        "type": "LostLifePerTimes"
+    },
+    {
+        "id": 51,
+        "type": "HasTypeIdBuffMoreThan"
+    },
+    {
+        "id": 51004,
+        "type": "HasTypeIdBuffMoreThan"
+    },
+    {
+        "id": 51102,
+        "type": "HasTypeIdBuffMoreThan"
+    },
+    {
+        "id": 51203,
+        "type": "HasTypeIdBuffMoreThan"
+    },
+    {
+        "id": 51208,
+        "type": "HasTypeIdBuffMoreThan"
+    },
+    {
+        "id": 51210,
+        "type": "HasTypeIdBuffMoreThan"
+    },
+    {
+        "id": 51212,
+        "type": "HasTypeIdBuffMoreThan"
+    },
+    {
+        "id": 51301,
+        "type": "HasTypeIdBuffMoreThan"
+    },
+    {
+        "id": 51302,
+        "type": "HasTypeIdBuffMoreThan"
+    },
+    {
+        "id": 51303,
+        "type": "HasTypeIdBuffMoreThan"
+    },
+    {
+        "id": 51304,
+        "type": "HasTypeIdBuffMoreThan"
+    },
+    {
+        "id": 51402,
+        "type": "HasTypeIdBuffMoreThan"
+    },
+    {
+        "id": 52,
+        "type": "None"
+    },
+    {
+        "id": 53,
+        "type": "HurtNumType"
+    },
+    {
+        "id": 53201,
+        "type": "HurtNumType"
+    },
+    {
+        "id": 53203,
+        "type": "HurtNumType"
+    },
+    {
+        "id": 53204,
+        "type": "HurtNumType"
+    },
+    {
+        "id": 53205,
+        "type": "HurtNumType"
+    },
+    {
+        "id": 53208,
+        "type": "HurtNumType"
+    },
+    {
+        "id": 53210,
+        "type": "HurtNumType"
+    },
+    {
+        "id": 53211,
+        "type": "HurtNumType"
+    },
+    {
+        "id": 54,
+        "type": "ZeroHurt"
+    },
+    {
+        "id": 54301,
+        "type": "ZeroHurt"
+    },
+    {
+        "id": 54304,
+        "type": "ZeroHurt"
+    },
+    {
+        "id": 55,
+        "type": "None"
+    },
+    {
+        "id": 56,
+        "type": "NoBuff"
+    },
+    {
+        "id": 56201,
+        "type": "NoBuff"
+    },
+    {
+        "id": 56203,
+        "type": "NoBuff"
+    },
+    {
+        "id": 56208,
+        "type": "NoBuff"
+    },
+    {
+        "id": 57,
+        "type": "NoBuffId"
+    },
+    {
+        "id": 57012,
+        "type": "NoBuffId"
+    },
+    {
+        "id": 57101,
+        "type": "NoBuffId"
+    },
+    {
+        "id": 57104,
+        "type": "NoBuffId"
+    },
+    {
+        "id": 57201,
+        "type": "NoBuffId"
+    },
+    {
+        "id": 57202,
+        "type": "NoBuffId"
+    },
+    {
+        "id": 57203,
+        "type": "NoBuffId"
+    },
+    {
+        "id": 57208,
+        "type": "NoBuffId"
+    },
+    {
+        "id": 57209,
+        "type": "NoBuffId"
+    },
+    {
+        "id": 57210,
+        "type": "NoBuffId"
+    },
+    {
+        "id": 57301,
+        "type": "NoBuffId"
+    },
+    {
+        "id": 57302,
+        "type": "NoBuffId"
+    },
+    {
+        "id": 57304,
+        "type": "NoBuffId"
+    },
+    {
+        "id": 58,
+        "type": "PerExPoint"
+    },
+    {
+        "id": 58101,
+        "type": "PerExPoint"
+    },
+    {
+        "id": 58203,
+        "type": "PerExPoint"
+    },
+    {
+        "id": 58204,
+        "type": "PerExPoint"
+    },
+    {
+        "id": 59,
+        "type": "PerBuffId"
+    },
+    {
+        "id": 59004,
+        "type": "PerBuffId"
+    },
+    {
+        "id": 59005,
+        "type": "PerBuffId"
+    },
+    {
+        "id": 59104,
+        "type": "PerBuffId"
+    },
+    {
+        "id": 59203,
+        "type": "PerBuffId"
+    },
+    {
+        "id": 59208,
+        "type": "PerBuffId"
+    },
+    {
+        "id": 59301,
+        "type": "PerBuffId"
+    },
+    {
+        "id": 60,
+        "type": "PerBuff"
+    },
+    {
+        "id": 60101,
+        "type": "PerBuff"
+    },
+    {
+        "id": 60104,
+        "type": "PerBuff"
+    },
+    {
+        "id": 60201,
+        "type": "PerBuff"
+    },
+    {
+        "id": 61,
+        "type": "PerBuffIdCount"
+    },
+    {
+        "id": 61003,
+        "type": "PerBuffIdCount"
+    },
+    {
+        "id": 61010,
+        "type": "PerBuffIdCount"
+    },
+    {
+        "id": 61104,
+        "type": "PerBuffIdCount"
+    },
+    {
+        "id": 61201,
+        "type": "PerBuffIdCount"
+    },
+    {
+        "id": 61208,
+        "type": "PerBuffIdCount"
+    },
+    {
+        "id": 61203,
+        "type": "PerBuffIdCount"
+    },
+    {
+        "id": 61204,
+        "type": "PerBuffIdCount"
+    },
+    {
+        "id": 61210,
+        "type": "PerBuffIdCount"
+    },
+    {
+        "id": 61212,
+        "type": "PerBuffIdCount"
+    },
+    {
+        "id": 62,
+        "type": "PerBuffCount"
+    },
+    {
+        "id": 62203,
+        "type": "PerBuffCount"
+    },
+    {
+        "id": 63,
+        "type": "HasRejectBuff"
+    },
+    {
+        "id": 63209,
+        "type": "HasRejectBuff"
+    },
+    {
+        "id": 64,
+        "type": "HasRejectBuffId"
+    },
+    {
+        "id": 64208,
+        "type": "HasRejectBuffId"
+    },
+    {
+        "id": 64209,
+        "type": "HasRejectBuffId"
+    },
+    {
+        "id": 65,
+        "type": "HeroUseCardInterval"
+    },
+    {
+        "id": 65210,
+        "type": "HeroUseCardInterval"
+    },
+    {
+        "id": 66,
+        "type": "UseSpecificSkill"
+    },
+    {
+        "id": 66201,
+        "type": "UseSpecificSkill"
+    },
+    {
+        "id": 66203,
+        "type": "UseSpecificSkill"
+    },
+    {
+        "id": 66208,
+        "type": "UseSpecificSkill"
+    },
+    {
+        "id": 66209,
+        "type": "UseSpecificSkill"
+    },
+    {
+        "id": 66210,
+        "type": "UseSpecificSkill"
+    },
+    {
+        "id": 66212,
+        "type": "UseSpecificSkill"
+    },
+    {
+        "id": 66213,
+        "type": "UseSpecificSkill"
+    },
+    {
+        "id": 66402,
+        "type": "UseSpecificSkill"
+    },
+    {
+        "id": 67,
+        "type": "BuffTypeExpire"
+    },
+    {
+        "id": 68,
+        "type": "BuffIdExpire"
+    },
+    {
+        "id": 68303,
+        "type": "BuffIdExpire"
+    },
+    {
+        "id": 69,
+        "type": "BuffTypeEffect"
+    },
+    {
+        "id": 70,
+        "type": "HeroNum"
+    },
+    {
+        "id": 71,
+        "type": "BuffGroupEffect"
+    },
+    {
+        "id": 72,
+        "type": "LifePerGapTimes"
+    },
+    {
+        "id": 72203,
+        "type": "LifePerGapTimes"
+    },
+    {
+        "id": 72204,
+        "type": "LifePerGapTimes"
+    },
+    {
+        "id": 73210,
+        "type": "LifePerGapTimes"
+    },
+    {
+        "id": 73,
+        "type": "TeammateAliveNum"
+    },
+    {
+        "id": 7312,
+        "type": "TeammateAliveNum"
+    },
+    {
+        "id": 73102,
+        "type": "TeammateAliveNum"
+    },
+    {
+        "id": 73301,
+        "type": "TeammateAliveNum"
+    },
+    {
+        "id": 73302,
+        "type": "TeammateAliveNum"
+    },
+    {
+        "id": 73304,
+        "type": "TeammateAliveNum"
+    },
+    {
+        "id": 74,
+        "type": "MonsterAliveNumMoreThan"
+    },
+    {
+        "id": 74202,
+        "type": "MonsterAliveNumMoreThan"
+    },
+    {
+        "id": 74302,
+        "type": "MonsterAliveNumMoreThan"
+    },
+    {
+        "id": 75,
+        "type": "MonsterTemplate"
+    },
+    {
+        "id": 75002,
+        "type": "MonsterTemplate"
+    },
+    {
+        "id": 75003,
+        "type": "MonsterTemplate"
+    },
+    {
+        "id": 75204,
+        "type": "MonsterTemplate"
+    },
+    {
+        "id": 75208,
+        "type": "MonsterTemplate"
+    },
+    {
+        "id": 75209,
+        "type": "MonsterTemplate"
+    },
+    {
+        "id": 752091,
+        "type": "MonsterTemplate"
+    },
+    {
+        "id": 75213,
+        "type": "MonsterTemplate"
+    },
+    {
+        "id": 76,
+        "type": "BuffIdEffect"
+    },
+    {
+        "id": 77,
+        "type": "HasBuffGroup"
+    },
+    {
+        "id": 77203,
+        "type": "HasBuffGroup"
+    },
+    {
+        "id": 78,
+        "type": "NoBuffGroup"
+    },
+    {
+        "id": 78102,
+        "type": "NoBuffGroup"
+    },
+    {
+        "id": 85,
+        "type": "PerBuffTypeCountGroupByTypeId"
+    },
+    {
+        "id": 85101,
+        "type": "PerBuffTypeCountGroupByTypeId"
+    },
+    {
+        "id": 85102,
+        "type": "PerBuffTypeCountGroupByTypeId"
+    },
+    {
+        "id": 85201,
+        "type": "PerBuffTypeCountGroupByTypeId"
+    },
+    {
+        "id": 86,
+        "type": "EnemyDead"
+    },
+    {
+        "id": 87,
+        "type": "TargetCareer"
+    },
+    {
+        "id": 88,
+        "type": "BuffTypeAdd"
+    },
+    {
+        "id": 89,
+        "type": "ExpointMoreThan"
+    },
+    {
+        "id": 89210,
+        "type": "ExpointMoreThan"
+    },
+    {
+        "id": 89302,
+        "type": "ExpointMoreThan"
+    },
+    {
+        "id": 89304,
+        "type": "ExpointMoreThan"
+    },
+    {
+        "id": 90,
+        "type": "AttrPer"
+    },
+    {
+        "id": 90203,
+        "type": "AttrPer"
+    },
+    {
+        "id": 92,
+        "type": "TeamSameLabel"
+    },
+    {
+        "id": 92101,
+        "type": "TeamSameLabel"
+    },
+    {
+        "id": 93,
+        "type": "BuffGroupDel"
+    },
+    {
+        "id": 94,
+        "type": "BuffGroupAdd"
+    },
+    {
+        "id": 95,
+        "type": "BuffGroupExpire"
+    },
+    {
+        "id": 96,
+        "type": "HasExskill"
+    },
+    {
+        "id": 96210,
+        "type": "HasExskill"
+    },
+    {
+        "id": 96301,
+        "type": "HasExskill"
+    },
+    {
+        "id": 97,
+        "type": "BuffGroupEffect"
+    },
+    {
+        "id": 98,
+        "type": "IndicatorNum"
+    },
+    {
+        "id": 98203,
+        "type": "IndicatorNum"
+    },
+    {
+        "id": 98210,
+        "type": "IndicatorNum"
+    },
+    {
+        "id": 100,
+        "type": "None"
+    },
+    {
+        "id": 101,
+        "type": "None"
+    },
+    {
+        "id": 102,
+        "type": "None"
+    },
+    {
+        "id": 103,
+        "type": "None"
+    },
+    {
+        "id": 104,
+        "type": "None"
+    },
+    {
+        "id": 105,
+        "type": "None"
+    },
+    {
+        "id": 106,
+        "type": "None"
+    },
+    {
+        "id": 201,
+        "type": "None"
+    },
+    {
+        "id": 202,
+        "type": "None"
+    },
+    {
+        "id": 203,
+        "type": "None"
+    },
+    {
+        "id": 204,
+        "type": "None"
+    },
+    {
+        "id": 205,
+        "type": "None"
+    },
+    {
+        "id": 206,
+        "type": "None"
+    },
+    {
+        "id": 207,
+        "type": "None"
+    },
+    {
+        "id": 208,
+        "type": "None"
+    },
+    {
+        "id": 209,
+        "type": "None"
+    },
+    {
+        "id": 210,
+        "type": "None"
+    },
+    {
+        "id": 211,
+        "type": "None"
+    },
+    {
+        "id": 212,
+        "type": "None"
+    },
+    {
+        "id": 213,
+        "type": "None"
+    },
+    {
+        "id": 301,
+        "type": "None"
+    },
+    {
+        "id": 302,
+        "type": "None"
+    },
+    {
+        "id": 303,
+        "type": "None"
+    },
+    {
+        "id": 304,
+        "type": "None"
+    },
+    {
+        "id": 305,
+        "type": "None"
+    },
+    {
+        "id": 306,
+        "type": "None"
+    },
+    {
+        "id": 307,
+        "type": "None"
+    },
+    {
+        "id": 12,
+        "type": "None"
+    },
+    {
+        "id": 6,
+        "type": "None"
+    },
+    {
+        "id": 99,
+        "type": "PerKillNum"
+    },
+    {
+        "id": 99210,
+        "type": "PerKillNum"
+    }
+]

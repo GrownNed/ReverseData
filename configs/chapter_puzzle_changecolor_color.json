@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "蓝",
+        "colorvalue": "#0077FF"
+    },
+    {
+        "id": 2,
+        "name": "橙",
+        "colorvalue": "#FF8300"
+    },
+    {
+        "id": 3,
+        "name": "红",
+        "colorvalue": "#fb0000"
+    },
+    {
+        "id": 4,
+        "name": "绿",
+        "colorvalue": "#00720c"
+    },
+    {
+        "id": 5,
+        "name": "白",
+        "colorvalue": "#ffffff"
+    },
+    {
+        "id": 6,
+        "name": "黄",
+        "colorvalue": "#FFF600"
+    },
+    {
+        "id": 7,
+        "name": "紫",
+        "colorvalue": "#FA00FF"
+    }
+]

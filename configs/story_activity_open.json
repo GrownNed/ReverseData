@@ -1,0 +1,233 @@
+[
+    {
+        "chapter": 1,
+        "part": 1,
+        "title": "领衔的人们",
+        "titleEn": "The Leading Ones",
+        "labelRes": "qianming1"
+    },
+    {
+        "chapter": 1,
+        "part": 2,
+        "title": "临时派对",
+        "titleEn": "An Impromptu Party",
+        "labelRes": "qianming3"
+    },
+    {
+        "chapter": 1,
+        "part": 3,
+        "title": "犬类的哲学",
+        "titleEn": "Philosophy of the Puppies",
+        "labelRes": "qianming2"
+    },
+    {
+        "chapter": 1,
+        "part": 4,
+        "title": "头条新闻",
+        "titleEn": "Headline",
+        "labelRes": "qianming4"
+    },
+    {
+        "chapter": 1,
+        "part": 5,
+        "title": "不回头",
+        "titleEn": "No Turning Back",
+        "labelRes": "qianming5"
+    },
+    {
+        "chapter": 1,
+        "part": 6,
+        "title": "航线合流",
+        "titleEn": "Confluence of the Routes",
+        "labelRes": "qianming4"
+    },
+    {
+        "chapter": 1,
+        "part": 7,
+        "title": "正中红心",
+        "titleEn": "Hit the Bullseye",
+        "labelRes": "qianming3"
+    },
+    {
+        "chapter": 1,
+        "part": 8,
+        "title": "非暴力合作",
+        "titleEn": "Non-violent Cooperation",
+        "labelRes": "qianming1"
+    },
+    {
+        "chapter": 1,
+        "part": 9,
+        "title": "天才调音师",
+        "titleEn": "The Genius DJ",
+        "labelRes": "qianming4"
+    },
+    {
+        "chapter": 1,
+        "part": 10,
+        "title": "小礼物",
+        "titleEn": "A Small Gift",
+        "labelRes": "qianming4"
+    },
+    {
+        "chapter": 1,
+        "part": 11,
+        "title": "空降嘉宾",
+        "titleEn": "Out of the Blue",
+        "labelRes": "qianming2"
+    },
+    {
+        "chapter": 1,
+        "part": 12,
+        "title": "泡泡无可破灭",
+        "titleEn": "Bubbles Won't be Broken",
+        "labelRes": "qianming3"
+    },
+    {
+        "chapter": 1,
+        "part": 13,
+        "title": "自由的频段",
+        "titleEn": "The Channel of Freedom",
+        "labelRes": "qianming4"
+    },
+    {
+        "chapter": 1,
+        "part": 14,
+        "title": "真相泛滥",
+        "titleEn": "Information Overload",
+        "labelRes": "qianming5"
+    },
+    {
+        "chapter": 1,
+        "part": 15,
+        "title": "选择题",
+        "titleEn": "The Puppy's Choice",
+        "labelRes": "qianming2"
+    },
+    {
+        "chapter": 1,
+        "part": 16,
+        "title": "皆大欢喜",
+        "titleEn": "As We Like It",
+        "labelRes": "qianming1"
+    },
+    {
+        "chapter": 1,
+        "part": 17,
+        "title": "旧照片",
+        "titleEn": "An Old Photo",
+        "labelRes": "qianming1"
+    },
+    {
+        "chapter": 1,
+        "part": 18,
+        "title": "继任者",
+        "titleEn": "The Successor",
+        "labelRes": "qianming5"
+    },
+    {
+        "chapter": 1,
+        "part": 19,
+        "title": "邀请函",
+        "titleEn": "Invitation",
+        "labelRes": "qianming5"
+    },
+    {
+        "chapter": 1,
+        "part": 20,
+        "title": "第一堂课",
+        "titleEn": "The First Lesson",
+        "labelRes": "qianming5"
+    },
+    {
+        "chapter": 1,
+        "part": 21,
+        "title": "寻物游戏",
+        "titleEn": "Treasure Hunt",
+        "labelRes": "qianming5"
+    },
+    {
+        "chapter": 1,
+        "part": 22,
+        "title": "易位棋局",
+        "titleEn": "Switching Side",
+        "labelRes": "qianming1"
+    },
+    {
+        "chapter": 1,
+        "part": 23,
+        "title": "完美答卷",
+        "titleEn": "Perfect Answer",
+        "labelRes": "qianming1"
+    },
+    {
+        "chapter": 1,
+        "part": 24,
+        "title": "怪盗实习",
+        "titleEn": "The Intern Thief",
+        "labelRes": "qianming1"
+    },
+    {
+        "chapter": 1,
+        "part": 25,
+        "title": "落幕与新篇",
+        "titleEn": "Ending and New Beginning",
+        "labelRes": "qianming1"
+    },
+    {
+        "chapter": 1,
+        "part": 26,
+        "title": "盛情来电",
+        "titleEn": "A Warm Call",
+        "labelRes": "qianming2"
+    },
+    {
+        "chapter": 1,
+        "part": 27,
+        "title": "颠扑苹果派",
+        "titleEn": "A Floating APPLe Pie",
+        "labelRes": "qianming2"
+    },
+    {
+        "chapter": 1,
+        "part": 28,
+        "title": "误解相对论",
+        "titleEn": "Relativity of Misunderstanding",
+        "labelRes": "qianming2"
+    },
+    {
+        "chapter": 1,
+        "part": 29,
+        "title": "泡泡碰撞机",
+        "titleEn": "Bubble Crash",
+        "labelRes": "qianming2"
+    },
+    {
+        "chapter": 1,
+        "part": 30,
+        "title": "掉队的球鞋",
+        "titleEn": "A Shoe Left Behind",
+        "labelRes": "qianming2"
+    },
+    {
+        "chapter": 1,
+        "part": 31,
+        "title": "自由计划者",
+        "titleEn": "A Planner with No Plan",
+        "labelRes": "qianming2"
+    },
+    {
+        "chapter": 1,
+        "part": 32,
+        "title": "回弹球",
+        "titleEn": "Bouncey Ball",
+        "labelRes": "qianming2"
+    },
+    {
+        "chapter": 1,
+        "part": 33,
+        "title": "赠予仪式",
+        "titleEn": "Transfer Ceremony",
+        "labelRes": "qianming2"
+    }
+]

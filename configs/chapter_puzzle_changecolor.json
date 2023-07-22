@@ -1,0 +1,56 @@
+[
+    {
+        "id": 10000,
+        "name": "关卡1",
+        "initColors": "1#3#4#2",
+        "finalColors": "4#1#2#1",
+        "interactbtns": "1#2#3#4",
+        "colorsort": "1#2#3#4",
+        "bonus": ""
+    },
+    {
+        "id": 10001,
+        "name": "关卡2",
+        "initColors": "1#3#4#2",
+        "finalColors": "4#1#2#1",
+        "interactbtns": "1#2#3#4",
+        "colorsort": "1#2#3#4",
+        "bonus": ""
+    },
+    {
+        "id": 10002,
+        "name": "关卡3",
+        "initColors": "1#3#4#2",
+        "finalColors": "4#1#2#1",
+        "interactbtns": "1#2#3#4",
+        "colorsort": "1#2#3#4",
+        "bonus": ""
+    },
+    {
+        "id": 10003,
+        "name": "关卡4",
+        "initColors": "1#3#4#2",
+        "finalColors": "4#1#2#1",
+        "interactbtns": "1#2#3#4",
+        "colorsort": "1#2#3#4",
+        "bonus": ""
+    },
+    {
+        "id": 10004,
+        "name": "关卡5",
+        "initColors": "1#3#4#2",
+        "finalColors": "4#1#2#1",
+        "interactbtns": "1#2#3#4",
+        "colorsort": "1#2#3#4",
+        "bonus": ""
+    },
+    {
+        "id": 10005,
+        "name": "关卡6",
+        "initColors": "1#3#4#2",
+        "finalColors": "4#1#2#1",
+        "interactbtns": "1#2#3#4",
+        "colorsort": "1#2#3#4",
+        "bonus": ""
+    }
+]

@@ -1,0 +1,487 @@
+[
+    {
+        "id": 3000001,
+        "eventName": "play_gamemain_noise_test",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000002,
+        "eventName": "stop_gamemain_noise_test",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000003,
+        "eventName": "stop_normal",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000004,
+        "eventName": "stop_sunny",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000005,
+        "eventName": "stop_light_rain",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000006,
+        "eventName": "stop_heavy_rain",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000007,
+        "eventName": "stop_heavy_rainstorm",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000008,
+        "eventName": "stop_little_snow",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000009,
+        "eventName": "stop_heavy_snow",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000010,
+        "eventName": "stop_heavy_fog",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000011,
+        "eventName": "play_normal",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000012,
+        "eventName": "play_sunny",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000013,
+        "eventName": "play_light_rain",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000014,
+        "eventName": "play_heavy_rain",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000015,
+        "eventName": "play_heavy_rainstorm",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000016,
+        "eventName": "play_little_snow",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000017,
+        "eventName": "play_heavy_snow",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000018,
+        "eventName": "play_heavy_fog",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000019,
+        "eventName": "stop_mobile_supplement_sfx",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000020,
+        "eventName": "play_mobile_supplement_sfx",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000021,
+        "eventName": "play_combatmusic_01",
+        "bankName": "combatmusic_01"
+    },
+    {
+        "id": 3000022,
+        "eventName": "stop_fightingmusic",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 3000023,
+        "eventName": "play_combat_thunder",
+        "bankName": "comba_noise"
+    },
+    {
+        "id": 3000024,
+        "eventName": "pause_combatarea_sound",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 3000025,
+        "eventName": "resume_combatarea_sound",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 3000026,
+        "eventName": "pause_safezone_sound",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 3000027,
+        "eventName": "resume_safezone_sound",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 3000028,
+        "eventName": "pause_ui_sound",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 3000029,
+        "eventName": "resume_ui_sound",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 3000030,
+        "eventName": "play_ui_backhouse",
+        "bankName": "main_ui"
+    },
+    {
+        "id": 3000031,
+        "eventName": "stop_proim_audio_bus",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3000032,
+        "eventName": "pause_fightingmusic",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 9999999,
+        "eventName": "play_exploremusic_01",
+        "bankName": "mainmusic"
+    },
+    {
+        "id": 9999998,
+        "eventName": "stop_exploremusic",
+        "bankName": "mainmusic"
+    },
+    {
+        "id": 3100101,
+        "eventName": "play_london_combatmusic",
+        "bankName": "london_combatmusic"
+    },
+    {
+        "id": 3100201,
+        "eventName": "play_login_interface_nosie",
+        "bankName": "login_interface"
+    },
+    {
+        "id": 3100202,
+        "eventName": "stop_login_interface_nosie",
+        "bankName": "login_interface"
+    },
+    {
+        "id": 3100203,
+        "eventName": "stop_safezonenoise_bus",
+        "bankName": "controlling_behavior"
+    },
+    {
+        "id": 3100301,
+        "eventName": "play_ui_home_music",
+        "bankName": "home"
+    },
+    {
+        "id": 3200001,
+        "eventName": "play_london_combatmusic",
+        "bankName": "london_combatmusic"
+    },
+    {
+        "id": 3200002,
+        "eventName": "play_scorchedforest_cambataudio",
+        "bankName": "scorchedforest_cambataudio"
+    },
+    {
+        "id": 3200003,
+        "eventName": "play_vehiclegraveyard_combataudio",
+        "bankName": "vehiclegraveyard_combataudio"
+    },
+    {
+        "id": 3200004,
+        "eventName": "play_stormbank_cambataudio",
+        "bankName": "stormbank_cambataudio"
+    },
+    {
+        "id": 3200005,
+        "eventName": "play_brooklynbridge_combataudio",
+        "bankName": "brooklynbridge_combataudio"
+    },
+    {
+        "id": 3200006,
+        "eventName": "play_gunpowderwin_combataudio",
+        "bankName": "gunpowderwin_combataudio"
+    },
+    {
+        "id": 3200007,
+        "eventName": "play_carnabystreet_combataudio",
+        "bankName": "carnabystreet_combataudio"
+    },
+    {
+        "id": 3200008,
+        "eventName": "play_airingclothes_combataudio",
+        "bankName": "airingclothes_combataudio"
+    },
+    {
+        "id": 3200009,
+        "eventName": "play_protagonistbox_combataudio",
+        "bankName": "protagonistbox_combataudio"
+    },
+    {
+        "id": 3200010,
+        "eventName": "play_wallstreet_combataudio",
+        "bankName": "wallstreet_combataudio"
+    },
+    {
+        "id": 3200011,
+        "eventName": "play_dawnforest_combataudio",
+        "bankName": "dawnforest_combataudio"
+    },
+    {
+        "id": 3200012,
+        "eventName": "play_tavernsecretroad_combataudio",
+        "bankName": "tavernsecretroad_combataudio"
+    },
+    {
+        "id": 3200013,
+        "eventName": "play_unmannedstreet_combataudio",
+        "bankName": "unmannedstreet_combataudio"
+    },
+    {
+        "id": 3200014,
+        "eventName": "play_move_newspaper",
+        "bankName": "unmannedstreet_combataudio"
+    },
+    {
+        "id": 3200015,
+        "eventName": "play_amb_perspective_jiaomuforest_common",
+        "bankName": "jiaomuforest_combataudio"
+    },
+    {
+        "id": 3200016,
+        "eventName": "play_amb_perspective_jiaomuforest_rain",
+        "bankName": "jiaomuforest_combataudio"
+    },
+    {
+        "id": 3200017,
+        "eventName": "play_amb_perspective_jiaomuforest_oil",
+        "bankName": "jiaomuforest_combataudio"
+    },
+    {
+        "id": 3200018,
+        "eventName": "play_amb_perspective_brig",
+        "bankName": "brig_combataudio"
+    },
+    {
+        "id": 3200019,
+        "eventName": "play_amb_perspective_foundationsquare",
+        "bankName": "foundationsquare_combataudio"
+    },
+    {
+        "id": 3200020,
+        "eventName": "play_amb_perspective_airraidshelter",
+        "bankName": "airraidshelter_combatmusic"
+    },
+    {
+        "id": 3200021,
+        "eventName": "play_amb_perspective_thefoundation",
+        "bankName": "thefoundation_combataudio"
+    },
+    {
+        "id": 3999999,
+        "eventName": "stop_combatnoise_bus",
+        "bankName": "gamemain"
+    },
+    {
+        "id": 3200022,
+        "eventName": "play_amb_perspective_rehabilitation",
+        "bankName": "rehabilitation_combatmusic"
+    },
+    {
+        "id": 3200023,
+        "eventName": "play_amb_perspective_brig",
+        "bankName": "brig_combataudio"
+    },
+    {
+        "id": 3200024,
+        "eventName": "play_foundation_combataudio",
+        "bankName": "foundation_combataudio"
+    },
+    {
+        "id": 3200025,
+        "eventName": "play_amb_perspective_foundationsquare",
+        "bankName": "foundationsquare_combataudio"
+    },
+    {
+        "id": 3200026,
+        "eventName": "play_amb_perspective_airraidshelter",
+        "bankName": "airraidshelter_combatmusic"
+    },
+    {
+        "id": 3200027,
+        "eventName": "play_ui_nameitsfx_music",
+        "bankName": "nameitsfx"
+    },
+    {
+        "id": 3200028,
+        "eventName": "play_dontforgetmeboss_music",
+        "bankName": "dontforgetmeboss_music"
+    },
+    {
+        "id": 3200029,
+        "eventName": "play_creatorboss_music",
+        "bankName": "creatorboss_music"
+    },
+    {
+        "id": 3200030,
+        "eventName": "play_resources_noise_wild",
+        "bankName": "chapter04_fightingaudio"
+    },
+    {
+        "id": 3200031,
+        "eventName": "play_chapter04_noise_dream",
+        "bankName": "chapter04_fightingaudio"
+    },
+    {
+        "id": 3200032,
+        "eventName": "play_chapter04_square1_noise",
+        "bankName": "chapter04_fightingaudio"
+    },
+    {
+        "id": 3200033,
+        "eventName": "play_chapter04_noise_room",
+        "bankName": "chapter04_fightingaudio"
+    },
+    {
+        "id": 3200034,
+        "eventName": "play_chapter04_square2_noise",
+        "bankName": "chapter04_fightingaudio"
+    },
+    {
+        "id": 3200035,
+        "eventName": "play_chapter04_noise_court",
+        "bankName": "chapter04_fightingaudio"
+    },
+    {
+        "id": 3200036,
+        "eventName": "play_commonboss_music",
+        "bankName": "commonboss_music"
+    },
+    {
+        "id": 3200037,
+        "eventName": "play_redcrossbowboss_music",
+        "bankName": "redcrossbowboss_music"
+    },
+    {
+        "id": 3200038,
+        "eventName": "play_dreamlandboss_music",
+        "bankName": "dreamlandboss_music"
+    },
+    {
+        "id": 3200039,
+        "eventName": "play_forestfoundation_music",
+        "bankName": "forestfoundation_music"
+    },
+    {
+        "id": 3200040,
+        "eventName": "play_activtiy_leimi_street_combataudio",
+        "bankName": "activtiy_leimi_combataudio"
+    },
+    {
+        "id": 3200041,
+        "eventName": "play_activtiy_leimi_showroom_combataudio",
+        "bankName": "activtiy_leimi_combataudio"
+    },
+    {
+        "id": 3200042,
+        "eventName": "play_activtiy_leimi_showroom_backyard_combataudio",
+        "bankName": "activtiy_leimi_combataudio"
+    },
+    {
+        "id": 3200043,
+        "eventName": "play_activtiy_leimi_cemeteries_combataudio",
+        "bankName": "activtiy_leimi_combataudio"
+    },
+    {
+        "id": 3200044,
+        "eventName": "play_activtiy_leimi_police_combataudio",
+        "bankName": "activtiy_leimi_combataudio"
+    },
+    {
+        "id": 3200045,
+        "eventName": "play_hillssound_combataudio",
+        "bankName": "hillssound_combataudio"
+    },
+    {
+        "id": 3200046,
+        "eventName": "play_starshardswc_combataudio",
+        "bankName": "starshardswc_combataudio"
+    },
+    {
+        "id": 3200047,
+        "eventName": "play_deepforest_combataudio",
+        "bankName": "deepforest_combataudio"
+    },
+    {
+        "id": 3200048,
+        "eventName": "play_wildbeast_combataudio",
+        "bankName": "wildbeast_combataudio"
+    },
+    {
+        "id": 3200049,
+        "eventName": "play_airingclothes_combataudio",
+        "bankName": "airingclothes_combataudio"
+    },
+    {
+        "id": 3200050,
+        "eventName": "play_activtiy_leimi_showroomboss_combataudio",
+        "bankName": "activtiy_leimi_combataudio"
+    },
+    {
+        "id": 3300001,
+        "eventName": "play_activtiy_leimi_mainmuisc_106bpm4_4",
+        "bankName": "activtiy_leimi_mainmuisc"
+    },
+    {
+        "id": 3300002,
+        "eventName": "play_activtiy_leimi_utopiacommunemuisc_86bpm4_4",
+        "bankName": "activtiy_leimi_utopiacommunemuisc"
+    },
+    {
+        "id": 3300003,
+        "eventName": "play_activitymusic_thememusic_112bpm4_4",
+        "bankName": "activitymusic_thememusic"
+    },
+    {
+        "id": 3300004,
+        "eventName": "play_activitymusic_humorousburglary_74bpm4_4",
+        "bankName": "activitymusic_humorousburglary"
+    },
+    {
+        "id": 3300005,
+        "eventName": "play_activitymusic_dramaticclimax_106bpm4_4",
+        "bankName": "activitymusic_dramaticclimax"
+    },
+    {
+        "id": 3300006,
+        "eventName": "play_passport_music",
+        "bankName": "ui_permit"
+    },
+    {
+        "id": 3300007,
+        "eventName": "stop_passport_music",
+        "bankName": "ui_permit"
+    }
+]

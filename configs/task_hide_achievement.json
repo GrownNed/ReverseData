@@ -1,0 +1,18 @@
+[
+    {
+        "id": 50001,
+        "isOnline": 0,
+        "minType": "隐藏成就",
+        "name": "获得5个角色",
+        "desc": "获得5个角色",
+        "needAccept": 0,
+        "bonusMail": 0,
+        "params": "",
+        "openLimit": "",
+        "listenerType": "HeroCount",
+        "listenerParam": "0",
+        "maxProgress": 5,
+        "maxFinishCount": 1,
+        "bonus": "2#2#30"
+    }
+]

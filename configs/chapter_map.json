@@ -1,0 +1,862 @@
+[
+    {
+        "id": 10101,
+        "chapterId": 101,
+        "unlockCondition": "",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_001_p",
+        "desc": "2/14 07:30",
+        "initPos": "-12.224#8.556",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10102,
+        "chapterId": 101,
+        "unlockCondition": "EpisodeFinish=10101",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_001_p",
+        "desc": "2/14 08:00",
+        "initPos": "-12.224#8.556",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10103,
+        "chapterId": 101,
+        "unlockCondition": "EpisodeFinish=10102",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_001_p",
+        "desc": "2/14 08:30",
+        "initPos": "-12.224#8.556",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10104,
+        "chapterId": 101,
+        "unlockCondition": "EpisodeFinish=10121",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_001_p",
+        "desc": "2/14 09:00",
+        "initPos": "-12.224#8.556",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10105,
+        "chapterId": 101,
+        "unlockCondition": "EpisodeFinish=10103",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_002_p",
+        "desc": "2/14 09:30",
+        "initPos": "-17.03#11.5",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10106,
+        "chapterId": 101,
+        "unlockCondition": "EpisodeFinish=10104",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_003_p",
+        "desc": "2/14 10:00",
+        "initPos": "-17.03#11.5",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10107,
+        "chapterId": 101,
+        "unlockCondition": "EpisodeFinish=10105",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_004_p",
+        "desc": "2/14 12:00",
+        "initPos": "-24.49#15",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10108,
+        "chapterId": 101,
+        "unlockCondition": "EpisodeFinish=10106",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_005_p",
+        "desc": "2/14 13:00",
+        "initPos": "-31.65#15",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10109,
+        "chapterId": 101,
+        "unlockCondition": "EpisodeFinish=10107",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_006_p",
+        "desc": "2/14 15:00",
+        "initPos": "-53#9",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10110,
+        "chapterId": 101,
+        "unlockCondition": "EpisodeFinish=10108",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_006_p",
+        "desc": "2/14 16:30",
+        "initPos": "-53#9",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10111,
+        "chapterId": 101,
+        "unlockCondition": "EpisodeFinish=10109",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_007_p",
+        "desc": "2/14 15:30",
+        "initPos": "-47.44#9",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10112,
+        "chapterId": 101,
+        "unlockCondition": "EpisodeFinish=10110",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_008_p",
+        "desc": "2/14 17:45",
+        "initPos": "-52.11#9.2",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10113,
+        "chapterId": 101,
+        "unlockCondition": "EpisodeFinish=10111",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_009_p",
+        "desc": "2/14 18:00",
+        "initPos": "-52.11#9.2",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10114,
+        "chapterId": 101,
+        "unlockCondition": "EpisodeFinish=10112",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_010_p",
+        "desc": "2/14 18:10",
+        "initPos": "-52.11#9.2",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10115,
+        "chapterId": 101,
+        "unlockCondition": "EpisodeFinish=10113",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_011_p",
+        "desc": "2/14 19:00",
+        "initPos": "-45.96#8.556",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10116,
+        "chapterId": 101,
+        "unlockCondition": "EpisodeFinish=10120",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_012_p",
+        "desc": "2/14 20:00",
+        "initPos": "-45.96#8.556",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10201,
+        "chapterId": 102,
+        "unlockCondition": "",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_013_p",
+        "desc": "2/14 20:30",
+        "initPos": "-53.3#9.24",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10202,
+        "chapterId": 102,
+        "unlockCondition": "EpisodeFinish=10201",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_014_p",
+        "desc": "2/14 21:00",
+        "initPos": "-53.3#9.24",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10203,
+        "chapterId": 102,
+        "unlockCondition": "EpisodeFinish=10202",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_015_p",
+        "desc": "2/14 21:30",
+        "initPos": "-53.3#9.24",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10204,
+        "chapterId": 102,
+        "unlockCondition": "EpisodeFinish=10203",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_016_p",
+        "desc": "2/14 21:10",
+        "initPos": "-26.78#6.7",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10205,
+        "chapterId": 102,
+        "unlockCondition": "EpisodeFinish=10204",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_017_p",
+        "desc": "2/14 22:00",
+        "initPos": "-26.78#6.7",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10206,
+        "chapterId": 102,
+        "unlockCondition": "EpisodeFinish=10205",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_017_p",
+        "desc": "2/14 22:30",
+        "initPos": "-53.3#9.24",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10207,
+        "chapterId": 102,
+        "unlockCondition": "EpisodeFinish=10206",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_017_p",
+        "desc": "2/15 01:00",
+        "initPos": "-53.3#9.24",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10208,
+        "chapterId": 102,
+        "unlockCondition": "EpisodeFinish=10207",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_018_p",
+        "desc": "2/15 02:00",
+        "initPos": "-46.86#8.39",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10209,
+        "chapterId": 102,
+        "unlockCondition": "EpisodeFinish=10208",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_019_p",
+        "desc": "2/15 05:20",
+        "initPos": "-28.87#7.15",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10210,
+        "chapterId": 102,
+        "unlockCondition": "EpisodeFinish=10209",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_020_p",
+        "desc": "2/15 08:10",
+        "initPos": "-36#13.83",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10211,
+        "chapterId": 102,
+        "unlockCondition": "EpisodeFinish=10210",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_021_p",
+        "desc": "2/15 09:00",
+        "initPos": "-35.46#10.69",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10212,
+        "chapterId": 102,
+        "unlockCondition": "EpisodeFinish=10211",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_022_p",
+        "desc": "2/15 10:00",
+        "initPos": "-35.09#11.155",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10213,
+        "chapterId": 102,
+        "unlockCondition": "EpisodeFinish=10212",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_023_p",
+        "desc": "2/15 10:40",
+        "initPos": "-35.59#11.44",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10214,
+        "chapterId": 102,
+        "unlockCondition": "EpisodeFinish=10213",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_024_p",
+        "desc": "2/15 11:10",
+        "initPos": "-35.59#11.44",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10215,
+        "chapterId": 102,
+        "unlockCondition": "EpisodeFinish=10214",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_025_p",
+        "desc": "2/15 16:00",
+        "initPos": "-39.99#11.46",
+        "effectAudio": 1,
+        "areaAudio": "all"
+    },
+    {
+        "id": 10301,
+        "chapterId": 103,
+        "unlockCondition": "",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_026_p",
+        "desc": "?□v/■□■?ic/■?r/□m",
+        "initPos": "-58.45#9.62",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_classroom"
+    },
+    {
+        "id": 10302,
+        "chapterId": 103,
+        "unlockCondition": "EpisodeFinish=10301",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_027_p",
+        "desc": "?□v/■□■?ic/■?r/□m",
+        "initPos": "-11.485#7.48",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_manor#play_ui_checkpoint_noise_classroom"
+    },
+    {
+        "id": 10303,
+        "chapterId": 103,
+        "unlockCondition": "EpisodeFinish=10302",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_028_p",
+        "desc": "8/25 9:20",
+        "initPos": "-11.485#7.48",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_manor"
+    },
+    {
+        "id": 10304,
+        "chapterId": 103,
+        "unlockCondition": "EpisodeFinish=10303",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_029_p",
+        "desc": "8/25 11:45",
+        "initPos": "-11.485#7.48",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_manor#play_ui_checkpoint_noise_office"
+    },
+    {
+        "id": 10305,
+        "chapterId": 103,
+        "unlockCondition": "EpisodeFinish=10304",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_030_p",
+        "desc": "8/25 15:10",
+        "initPos": "-11.485#7.48",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_manor"
+    },
+    {
+        "id": 10306,
+        "chapterId": 103,
+        "unlockCondition": "EpisodeFinish=10305",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_031_p",
+        "desc": "?□v/■□■?ic/■?r/□m",
+        "initPos": "-63.6#16.9",
+        "effectAudio": 1,
+        "areaAudio": "play_ui_checkpoint_noise_sea#play_ui_checkpoint_noise_square"
+    },
+    {
+        "id": 10307,
+        "chapterId": 103,
+        "unlockCondition": "EpisodeFinish=10306",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_032_p",
+        "desc": "?□v/■□■?ic/■?r/□m",
+        "initPos": "-63.6#16.9",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_sea"
+    },
+    {
+        "id": 10308,
+        "chapterId": 103,
+        "unlockCondition": "EpisodeFinish=10307",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_033_p",
+        "desc": "?□v/■□■?ic/■?r/□m",
+        "initPos": "-46.16#10.16",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_sea#play_ui_checkpoint_noise_square#play_ui_checkpoint_noise_office"
+    },
+    {
+        "id": 10309,
+        "chapterId": 103,
+        "unlockCondition": "EpisodeFinish=10308",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_034_p",
+        "desc": "?□v/■□■?ic/■?r/□m",
+        "initPos": "-59.12#9.12",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_sea#play_ui_checkpoint_noise_classroom"
+    },
+    {
+        "id": 10310,
+        "chapterId": 103,
+        "unlockCondition": "EpisodeFinish=10309",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_035_p",
+        "desc": "?□v/■□■?ic/■?r/□m",
+        "initPos": "-23.10#17.38",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_sea"
+    },
+    {
+        "id": 10311,
+        "chapterId": 103,
+        "unlockCondition": "EpisodeFinish=10310",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_036_p",
+        "desc": "?□v/■□■?ic/■?r/□m",
+        "initPos": "-46.72#9.81",
+        "effectAudio": 1,
+        "areaAudio": "play_ui_checkpoint_noise_sea#play_ui_checkpoint_noise_square"
+    },
+    {
+        "id": 10312,
+        "chapterId": 103,
+        "unlockCondition": "EpisodeFinish=10311",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_037_p",
+        "desc": "?□v/■□■?ic/■?r/□m",
+        "initPos": "-61.41#7.64",
+        "effectAudio": 1,
+        "areaAudio": "play_ui_checkpoint_noise_sea#play_ui_checkpoint_noise_classroom"
+    },
+    {
+        "id": 10313,
+        "chapterId": 103,
+        "unlockCondition": "EpisodeFinish=10312",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_038_p",
+        "desc": "?□v/■□■?ic/■?r/□m",
+        "initPos": "-51.2#17.64",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_sea#play_ui_checkpoint_noise_library"
+    },
+    {
+        "id": 10314,
+        "chapterId": 103,
+        "unlockCondition": "EpisodeFinish=10313",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_039_p",
+        "desc": "?□v/■□■?ic/■?r/□m",
+        "initPos": "-63.61#5.49",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_sea#play_ui_checkpoint_noise_office"
+    },
+    {
+        "id": 10315,
+        "chapterId": 103,
+        "unlockCondition": "EpisodeFinish=10314",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_040_p",
+        "desc": "?□v/■□■?ic/■?r/□m",
+        "initPos": "-34.75#14.81",
+        "effectAudio": 2,
+        "areaAudio": "play_ui_checkpoint_noise_sea#play_ui_checkpoint_noise_underpass"
+    },
+    {
+        "id": 10316,
+        "chapterId": 103,
+        "unlockCondition": "EpisodeFinish=10315",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_041_p",
+        "desc": "?□v/■□■?ic/■?r/□m",
+        "initPos": "-32.21#5.34",
+        "effectAudio": 2,
+        "areaAudio": "play_ui_checkpoint_noise_sea"
+    },
+    {
+        "id": 10401,
+        "chapterId": 104,
+        "unlockCondition": "",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_042_p",
+        "desc": "8/26 06:11",
+        "initPos": "-70.04#22.31",
+        "effectAudio": 0,
+        "areaAudio": ""
+    },
+    {
+        "id": 10402,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10401",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_043_p",
+        "desc": "8/26 12:05",
+        "initPos": "-91.53#28.64",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_library"
+    },
+    {
+        "id": 10403,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10402",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_044_p",
+        "desc": "8/27 17:30",
+        "initPos": "-54.46#12.09",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_office_building"
+    },
+    {
+        "id": 10404,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10403",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_045_p",
+        "desc": "8/28 14:30",
+        "initPos": "-17.66#26.90",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_manor"
+    },
+    {
+        "id": 10405,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10404",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_046_p",
+        "desc": "8/31 09:45",
+        "initPos": "-48.99#13.52",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_forest_square1"
+    },
+    {
+        "id": 10406,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10405",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_047_p",
+        "desc": "8/31 11:22",
+        "initPos": "-51.33#11.78",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_forest_square2"
+    },
+    {
+        "id": 10407,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10406",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_048_p",
+        "desc": "8/31 16:00",
+        "initPos": "-64.62#25.89",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_forest_square2#play_ui_checkpoint_noise_office_building"
+    },
+    {
+        "id": 10408,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10407",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_049_p",
+        "desc": "9/2 10:40",
+        "initPos": "-70.35#17.66",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_forest_square2#play_ui_checkpoint_noise_office_building"
+    },
+    {
+        "id": 10409,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10408",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_050_p",
+        "desc": "9/2 13:50",
+        "initPos": "-70.35#17.66",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_forest_square2#play_ui_checkpoint_noise_office_building"
+    },
+    {
+        "id": 10410,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10409",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_051_p",
+        "desc": "9/2 20:30",
+        "initPos": "-70.39#6.01",
+        "effectAudio": 0,
+        "areaAudio": ""
+    },
+    {
+        "id": 10411,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10410",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_052_p",
+        "desc": "9/4 09:15",
+        "initPos": "-48.99#14.53",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_forest_square2#play_ui_checkpoint_noise_office_building"
+    },
+    {
+        "id": 10412,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10411",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_053_p",
+        "desc": "9/10 15:00",
+        "initPos": "-65.96#19.78",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_forest_square2#play_ui_checkpoint_noise_office_building"
+    },
+    {
+        "id": 10413,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10412",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_054_p",
+        "desc": "9/13 16:28",
+        "initPos": "-26.09#23.29",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_manor"
+    },
+    {
+        "id": 10414,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10413",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_055_p",
+        "desc": "9/16 10:10",
+        "initPos": "-70.10#22.76",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_office_building#play_ui_checkpoint_noise_manor"
+    },
+    {
+        "id": 10415,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10414",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_056_p",
+        "desc": "9/18 14:55",
+        "initPos": "-60.62#21.57",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_office_building"
+    },
+    {
+        "id": 10416,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10415",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_057_p",
+        "desc": "9/20 18:42",
+        "initPos": "-80.65#10.85",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_office_building"
+    },
+    {
+        "id": 10417,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10416",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_058_p",
+        "desc": "9/26 17:45",
+        "initPos": "-67.53#19.78",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_office_building"
+    },
+    {
+        "id": 10418,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10417",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_059_p",
+        "desc": "9/30 11:02",
+        "initPos": "-70.35#17.76",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_office_building"
+    },
+    {
+        "id": 10419,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10418",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_060_p",
+        "desc": "10/6 09:30",
+        "initPos": "-65.96#19.78",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_office_building"
+    },
+    {
+        "id": 10420,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10419",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_061_p",
+        "desc": "10/6 10:11",
+        "initPos": "-48.99#14.53",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_forest_square2#play_ui_checkpoint_noise_office_building"
+    },
+    {
+        "id": 10421,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10420",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_062_p",
+        "desc": "10/6 12:00",
+        "initPos": "-17.66#26.90",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_office_building#play_ui_checkpoint_noise_manor"
+    },
+    {
+        "id": 10422,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10421",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_063_p",
+        "desc": "10/6 14:00",
+        "initPos": "-50.30#15.07",
+        "effectAudio": 0,
+        "areaAudio": "play_ui_checkpoint_noise_forest_square2"
+    },
+    {
+        "id": 10423,
+        "chapterId": 104,
+        "unlockCondition": "EpisodeFinish=10422",
+        "res": "m_s08_hddt/scene_prefab/m_s08_hddt_064_p",
+        "desc": "10/10 17:49",
+        "initPos": "-70.04#22.31",
+        "effectAudio": 0,
+        "areaAudio": ""
+    },
+    {
+        "id": 1110101,
+        "chapterId": 11101,
+        "unlockCondition": "",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_001_p",
+        "desc": "3.19 10:00",
+        "initPos": "-28.00#20.00",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 1110102,
+        "chapterId": 11101,
+        "unlockCondition": "EpisodeFinish=1110101",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_002_p",
+        "desc": "3.19 10:17",
+        "initPos": "-58.50#17.64",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 1110103,
+        "chapterId": 11101,
+        "unlockCondition": "EpisodeFinish=1110102",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_003_p",
+        "desc": "3.19 10:10",
+        "initPos": "-45.28#14.20",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 1110104,
+        "chapterId": 11101,
+        "unlockCondition": "EpisodeFinish=1110103",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_004_p",
+        "desc": "3.19 10:36",
+        "initPos": "-83.30#19.60",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 1110105,
+        "chapterId": 11101,
+        "unlockCondition": "EpisodeFinish=1110104",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_005_p",
+        "desc": "3.19 10:45",
+        "initPos": "-22.70#10.20",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 1110106,
+        "chapterId": 11101,
+        "unlockCondition": "EpisodeFinish=1110105",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_006_p",
+        "desc": "3.20 9:43",
+        "initPos": "-44.80#14.20",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 1110107,
+        "chapterId": 11101,
+        "unlockCondition": "EpisodeFinish=1110106",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_007_p",
+        "desc": "3.20 10:32",
+        "initPos": "-100.30#13.60",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 1110108,
+        "chapterId": 11101,
+        "unlockCondition": "EpisodeFinish=1110107",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_008_p",
+        "desc": "3.20 16:51",
+        "initPos": "-99.90#11.60",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 1110109,
+        "chapterId": 11101,
+        "unlockCondition": "EpisodeFinish=1110108",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_009_p",
+        "desc": "3.20 16:40",
+        "initPos": "-110.00#13.00",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 1110110,
+        "chapterId": 11101,
+        "unlockCondition": "EpisodeFinish=1110109",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_010_p",
+        "desc": "3.20 16:50",
+        "initPos": "-101.50#14.00",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 1110111,
+        "chapterId": 11101,
+        "unlockCondition": "EpisodeFinish=1110110",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_011_p",
+        "desc": "3.20 17:13",
+        "initPos": "-100.30#12.10",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 1110112,
+        "chapterId": 11101,
+        "unlockCondition": "EpisodeFinish=1110111",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_012_p",
+        "desc": "3.20 17:27",
+        "initPos": "-100.30#12.10",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 1110113,
+        "chapterId": 11101,
+        "unlockCondition": "EpisodeFinish=1110112",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_013_p",
+        "desc": "3.20 17:42",
+        "initPos": "-104.70#11.70",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 1110114,
+        "chapterId": 11101,
+        "unlockCondition": "EpisodeFinish=1110113",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_014_p",
+        "desc": "3.20 18:00",
+        "initPos": "-100.30#12.10",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 1110115,
+        "chapterId": 11101,
+        "unlockCondition": "EpisodeFinish=1110114",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_015_p",
+        "desc": "3.20 18:05",
+        "initPos": "-98.00#12.00",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    },
+    {
+        "id": 1110116,
+        "chapterId": 11101,
+        "unlockCondition": "EpisodeFinish=1110115",
+        "res": "m_s14_hddt_hd01/scene_prefab/m_s08_hddt_hd_016_p",
+        "desc": "3.20 18:08",
+        "initPos": "-98.00#12.00",
+        "effectAudio": 0,
+        "areaAudio": "all"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "id": 11,
+        "name": "洞悉材料",
+        "useType": 1,
+        "use_max": 0
+    },
+    {
+        "id": 12,
+        "name": "共鸣材料",
+        "useType": 1,
+        "use_max": 0
+    },
+    {
+        "id": 13,
+        "name": "塑造材料",
+        "useType": 1,
+        "use_max": 0
+    },
+    {
+        "id": 14,
+        "name": "通用材料",
+        "useType": 1,
+        "use_max": 0
+    },
+    {
+        "id": 15,
+        "name": "探索道具",
+        "useType": 1,
+        "use_max": 0
+    },
+    {
+        "id": 16,
+        "name": "多倍券",
+        "useType": 1,
+        "use_max": 0
+    },
+    {
+        "id": 17,
+        "name": "头像",
+        "useType": 1,
+        "use_max": 0
+    },
+    {
+        "id": 18,
+        "name": "心相材料",
+        "useType": 1,
+        "use_max": 0
+    },
+    {
+        "id": 48,
+        "name": "指定礼包",
+        "useType": 6,
+        "use_max": 99
+    },
+    {
+        "id": 49,
+        "name": "随机礼包",
+        "useType": 6,
+        "use_max": 99
+    },
+    {
+        "id": 50,
+        "name": "通用礼包",
+        "useType": 6,
+        "use_max": 99
+    }
+]

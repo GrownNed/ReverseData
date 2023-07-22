@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "icon": "shen_guize_01",
+        "additionRule": "1#1082"
+    },
+    {
+        "id": 2,
+        "icon": "shen_guize_02",
+        "additionRule": "1#1083"
+    },
+    {
+        "id": 3,
+        "icon": "shen_guize_03",
+        "additionRule": "1#1080"
+    },
+    {
+        "id": 4,
+        "icon": "shen_guize_04",
+        "additionRule": "1#1081"
+    }
+]

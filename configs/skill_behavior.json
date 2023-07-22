@@ -1,0 +1,740 @@
+[
+    {
+        "id": 1,
+        "type": "AddBuff",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 10001,
+        "type": "SkillRateUp",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 10002,
+        "type": "SkillRateUp1",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 10003,
+        "type": "SkillRateUp2",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 10004,
+        "type": "AttrFix",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 10006,
+        "type": "Damage",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 10007,
+        "type": "SkillPowerUp",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 10008,
+        "type": "Damage2",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 10009,
+        "type": "SkillRateUpExPoint",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 10010,
+        "type": "AttrFixExPoint",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 10011,
+        "type": "AttrFixBuff",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 20001,
+        "type": "Heal",
+        "effect": "buff/buff_jiaxue",
+        "effectHangPoint": "",
+        "audioId": 410000015,
+        "dec_Type": 3,
+        "dec": "生命回复"
+    },
+    {
+        "id": 20002,
+        "type": "AddExPoint",
+        "effect": "buff/buff_nuqizengjia",
+        "effectHangPoint": "",
+        "audioId": 410000022,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 20003,
+        "type": "Purify1",
+        "effect": "buff/buff_jinghua",
+        "effectHangPoint": "mountbottom",
+        "audioId": 410000024,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 20004,
+        "type": "Purify2",
+        "effect": "buff/buff_jinghua",
+        "effectHangPoint": "mountbottom",
+        "audioId": 410000024,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 20005,
+        "type": "AddBuffRound",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 20008,
+        "type": "Detonate",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 5,
+        "dec": "中毒结算"
+    },
+    {
+        "id": 20009,
+        "type": "Detonate2",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 20010,
+        "type": "Bloodlust",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 20011,
+        "type": "AverageLife",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 20012,
+        "type": "HealCantCrit",
+        "effect": "buff/buff_xixue_monster",
+        "effectHangPoint": "bone",
+        "audioId": 410000015,
+        "dec_Type": 3,
+        "dec": "生命回复"
+    },
+    {
+        "id": 20013,
+        "type": "DecrDurationAndCountBuffType",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 20014,
+        "type": "DecrDurationAndCountBuffTypeId",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 20015,
+        "type": "DecrDurationAndCountBuffTypeGroup",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 20016,
+        "type": "HealCantCrit",
+        "effect": "buff/buff_jiaxue",
+        "effectHangPoint": "",
+        "audioId": 410000015,
+        "dec_Type": 3,
+        "dec": "生命回复"
+    },
+    {
+        "id": 30001,
+        "type": "DelExPoint",
+        "effect": "buff/buff_nuqijiangdi",
+        "effectHangPoint": "",
+        "audioId": 410000023,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 30002,
+        "type": "AbsorbExPoint",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 30003,
+        "type": "Disperse1",
+        "effect": "buff/buff_qvsan",
+        "effectHangPoint": "mountbottom",
+        "audioId": 410000025,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 30004,
+        "type": "Disperse2",
+        "effect": "buff/buff_qvsan",
+        "effectHangPoint": "mountbottom",
+        "audioId": 410000025,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 30005,
+        "type": "LostLife",
+        "effect": "buff/buff_kouxue",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 30006,
+        "type": "LostLife",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 30007,
+        "type": "DelExPoint",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 30008,
+        "type": "Disperse1",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 30009,
+        "type": "Disperse2",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 30010,
+        "type": "LostLifeNotFixed",
+        "effect": "buff/buff_kouxue",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 30011,
+        "type": "AbsorbExPoint",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 410000023,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 40001,
+        "type": "CritRateAlter",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 40003,
+        "type": "AddAct",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 40004,
+        "type": "AddCard",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 40005,
+        "type": "RedealCard",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 40006,
+        "type": "MonsterChange",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 40007,
+        "type": "AddActAndCardLimit",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50001,
+        "type": "AddExp",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50002,
+        "type": "AddScore",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50003,
+        "type": "HateRich",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50004,
+        "type": "ShieldChange",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50005,
+        "type": "IntervalUse",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50006,
+        "type": "AddActHero",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50007,
+        "type": "",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50008,
+        "type": "DirectUseSkill",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50009,
+        "type": "CardLevelChange",
+        "effect": "buff/buff_zhouyujiangjie_01",
+        "effectHangPoint": "mounttop",
+        "audioId": 410000049,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50010,
+        "type": "DirectUseGroupAndStarSkill",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50011,
+        "type": "CardLevelChange",
+        "effect": "buff/buff_zhouyushengjie_01",
+        "effectHangPoint": "mounttop",
+        "audioId": 410000048,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50012,
+        "type": "DirectUseSkillNoAct",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50013,
+        "type": "ChangeCareer",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50014,
+        "type": "ConsumeBuffByTypeId",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50015,
+        "type": "UseExtraSkill",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 50016,
+        "type": "ConsumeBuffByTypeId2",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60001,
+        "type": "AddActHero",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60002,
+        "type": "AddUniversalCard",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60003,
+        "type": "RedealCardKeepStar",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60004,
+        "type": "SubHeroChange",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60005,
+        "type": "ExtraMoveCard",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60006,
+        "type": "AddSpCard",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60007,
+        "type": "WeightSkillGroup",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60008,
+        "type": "Summon",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60009,
+        "type": "StealBuff",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60010,
+        "type": "DisperseForce2",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60011,
+        "type": "DisperseForce1",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60012,
+        "type": "RedealCardKeepStar2",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60013,
+        "type": "SummonSp",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60014,
+        "type": "DirectUseSkillPrev",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60015,
+        "type": "Kill",
+        "effect": "buff/buff_kouxue",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60016,
+        "type": "AddIndicator",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 60017,
+        "type": "DelIndicator",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 70001,
+        "type": "EnchantFrozen",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 70002,
+        "type": "EnchantBurn",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 70003,
+        "type": "EnchantEcho",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 70004,
+        "type": "EnchantPlume",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 70005,
+        "type": "EnchantInfecter",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 90001,
+        "type": "Heal",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    },
+    {
+        "id": 90002,
+        "type": "Disperse2",
+        "effect": "",
+        "effectHangPoint": "",
+        "audioId": 0,
+        "dec_Type": 0,
+        "dec": ""
+    }
+]

@@ -1,0 +1,3593 @@
+[
+    {
+        "id": 0,
+        "tips": "成功",
+        "icon": 0,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -1,
+        "tips": "服务器错误",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -2,
+        "tips": "服务器异常",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -3,
+        "tips": "服务不可用，请稍后重试",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -4,
+        "tips": "参数错误",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -5,
+        "tips": "失败",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -6,
+        "tips": "没有权限",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -10,
+        "tips": "已创建角色",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -11,
+        "tips": "角色名已被占用",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -12,
+        "tips": "超出文本长度限制",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -13,
+        "tips": "存在敏感词",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -14,
+        "tips": "创建角色失败",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -15,
+        "tips": "存在特殊字符",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -20,
+        "tips": "非法物品id",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -21,
+        "tips": "非法操作",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -22,
+        "tips": "货币不足",
+        "icon": 22,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -23,
+        "tips": "粹雨滴不足",
+        "icon": 22,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -24,
+        "tips": "背包物品不足",
+        "icon": 82,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -25,
+        "tips": "使用物品过于频繁，请稍后再试",
+        "icon": 82,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -26,
+        "tips": "道具已满",
+        "icon": 82,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -27,
+        "tips": "已过期",
+        "icon": 82,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -28,
+        "tips": "超过最大数量",
+        "icon": 82,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -29,
+        "tips": "物品使用cd",
+        "icon": 82,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -30,
+        "tips": "超过每日获得奖励上限",
+        "icon": 62,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -31,
+        "tips": "活性不足",
+        "icon": 32,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -49,
+        "tips": "编队中存在被限制角色",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -50,
+        "tips": "编队id错误",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -51,
+        "tips": "编队人数错误",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -52,
+        "tips": "编队有重复角色",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -53,
+        "tips": "律的调校未激活",
+        "icon": 92,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -54,
+        "tips": "编队站位错误",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -55,
+        "tips": "必须上场角色没有进编队",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -70,
+        "tips": "战斗编队人数错误",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -71,
+        "tips": "角色不存在",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -72,
+        "tips": "怪物组错误",
+        "icon": 142,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -73,
+        "tips": "不在战斗中",
+        "icon": 142,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -74,
+        "tips": "战斗已结束",
+        "icon": 142,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -75,
+        "tips": "替换角色上场失败",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -76,
+        "tips": "新一波怪物",
+        "icon": 141,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -77,
+        "tips": "编队中有重复角色",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -78,
+        "tips": "战斗已超时",
+        "icon": 142,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -79,
+        "tips": "回合已开始",
+        "icon": 141,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -80,
+        "tips": "关卡关闭，无法进行挑战",
+        "icon": 142,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -110,
+        "tips": "pvp中",
+        "icon": 141,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -111,
+        "tips": "好友切磋中",
+        "icon": 52,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -120,
+        "tips": "邮件不存在",
+        "icon": 42,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -121,
+        "tips": "邮件已读",
+        "icon": 41,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -122,
+        "tips": "邮件已过期",
+        "icon": 42,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -123,
+        "tips": "不存在可领取的邮件",
+        "icon": 42,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -124,
+        "tips": "不存在可删除的邮件",
+        "icon": 42,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -125,
+        "tips": "已领取奖励",
+        "icon": 81,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -126,
+        "tips": "不满足条件",
+        "icon": 62,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -127,
+        "tips": "已下架",
+        "icon": 62,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -128,
+        "tips": "任务已过期无法领取奖励",
+        "icon": 62,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -140,
+        "tips": "角色不存在",
+        "icon": 92,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -141,
+        "tips": "角色该技能已达到等级上限",
+        "icon": 92,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -142,
+        "tips": "角色升级技能物品不足",
+        "icon": 82,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -143,
+        "tips": "角色升级技能等级不足",
+        "icon": 92,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -144,
+        "tips": "角色星级已满",
+        "icon": 91,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -145,
+        "tips": "角色等级不足",
+        "icon": 92,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -180,
+        "tips": "副本挑战中",
+        "icon": 131,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -181,
+        "tips": "爬塔挑战中",
+        "icon": 131,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -182,
+        "tips": "关卡不存在",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -183,
+        "tips": "不在副本中",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -184,
+        "tips": "前置关卡未通关",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -185,
+        "tips": "副本不在开放时间",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -186,
+        "tips": "副本已结束",
+        "icon": 132,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -187,
+        "tips": "未达到章节开启等级",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -188,
+        "tips": "上一章节的战后剧情未完成",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -189,
+        "tips": "当前关卡未通关",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -190,
+        "tips": "战前剧情无法结束",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -191,
+        "tips": "心相不存在",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -192,
+        "tips": "经验心相不能升级",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -193,
+        "tips": "心相已锁定",
+        "icon": 111,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -194,
+        "tips": "心相数量不足",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -195,
+        "tips": "心相未满级",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -196,
+        "tips": "上次的附魔未选择",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -197,
+        "tips": "经验心相不能附魔",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -198,
+        "tips": "选的心相不是相同类型或替代",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -199,
+        "tips": "没有可选附魔",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -200,
+        "tips": "经验心相不能锁定",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -201,
+        "tips": "心相已达到当前突破限制等级无法印刻",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -202,
+        "tips": "心相背包已满",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -203,
+        "tips": "商店未开放",
+        "icon": 72,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -204,
+        "tips": "商品已过期",
+        "icon": 72,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -205,
+        "tips": "指引步骤不存在",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -206,
+        "tips": "指引步骤不匹配",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -207,
+        "tips": "道具已满，已自动发送至邮箱",
+        "icon": 82,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -208,
+        "tips": "超过副本挑战次数限制",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -209,
+        "tips": "您与对方已是好友",
+        "icon": 52,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": -210,
+        "tips": "您的好友数量已达上限",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -211,
+        "tips": "对方好友数量已达上限",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -212,
+        "tips": "搜索过于频繁，请稍后再试",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -213,
+        "tips": "申请已过期",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -214,
+        "tips": "不能加自己为好友",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -215,
+        "tips": "黑名单已满",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -216,
+        "tips": "超过字数限制",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -217,
+        "tips": "禁言中",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -218,
+        "tips": "不是好友",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -219,
+        "tips": "功能未开启",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -220,
+        "tips": "聊天冷却中",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -221,
+        "tips": "玩家不在线",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -222,
+        "tips": "玩家不存在",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -223,
+        "tips": "玩家不存在",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -224,
+        "tips": "活动未开启",
+        "icon": 62,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -225,
+        "tips": "活动已结束",
+        "icon": 62,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -226,
+        "tips": "未达到活动开启条件",
+        "icon": 62,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -227,
+        "tips": "不在活动时间",
+        "icon": 62,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -228,
+        "tips": "副本没有开启",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -229,
+        "tips": "关卡已通关",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -230,
+        "tips": "不在开放时间",
+        "icon": 62,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -250,
+        "tips": "洞悉等级不足",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -251,
+        "tips": "方块数量不足",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -252,
+        "tips": "格子无法放入",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -253,
+        "tips": "心相已达到当前升维最高等级",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -254,
+        "tips": "心相已达到最高增幅等级",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -255,
+        "tips": "无法使用已满级装备增幅",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -256,
+        "tips": "该物品无法强化",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -257,
+        "tips": "未满级，无法突破",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -258,
+        "tips": "没有可以回溯的记录",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -259,
+        "tips": "该关卡无法使用战斗回溯",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -260,
+        "tips": "地块已放置",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -261,
+        "tips": "建筑已放置",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -262,
+        "tips": "建筑未放置",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -263,
+        "tips": "库存已满无法加速",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -264,
+        "tips": "加速道具使用超过限制",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -265,
+        "tips": "不休荒原重置冷却中",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -266,
+        "tips": "该笔记中有关卡尚未通关",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -267,
+        "tips": "该笔记奖励已领取",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -268,
+        "tips": "还有课题奖励尚未领取",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -269,
+        "tips": "课题最终奖励已领取",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -270,
+        "tips": "对方不休荒原未开启",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -271,
+        "tips": "试验造影期间，十连抽功能暂不可用",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -272,
+        "tips": "梦游装置已重启",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -273,
+        "tips": "梦游英雄CD",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -274,
+        "tips": "礼包码兑换次数已满",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -275,
+        "tips": "礼包码已被使用",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -276,
+        "tips": "礼包码无效，请重新确认",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -277,
+        "tips": "礼包码已过期，请重新确认",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -278,
+        "tips": "此礼包已领取",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -279,
+        "tips": "举报过于频繁",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -280,
+        "tips": "战令已结束",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -281,
+        "tips": "事件已完成",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -282,
+        "tips": "事件不存在",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -283,
+        "tips": "前置地图未通关",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -284,
+        "tips": "行动点不足",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -285,
+        "tips": "活动奖励已领取",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -286,
+        "tips": "积分不足",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": -287,
+        "tips": "当前地图已失败",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1,
+        "tips": "请先停止录制协议",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 2,
+        "tips": "请先输入文件名",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 3,
+        "tips": "该用例文件已存在",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 4,
+        "tips": "此阶段已完成共鸣",
+        "icon": 92,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 5,
+        "tips": "条件不足，无法共鸣",
+        "icon": 92,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 6,
+        "tips": "好友人数已达上限",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 7,
+        "tips": "已拉黑此玩家",
+        "icon": 51,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 8,
+        "tips": "货币不足",
+        "icon": 22,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 9,
+        "tips": "聊天冷却中",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10,
+        "tips": "请输入聊天信息",
+        "icon": 51,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 11,
+        "tips": "请输入信息",
+        "icon": 51,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 12,
+        "tips": "您输入得太快了",
+        "icon": 51,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 13,
+        "tips": "搜索玩家信息不存在",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 14,
+        "tips": "行动点不足",
+        "icon": 142,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 15,
+        "tips": "剧情角色不可放置在替补位置",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 16,
+        "tips": "此位置不开放",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 17,
+        "tips": "不可添加自身为好友",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 18,
+        "tips": "已跟对方建立好友关系",
+        "icon": 51,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 19,
+        "tips": "好友申请发送成功",
+        "icon": 51,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 20,
+        "tips": "律的调校更替成功",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 21,
+        "tips": "敬请期待后续更新",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 22,
+        "tips": "尚未达到解锁条件",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 23,
+        "tips": "关卡未解锁",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 24,
+        "tips": "上阵角色为空，不可挑战",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 25,
+        "tips": "背包物品不足",
+        "icon": 82,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 26,
+        "tips": "剩余次数不足消耗",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 27,
+        "tips": "活性不足",
+        "icon": 32,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 28,
+        "tips": "当前界面不可跳转",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 29,
+        "tips": "维尔汀的激情不足",
+        "icon": 142,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 30,
+        "tips": "技能正在冷却中",
+        "icon": 142,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 31,
+        "tips": "无可复活角色",
+        "icon": 142,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 32,
+        "tips": "请选择绑定角色",
+        "icon": 141,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 33,
+        "tips": "领取成功",
+        "icon": 81,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 34,
+        "tips": "请选择1个奖励",
+        "icon": 62,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 35,
+        "tips": "请选择复活角色",
+        "icon": 141,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 36,
+        "tips": "角色复活成功",
+        "icon": 141,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 37,
+        "tips": "记忆成功",
+        "icon": 111,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 38,
+        "tips": "结束探索成功",
+        "icon": 131,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 39,
+        "tips": "印刻成功",
+        "icon": 111,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 40,
+        "tips": "心相锁定成功",
+        "icon": 111,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 41,
+        "tips": "心相解锁成功",
+        "icon": 111,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 42,
+        "tips": "已拥有此服装",
+        "icon": 91,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 43,
+        "tips": "商品已售罄",
+        "icon": 72,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 44,
+        "tips": "无法前往",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 45,
+        "tips": "请投入印刻材料",
+        "icon": 81,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 46,
+        "tips": "利齿子儿不足",
+        "icon": 22,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 47,
+        "tips": "购买数量达到上限",
+        "icon": 72,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 48,
+        "tips": "已达数量上限，无法添加",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 49,
+        "tips": "可突破数已达上限",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 50,
+        "tips": "投入材料经验已达上限",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 51,
+        "tips": "材料装备已满",
+        "icon": 82,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 52,
+        "tips": "暂无可快速添加的心相",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 53,
+        "tips": "已达等级上限",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 54,
+        "tips": "材料不足",
+        "icon": 82,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 55,
+        "tips": "覆盖成功",
+        "icon": 111,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 56,
+        "tips": "当前存在尚未结束的探索地图",
+        "icon": 132,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 57,
+        "tips": "被锁定的心相，不可消耗",
+        "icon": 112,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 58,
+        "tips": "复制成功",
+        "icon": 81,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 59,
+        "tips": "取消禁用引导",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 60,
+        "tips": "禁用引导",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 61,
+        "tips": "不允许值为空",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 62,
+        "tips": "值必须为数字",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 63,
+        "tips": "值必须为true/false或者0/1",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 64,
+        "tips": "清理成功",
+        "icon": 81,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 65,
+        "tips": "引导已结束",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 66,
+        "tips": "别点了，功能还没开",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 67,
+        "tips": "未解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 68,
+        "tips": "信任达到▩1%s%解锁",
+        "icon": 92,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 69,
+        "tips": "洞悉达到▩1%s级解锁",
+        "icon": 92,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 70,
+        "tips": "通关▩1%s解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 71,
+        "tips": "信任达到▩1%s%解锁",
+        "icon": 92,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 73,
+        "tips": "本日购买次数达到上限",
+        "icon": 32,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 74,
+        "tips": "活性药库存不足",
+        "icon": 82,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 75,
+        "tips": "活性数值达到最大上限",
+        "icon": 32,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 76,
+        "tips": "不能领取，请先解锁",
+        "icon": 62,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 77,
+        "tips": "阵容中已有该角色",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 78,
+        "tips": "角色已重伤，不可上阵",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 79,
+        "tips": "位置锁定",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 80,
+        "tips": "剧情角色不可下阵",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 81,
+        "tips": "▩1%s尚未到开放时间",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 82,
+        "tips": "本▩1%s已达挑战上限",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 83,
+        "tips": "GM ▩1%s：▩2%s",
+        "icon": 21,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 84,
+        "tips": "利齿子儿：▩1%s",
+        "icon": 21,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 85,
+        "tips": "活性：▩1%s",
+        "icon": 31,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 86,
+        "tips": "GM删除材料▩1%s",
+        "icon": 81,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 87,
+        "tips": "GM添加角色▩1%s",
+        "icon": 91,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 88,
+        "tips": "GM设置等级▩1%s",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 89,
+        "tips": "GM添加角色经验▩1%s",
+        "icon": 91,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 90,
+        "tips": "GM添加材料▩1%s",
+        "icon": 81,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 91,
+        "tips": "万能牌▩1%s",
+        "icon": 141,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 92,
+        "tips": "▩1%s数量不足",
+        "icon": 82,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 93,
+        "tips": "皮肤是否存在：▩1%s",
+        "icon": 91,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 94,
+        "tips": "▩1%s",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 97,
+        "tips": "心相碎片不足",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 98,
+        "tips": "活性+▩1%s",
+        "icon": 31,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 99,
+        "tips": "信任增加",
+        "icon": 101,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 100,
+        "tips": "获得赠品：▩1%s*▩2%s",
+        "icon": 81,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 101,
+        "tips": "角色未获得",
+        "icon": 92,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 102,
+        "tips": "编队中已存在相同角色",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 103,
+        "tips": "▩1%s未达到开启条件",
+        "icon": 72,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 104,
+        "tips": "GM提升角色▩1%s",
+        "icon": 91,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 105,
+        "tips": "通关后开放自动战斗",
+        "icon": 142,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 106,
+        "tips": "用户名不能为空",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 107,
+        "tips": "跳转商店未开启",
+        "icon": 72,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 108,
+        "tips": "跳转界面不存在",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 109,
+        "tips": "此副本尚未开启",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 110,
+        "tips": "关卡尚未开启",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 148,
+        "tips": "前方遇到阻碍\n先往路标处前进吧",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 111,
+        "tips": "未开启",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 112,
+        "tips": "保存成功",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 113,
+        "tips": "信任已满",
+        "icon": 102,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 114,
+        "tips": "完成上一章节故事以解锁",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 133,
+        "tips": "需于过往章节中收集▩1%s处行迹以解锁",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 115,
+        "tips": "等级达到▩1%s解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 116,
+        "tips": "暂不可编队",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 117,
+        "tips": "▩1%s已洞察了更多",
+        "icon": 91,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 118,
+        "tips": "未达到领取条件",
+        "icon": 62,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 119,
+        "tips": "角色塑造等级达到▩1%s级解锁",
+        "icon": 92,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 120,
+        "tips": "角色共鸣等级达到▩1%s级解锁",
+        "icon": 92,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 121,
+        "tips": "角色等级达到▩1%s级解锁",
+        "icon": 92,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 122,
+        "tips": "输入无效",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 123,
+        "tips": "▩1%s不足",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 124,
+        "tips": "请输入一个标题内容",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 125,
+        "tips": "请输入箴言内容",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 126,
+        "tips": "标题最多▩1%s个字符",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 127,
+        "tips": "内容最多▩1%s个字符",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 128,
+        "tips": "购买数量达到上限",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 129,
+        "tips": "当前系统配置不支持此分辨率",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 132,
+        "tips": "于困难中成功地尝试\n你完成得十分优秀",
+        "icon": 151,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 141,
+        "tips": "于极难中出色地尝试\n没人能比你做得更好",
+        "icon": 151,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 134,
+        "tips": "你需要达到▩1%s级来解锁它",
+        "icon": 132,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 135,
+        "tips": "行迹拾取完成，新的故事已解锁",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 160,
+        "tips": "门扉已打开，请继续新的故事",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 136,
+        "tips": "▩1%s|已收录至图鉴",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 137,
+        "tips": "无替补",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 138,
+        "tips": "输入超过可使用数量范围",
+        "icon": 82,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 139,
+        "tips": "请选择需要解离的心相",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 140,
+        "tips": "锁定的心相，不可解离",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 142,
+        "tips": "请投入增幅材料",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 143,
+        "tips": "此难度未解锁",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 144,
+        "tips": "梦游实验已完成",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 145,
+        "tips": "每周仅可挑选一次梦境难度。",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 146,
+        "tips": "请选择受蔽者",
+        "icon": 111,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 147,
+        "tips": "请选择蜕变者",
+        "icon": 111,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 149,
+        "tips": "未储存行为记忆，请开始行动",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 150,
+        "tips": "行为记忆已覆盖",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 158,
+        "tips": "行为记忆已储存",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 159,
+        "tips": "储存行为记忆需达成所有目标",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 151,
+        "tips": "衣橱空荡如新",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 152,
+        "tips": "已进入深眠状态的角色不可进入编队。",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 153,
+        "tips": "暂无可进行认知屏蔽的角色。",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 154,
+        "tips": "恰到好处的灵光一闪",
+        "icon": 61,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 161,
+        "tips": "你做得很好，请继续前进",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 162,
+        "tips": "名称更新成功",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 163,
+        "tips": "请尝试放置5块孤屿扩展荒原",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 164,
+        "tips": "尚未选择心相",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 165,
+        "tips": "偏好心相设置成功",
+        "icon": 111,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 166,
+        "tips": "已增幅至满级",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 167,
+        "tips": "超出最大字数限制",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 168,
+        "tips": "请选择举报原因",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 169,
+        "tips": "举报过于频繁",
+        "icon": 52,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 170,
+        "tips": "举报成功",
+        "icon": 51,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 171,
+        "tips": "请输入兑换码",
+        "icon": 51,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 172,
+        "tips": "已购买至最大上限",
+        "icon": 51,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 173,
+        "tips": "语音包下载异常",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 1
+    },
+    {
+        "id": 155,
+        "tips": "尚未深入此地",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 156,
+        "tips": "请先完成本章故事关卡内容",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 157,
+        "tips": "需以2星完成故事",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 174,
+        "tips": "已拥有此商品",
+        "icon": 91,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 175,
+        "tips": "账号等级达到▩1%s级解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 176,
+        "tips": "活动已下线",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 177,
+        "tips": "活动不存在",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 178,
+        "tips": "▩1%s不足，请选择支付货币类型",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 179,
+        "tips": "▩1%s衣束更换",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 180,
+        "tips": "当前无改名次数",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 181,
+        "tips": "心相已被锁定，请先解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 182,
+        "tips": "部分语音设置需要重启游戏后生效",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 183,
+        "tips": "▩1%s删除完毕",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 184,
+        "tips": "▩1%s|已收录至教学笔记",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 185,
+        "tips": "感声元件获取时间已截止",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 186,
+        "tips": "首次剧情关卡无法储存行为记忆，请再次行动",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 187,
+        "tips": "储存记忆需要完成阅读",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 188,
+        "tips": "人工梦游将于通关故事3RD-02后开启",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 189,
+        "tips": "教学笔记将于通关故事1ST-06的小径后开启",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 190,
+        "tips": "尚未拥有原始角色",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1001,
+        "tips": "深度解析次数不足",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1002,
+        "tips": "已存在蜕变者",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1003,
+        "tips": "完成前一个梦境解锁",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1004,
+        "tips": "角色进入苏醒状态，下一关才能上阵",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1005,
+        "tips": "可选角色数量已达上限",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1006,
+        "tips": "深眠域将在活动时间开启",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1007,
+        "tips": "重置成功",
+        "icon": 161,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1008,
+        "tips": "深眠域将在活动时间开启",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2001,
+        "tips": "功能未解锁\n它尚未处于视线之中",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2002,
+        "tips": "敬请期待后续更新",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2003,
+        "tips": "通关▩1%s开启",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2021,
+        "tips": "通关▩1%s开启挑战",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2022,
+        "tips": "本关卡需要2个编队角色才可挑战！",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2051,
+        "tips": "需完成前置课程以解锁课题",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2101,
+        "tips": "新邮件待查收-\n[▩1%s]",
+        "icon": 43,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 3001,
+        "tips": "暂无开启活动",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 130,
+        "tips": "记忆中的心相不可作为印刻材料",
+        "icon": 112,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 2201,
+        "tips": "尚未获得[律]",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 2202,
+        "tips": "使用咒语后，不可再使用[律]的技能，请使用回退操作！",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 131,
+        "tips": "未揭示的过去",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1100,
+        "tips": "请先勾选相关协议",
+        "icon": 0,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1101,
+        "tips": "两次输入密码不一致，请确保一致！",
+        "icon": 0,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1102,
+        "tips": "账号不允许为空",
+        "icon": 0,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1103,
+        "tips": "密码必须是8-16位，数字/字母/符号至少两种！",
+        "icon": 0,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1104,
+        "tips": "请输入正确的手机号码！",
+        "icon": 0,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 1105,
+        "tips": "再想想，再好好想想",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1106,
+        "tips": "发送验证码成功！",
+        "icon": 0,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 1107,
+        "tips": "请输入正确的姓名！",
+        "icon": 0,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 1108,
+        "tips": "请输入正确的身份证号！",
+        "icon": 0,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 1109,
+        "tips": "验证码不能为空！",
+        "icon": 0,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 501,
+        "tips": "完成▩1%s后解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 1701,
+        "tips": "暂时无法前往",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 1702,
+        "tips": "用于修复损坏的普通棱镜",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 1703,
+        "tips": "当前状态无法使用道具",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 2401,
+        "tips": "共鸣所需材料不足",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2402,
+        "tips": "洞悉等级不足",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2403,
+        "tips": "角色须洞悉自身以开启共鸣",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2501,
+        "tips": "购买成功",
+        "icon": 0,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 2502,
+        "tips": "▩1%s(▩2%s)",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 2503,
+        "tips": "商品暂未开放！",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2504,
+        "tips": "兑换成功",
+        "icon": 81,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2601,
+        "tips": "提升【▩1%s】至▩2%s级后解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2602,
+        "tips": "材料不足，无法添加",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2603,
+        "tips": "当前位置不可放置建筑，请移动建筑至可放置区域",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2604,
+        "tips": "当前环境区剩余繁荣度不足，请移动至可用环境区再试",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2605,
+        "tips": "当前无可放置的区域，请继续拓展荒原",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2606,
+        "tips": "当前位置无法旋转",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2607,
+        "tips": "剩余库存不足，请领取后再试",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2608,
+        "tips": "生产条件变化，请重新确认",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2609,
+        "tips": "剩余库存不足，请尽快领取",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2610,
+        "tips": "材料不足，无法生产",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2611,
+        "tips": "提升道具不足",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2612,
+        "tips": "生产条件变化，请重新确认",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2613,
+        "tips": "请先选择要执行的配方",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2614,
+        "tips": "已达到最小值，无法继续减少",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2615,
+        "tips": "已达到最大值，无法继续增加",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2616,
+        "tips": "当前产物获取加成▩1%s%，可以额外邀请▩2%s个角色",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2617,
+        "tips": "当前活力加成▩1%s繁荣度",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2618,
+        "tips": "当前奖励▩1%s繁荣度，离下阶段奖励还需▩2%s繁荣度",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2619,
+        "tips": "当前奖励▩1%s繁荣度",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2620,
+        "tips": "没有可领取的产物",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2621,
+        "tips": "当前环境区剩余繁荣度不足，无法合成",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2622,
+        "tips": "当前环境区剩余繁荣度不足，无法加速",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2623,
+        "tips": "加速道具不足",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2624,
+        "tips": "提升道具不足，请通关经验关获取",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2625,
+        "tips": "孤屿生效成功",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2626,
+        "tips": "通关2ND-15开启",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2627,
+        "tips": "建筑需要摆放在已放置的孤屿上",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2628,
+        "tips": "当前孤屿区域无法放置该建筑，请放置到适合的区域中",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2629,
+        "tips": "建筑范围需要在同一环境区以内",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2630,
+        "tips": "繁荣度不足，无法放置",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2631,
+        "tips": "孤屿尚未放置完毕，共需放置3块",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2632,
+        "tips": "收获车库还在等待，请尽快拓展出可以建设的植物环境区",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2633,
+        "tips": "对方还未开启荒原，无法前往",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2634,
+        "tips": "请尝试放置5块孤屿扩展荒原",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2635,
+        "tips": "当前奖励▩1%s繁荣度，离下阶段奖励还需▩2%s繁荣度（绿洲加成生效中）",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2636,
+        "tips": "当前奖励▩1%s繁荣度（绿洲加成生效中）",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2637,
+        "tips": "当前环境区占用情况：▩1%s/▩2%s,剩余▩3%s繁荣度可用",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2638,
+        "tips": "十四行诗仍在等待着你，请尝试放置孤屿扩展荒原",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2641,
+        "tips": "请在下方队列中选中要放置的孤屿",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2642,
+        "tips": "已居中显示预放置的孤屿位置",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2643,
+        "tips": "可放置孤屿达上限，扩建古厅可提升上限",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2644,
+        "tips": "距离古厅太过遥远，请选择其他位置",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2651,
+        "tips": "荒原必须与古厅相连，无法回收该孤屿",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2652,
+        "tips": "荒原必须与古厅相连，请调整选中的孤屿",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2653,
+        "tips": "每次最多同时回收20块孤屿",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2654,
+        "tips": "提升条件未达成",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2655,
+        "tips": "扩建古厅后解锁下一个▩1%s",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2656,
+        "tips": "通关指定关卡后解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2657,
+        "tips": "未选中需要回收的孤屿",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2658,
+        "tips": "请选择需要回收的孤屿",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2659,
+        "tips": "▩1%s\n<color=#57a45f>(活力值加成+▩2%s%)</color>",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 1
+    },
+    {
+        "id": 2660,
+        "tips": "扩建古厅后解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2661,
+        "tips": "提升【如愿甘泉】创造等级解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2662,
+        "tips": "当前古厅规模▩1%s，孤屿可放置上限▩2%s",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2663,
+        "tips": "无法回收初始孤屿",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2664,
+        "tips": "初始孤屿无法摆放建筑",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2665,
+        "tips": "可邀请角色达上限，扩建古厅可提升上限",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2666,
+        "tips": "当前荒原中已生效的孤屿不足，请继续摆放",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2667,
+        "tips": "已定位显示古厅",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2668,
+        "tips": "提升材料不足",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2669,
+        "tips": "当前没有可领取的馈赠",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2670,
+        "tips": "【如愿甘泉】的创造等级▩1%s级解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2671,
+        "tips": "序列未解锁，古厅规模提升至▩1%s级解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2672,
+        "tips": "已保存新的荒原编辑结果",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2673,
+        "tips": "完成前置任务后解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2674,
+        "tips": "▩1%s",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 1
+    },
+    {
+        "id": 2675,
+        "tips": "后续古厅规模尚未开放，敬请期待",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2676,
+        "tips": "当前没有可邀请角色前往的孤屿",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2677,
+        "tips": "该角色无法放置在此孤屿",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2678,
+        "tips": "利齿子儿不足，无法合成",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2679,
+        "tips": "尚未放置任何建筑，荒原活力为0",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2680,
+        "tips": "还需要移除▩1%s名角色",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2681,
+        "tips": "【如愿甘泉】未解锁，请扩建古厅解锁后再试",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2682,
+        "tips": "拓建古厅以提升创造等级上限",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2683,
+        "tips": "▩1%s信任 <color=#57a45f>  ▩2%s%</color>",
+        "icon": 101,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2684,
+        "tips": "信任已满",
+        "icon": 102,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2685,
+        "tips": "▩1%s等多个角色信任增加",
+        "icon": 101,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2686,
+        "tips": "▩1%s已加入▩2%s孤屿组合",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2687,
+        "tips": "▩1%s已收录至不休荒原，通关1-16后开启",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2688,
+        "tips": "▩1%s+▩2%s",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 1
+    },
+    {
+        "id": 2689,
+        "tips": "请退出编辑模式后查看任务前往",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2690,
+        "tips": "已在荒原编辑场景",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2691,
+        "tips": "请通过荒原枢纽查看【如愿甘泉】",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2692,
+        "tips": "提升【古厅】等级至▩1%s级后解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2693,
+        "tips": "<color=#1c1c1c>资源收取 </color><color=#bf6230>+▩1%s%▲</color>",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2701,
+        "tips": "隐于幕后的心",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2702,
+        "tips": "未到相遇时刻",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2703,
+        "tips": "等待一场经历",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2801,
+        "tips": "支援点数不足，多选取敌方词条以获取更多的支援点数",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2851,
+        "tips": "同类型名人卡仅可携带一张",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2852,
+        "tips": "只有维尔汀可携带闪烁名人卡",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2853,
+        "tips": "名人卡已被[▩1%s]携带",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2854,
+        "tips": "维尔汀只能携带闪烁名人卡",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2855,
+        "tips": "名人卡携带成功",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2856,
+        "tips": "请选择想要携带的名人卡",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2857,
+        "tips": "只有相同品质名人卡可合并兑换",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2858,
+        "tips": "请选择三张相同品质的名人卡合并兑换",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2859,
+        "tips": "灵感不符，无法携带",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 2901,
+        "tips": "卫星专栏委托【▩1%s】已收集完毕！(▩2%s)",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 3101,
+        "tips": "请先选择前置效果",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 3201,
+        "tips": "该事件将于▩1%s月▩2%s日解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 3202,
+        "tips": "▩1%s不足，无法启动翻译机",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 3301,
+        "tips": "协助角色无法设置心相偏好",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 3302,
+        "tips": "该角色已参与协助",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 3303,
+        "tips": "本场战斗仅可邀请▩1%s名协助者",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 3304,
+        "tips": "本场战斗该协助者无法下阵",
+        "icon": 122,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 3305,
+        "tips": "协助角色心相无法操作",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 3401,
+        "tips": "训练未开启",
+        "icon": 0,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 10001,
+        "tips": "当前地图关卡未解锁",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10002,
+        "tips": "请先进行移动",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10003,
+        "tips": "新的题集已解锁",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10101,
+        "tips": "完成上一个关卡后解锁",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10102,
+        "tips": "▩1%s天后解锁下一章",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10103,
+        "tips": "▩1%s小时后解锁下一章",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10104,
+        "tips": "下一章将在1小时内解锁",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10105,
+        "tips": "超出移动范围",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10106,
+        "tips": "此棋子无法选择",
+        "icon": 112,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10201,
+        "tips": "此事项已被搁置，需要优先处理突发事件",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10202,
+        "tips": "▩1%s天后开放此挑战",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10203,
+        "tips": "▩1%s小时后开放此挑战",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10204,
+        "tips": "将于一小时内开放此挑战",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10205,
+        "tips": "解决前置挑战后开放",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10206,
+        "tips": "通关“雷米特杯”TRC-5后开启",
+        "icon": 132,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10301,
+        "tips": "尚未解锁",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 10302,
+        "tips": "尚未解锁",
+        "icon": 11,
+        "audioId": 0,
+        "notMerge": 0
+    },
+    {
+        "id": 10303,
+        "tips": "通过[▩1%s]难度开启",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10304,
+        "tips": "当前关卡[▩1%s]难度已解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10305,
+        "tips": "零售奖励提升！\n珍稀名人卡等待收集",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10306,
+        "tips": "21-30章节已解锁，请做好阅读准备",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10307,
+        "tips": "通关故事3RD-15开启",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10401,
+        "tips": "可阅次数已耗尽，明日可继续阅读",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10402,
+        "tips": "可阅次数已耗尽",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10403,
+        "tips": "精读条例关卡无法进行复现",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10404,
+        "tips": "UTTU神秘集会将于▩1%s月▩2%s日(UTC+8)开启，敬请期待",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10405,
+        "tips": "栏位未解锁",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10406,
+        "tips": "队列切换成功",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10407,
+        "tips": "活动第二周，翻阅至20章后开启特贩周",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    },
+    {
+        "id": 10501,
+        "tips": "主题故事已结束，暂不可购买",
+        "icon": 11,
+        "audioId": 1,
+        "notMerge": 0
+    }
+]

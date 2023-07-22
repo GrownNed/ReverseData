@@ -1,0 +1,27 @@
+[
+    {
+        "id": 700001,
+        "eventName": "play_effects_fight_gointo",
+        "bankName": "effects_fight"
+    },
+    {
+        "id": 700002,
+        "eventName": "play_effects_fight_comeon",
+        "bankName": "effects_fight"
+    },
+    {
+        "id": 700003,
+        "eventName": "play_effects_fight_deadbodies",
+        "bankName": "effects_fight"
+    },
+    {
+        "id": 700004,
+        "eventName": "play_effects_main_timeclock",
+        "bankName": "effects_main"
+    },
+    {
+        "id": 700005,
+        "eventName": "play_effects_fight_backtime",
+        "bankName": "effects_fight"
+    }
+]

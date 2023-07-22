@@ -1,0 +1,154 @@
+[
+    {
+        "id": 301,
+        "unlocklevel": 2,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "不要忘记灵感之间的相互克制关系，恰当的选择会让战斗事半功倍"
+    },
+    {
+        "id": 302,
+        "unlocklevel": 1,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "请优先消灭敌方的再生力量，使战斗更加快捷高效"
+    },
+    {
+        "id": 303,
+        "unlocklevel": 1,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "高阶咒语的效果强于低阶咒语。"
+    },
+    {
+        "id": 304,
+        "unlocklevel": 2,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "兽克制木、木克制星、星克制岩、岩克制兽\n当角色面对被其克制的敌人时，角色造成的创伤增加"
+    },
+    {
+        "id": 305,
+        "unlocklevel": 2,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "控制即将行动的敌人，可以使战斗更加轻松"
+    },
+    {
+        "id": 306,
+        "unlocklevel": 2,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "【石化】与【眩晕】可以使敌人陷入无法行动的状态"
+    },
+    {
+        "id": 307,
+        "unlocklevel": 2,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "陷入【缴械】状态的敌人，无法使用【攻击】类咒语"
+    },
+    {
+        "id": 308,
+        "unlocklevel": 2,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "陷入【缄默】状态的敌人，无法使用【增益/减益/治疗/反制】类咒语"
+    },
+    {
+        "id": 309,
+        "unlocklevel": 2,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "陷入【封印】状态的敌人，无法使用【至终的仪式】"
+    },
+    {
+        "id": 310,
+        "unlocklevel": 2,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "请注意，【现实创伤】会唤醒陷入【石化】状态的敌人"
+    },
+    {
+        "id": 311,
+        "unlocklevel": 1,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "率先集火攻击同个敌人，造成减员，可降低敌方每回合的行动次数"
+    },
+    {
+        "id": 312,
+        "unlocklevel": 2,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "让己方获得【增益】，让敌方陷入【减益】"
+    },
+    {
+        "id": 313,
+        "unlocklevel": 2,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "灵、智跳脱于兽、木、星、岩灵感之外，仅会对彼此造成更高创伤"
+    },
+    {
+        "id": 314,
+        "unlocklevel": 2,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "手牌上限取决于我方存活人数，当场上4人存活时，我方拥有7张手牌"
+    },
+    {
+        "id": 315,
+        "unlocklevel": 1,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "当我方遭遇减员后，回合行动次数将减少，也更为容易获得高阶神秘术。永远不要放弃希望"
+    },
+    {
+        "id": 316,
+        "unlocklevel": 2,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "兼顾敌我克制关系和神秘术组合，合理构建阵容"
+    },
+    {
+        "id": 317,
+        "unlocklevel": 2,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "困难模式中的部分规则同时对敌我双方生效，请注意阅读规则信息，合理地利用它"
+    },
+    {
+        "id": 318,
+        "unlocklevel": 2,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "战斗中，点击行动次数区，可撤回已经使用的咒语"
+    },
+    {
+        "id": 319,
+        "unlocklevel": 2,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "本源创伤将无视任何防御和创伤减免的固定创伤，也将无法受到任何的形式创伤加成"
+    }
+]

@@ -1,0 +1,1382 @@
+[
+    {
+        "id": 10001,
+        "title": "",
+        "type": 1,
+        "text": "通用界面说明文本",
+        "icon": "",
+        "iconText": "",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 10002,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "help1",
+        "iconText": "",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 10101,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_1",
+        "iconText": "1",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 10102,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_2",
+        "iconText": "2",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 10201,
+        "title": "",
+        "type": 1,
+        "text": "？？？",
+        "icon": "",
+        "iconText": "",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 10202,
+        "title": "",
+        "type": 1,
+        "text": "？？？",
+        "icon": "",
+        "iconText": "",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 10203,
+        "title": "",
+        "type": 1,
+        "text": "？？？",
+        "icon": "",
+        "iconText": "",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 10301,
+        "title": "玩法说明",
+        "type": 1,
+        "text": "？？？",
+        "icon": "",
+        "iconText": "",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 10401,
+        "title": "活动说明",
+        "type": 1,
+        "text": "【规则】\n1.活动期间，玩家每日5:00后登录即可获得签到机会\n2.签到后即可拿到奖励，登录当天未领取的奖励不会消失或无法领取，可隔天领取\n3.活动结束后，未满足登录天数的奖励将无法激活领取",
+        "icon": "",
+        "iconText": "",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 10501,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_3",
+        "iconText": "3",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 10502,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_301",
+        "iconText": "301",
+        "unlockGuideId": 301,
+        "isCn": 1
+    },
+    {
+        "id": 10601,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_4",
+        "iconText": "4",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 10701,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_10",
+        "iconText": "10",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 10801,
+        "title": "玩法说明",
+        "type": 1,
+        "text": "？？？",
+        "icon": "",
+        "iconText": "",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 10901,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_12",
+        "iconText": "12",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 11001,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_11",
+        "iconText": "11",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 11101,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_14",
+        "iconText": "",
+        "unlockGuideId": 129,
+        "isCn": 1
+    },
+    {
+        "id": 11102,
+        "title": "",
+        "type": 1,
+        "text": "教学笔记开启临时指引图",
+        "icon": "bg_help_129",
+        "iconText": "",
+        "unlockGuideId": 129,
+        "isCn": 1
+    },
+    {
+        "id": 11201,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_15",
+        "iconText": "15",
+        "unlockGuideId": 130,
+        "isCn": 1
+    },
+    {
+        "id": 11202,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_16",
+        "iconText": "16",
+        "unlockGuideId": 130,
+        "isCn": 1
+    },
+    {
+        "id": 11301,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_zhiying_7",
+        "iconText": "29",
+        "unlockGuideId": 160,
+        "isCn": 1
+    },
+    {
+        "id": 11401,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_18",
+        "iconText": "",
+        "unlockGuideId": 131,
+        "isCn": 1
+    },
+    {
+        "id": 11402,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_19",
+        "iconText": "",
+        "unlockGuideId": 131,
+        "isCn": 1
+    },
+    {
+        "id": 11501,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_20",
+        "iconText": "20",
+        "unlockGuideId": 132,
+        "isCn": 1
+    },
+    {
+        "id": 11601,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_21",
+        "iconText": "21",
+        "unlockGuideId": 136,
+        "isCn": 1
+    },
+    {
+        "id": 11602,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_32",
+        "iconText": "32",
+        "unlockGuideId": 136,
+        "isCn": 1
+    },
+    {
+        "id": 11701,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_22",
+        "iconText": "22",
+        "unlockGuideId": 133,
+        "isCn": 1
+    },
+    {
+        "id": 11702,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_23",
+        "iconText": "23",
+        "unlockGuideId": 133,
+        "isCn": 1
+    },
+    {
+        "id": 11703,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_24",
+        "iconText": "24",
+        "unlockGuideId": 303,
+        "isCn": 1
+    },
+    {
+        "id": 11801,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_25",
+        "iconText": "25",
+        "unlockGuideId": 134,
+        "isCn": 1
+    },
+    {
+        "id": 11802,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_26",
+        "iconText": "26",
+        "unlockGuideId": 134,
+        "isCn": 1
+    },
+    {
+        "id": 11901,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_27",
+        "iconText": "27",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 11902,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_help_28",
+        "iconText": "28",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 12001,
+        "title": "",
+        "type": 1,
+        "text": "小屋临时指引图154指引",
+        "icon": "bg_help_29",
+        "iconText": "",
+        "unlockGuideId": 154,
+        "isCn": 1
+    },
+    {
+        "id": 12011,
+        "title": "",
+        "type": 1,
+        "text": "小屋临时指引图155指引",
+        "icon": "bg_help_30",
+        "iconText": "",
+        "unlockGuideId": 155,
+        "isCn": 1
+    },
+    {
+        "id": 12021,
+        "title": "",
+        "type": 1,
+        "text": "小屋临时指引图156指引",
+        "icon": "bg_help_31",
+        "iconText": "",
+        "unlockGuideId": 156,
+        "isCn": 1
+    },
+    {
+        "id": 13000,
+        "title": "",
+        "type": 1,
+        "text": "教学笔记主界面指引图1",
+        "icon": "bg_help_jiaoxue",
+        "iconText": "jiaoxue",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 13001,
+        "title": "",
+        "type": 1,
+        "text": "主动合成",
+        "icon": "bg_help_139",
+        "iconText": "139",
+        "unlockGuideId": 139,
+        "isCn": 0
+    },
+    {
+        "id": 13002,
+        "title": "",
+        "type": 1,
+        "text": "被动合成",
+        "icon": "bg_help_140",
+        "iconText": "140",
+        "unlockGuideId": 140,
+        "isCn": 0
+    },
+    {
+        "id": 13003,
+        "title": "",
+        "type": 1,
+        "text": "合成好处1",
+        "icon": "bg_help_141",
+        "iconText": "141",
+        "unlockGuideId": 141,
+        "isCn": 0
+    },
+    {
+        "id": 13004,
+        "title": "",
+        "type": 1,
+        "text": "合成好处2",
+        "icon": "bg_help_14101",
+        "iconText": "14101",
+        "unlockGuideId": 141,
+        "isCn": 0
+    },
+    {
+        "id": 13005,
+        "title": "",
+        "type": 1,
+        "text": "克制1",
+        "icon": "bg_help_142",
+        "iconText": "142",
+        "unlockGuideId": 142,
+        "isCn": 1
+    },
+    {
+        "id": 13006,
+        "title": "",
+        "type": 1,
+        "text": "克制2",
+        "icon": "bg_help_14201",
+        "iconText": "14201",
+        "unlockGuideId": 142,
+        "isCn": 1
+    },
+    {
+        "id": 13007,
+        "title": "",
+        "type": 1,
+        "text": "集火",
+        "icon": "bg_help_143",
+        "iconText": "143",
+        "unlockGuideId": 143,
+        "isCn": 0
+    },
+    {
+        "id": 13008,
+        "title": "",
+        "type": 1,
+        "text": "多元伤害1",
+        "icon": "bg_help_144",
+        "iconText": "144",
+        "unlockGuideId": 144,
+        "isCn": 0
+    },
+    {
+        "id": 13009,
+        "title": "",
+        "type": 1,
+        "text": "多元伤害2",
+        "icon": "bg_help_14401",
+        "iconText": "14401",
+        "unlockGuideId": 144,
+        "isCn": 0
+    },
+    {
+        "id": 13010,
+        "title": "",
+        "type": 1,
+        "text": "缴械1",
+        "icon": "bg_help_145",
+        "iconText": "145",
+        "unlockGuideId": 145,
+        "isCn": 0
+    },
+    {
+        "id": 13011,
+        "title": "",
+        "type": 1,
+        "text": "缴械2",
+        "icon": "bg_help_14501",
+        "iconText": "14501",
+        "unlockGuideId": 145,
+        "isCn": 0
+    },
+    {
+        "id": 13012,
+        "title": "",
+        "type": 1,
+        "text": "缄默1",
+        "icon": "bg_help_146",
+        "iconText": "146",
+        "unlockGuideId": 146,
+        "isCn": 0
+    },
+    {
+        "id": 13013,
+        "title": "",
+        "type": 1,
+        "text": "缄默2",
+        "icon": "bg_help_14601",
+        "iconText": "14601",
+        "unlockGuideId": 146,
+        "isCn": 0
+    },
+    {
+        "id": 13014,
+        "title": "",
+        "type": 1,
+        "text": "封印1",
+        "icon": "bg_help_147",
+        "iconText": "147",
+        "unlockGuideId": 147,
+        "isCn": 0
+    },
+    {
+        "id": 13015,
+        "title": "",
+        "type": 1,
+        "text": "封印2",
+        "icon": "bg_help_14701",
+        "iconText": "14701",
+        "unlockGuideId": 147,
+        "isCn": 0
+    },
+    {
+        "id": 13016,
+        "title": "",
+        "type": 1,
+        "text": "削减激情",
+        "icon": "bg_help_148",
+        "iconText": "148",
+        "unlockGuideId": 147,
+        "isCn": 0
+    },
+    {
+        "id": 13017,
+        "title": "",
+        "type": 1,
+        "text": "激情1",
+        "icon": "bg_help_151",
+        "iconText": "151",
+        "unlockGuideId": 151,
+        "isCn": 0
+    },
+    {
+        "id": 13018,
+        "title": "",
+        "type": 1,
+        "text": "激情2",
+        "icon": "bg_help_15101",
+        "iconText": "15101",
+        "unlockGuideId": 151,
+        "isCn": 0
+    },
+    {
+        "id": 13019,
+        "title": "",
+        "type": 1,
+        "text": "存量1",
+        "icon": "bg_help_162",
+        "iconText": "162",
+        "unlockGuideId": 162,
+        "isCn": 1
+    },
+    {
+        "id": 13020,
+        "title": "",
+        "type": 1,
+        "text": "存量2",
+        "icon": "bg_help_16201",
+        "iconText": "16201",
+        "unlockGuideId": 162,
+        "isCn": 1
+    },
+    {
+        "id": 13021,
+        "title": "",
+        "type": 1,
+        "text": "游移1",
+        "icon": "bg_help_184",
+        "iconText": "184",
+        "unlockGuideId": 184,
+        "isCn": 0
+    },
+    {
+        "id": 13022,
+        "title": "",
+        "type": 1,
+        "text": "游移2",
+        "icon": "bg_help_18401",
+        "iconText": "18401",
+        "unlockGuideId": 184,
+        "isCn": 1
+    },
+    {
+        "id": 13023,
+        "title": "",
+        "type": 1,
+        "text": "主角技能1",
+        "icon": "bg_help_150",
+        "iconText": "150",
+        "unlockGuideId": 150,
+        "isCn": 0
+    },
+    {
+        "id": 13024,
+        "title": "",
+        "type": 1,
+        "text": "主角技能2-1",
+        "icon": "bg_help_161",
+        "iconText": "161",
+        "unlockGuideId": 161,
+        "isCn": 0
+    },
+    {
+        "id": 13025,
+        "title": "",
+        "type": 1,
+        "text": "主角技能2-2",
+        "icon": "bg_help_16101",
+        "iconText": "16101",
+        "unlockGuideId": 161,
+        "isCn": 0
+    },
+    {
+        "id": 13026,
+        "title": "",
+        "type": 1,
+        "text": "循序巧攻1",
+        "icon": "bg_help_15201",
+        "iconText": "15201",
+        "unlockGuideId": 152,
+        "isCn": 1
+    },
+    {
+        "id": 13027,
+        "title": "",
+        "type": 1,
+        "text": "循序巧攻2",
+        "icon": "bg_help_15202",
+        "iconText": "15202",
+        "unlockGuideId": 152,
+        "isCn": 1
+    },
+    {
+        "id": 13028,
+        "title": "",
+        "type": 1,
+        "text": "循序巧攻3",
+        "icon": "bg_help_15203",
+        "iconText": "15203",
+        "unlockGuideId": 152,
+        "isCn": 1
+    },
+    {
+        "id": 13029,
+        "title": "",
+        "type": 1,
+        "text": "循序巧攻2-1",
+        "icon": "bg_help_204",
+        "iconText": "204",
+        "unlockGuideId": 204,
+        "isCn": 1
+    },
+    {
+        "id": 13030,
+        "title": "",
+        "type": 1,
+        "text": "循序巧攻2-2",
+        "icon": "bg_help_20401",
+        "iconText": "20401",
+        "unlockGuideId": 204,
+        "isCn": 1
+    },
+    {
+        "id": 13031,
+        "title": "",
+        "type": 1,
+        "text": "循序巧攻2-3",
+        "icon": "bg_help_20402",
+        "iconText": "20402",
+        "unlockGuideId": 204,
+        "isCn": 1
+    },
+    {
+        "id": 13032,
+        "title": "",
+        "type": 1,
+        "text": "教学笔记主界面指引图2",
+        "icon": "bg_help_jiaoxue2",
+        "iconText": "jiaoxue2",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 12031,
+        "title": "",
+        "type": 1,
+        "text": "164小屋临时指引图",
+        "icon": "16401",
+        "iconText": "16401",
+        "unlockGuideId": 164,
+        "isCn": 1
+    },
+    {
+        "id": 12032,
+        "title": "",
+        "type": 1,
+        "text": "164小屋临时指引图",
+        "icon": "16402",
+        "iconText": "16402",
+        "unlockGuideId": 164,
+        "isCn": 1
+    },
+    {
+        "id": 12033,
+        "title": "",
+        "type": 1,
+        "text": "164小屋临时指引图",
+        "icon": "16403",
+        "iconText": "16403",
+        "unlockGuideId": 164,
+        "isCn": 1
+    },
+    {
+        "id": 12041,
+        "title": "",
+        "type": 1,
+        "text": "165小屋临时指引图",
+        "icon": "16501",
+        "iconText": "",
+        "unlockGuideId": 165,
+        "isCn": 1
+    },
+    {
+        "id": 12042,
+        "title": "",
+        "type": 1,
+        "text": "165小屋临时指引图",
+        "icon": "16502",
+        "iconText": "",
+        "unlockGuideId": 165,
+        "isCn": 1
+    },
+    {
+        "id": 12043,
+        "title": "",
+        "type": 1,
+        "text": "165小屋临时指引图",
+        "icon": "16503",
+        "iconText": "",
+        "unlockGuideId": 165,
+        "isCn": 1
+    },
+    {
+        "id": 12051,
+        "title": "",
+        "type": 1,
+        "text": "168小屋临时指引图",
+        "icon": "16801",
+        "iconText": "16801",
+        "unlockGuideId": 168,
+        "isCn": 1
+    },
+    {
+        "id": 12061,
+        "title": "",
+        "type": 1,
+        "text": "169小屋临时指引图",
+        "icon": "16901",
+        "iconText": "16901",
+        "unlockGuideId": 169,
+        "isCn": 1
+    },
+    {
+        "id": 12071,
+        "title": "",
+        "type": 1,
+        "text": "170小屋临时指引图",
+        "icon": "17001",
+        "iconText": "17001",
+        "unlockGuideId": 170,
+        "isCn": 1
+    },
+    {
+        "id": 12081,
+        "title": "",
+        "type": 1,
+        "text": "181小屋指引",
+        "icon": "18101",
+        "iconText": "18101",
+        "unlockGuideId": 181,
+        "isCn": 1
+    },
+    {
+        "id": 12082,
+        "title": "",
+        "type": 1,
+        "text": "181小屋指引",
+        "icon": "18102",
+        "iconText": "18102",
+        "unlockGuideId": 181,
+        "isCn": 1
+    },
+    {
+        "id": 12083,
+        "title": "",
+        "type": 1,
+        "text": "181小屋指引",
+        "icon": "18103",
+        "iconText": "18103",
+        "unlockGuideId": 181,
+        "isCn": 1
+    },
+    {
+        "id": 12084,
+        "title": "",
+        "type": 1,
+        "text": "181小屋指引",
+        "icon": "18104",
+        "iconText": "18104",
+        "unlockGuideId": 181,
+        "isCn": 1
+    },
+    {
+        "id": 12034,
+        "title": "",
+        "type": 1,
+        "text": "164小屋临时指引图",
+        "icon": "16404",
+        "iconText": "",
+        "unlockGuideId": 164,
+        "isCn": 1
+    },
+    {
+        "id": 14001,
+        "title": "",
+        "type": 1,
+        "text": "人工梦游开启指引图",
+        "icon": "bg_help_50101",
+        "iconText": "50101",
+        "unlockGuideId": 501,
+        "isCn": 1
+    },
+    {
+        "id": 14002,
+        "title": "",
+        "type": 1,
+        "text": "人工梦游开启指引图",
+        "icon": "bg_help_50102",
+        "iconText": "50102",
+        "unlockGuideId": 501,
+        "isCn": 1
+    },
+    {
+        "id": 14003,
+        "title": "",
+        "type": 1,
+        "text": "人工梦游开启指引图",
+        "icon": "bg_help_50103",
+        "iconText": "50103",
+        "unlockGuideId": 501,
+        "isCn": 1
+    },
+    {
+        "id": 14005,
+        "title": "",
+        "type": 1,
+        "text": "人工梦游开启指引图",
+        "icon": "bg_help_50104",
+        "iconText": "50104",
+        "unlockGuideId": 501,
+        "isCn": 1
+    },
+    {
+        "id": 14006,
+        "title": "",
+        "type": 1,
+        "text": "人工梦游开启指引图",
+        "icon": "bg_help_50105",
+        "iconText": "50105",
+        "unlockGuideId": 501,
+        "isCn": 1
+    },
+    {
+        "id": 14007,
+        "title": "",
+        "type": 1,
+        "text": "人工梦游开启指引图",
+        "icon": "bg_help_50106",
+        "iconText": "50106",
+        "unlockGuideId": 501,
+        "isCn": 1
+    },
+    {
+        "id": 14008,
+        "title": "",
+        "type": 1,
+        "text": "人工梦游开启指引图",
+        "icon": "bg_help_50107",
+        "iconText": "50107",
+        "unlockGuideId": 501,
+        "isCn": 1
+    },
+    {
+        "id": 14004,
+        "title": "",
+        "type": 1,
+        "text": "人工梦游开启指引图",
+        "icon": "bg_help_50501",
+        "iconText": "50501",
+        "unlockGuideId": 505,
+        "isCn": 1
+    },
+    {
+        "id": 14009,
+        "title": "",
+        "type": 1,
+        "text": "人工梦游玩法指引",
+        "icon": "bg_help_50110",
+        "iconText": "50110",
+        "unlockGuideId": 0,
+        "isCn": 0
+    },
+    {
+        "id": 14010,
+        "title": "",
+        "type": 1,
+        "text": "人工梦游玩法指引",
+        "icon": "bg_help_50111",
+        "iconText": "50111",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 14011,
+        "title": "",
+        "type": 1,
+        "text": "人工梦游重置指引1",
+        "icon": "bg_help_50108",
+        "iconText": "50108",
+        "unlockGuideId": 511,
+        "isCn": 1
+    },
+    {
+        "id": 14012,
+        "title": "",
+        "type": 1,
+        "text": "人工梦游重置指引2",
+        "icon": "bg_help_50109",
+        "iconText": "50109",
+        "unlockGuideId": 512,
+        "isCn": 1
+    },
+    {
+        "id": 14013,
+        "title": "",
+        "type": 1,
+        "text": "人工梦游第六层指引图提示苏醒",
+        "icon": "bg_help_50801",
+        "iconText": "50801",
+        "unlockGuideId": 508,
+        "isCn": 1
+    },
+    {
+        "id": 15001,
+        "title": "",
+        "type": 1,
+        "text": "小屋地块指引图",
+        "icon": "bg_help_40101",
+        "iconText": "40101",
+        "unlockGuideId": 401,
+        "isCn": 1
+    },
+    {
+        "id": 15002,
+        "title": "",
+        "type": 1,
+        "text": "小屋建筑指引图",
+        "icon": "bg_help_40201",
+        "iconText": "40201",
+        "unlockGuideId": 402,
+        "isCn": 1
+    },
+    {
+        "id": 15003,
+        "title": "",
+        "type": 1,
+        "text": "小屋建筑指引图",
+        "icon": "bg_help_40202",
+        "iconText": "40202",
+        "unlockGuideId": 402,
+        "isCn": 1
+    },
+    {
+        "id": 15004,
+        "title": "",
+        "type": 1,
+        "text": "小屋生产指引图",
+        "icon": "bg_help_40401",
+        "iconText": "40401",
+        "unlockGuideId": 402,
+        "isCn": 1
+    },
+    {
+        "id": 15005,
+        "title": "",
+        "type": 1,
+        "text": "小屋生产指引图",
+        "icon": "bg_help_40402",
+        "iconText": "40402",
+        "unlockGuideId": 404,
+        "isCn": 1
+    },
+    {
+        "id": 15006,
+        "title": "",
+        "type": 1,
+        "text": "强化建筑指引图",
+        "icon": "bg_help_40601",
+        "iconText": "40601",
+        "unlockGuideId": 411,
+        "isCn": 1
+    },
+    {
+        "id": 15007,
+        "title": "",
+        "type": 1,
+        "text": "强化建筑指引图",
+        "icon": "bg_help_40602",
+        "iconText": "40602",
+        "unlockGuideId": 411,
+        "isCn": 1
+    },
+    {
+        "id": 15008,
+        "title": "",
+        "type": 1,
+        "text": "小屋合成指引图",
+        "icon": "bg_help_40702",
+        "iconText": "40702",
+        "unlockGuideId": 412,
+        "isCn": 0
+    },
+    {
+        "id": 15011,
+        "title": "",
+        "type": 1,
+        "text": "小屋合成指引图",
+        "icon": "bg_help_40703",
+        "iconText": "40703",
+        "unlockGuideId": 412,
+        "isCn": 1
+    },
+    {
+        "id": 15012,
+        "title": "",
+        "type": 1,
+        "text": "小屋合成指引图",
+        "icon": "bg_help_40704",
+        "iconText": "40704",
+        "unlockGuideId": 412,
+        "isCn": 1
+    },
+    {
+        "id": 15009,
+        "title": "",
+        "type": 1,
+        "text": "小屋枢纽指引图",
+        "icon": "bg_help_40203",
+        "iconText": "40203",
+        "unlockGuideId": 413,
+        "isCn": 1
+    },
+    {
+        "id": 15010,
+        "title": "",
+        "type": 1,
+        "text": "小屋任务指引图",
+        "icon": "bg_help_40102",
+        "iconText": "40102",
+        "unlockGuideId": 401,
+        "isCn": 1
+    },
+    {
+        "id": 15013,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_wanfashengming_1",
+        "iconText": "roomagreeon",
+        "unlockGuideId": 0,
+        "isCn": 0
+    },
+    {
+        "id": 15014,
+        "title": "",
+        "type": 1,
+        "text": "小屋活力指引图",
+        "icon": "bg_help_40103",
+        "iconText": "40103",
+        "unlockGuideId": 401,
+        "isCn": 1
+    },
+    {
+        "id": 16001,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_warmup_1",
+        "iconText": "warmup1",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 16002,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_warmup_2",
+        "iconText": "warmup2",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 16003,
+        "title": "",
+        "type": 1,
+        "text": "",
+        "icon": "bg_warmup_3",
+        "iconText": "warmup3",
+        "unlockGuideId": 0,
+        "isCn": 1
+    },
+    {
+        "id": 16101,
+        "title": "",
+        "type": 2,
+        "text": "推箱子指引图",
+        "icon": "bg_vapushbox_1",
+        "iconText": "versionactivitypushbox1",
+        "unlockGuideId": 601,
+        "isCn": 0
+    },
+    {
+        "id": 16102,
+        "title": "",
+        "type": 2,
+        "text": "推箱子指引图",
+        "icon": "bg_vapushbox_2",
+        "iconText": "versionactivitypushbox2",
+        "unlockGuideId": 601,
+        "isCn": 1
+    },
+    {
+        "id": 16103,
+        "title": "",
+        "type": 2,
+        "text": "推箱子指引图",
+        "icon": "bg_vapushbox_3",
+        "iconText": "versionactivitypushbox3",
+        "unlockGuideId": 602,
+        "isCn": 1
+    },
+    {
+        "id": 16104,
+        "title": "",
+        "type": 2,
+        "text": "推箱子指引图",
+        "icon": "bg_vapushbox_4",
+        "iconText": "versionactivitypushbox4",
+        "unlockGuideId": 605,
+        "isCn": 1
+    },
+    {
+        "id": 16105,
+        "title": "",
+        "type": 2,
+        "text": "推箱子指引图",
+        "icon": "bg_vapushbox_5",
+        "iconText": "versionactivitypushbox5",
+        "unlockGuideId": 608,
+        "isCn": 0
+    },
+    {
+        "id": 16201,
+        "title": "",
+        "type": 2,
+        "text": "小狗与流浪汉玩法说明",
+        "icon": "va_1_1_chessgame_1",
+        "iconText": "va_1_1_chessgame1",
+        "unlockGuideId": 743,
+        "isCn": 1
+    },
+    {
+        "id": 16203,
+        "title": "",
+        "type": 2,
+        "text": "小狗与流浪汉玩法说明",
+        "icon": "va_1_1_chessgame_3",
+        "iconText": "va_1_1_chessgame3",
+        "unlockGuideId": 743,
+        "isCn": 1
+    },
+    {
+        "id": 16204,
+        "title": "",
+        "type": 2,
+        "text": "小狗与流浪汉玩法说明",
+        "icon": "va_1_1_chessgame_4",
+        "iconText": "va_1_1_chessgame4",
+        "unlockGuideId": 743,
+        "isCn": 0
+    },
+    {
+        "id": 16205,
+        "title": "",
+        "type": 2,
+        "text": "小狗与流浪汉玩法说明",
+        "icon": "va_1_1_chessgame_5",
+        "iconText": "va_1_1_chessgame5",
+        "unlockGuideId": 743,
+        "isCn": 1
+    },
+    {
+        "id": 16206,
+        "title": "",
+        "type": 2,
+        "text": "小狗与流浪汉玩法说明",
+        "icon": "va_1_1_chessgame_6",
+        "iconText": "va_1_1_chessgame6",
+        "unlockGuideId": 744,
+        "isCn": 0
+    },
+    {
+        "id": 16207,
+        "title": "",
+        "type": 2,
+        "text": "小狗与流浪汉玩法说明",
+        "icon": "va_1_1_chessgame_7",
+        "iconText": "va_1_1_chessgame7",
+        "unlockGuideId": 744,
+        "isCn": 0
+    },
+    {
+        "id": 16208,
+        "title": "",
+        "type": 2,
+        "text": "小狗与流浪汉玩法说明",
+        "icon": "va_1_1_chessgame_9",
+        "iconText": "va_1_1_chessgame9",
+        "unlockGuideId": 745,
+        "isCn": 1
+    },
+    {
+        "id": 16209,
+        "title": "",
+        "type": 2,
+        "text": "小狗与流浪汉玩法说明",
+        "icon": "va_1_1_chessgame_10",
+        "iconText": "va_1_1_chessgame10",
+        "unlockGuideId": 746,
+        "isCn": 0
+    },
+    {
+        "id": 16301,
+        "title": "",
+        "type": 2,
+        "text": "梅兰妮活动玩法说明",
+        "icon": "va_1_1_meilanni_1",
+        "iconText": "va_1_1_meilanni_1",
+        "unlockGuideId": 741,
+        "isCn": 1
+    },
+    {
+        "id": 16302,
+        "title": "",
+        "type": 2,
+        "text": "梅兰妮活动玩法说明",
+        "icon": "va_1_1_meilanni_2",
+        "iconText": "va_1_1_meilanni_2",
+        "unlockGuideId": 741,
+        "isCn": 1
+    },
+    {
+        "id": 16303,
+        "title": "",
+        "type": 2,
+        "text": "梅兰妮活动玩法说明",
+        "icon": "va_1_1_meilanni_3",
+        "iconText": "va_1_1_meilanni_3",
+        "unlockGuideId": 741,
+        "isCn": 1
+    },
+    {
+        "id": 16401,
+        "title": "",
+        "type": 2,
+        "text": "1.1赛季玩法说明",
+        "icon": "va_1_1_season_1",
+        "iconText": "va_1_1_season_1",
+        "unlockGuideId": 801,
+        "isCn": 1
+    },
+    {
+        "id": 16402,
+        "title": "",
+        "type": 2,
+        "text": "1.1赛季玩法说明",
+        "icon": "va_1_1_season_2",
+        "iconText": "va_1_1_season_2",
+        "unlockGuideId": 801,
+        "isCn": 1
+    },
+    {
+        "id": 16403,
+        "title": "",
+        "type": 2,
+        "text": "1.1赛季玩法说明",
+        "icon": "va_1_1_season_3",
+        "iconText": "va_1_1_season_3",
+        "unlockGuideId": 803,
+        "isCn": 1
+    },
+    {
+        "id": 16404,
+        "title": "",
+        "type": 2,
+        "text": "1.1赛季玩法说明",
+        "icon": "va_1_1_season_4",
+        "iconText": "va_1_1_season_4",
+        "unlockGuideId": 803,
+        "isCn": 1
+    },
+    {
+        "id": 16405,
+        "title": "",
+        "type": 2,
+        "text": "1.1赛季玩法说明",
+        "icon": "va_1_1_season_5",
+        "iconText": "va_1_1_season_5",
+        "unlockGuideId": 804,
+        "isCn": 0
+    },
+    {
+        "id": 16406,
+        "title": "",
+        "type": 2,
+        "text": "1.1赛季玩法说明",
+        "icon": "va_1_1_season_6",
+        "iconText": "va_1_1_season_6",
+        "unlockGuideId": 808,
+        "isCn": 1
+    },
+    {
+        "id": 16407,
+        "title": "",
+        "type": 2,
+        "text": "1.1赛季玩法说明",
+        "icon": "va_1_1_season_7",
+        "iconText": "va_1_1_season_7",
+        "unlockGuideId": 808,
+        "isCn": 1
+    },
+    {
+        "id": 17001,
+        "title": "活动说明",
+        "type": 1,
+        "text": "搜寻散落的感声元件，协助Apple升级翻译器“Doggie”。\n纯粹的善意理应珍惜，Apple为此预备了丰厚的馈礼。\n【活动时间】\n任务开启时间：2023年1月1日维护后-2023年1月22日4:59\n奖励兑换时间：2023年1月1日维护后-2023年1月25日4:59\n【皮氏的意译规则说明】\n活动期间，可完成对应的每日任务及挑战任务，获取活动道具“感声元件”。利用感声元件升级翻译器“Doggie”，并完成皮克勒斯与朋友们的对话，即可获得对应奖励。",
+        "icon": "",
+        "iconText": "",
+        "unlockGuideId": 0,
+        "isCn": 0
+    },
+    {
+        "id": 18001,
+        "title": "",
+        "type": 1,
+        "text": "心相偏好指引图",
+        "icon": "bg_help_xxph",
+        "iconText": "xxph",
+        "unlockGuideId": 0,
+        "isCn": 1
+    }
+]

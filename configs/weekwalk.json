@@ -1,0 +1,362 @@
+[
+    {
+        "id": 101,
+        "layer": 1,
+        "preId": 0,
+        "type": 1,
+        "notCdHeroCount": 0,
+        "sceneId": 101,
+        "issueId": 0
+    },
+    {
+        "id": 102,
+        "layer": 2,
+        "preId": 101,
+        "type": 1,
+        "notCdHeroCount": 0,
+        "sceneId": 102,
+        "issueId": 0
+    },
+    {
+        "id": 103,
+        "layer": 3,
+        "preId": 102,
+        "type": 1,
+        "notCdHeroCount": 0,
+        "sceneId": 103,
+        "issueId": 0
+    },
+    {
+        "id": 104,
+        "layer": 4,
+        "preId": 103,
+        "type": 1,
+        "notCdHeroCount": 0,
+        "sceneId": 104,
+        "issueId": 0
+    },
+    {
+        "id": 105,
+        "layer": 5,
+        "preId": 104,
+        "type": 1,
+        "notCdHeroCount": 0,
+        "sceneId": 105,
+        "issueId": 0
+    },
+    {
+        "id": 201,
+        "layer": 6,
+        "preId": 105,
+        "type": 2,
+        "notCdHeroCount": 2,
+        "sceneId": 201,
+        "issueId": 0
+    },
+    {
+        "id": 202,
+        "layer": 7,
+        "preId": 201,
+        "type": 2,
+        "notCdHeroCount": 2,
+        "sceneId": 202,
+        "issueId": 0
+    },
+    {
+        "id": 203,
+        "layer": 8,
+        "preId": 202,
+        "type": 2,
+        "notCdHeroCount": 1,
+        "sceneId": 203,
+        "issueId": 0
+    },
+    {
+        "id": 204,
+        "layer": 9,
+        "preId": 203,
+        "type": 2,
+        "notCdHeroCount": 1,
+        "sceneId": 204,
+        "issueId": 0
+    },
+    {
+        "id": 205,
+        "layer": 10,
+        "preId": 204,
+        "type": 2,
+        "notCdHeroCount": 0,
+        "sceneId": 205,
+        "issueId": 0
+    },
+    {
+        "id": 9011,
+        "layer": 11,
+        "preId": 205,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9011,
+        "issueId": 1
+    },
+    {
+        "id": 9012,
+        "layer": 12,
+        "preId": 9011,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9012,
+        "issueId": 1
+    },
+    {
+        "id": 9013,
+        "layer": 13,
+        "preId": 9012,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9013,
+        "issueId": 1
+    },
+    {
+        "id": 9014,
+        "layer": 14,
+        "preId": 9013,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9014,
+        "issueId": 1
+    },
+    {
+        "id": 9015,
+        "layer": 15,
+        "preId": 9014,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9015,
+        "issueId": 1
+    },
+    {
+        "id": 9016,
+        "layer": 16,
+        "preId": 9015,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9016,
+        "issueId": 1
+    },
+    {
+        "id": 9021,
+        "layer": 11,
+        "preId": 205,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9021,
+        "issueId": 2
+    },
+    {
+        "id": 9022,
+        "layer": 12,
+        "preId": 9021,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9022,
+        "issueId": 2
+    },
+    {
+        "id": 9023,
+        "layer": 13,
+        "preId": 9022,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9023,
+        "issueId": 2
+    },
+    {
+        "id": 9024,
+        "layer": 14,
+        "preId": 9023,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9024,
+        "issueId": 2
+    },
+    {
+        "id": 9025,
+        "layer": 15,
+        "preId": 9024,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9025,
+        "issueId": 2
+    },
+    {
+        "id": 9026,
+        "layer": 16,
+        "preId": 9025,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9026,
+        "issueId": 2
+    },
+    {
+        "id": 9031,
+        "layer": 11,
+        "preId": 205,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9031,
+        "issueId": 3
+    },
+    {
+        "id": 9032,
+        "layer": 12,
+        "preId": 9031,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9032,
+        "issueId": 3
+    },
+    {
+        "id": 9033,
+        "layer": 13,
+        "preId": 9032,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9033,
+        "issueId": 3
+    },
+    {
+        "id": 9034,
+        "layer": 14,
+        "preId": 9033,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9034,
+        "issueId": 3
+    },
+    {
+        "id": 9035,
+        "layer": 15,
+        "preId": 9034,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9035,
+        "issueId": 3
+    },
+    {
+        "id": 9036,
+        "layer": 16,
+        "preId": 9035,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9036,
+        "issueId": 3
+    },
+    {
+        "id": 9041,
+        "layer": 11,
+        "preId": 205,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9041,
+        "issueId": 4
+    },
+    {
+        "id": 9042,
+        "layer": 12,
+        "preId": 9041,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9042,
+        "issueId": 4
+    },
+    {
+        "id": 9043,
+        "layer": 13,
+        "preId": 9042,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9043,
+        "issueId": 4
+    },
+    {
+        "id": 9044,
+        "layer": 14,
+        "preId": 9043,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9044,
+        "issueId": 4
+    },
+    {
+        "id": 9045,
+        "layer": 15,
+        "preId": 9044,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9045,
+        "issueId": 4
+    },
+    {
+        "id": 9046,
+        "layer": 16,
+        "preId": 9045,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9046,
+        "issueId": 4
+    },
+    {
+        "id": 9051,
+        "layer": 11,
+        "preId": 205,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9051,
+        "issueId": 5
+    },
+    {
+        "id": 9052,
+        "layer": 12,
+        "preId": 9051,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9052,
+        "issueId": 5
+    },
+    {
+        "id": 9053,
+        "layer": 13,
+        "preId": 9052,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9053,
+        "issueId": 5
+    },
+    {
+        "id": 9054,
+        "layer": 14,
+        "preId": 9053,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9054,
+        "issueId": 5
+    },
+    {
+        "id": 9055,
+        "layer": 15,
+        "preId": 9054,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9055,
+        "issueId": 5
+    },
+    {
+        "id": 9056,
+        "layer": 16,
+        "preId": 9055,
+        "type": 3,
+        "notCdHeroCount": 0,
+        "sceneId": 9056,
+        "issueId": 5
+    }
+]

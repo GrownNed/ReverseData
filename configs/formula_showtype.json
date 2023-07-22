@@ -1,0 +1,30 @@
+[
+    {
+        "id": 301,
+        "buildingType": 3,
+        "name": "洞悉材料",
+        "nameEn": "INSIGHT MATERIALS",
+        "icon": "201"
+    },
+    {
+        "id": 302,
+        "buildingType": 3,
+        "name": "荒原材料",
+        "nameEn": "WILDERNESS MATERIALS",
+        "icon": "203"
+    },
+    {
+        "id": 303,
+        "buildingType": 3,
+        "name": "共鸣材料",
+        "nameEn": "RESONATE MATERIALS",
+        "icon": "202"
+    },
+    {
+        "id": 304,
+        "buildingType": 3,
+        "name": "心相材料",
+        "nameEn": "PSYCHUBE MATERIALS",
+        "icon": "204"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "id": 4001,
+        "name": "小船",
+        "path": "building/1_0/building_xiaochuan",
+        "resId": 4,
+        "radius": 15,
+        "moveSpeed": 20,
+        "rotationSpeed": 90,
+        "endPathWaitTime": 0,
+        "audioTurn": 0,
+        "audioTurnAround": 0,
+        "audioCrossload": 0
+    },
+    {
+        "id": 6001,
+        "name": "巴士",
+        "path": "building/1_1/terrain_dabache_a",
+        "resId": 6,
+        "radius": 22,
+        "moveSpeed": 20,
+        "rotationSpeed": 90,
+        "endPathWaitTime": 2000,
+        "audioTurn": 13,
+        "audioTurnAround": 14,
+        "audioCrossload": 15
+    }
+]

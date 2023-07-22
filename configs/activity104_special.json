@@ -1,0 +1,47 @@
+[
+    {
+        "activityId": 11100,
+        "layer": 1,
+        "episodeId": 1101131,
+        "name": "特贩周",
+        "nameen": "Special Offer Week",
+        "icon": "06",
+        "level": 120
+    },
+    {
+        "activityId": 11100,
+        "layer": 2,
+        "episodeId": 1101132,
+        "name": "特贩周",
+        "nameen": "Special Offer Week",
+        "icon": "06",
+        "level": 120
+    },
+    {
+        "activityId": 11100,
+        "layer": 3,
+        "episodeId": 1101133,
+        "name": "特贩周",
+        "nameen": "Special Offer Week",
+        "icon": "06",
+        "level": 120
+    },
+    {
+        "activityId": 11100,
+        "layer": 4,
+        "episodeId": 1101134,
+        "name": "特贩周",
+        "nameen": "Special Offer Week",
+        "icon": "06",
+        "level": 120
+    },
+    {
+        "activityId": 11100,
+        "layer": 5,
+        "episodeId": 1101135,
+        "name": "特贩周",
+        "nameen": "Special Offer Week",
+        "icon": "06",
+        "level": 120
+    }
+]

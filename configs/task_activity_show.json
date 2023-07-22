@@ -1,0 +1,24 @@
+[
+    {
+        "id": 160002,
+        "isOnline": 1,
+        "minType": "展示页任务",
+        "name": "完成人工梦游关卡",
+        "desc": "完成浅眠域ORD-3【浮游公园α】可得 <color=#FAB77D>十四行诗的造像×1</color>",
+        "listenerType": "WeekwalkLayerId",
+        "listenerParam": "103",
+        "maxProgress": 1,
+        "maxFinishCount": 1,
+        "activity": 0,
+        "sortId": 1,
+        "prepose": "",
+        "openLimit": "",
+        "bonusMail": 0,
+        "params": "",
+        "priority": "",
+        "needAccept": 0,
+        "bonus": "1#133023#1",
+        "jumpId": 51,
+        "activityId": 10011
+    }
+]

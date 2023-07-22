@@ -1,0 +1,17 @@
+[
+    {
+        "id": 302201,
+        "effect": "Drawables/bone/effect-Bone/roleeffect_fire/root",
+        "scale": 1.13
+    },
+    {
+        "id": 302202,
+        "effect": "Drawables/bone/effect-Bone/roleeffect_fire/root|Drawables/bone3/effect-Bone/roleeffect_fire_hei/root",
+        "scale": 1.13
+    },
+    {
+        "id": 306402,
+        "effect": "Drawables/bone/effect-Bone/roleeffect_paishou/root|Drawables/bone/effect-Bone/roleeffect_paopao/root",
+        "scale": 1.13
+    }
+]

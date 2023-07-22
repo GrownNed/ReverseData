@@ -1,0 +1,58 @@
+[
+    {
+        "activityId": 11100,
+        "stage": 1,
+        "retailEpisodeIdPool": "1102101#1102102#1102103",
+        "enemyTag": "推荐使用控制效果#推荐使用精神伤害#推荐使用单体伤害",
+        "level": 70,
+        "equipRareWeight": "1#20|2#10"
+    },
+    {
+        "activityId": 11100,
+        "stage": 2,
+        "retailEpisodeIdPool": "1102104#1102105#1102106#1102107",
+        "enemyTag": "推荐使用控制效果#推荐使用精神伤害#推荐使用单体伤害#推荐使用群体伤害",
+        "level": 80,
+        "equipRareWeight": "1#15|2#15"
+    },
+    {
+        "activityId": 11100,
+        "stage": 3,
+        "retailEpisodeIdPool": "1102108#1102109#1102110#1102111",
+        "enemyTag": "推荐使用控制效果#推荐使用精神伤害#推荐使用单体伤害#推荐使用群体伤害",
+        "level": 95,
+        "equipRareWeight": "1#10|2#15|3#5"
+    },
+    {
+        "activityId": 11100,
+        "stage": 4,
+        "retailEpisodeIdPool": "1102112#1102113#1102114#1102115#1102116",
+        "enemyTag": "推荐使用控制效果#推荐使用精神伤害#推荐使用单体伤害#推荐使用群体伤害#推荐使用群体爆发",
+        "level": 105,
+        "equipRareWeight": "1#5|2#15|3#10"
+    },
+    {
+        "activityId": 11100,
+        "stage": 5,
+        "retailEpisodeIdPool": "1102117#1102118#1102119#1102120#1102121",
+        "enemyTag": "推荐使用控制效果#推荐使用精神伤害#推荐使用单体伤害#推荐使用群体伤害#推荐使用群体爆发",
+        "level": 120,
+        "equipRareWeight": "2#15|3#12|4#3"
+    },
+    {
+        "activityId": 11100,
+        "stage": 6,
+        "retailEpisodeIdPool": "1102122#1102123#1102124#1102125#1102126#1102127",
+        "enemyTag": "推荐使用控制效果#推荐使用精神伤害#推荐使用单体伤害#推荐使用群体伤害#推荐使用群体爆发#推荐使用单体爆发",
+        "level": 125,
+        "equipRareWeight": "2#10|3#12|4#8"
+    },
+    {
+        "activityId": 11100,
+        "stage": 7,
+        "retailEpisodeIdPool": "1102122#1102123#1102124#1102125#1102126#1102127",
+        "enemyTag": "推荐使用控制效果#推荐使用精神伤害#推荐使用单体伤害#推荐使用群体伤害#推荐使用群体爆发#推荐使用单体爆发",
+        "level": 125,
+        "equipRareWeight": "2#10|3#12|4#8"
+    }
+]

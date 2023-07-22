@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "最初的刻度",
+        "enname": "FIRST MELODY",
+        "icon": "1",
+        "skinId": 300201,
+        "desc": "它是开始，或是终结，是想象穷极的一切可能。"
+    },
+    {
+        "id": 2,
+        "name": "伟大乐队",
+        "enname": "GRAND ORCHESTRA",
+        "icon": "2",
+        "skinId": 300201,
+        "desc": "每个伟大乐队的成就都决非一人之功。"
+    }
+]

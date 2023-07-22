@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1,
+        "level": 1,
+        "maxPower": 99,
+        "use": 4,
+        "move": 3,
+        "compose": 2,
+        "recover": "1#5",
+        "initial": 15,
+        "defeat": 0,
+        "death": 0,
+        "desc": "司辰的初始激情提高；回合开始时稳定获得激情",
+        "skill1": 30010201,
+        "usePower1": [
+            40,
+            50,
+            60
+        ],
+        "cd1": 1,
+        "allLimit1": 0,
+        "skill2": 30010202,
+        "usePower2": [
+            25,
+            25,
+            25
+        ],
+        "cd2": 0,
+        "allLimit2": 0,
+        "skill3": 0,
+        "usePower3": [],
+        "cd3": 0,
+        "allLimit3": 0,
+        "exp": 0
+    },
+    {
+        "id": 2,
+        "level": 1,
+        "maxPower": 99,
+        "use": 4,
+        "move": 5,
+        "compose": 6,
+        "recover": "",
+        "initial": 0,
+        "defeat": 0,
+        "death": 0,
+        "desc": "移动和融合神秘术获得的激情大幅增加；回合开始时不再回复激情",
+        "skill1": 30010301,
+        "usePower1": [
+            60,
+            70,
+            80
+        ],
+        "cd1": 1,
+        "allLimit1": 0,
+        "skill2": 30010302,
+        "usePower2": [
+            35,
+            35,
+            35
+        ],
+        "cd2": 1,
+        "allLimit2": 0,
+        "skill3": 0,
+        "usePower3": [],
+        "cd3": 0,
+        "allLimit3": 0,
+        "exp": 0
+    },
+    {
+        "id": 3,
+        "level": 1,
+        "maxPower": 99,
+        "use": 4,
+        "move": 3,
+        "compose": 2,
+        "recover": "1#3|5#6",
+        "initial": 15,
+        "defeat": 0,
+        "death": 0,
+        "desc": "额外移牌；\n替补上阵。",
+        "skill1": 30010401,
+        "usePower1": [
+            30,
+            45,
+            60
+        ],
+        "cd1": 1,
+        "allLimit1": 0,
+        "skill2": 30010402,
+        "usePower2": [
+            50,
+            50,
+            50
+        ],
+        "cd2": 1,
+        "allLimit2": 0,
+        "skill3": 0,
+        "usePower3": [],
+        "cd3": 0,
+        "allLimit3": 0,
+        "exp": 0
+    },
+    {
+        "id": 4,
+        "level": 1,
+        "maxPower": 99,
+        "use": 4,
+        "move": 3,
+        "compose": 2,
+        "recover": "1#3|5#8",
+        "initial": 15,
+        "defeat": 0,
+        "death": 0,
+        "desc": "维尔汀的初始激情提高；\n第5回合开始，激情回复大幅提升。",
+        "skill1": 30010301,
+        "usePower1": [
+            30,
+            45,
+            60
+        ],
+        "cd1": 1,
+        "allLimit1": 0,
+        "skill2": 30010302,
+        "usePower2": [
+            50,
+            50,
+            50
+        ],
+        "cd2": 1,
+        "allLimit2": 0,
+        "skill3": 0,
+        "usePower3": [],
+        "cd3": 0,
+        "allLimit3": 0,
+        "exp": 0
+    },
+    {
+        "id": 5,
+        "level": 1,
+        "maxPower": 99,
+        "use": 4,
+        "move": 3,
+        "compose": 2,
+        "recover": "1#3",
+        "initial": 0,
+        "defeat": 6,
+        "death": 0,
+        "desc": "每击败一个敌人，维尔汀的激情额外回复6点。",
+        "skill1": 30010201,
+        "usePower1": [
+            40,
+            45,
+            50
+        ],
+        "cd1": 1,
+        "allLimit1": 0,
+        "skill2": 30010202,
+        "usePower2": [
+            30,
+            30,
+            30
+        ],
+        "cd2": 0,
+        "allLimit2": 0,
+        "skill3": 0,
+        "usePower3": [],
+        "cd3": 0,
+        "allLimit3": 0,
+        "exp": 0
+    }
+]

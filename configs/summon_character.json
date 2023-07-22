@@ -1,0 +1,62 @@
+[
+    {
+        "id": 11,
+        "heroId": 3004,
+        "skinId": 0,
+        "location": 1
+    },
+    {
+        "id": 12,
+        "heroId": 3025,
+        "skinId": 0,
+        "location": 2
+    },
+    {
+        "id": 13,
+        "heroId": 3051,
+        "skinId": 0,
+        "location": 3
+    },
+    {
+        "id": 21,
+        "heroId": 3003,
+        "skinId": 0,
+        "location": 1
+    },
+    {
+        "id": 22,
+        "heroId": 3025,
+        "skinId": 0,
+        "location": 2
+    },
+    {
+        "id": 101111,
+        "heroId": 3009,
+        "skinId": 0,
+        "location": 1
+    },
+    {
+        "id": 101211,
+        "heroId": 3007,
+        "skinId": 0,
+        "location": 1
+    },
+    {
+        "id": 111111,
+        "heroId": 3062,
+        "skinId": 0,
+        "location": 1
+    },
+    {
+        "id": 111211,
+        "heroId": 3063,
+        "skinId": 0,
+        "location": 1
+    },
+    {
+        "id": 111212,
+        "heroId": 3064,
+        "skinId": 0,
+        "location": 2
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "id": 610001,
+        "days": 30,
+        "onceBonus": "2#1#300",
+        "dailyBonus": "2#2#90|10#10#1",
+        "maxDaysLimit": 180
+    }
+]

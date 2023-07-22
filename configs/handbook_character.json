@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "神秘学家",
+        "nameEng": "PUREBLOOD",
+        "icon": 1
+    },
+    {
+        "id": 2,
+        "name": "神秘学家混血种",
+        "nameEng": "MIXED",
+        "icon": 2
+    },
+    {
+        "id": 3,
+        "name": "神秘学家感染种",
+        "nameEng": "INFECTED",
+        "icon": 3
+    },
+    {
+        "id": 4,
+        "name": "超自然者",
+        "nameEng": "BEYOND",
+        "icon": 4
+    },
+    {
+        "id": 5,
+        "name": "意识唤醒者",
+        "nameEng": "AWAKENED",
+        "icon": 5
+    }
+]

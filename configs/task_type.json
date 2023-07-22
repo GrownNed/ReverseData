@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "日常",
+        "redDotKey": 0,
+        "functuonId": []
+    },
+    {
+        "id": 2,
+        "name": "周常",
+        "redDotKey": 0,
+        "functuonId": []
+    },
+    {
+        "id": 4,
+        "name": "新手",
+        "redDotKey": 0,
+        "functuonId": []
+    },
+    {
+        "id": 6,
+        "name": "荒原",
+        "redDotKey": 0,
+        "functuonId": []
+    },
+    {
+        "id": 7,
+        "name": "人工梦游",
+        "redDotKey": 0,
+        "functuonId": []
+    },
+    {
+        "id": 8,
+        "name": "activity106",
+        "redDotKey": 0,
+        "functuonId": []
+    },
+    {
+        "id": 9,
+        "name": "赛季",
+        "redDotKey": 0,
+        "functuonId": []
+    },
+    {
+        "id": 10,
+        "name": "通行证",
+        "redDotKey": 0,
+        "functuonId": []
+    },
+    {
+        "id": 11,
+        "name": "activity113",
+        "redDotKey": 0,
+        "functuonId": []
+    }
+]

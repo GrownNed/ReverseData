@@ -1,0 +1,6778 @@
+[
+    {
+        "id": "p_main_fight",
+        "lang": "战斗"
+    },
+    {
+        "id": "p_main_fb",
+        "lang": "副本"
+    },
+    {
+        "id": "p_main_tips",
+        "lang": "榭寄生：我不能让生命就此消逝无踪，重头再来。"
+    },
+    {
+        "id": "gm_general",
+        "lang": "通用GM"
+    },
+    {
+        "id": "sure",
+        "lang": "确定"
+    },
+    {
+        "id": "p_backpack_title",
+        "lang": "背包"
+    },
+    {
+        "id": "p_character_backpack",
+        "lang": "角色背包"
+    },
+    {
+        "id": "p_switch",
+        "lang": "切换"
+    },
+    {
+        "id": "p_item",
+        "lang": "物品"
+    },
+    {
+        "id": "p_serverTime",
+        "lang": "服务器时间"
+    },
+    {
+        "id": "p_mail_title",
+        "lang": "邮件"
+    },
+    {
+        "id": "p_mail_count",
+        "lang": "邮件数量："
+    },
+    {
+        "id": "p_mail_unreadcount",
+        "lang": "未读邮件："
+    },
+    {
+        "id": "p_mail_fullmail",
+        "lang": "超出邮件上限时，自动删除最早的邮件"
+    },
+    {
+        "id": "p_mail_deletemail",
+        "lang": "删除已读"
+    },
+    {
+        "id": "p_mail_hasgotten",
+        "lang": "已领取"
+    },
+    {
+        "id": "p_mail_get",
+        "lang": "领取"
+    },
+    {
+        "id": "p_mail_getenclosure",
+        "lang": "全部领取"
+    },
+    {
+        "id": "p_mail_noneReceived",
+        "lang": "还没收到邮件"
+    },
+    {
+        "id": "p_mailTip_getenclosure",
+        "lang": "点击收取附件"
+    },
+    {
+        "id": "p_mailcategory_read",
+        "lang": "查看"
+    },
+    {
+        "id": "p_mailcategory_get",
+        "lang": "收取"
+    },
+    {
+        "id": "p_exchange",
+        "lang": "转换"
+    },
+    {
+        "id": "p_character_backbtn",
+        "lang": "返回"
+    },
+    {
+        "id": "p_character_mainbtn",
+        "lang": "主页"
+    },
+    {
+        "id": "p_character_wardrobe",
+        "lang": "衣橱"
+    },
+    {
+        "id": "p_character_ultimateskill",
+        "lang": "潜能"
+    },
+    {
+        "id": "p_character_skill",
+        "lang": "技能升级"
+    },
+    {
+        "id": "p_character_passive",
+        "lang": "被动升级"
+    },
+    {
+        "id": "p_character_truct",
+        "lang": "信任"
+    },
+    {
+        "id": "p_character_starup",
+        "lang": "升星"
+    },
+    {
+        "id": "p_character_attribute",
+        "lang": "个人属性"
+    },
+    {
+        "id": "p_character_skills",
+        "lang": "神秘术"
+    },
+    {
+        "id": "p_character_inherit",
+        "lang": "传承"
+    },
+    {
+        "id": "p_character_levelup",
+        "lang": "提升"
+    },
+    {
+        "id": "p_character_insight",
+        "lang": "洞悉"
+    },
+    {
+        "id": "p_character_resonance",
+        "lang": "共鸣"
+    },
+    {
+        "id": "p_character_develop",
+        "lang": "角色提升"
+    },
+    {
+        "id": "p_character_attributeRestraint",
+        "lang": "灵感克制关系"
+    },
+    {
+        "id": "p_character_arme",
+        "lang": "专属武器"
+    },
+    {
+        "id": "p_common_ok",
+        "lang": "确定"
+    },
+    {
+        "id": "confirm",
+        "lang": "确认"
+    },
+    {
+        "id": "cancel",
+        "lang": "取消"
+    },
+    {
+        "id": "p_backpack_expire",
+        "lang": "到期"
+    },
+    {
+        "id": "p_select_skill_target",
+        "lang": "选择技能目标"
+    },
+    {
+        "id": "p_player_rename_tip",
+        "lang": "每月可更新名称<color=#A04D28>1</color>次"
+    },
+    {
+        "id": "p_player_rename_tip_extra",
+        "lang": "可额外更新名称<color=#A04D28>1</color>次"
+    },
+    {
+        "id": "p_player_rename_tip_no_count",
+        "lang": "可改名次数<color=#A04D28>0</color>次"
+    },
+    {
+        "id": "p_player_birthday",
+        "lang": "生日:"
+    },
+    {
+        "id": "p_player_id",
+        "lang": "识别码:"
+    },
+    {
+        "id": "p_player_copy",
+        "lang": "复制"
+    },
+    {
+        "id": "p_player_registertime ",
+        "lang": "入职日:"
+    },
+    {
+        "id": "p_player_lastEpisodeId",
+        "lang": "关卡进度"
+    },
+    {
+        "id": "p_rename_title",
+        "lang": "填写生日后将无法修改"
+    },
+    {
+        "id": "p_rename_month",
+        "lang": "月"
+    },
+    {
+        "id": "p_rename_day",
+        "lang": "日"
+    },
+    {
+        "id": "p_startFight",
+        "lang": "开始行动"
+    },
+    {
+        "id": "p_startFight2",
+        "lang": "开始\n战斗"
+    },
+    {
+        "id": "p_enemyInfo",
+        "lang": "敌方信息"
+    },
+    {
+        "id": "p_lizhuang",
+        "lang": "礼 装"
+    },
+    {
+        "id": "p_fail",
+        "lang": "失败"
+    },
+    {
+        "id": "p_succ",
+        "lang": "胜利"
+    },
+    {
+        "id": "p_data",
+        "lang": "数据"
+    },
+    {
+        "id": "p_failTips",
+        "lang": "可以用以上方法提升"
+    },
+    {
+        "id": "p_fight_data",
+        "lang": "战斗数据"
+    },
+    {
+        "id": "p_character",
+        "lang": "角色"
+    },
+    {
+        "id": "p_output",
+        "lang": "致伤"
+    },
+    {
+        "id": "p_beHurt",
+        "lang": "承击"
+    },
+    {
+        "id": "p_heal",
+        "lang": "医治"
+    },
+    {
+        "id": "p_all",
+        "lang": "全部"
+    },
+    {
+        "id": "p_save",
+        "lang": "保存"
+    },
+    {
+        "id": "p_hero_assist",
+        "lang": "援助"
+    },
+    {
+        "id": "p_recommend",
+        "lang": "推荐"
+    },
+    {
+        "id": "fight_result_bonus_tag1",
+        "lang": "首通"
+    },
+    {
+        "id": "fight_result_bonus_tag2",
+        "lang": "常规"
+    },
+    {
+        "id": "fight_result_bonus_tag3",
+        "lang": "白金"
+    },
+    {
+        "id": "p_saveGroup",
+        "lang": "保存\n编队"
+    },
+    {
+        "id": "p_enemyRound",
+        "lang": "敌方回合"
+    },
+    {
+        "id": "p_diaolv_style",
+        "lang": "调律风格"
+    },
+    {
+        "id": "p_use",
+        "lang": "使 用"
+    },
+    {
+        "id": "p_diaolv_style_tips",
+        "lang": "携带调律风格完成战斗可获得经验"
+    },
+    {
+        "id": "p_using",
+        "lang": "使 用 中"
+    },
+    {
+        "id": "p_reachUpperLimit",
+        "lang": "已达上限"
+    },
+    {
+        "id": "p_restrain",
+        "lang": "克制"
+    },
+    {
+        "id": "p_berestrain",
+        "lang": "被克"
+    },
+    {
+        "id": "p_equip_1",
+        "lang": "心相类型"
+    },
+    {
+        "id": "p_equip_2",
+        "lang": "MIND ATTRIBUTE"
+    },
+    {
+        "id": "p_equip_3",
+        "lang": "套装属性 "
+    },
+    {
+        "id": "p_equip_4",
+        "lang": "Suit ATTRIBUTE"
+    },
+    {
+        "id": "p_equip_5",
+        "lang": "当前装备强化至最高等级 "
+    },
+    {
+        "id": "p_equip_6",
+        "lang": "强化效果 "
+    },
+    {
+        "id": "p_equip_7",
+        "lang": "INTENSIFY ATTRIBUTE "
+    },
+    {
+        "id": "p_equip_8",
+        "lang": "印刻消耗 "
+    },
+    {
+        "id": "p_equip_9",
+        "lang": "INTENSIFY CONSUME "
+    },
+    {
+        "id": "p_equip_10",
+        "lang": "快捷放入"
+    },
+    {
+        "id": "p_equip_11",
+        "lang": "印刻"
+    },
+    {
+        "id": "p_equip_12",
+        "lang": "上限UP"
+    },
+    {
+        "id": "p_equip_13",
+        "lang": "提示  "
+    },
+    {
+        "id": "p_equip_14",
+        "lang": "本日登录不再提醒 "
+    },
+    {
+        "id": "p_equip_15",
+        "lang": "附魔效果 "
+    },
+    {
+        "id": "p_equip_16",
+        "lang": "ENCHANT ATTRIBUTE"
+    },
+    {
+        "id": "p_equip_17",
+        "lang": "附魔消耗 "
+    },
+    {
+        "id": "p_equip_18",
+        "lang": "ENCHANT CONSUME"
+    },
+    {
+        "id": "p_equip_19",
+        "lang": "附魔 "
+    },
+    {
+        "id": "p_equip_20",
+        "lang": "基础属性 "
+    },
+    {
+        "id": "p_equip_21",
+        "lang": "特殊属性 "
+    },
+    {
+        "id": "p_equip_22",
+        "lang": "当前心相未附魔"
+    },
+    {
+        "id": "p_equip_23",
+        "lang": "附魔结果 "
+    },
+    {
+        "id": "p_equip_24",
+        "lang": "请选择需要保存的1条基础属性和2条高级属性 "
+    },
+    {
+        "id": "p_equip_25",
+        "lang": "保存属性"
+    },
+    {
+        "id": "p_equip_26",
+        "lang": "jichushuxing"
+    },
+    {
+        "id": "p_equip_27",
+        "lang": "gaojishuxing"
+    },
+    {
+        "id": "p_equip_28",
+        "lang": "附魔预览"
+    },
+    {
+        "id": "p_equip_29",
+        "lang": "起章 "
+    },
+    {
+        "id": "p_equip_30",
+        "lang": "转章 "
+    },
+    {
+        "id": "p_equip_31",
+        "lang": "终章"
+    },
+    {
+        "id": "p_equip_32",
+        "lang": "附魔属性"
+    },
+    {
+        "id": "p_equip_33",
+        "lang": "ENCHANT ATTRIBUTE"
+    },
+    {
+        "id": "p_equip_34",
+        "lang": "原"
+    },
+    {
+        "id": "p_equip_35",
+        "lang": "Detail"
+    },
+    {
+        "id": "p_equip_36",
+        "lang": "Engrave"
+    },
+    {
+        "id": "p_equip_37",
+        "lang": "Enchant"
+    },
+    {
+        "id": "p_equip_38",
+        "lang": "Impression"
+    },
+    {
+        "id": "p_equip_39",
+        "lang": "AMPLIFY"
+    },
+    {
+        "id": "p_herogroup_udimo",
+        "lang": "替补"
+    },
+    {
+        "id": "p_herogroup_story",
+        "lang": "剧情"
+    },
+    {
+        "id": "p_tupo_detail",
+        "lang": "详情"
+    },
+    {
+        "id": "p_tupo_build",
+        "lang": "塑造"
+    },
+    {
+        "id": "p_icontipview_change",
+        "lang": "更换"
+    },
+    {
+        "id": "p_icontipview_chooseheadicon",
+        "lang": "选择头像"
+    },
+    {
+        "id": "p_icontipview_using",
+        "lang": "使用中"
+    },
+    {
+        "id": "p_storegoodsview_purchasequantity",
+        "lang": "购买数量"
+    },
+    {
+        "id": "p_herogroupview_enemy",
+        "lang": "敌人"
+    },
+    {
+        "id": "p_herogroupview_selecthero",
+        "lang": "选择角色"
+    },
+    {
+        "id": "p_dungeonlevelview_curteam",
+        "lang": "当前编队"
+    },
+    {
+        "id": "p_dungeonlevelview_notuseticket",
+        "lang": "不使用多倍券"
+    },
+    {
+        "id": "p_dungeonlevelview_startfight",
+        "lang": "开始行动"
+    },
+    {
+        "id": "p_dungeonlevelview_continuestory",
+        "lang": "继续剧情"
+    },
+    {
+        "id": "p_dungeonlevelview_locked",
+        "lang": "未解锁"
+    },
+    {
+        "id": "p_dungeonlevelview_hard",
+        "lang": "厄险"
+    },
+    {
+        "id": "p_dungeonlevelview_normal",
+        "lang": "故事"
+    },
+    {
+        "id": "p_dungeonlevelview_starlock1",
+        "lang": "达成"
+    },
+    {
+        "id": "p_dungeonlevelview_starlock2",
+        "lang": "条件解锁"
+    },
+    {
+        "id": "p_level",
+        "lang": "等级"
+    },
+    {
+        "id": "p_rare",
+        "lang": "稀有度"
+    },
+    {
+        "id": "p_faith",
+        "lang": "信任"
+    },
+    {
+        "id": "p_herogroupeditview_clicktoseedetail",
+        "lang": "点击角色查看详情"
+    },
+    {
+        "id": "p_settingssoundview_soundswitch",
+        "lang": "声音开关"
+    },
+    {
+        "id": "p_settingssoundview_bgm",
+        "lang": "背景音乐"
+    },
+    {
+        "id": "p_settingssoundview_voice",
+        "lang": "游戏语音"
+    },
+    {
+        "id": "p_settingssoundview_voice_story",
+        "lang": "剧情配音"
+    },
+    {
+        "id": "p_settingssoundview_voiceeffect",
+        "lang": "音效"
+    },
+    {
+        "id": "p_settingssoundview_lang",
+        "lang": "游戏语言"
+    },
+    {
+        "id": "p_setting_screenshot",
+        "lang": "截屏分享"
+    },
+    {
+        "id": "p_fightroundview_startfight",
+        "lang": "决战开始"
+    },
+    {
+        "id": "p_mainview_activity",
+        "lang": "活动"
+    },
+    {
+        "id": "p_mainview_task",
+        "lang": "任务"
+    },
+    {
+        "id": "p_mainview_build",
+        "lang": "建造"
+    },
+    {
+        "id": "p_mainview_backpack",
+        "lang": "仓库"
+    },
+    {
+        "id": "p_mainview_store",
+        "lang": "银行"
+    },
+    {
+        "id": "p_mainview_house",
+        "lang": "不休荒原"
+    },
+    {
+        "id": "p_mainview_power",
+        "lang": "活性"
+    },
+    {
+        "id": "p_mainview_enterance",
+        "lang": "入场"
+    },
+    {
+        "id": "p_mainview_actor",
+        "lang": "角色"
+    },
+    {
+        "id": "p_mainview_team",
+        "lang": "编队"
+    },
+    {
+        "id": "p_mainview_summon",
+        "lang": "征集"
+    },
+    {
+        "id": "p_simulateloginview_register",
+        "lang": "START"
+    },
+    {
+        "id": "p_loginview_switch",
+        "lang": "切换"
+    },
+    {
+        "id": "p_loginview_account",
+        "lang": "账号"
+    },
+    {
+        "id": "p_loginview_notice",
+        "lang": "公告"
+    },
+    {
+        "id": "p_loginview_fix",
+        "lang": "修复"
+    },
+    {
+        "id": "p_dungeonview_story_unselect",
+        "lang": "故事"
+    },
+    {
+        "id": "p_dungeonview_anecdote_unselect",
+        "lang": "轶事"
+    },
+    {
+        "id": "p_dungeonview_resource_unselect",
+        "lang": "资源"
+    },
+    {
+        "id": "p_dungeonview_break_unselect",
+        "lang": "洞悉"
+    },
+    {
+        "id": "p_dungeonview_secretroom_unselect",
+        "lang": "？"
+    },
+    {
+        "id": "p_dungeonview_weekwalk_unselect",
+        "lang": "人工梦游"
+    },
+    {
+        "id": "p_dungeonview_story",
+        "lang": "主线副本"
+    },
+    {
+        "id": "p_dungeonview_gold",
+        "lang": "物资筹备"
+    },
+    {
+        "id": "p_dungeonview_resource",
+        "lang": "典藏副本"
+    },
+    {
+        "id": "p_dungeonlevelview_seedetail",
+        "lang": "查看详情"
+    },
+    {
+        "id": "p_dungeonlevelview_tips",
+        "lang": "提示信息"
+    },
+    {
+        "id": "p_dungeonlevelview_reward",
+        "lang": "可能获得"
+    },
+    {
+        "id": "p_dungeonlevelview_lock",
+        "lang": "未解锁"
+    },
+    {
+        "id": "p_storeview_hotsale",
+        "lang": "热销推荐"
+    },
+    {
+        "id": "p_storeview_giftbag",
+        "lang": "礼包商店"
+    },
+    {
+        "id": "p_storeview_fashion",
+        "lang": "时尚商店"
+    },
+    {
+        "id": "p_storeview_furniture",
+        "lang": "家具商店"
+    },
+    {
+        "id": "p_storeview_exchange",
+        "lang": "兑换商店"
+    },
+    {
+        "id": "p_activitysignin_hasSignin",
+        "lang": "已签到"
+    },
+    {
+        "id": "p_activitysignin_noget",
+        "lang": "今日奖励未领取！"
+    },
+    {
+        "id": "p_activitysignin_get",
+        "lang": "今日奖励已领取"
+    },
+    {
+        "id": "p_activitysignin_tips_title",
+        "lang": "角色生日奖励"
+    },
+    {
+        "id": "p_equip_levelEn",
+        "lang": "LEVEL"
+    },
+    {
+        "id": "p_equip_InsigtEn",
+        "lang": "INSIGT"
+    },
+    {
+        "id": "p_backpack_compound",
+        "lang": "构 成"
+    },
+    {
+        "id": "p_backpack_selectall",
+        "lang": "全选"
+    },
+    {
+        "id": "p_equip_train",
+        "lang": "印 刻"
+    },
+    {
+        "id": "p_equip_replace",
+        "lang": "装 备"
+    },
+    {
+        "id": "p_equip_remove",
+        "lang": "遗 忘"
+    },
+    {
+        "id": "p_powerbuy_tip",
+        "lang": "提 示"
+    },
+    {
+        "id": "p_powerbuy_tipEn",
+        "lang": "NOTICE"
+    },
+    {
+        "id": "p_powerbuy_lack",
+        "lang": "库存不足"
+    },
+    {
+        "id": "p_powerbuy_limitbuy",
+        "lang": "每日限购"
+    },
+    {
+        "id": "p_main_trustadd",
+        "lang": "信任增加"
+    },
+    {
+        "id": "p_notice_act",
+        "lang": "活动公告"
+    },
+    {
+        "id": "p_notice_game",
+        "lang": "游戏公告"
+    },
+    {
+        "id": "p_notice_sys",
+        "lang": "系统公告"
+    },
+    {
+        "id": "p_store_buyallpre",
+        "lang": "购买前置商店所有商品后解锁"
+    },
+    {
+        "id": "p_hp",
+        "lang": "生命值"
+    },
+    {
+        "id": "p_nostatuseffect",
+        "lang": "暂无状态效果"
+    },
+    {
+        "id": "p_social_friendsinformaiton",
+        "lang": "好友信息"
+    },
+    {
+        "id": "p_social_addfriends",
+        "lang": "添加好友"
+    },
+    {
+        "id": "p_social_blacklist",
+        "lang": "黑名单"
+    },
+    {
+        "id": "p_send",
+        "lang": "发送"
+    },
+    {
+        "id": "p_search",
+        "lang": "搜索"
+    },
+    {
+        "id": "p_social_noblacklist",
+        "lang": "暂无黑名单玩家"
+    },
+    {
+        "id": "p_social_nofriendapplication",
+        "lang": "暂无好友申请"
+    },
+    {
+        "id": "p_social_nosearch",
+        "lang": "未搜索到相关玩家"
+    },
+    {
+        "id": "p_social_nofriend",
+        "lang": "暂无好友"
+    },
+    {
+        "id": "p_social_input",
+        "lang": "请点击输入"
+    },
+    {
+        "id": "p_social_searchfriends",
+        "lang": "精确输入好友名称搜索"
+    },
+    {
+        "id": "p_sent",
+        "lang": "已发送"
+    },
+    {
+        "id": "p_nextactivityrecovery",
+        "lang": "下次活性恢复："
+    },
+    {
+        "id": "p_activityrecovery",
+        "lang": "活性完全恢复："
+    },
+    {
+        "id": "p_settingsgraphics_graphicsquality",
+        "lang": "较高画质可能会导致卡顿和发热"
+    },
+    {
+        "id": "p_settingsgraphics_low",
+        "lang": "低"
+    },
+    {
+        "id": "p_settingsgraphics_middle",
+        "lang": "中"
+    },
+    {
+        "id": "p_settingsgraphics_high",
+        "lang": "高"
+    },
+    {
+        "id": "p_settingssound_voicepackagedownload",
+        "lang": "语音包\n<size=34>下载</size>"
+    },
+    {
+        "id": "p_commonequipicon_inequipment",
+        "lang": "记忆中"
+    },
+    {
+        "id": "p_characterlevelup_leveluplimit",
+        "lang": "角色已升至最高等级"
+    },
+    {
+        "id": "p_sequence",
+        "lang": "获得顺序"
+    },
+    {
+        "id": "p_characterrankup_promotion",
+        "lang": "洞悉"
+    },
+    {
+        "id": "p_characterrankup_promotioneffect",
+        "lang": "洞悉所见"
+    },
+    {
+        "id": "p_everyweek",
+        "lang": "每周"
+    },
+    {
+        "id": "p_unopen",
+        "lang": "未开启"
+    },
+    {
+        "id": "p_characterrankup_full",
+        "lang": "洞察之底"
+    },
+    {
+        "id": "p_jump_source",
+        "lang": "来源："
+    },
+    {
+        "id": "p_playerlevelup_levelup",
+        "lang": "等级提升"
+    },
+    {
+        "id": "p_dungeon_level_story",
+        "lang": "剧情"
+    },
+    {
+        "id": "p_adventure_surebinding",
+        "lang": "确认"
+    },
+    {
+        "id": "p_adventure_choosebinding",
+        "lang": "选择一名角色绑定"
+    },
+    {
+        "id": "p_adventure_magictip",
+        "lang": "将所有图案移到正确位置可解锁\n拖动相邻两个格子可以互换位置"
+    },
+    {
+        "id": "p_signatureedit",
+        "lang": "编辑个性签名"
+    },
+    {
+        "id": "p_playerbirthday",
+        "lang": "你何时睁眼看到这个世界？"
+    },
+    {
+        "id": "p_scene",
+        "lang": "你在哪一幕？"
+    },
+    {
+        "id": "p_signature",
+        "lang": "个性签名"
+    },
+    {
+        "id": "p_adventure_start",
+        "lang": "开始探索"
+    },
+    {
+        "id": "p_adventure_continune",
+        "lang": "继续探索"
+    },
+    {
+        "id": "p_adventure_end",
+        "lang": "结束探索"
+    },
+    {
+        "id": "p_adventure_none",
+        "lang": "暂无"
+    },
+    {
+        "id": "p_adventure_notfind",
+        "lang": "未发现"
+    },
+    {
+        "id": "p_adventure_task",
+        "lang": "奇遇任务"
+    },
+    {
+        "id": "p_adventure_treasure",
+        "lang": "神秘宝箱"
+    },
+    {
+        "id": "p_adventure_tip",
+        "lang": "提示"
+    },
+    {
+        "id": "p_adventure_taskcomplete",
+        "lang": "任务结算"
+    },
+    {
+        "id": "p_adventure_tipcontent",
+        "lang": "结束后将无法回到当前进度，是否结束本次探索？"
+    },
+    {
+        "id": "p_adventure_maintask",
+        "lang": "[主线任务]"
+    },
+    {
+        "id": "p_adventure_tarot",
+        "lang": "墨菲斯金属"
+    },
+    {
+        "id": "p_adventure_mission",
+        "lang": "任务"
+    },
+    {
+        "id": "p_adventure_curteam",
+        "lang": "当前编队"
+    },
+    {
+        "id": "p_adventure_battletitle_en",
+        "lang": "CASTLE PHANTOM CAMPAIGN"
+    },
+    {
+        "id": "p_adventure_battlearray",
+        "lang": "关卡阵容"
+    },
+    {
+        "id": "p_adventure_addition",
+        "lang": "附加条件："
+    },
+    {
+        "id": "p_adventure_curbindingeffect",
+        "lang": "当前绑定效果"
+    },
+    {
+        "id": "p_adventure_continuneExplore",
+        "lang": "继续冒险"
+    },
+    {
+        "id": "p_adventure_exploreToEnd",
+        "lang": "结束冒险"
+    },
+    {
+        "id": "p_adventure_selectcard",
+        "lang": "获得墨菲斯金属"
+    },
+    {
+        "id": "p_fightcard_introuduce1",
+        "lang": "攻击被克目标"
+    },
+    {
+        "id": "p_fightcard_introuduce2",
+        "lang": "攻击普通目标"
+    },
+    {
+        "id": "p_fightcard_introuduce3",
+        "lang": "攻击克制目标"
+    },
+    {
+        "id": "p_login_surename",
+        "lang": "确认名字"
+    },
+    {
+        "id": "p_login_confirmname",
+        "lang": "是否确认此名称?"
+    },
+    {
+        "id": "p_login_inputname",
+        "lang": "点击输入名称"
+    },
+    {
+        "id": "p_herogroup_formation",
+        "lang": "编队中"
+    },
+    {
+        "id": "p_herogroup_current",
+        "lang": "当前"
+    },
+    {
+        "id": "p_herogroup_aid",
+        "lang": "支援中"
+    },
+    {
+        "id": "p_task_allcomplete",
+        "lang": "已领取全部奖励"
+    },
+    {
+        "id": "p_materialtip_notOpen",
+        "lang": "未开启"
+    },
+    {
+        "id": "p_materialtip_jump",
+        "lang": "跳转"
+    },
+    {
+        "id": "p_materialtip_use",
+        "lang": "使用"
+    },
+    {
+        "id": "p_normalstore_buy",
+        "lang": "购 买"
+    },
+    {
+        "id": "p_normalstore_charge",
+        "lang": "充 值"
+    },
+    {
+        "id": "p_summon_openall",
+        "lang": "打开所有"
+    },
+    {
+        "id": "p_summon_once",
+        "lang": "征集一次"
+    },
+    {
+        "id": "p_summon_tentimes",
+        "lang": "征集十次"
+    },
+    {
+        "id": "p_summon_detail",
+        "lang": "详情"
+    },
+    {
+        "id": "p_summon_pool_probability",
+        "lang": "概率详情"
+    },
+    {
+        "id": "p_summon_pool_probabilityEn",
+        "lang": "PROBABILITY"
+    },
+    {
+        "id": "p_summon_pool_detailEn",
+        "lang": "DETAILS"
+    },
+    {
+        "id": "p_summon_pool_detail",
+        "lang": "规则说明"
+    },
+    {
+        "id": "p_fightquittip_quitgame",
+        "lang": "退出战斗"
+    },
+    {
+        "id": "p_fightquittip_surequit",
+        "lang": "确定退出"
+    },
+    {
+        "id": "p_dungeonlevel_enemy",
+        "lang": "敌人"
+    },
+    {
+        "id": "p_fightcardmix_twocardmix",
+        "lang": "当相同神秘术接近时，可以融合为更高级的神秘术"
+    },
+    {
+        "id": "p_fightcardmix_fourcardmix",
+        "lang": "可通过拖动使神秘术融合，最高可以融合为3星"
+    },
+    {
+        "id": "p_fightsucc_trust",
+        "lang": "信任"
+    },
+    {
+        "id": "p_setting_recommand",
+        "lang": "推荐"
+    },
+    {
+        "id": "p_setting_imagequality",
+        "lang": "画质"
+    },
+    {
+        "id": "p_setting_fps",
+        "lang": "帧率"
+    },
+    {
+        "id": "p_setting_lowfps",
+        "lang": "30帧"
+    },
+    {
+        "id": "p_setting_hightfps",
+        "lang": "60帧"
+    },
+    {
+        "id": "p_setting_clicktoclose",
+        "lang": "点击任意区域关闭"
+    },
+    {
+        "id": "p_setting_downloadall",
+        "lang": "下载"
+    },
+    {
+        "id": "p_activitysignin_signindaystitle",
+        "lang": "累计签到    天"
+    },
+    {
+        "id": "p_activitysignin_todayreward",
+        "lang": "<size=30>今</size>日奖励"
+    },
+    {
+        "id": "p_activitysignin_monthcardreward",
+        "lang": "<size=30>月</size>历奖励"
+    },
+    {
+        "id": "p_fightquit_passtarget",
+        "lang": "关卡目标"
+    },
+    {
+        "id": "p_fightquit_attributerestrain",
+        "lang": "灵感克制"
+    },
+    {
+        "id": "p_fightquit_addition",
+        "lang": "附加条件"
+    },
+    {
+        "id": "p_fightquit_quitgame",
+        "lang": "退出战斗"
+    },
+    {
+        "id": "p_fightquit_fighttechnical",
+        "lang": "教学指引"
+    },
+    {
+        "id": "p_fightquit_restart",
+        "lang": "重新开始"
+    },
+    {
+        "id": "p_fightquit_continuegame",
+        "lang": "继续战斗"
+    },
+    {
+        "id": "p_herogroupcareertip_title1",
+        "lang": "自然克制"
+    },
+    {
+        "id": "p_herogroupcareertip_desc1",
+        "lang": "自然克制时造成创伤提高30%"
+    },
+    {
+        "id": "p_herogroupcareertip_title2",
+        "lang": "灵智克制"
+    },
+    {
+        "id": "p_herogroupcareertip_desc2",
+        "lang": "灵感克制时造成的创伤提高30%"
+    },
+    {
+        "id": "p_herogroupcareertip_career1",
+        "lang": "岩"
+    },
+    {
+        "id": "p_herogroupcareertip_career2",
+        "lang": "星"
+    },
+    {
+        "id": "p_herogroupcareertip_career3",
+        "lang": "木"
+    },
+    {
+        "id": "p_herogroupcareertip_career4",
+        "lang": "兽"
+    },
+    {
+        "id": "p_herogroupcareertip_career5",
+        "lang": "灵"
+    },
+    {
+        "id": "p_herogroupcareertip_career6",
+        "lang": "智"
+    },
+    {
+        "id": "p_characterdata_canunlock",
+        "lang": "可解锁"
+    },
+    {
+        "id": "p_characterdata_cover",
+        "lang": "封面"
+    },
+    {
+        "id": "p_characterdata_voice",
+        "lang": "语音"
+    },
+    {
+        "id": "p_characterdata_item",
+        "lang": "单品"
+    },
+    {
+        "id": "p_characterdata_culture",
+        "lang": "文化"
+    },
+    {
+        "id": "p_characterdata_medium",
+        "lang": "介质"
+    },
+    {
+        "id": "p_characterdata_inspiration",
+        "lang": "灵感"
+    },
+    {
+        "id": "p_characterdata_aroma",
+        "lang": "香调"
+    },
+    {
+        "id": "p_characterdata_size",
+        "lang": "尺寸"
+    },
+    {
+        "id": "p_characterdata_fetter",
+        "lang": "信任"
+    },
+    {
+        "id": "p_giftmultiplechoiceview_selectone",
+        "lang": "请从以下道具中选择一个作为奖励"
+    },
+    {
+        "id": "p_giftmultiplechoiceview_detail",
+        "lang": "长按道具可查看详情"
+    },
+    {
+        "id": "p_materialtipview_source",
+        "lang": "来源"
+    },
+    {
+        "id": "p_herogroupedit_traditional",
+        "lang": "传承"
+    },
+    {
+        "id": "p_shihua",
+        "lang": "石化"
+    },
+    {
+        "id": "p_bingdong",
+        "lang": "冰冻"
+    },
+    {
+        "id": "p_fanzhi_fantan",
+        "lang": "反制-反弹"
+    },
+    {
+        "id": "p_fengyin",
+        "lang": "封印"
+    },
+    {
+        "id": "p_jianmo",
+        "lang": "缄默"
+    },
+    {
+        "id": "p_jiaoxie",
+        "lang": "缴械"
+    },
+    {
+        "id": "p_summon_attributetip",
+        "lang": "界面展示角色最终洞悉属性"
+    },
+    {
+        "id": "p_fightfocusview_property",
+        "lang": "特性"
+    },
+    {
+        "id": "p_fightfocusview_seedetail",
+        "lang": "查看详情"
+    },
+    {
+        "id": "p_fightfocusview_returnfight",
+        "lang": "点击空白位置回到战斗"
+    },
+    {
+        "id": "p_characterswitch_replace",
+        "lang": "更换"
+    },
+    {
+        "id": "p_characterswitch_showing",
+        "lang": "展示中"
+    },
+    {
+        "id": "p_fightsucc_data",
+        "lang": "数据"
+    },
+    {
+        "id": "p_equipview_showequipproperty",
+        "lang": "满级属性"
+    },
+    {
+        "id": "p_fightinspirationview_kezhi",
+        "lang": "克制"
+    },
+    {
+        "id": "p_fightinspirationview_beike",
+        "lang": "被克"
+    },
+    {
+        "id": "p_fightinspirationview_inspirationtitle",
+        "lang": "灵感克制说明"
+    },
+    {
+        "id": "p_fightinspirationview_tip",
+        "lang": "灵活地运用克制关系，将对战局产生重要影响！"
+    },
+    {
+        "id": "p_dungeonreward_drop",
+        "lang": "掉落"
+    },
+    {
+        "id": "p_fightinfoview_returndesc",
+        "lang": "回到介绍"
+    },
+    {
+        "id": "p_equip_currentequip",
+        "lang": "存于记忆"
+    },
+    {
+        "id": "p_equip_noequip",
+        "lang": "暂无记忆心相"
+    },
+    {
+        "id": "p_activitysignin_day",
+        "lang": "日"
+    },
+    {
+        "id": "p_fightguideview_1_1",
+        "lang": "对灵感<color=#e99b56>克制</color>角色，可造成<color=#e99b56>额外创伤</color>"
+    },
+    {
+        "id": "p_fightguideview_2_1",
+        "lang": "<color=#e99b56>灵感</color>是角色能力的来源，且存在<color=#e99b56>克制关系</color>"
+    },
+    {
+        "id": "p_fightguideview_2_2",
+        "lang": "灵感克制时造成的创伤提高<color=#e99b56>30%</color>"
+    },
+    {
+        "id": "p_fightguideview_3_1",
+        "lang": "<color=#ff906a>头顶显示咒语</color>的敌方，将会在下个回合召唤该咒语进行<color=#ff906a>攻击</color>"
+    },
+    {
+        "id": "p_fightguideview_3_2",
+        "lang": "通过咒语下方的<color=#ff906a>标识</color>，可查看咒语对应的<color=#ff906a>仪式类别</color>"
+    },
+    {
+        "id": "p_fightguideview_4_1",
+        "lang": "1.此处显示角色的激情点数"
+    },
+    {
+        "id": "p_fightguideview_4_2",
+        "lang": "2.<color=#ff906a>使用</color>咒语，<color=#ff906a>移动</color>咒语，<color=#ff906a>提升</color>咒语阶次，都将为角色积攒<color=#ff906a>激情</color>!"
+    },
+    {
+        "id": "p_fightguideview_4_3",
+        "lang": "3.当角色激情满溢，下次生成咒语时可获得<color=#ff906a>至终的仪式</color>的咒语"
+    },
+    {
+        "id": "p_fightguideview_5_1",
+        "lang": "咒语拥有不同的类型"
+    },
+    {
+        "id": "p_fightguideview_5_2",
+        "lang": "攻击"
+    },
+    {
+        "id": "p_fightguideview_5_3",
+        "lang": "对敌人造成<color=#ff906a>直接创伤</color>"
+    },
+    {
+        "id": "p_fightguideview_5_4",
+        "lang": "减益"
+    },
+    {
+        "id": "p_fightguideview_5_5",
+        "lang": "<color=#ff906a>削弱敌方</color>，部分咒语额外造成创伤"
+    },
+    {
+        "id": "p_fightguideview_5_6",
+        "lang": "增益"
+    },
+    {
+        "id": "p_fightguideview_5_7",
+        "lang": "使我方获得<color=#ff906a>属性提升</color>、<color=#ff906a>状态增益</color>"
+    },
+    {
+        "id": "p_fightguideview_5_8",
+        "lang": "反制"
+    },
+    {
+        "id": "p_fightguideview_5_9",
+        "lang": "<color=#ff906a>特定条件</color>可触发强力效果"
+    },
+    {
+        "id": "p_fightguideview_5_10",
+        "lang": "治疗"
+    },
+    {
+        "id": "p_fightguideview_5_11",
+        "lang": "恢复我方<color=#ff906a>生命</color>"
+    },
+    {
+        "id": "p_fightguideview_5_12",
+        "lang": "至终的仪式"
+    },
+    {
+        "id": "p_fightguideview_5_13",
+        "lang": "具有<color=#ff906a>强大威力</color>或者<color=#ff906a>特殊效果</color>"
+    },
+    {
+        "id": "p_fighttechniquecontentitem_improveattack",
+        "lang": "攻击提升"
+    },
+    {
+        "id": "p_fighttechniquecontentitem_additiveattack",
+        "lang": "攻击<color=#CC492F>+15%</color>"
+    },
+    {
+        "id": "p_fighttechniquecontentitem_sturdy",
+        "lang": "坚固"
+    },
+    {
+        "id": "p_fighttechniquecontentitem_decreasesturdy",
+        "lang": "创伤减免<color=#CC492F>+25%</color>，被攻击后消失"
+    },
+    {
+        "id": "p_fighttechniquecontentitem_fanzhidesc",
+        "lang": "被攻击时，反弹自身100%攻击的伤害。"
+    },
+    {
+        "id": "p_feedbackview_feedback",
+        "lang": "提交建议"
+    },
+    {
+        "id": "p_feedbackview_feedbackinputtitle",
+        "lang": "最初的回响[点击输入标题]"
+    },
+    {
+        "id": "p_feedbackview_feedbackinputcontent",
+        "lang": "请在此留下您的建议"
+    },
+    {
+        "id": "p_fighttechniquecontentitem_buffbottomdesc1",
+        "lang": "若身上存在<color=#cc492f>强效果</color>的BUFF时，低效果的<color=#cc492f>同名BUFF</color>，将不会生效！<line-height=143%>\n相同效果则<color=#cc492f>持续时间长</color>的覆盖<color=#cc492f>持续时间短</color>的BUFF!"
+    },
+    {
+        "id": "p_fighttechniquecontentitem_buffbottondesc2",
+        "lang": "对于生效条件<color=#cc492f>特殊</color>的BUFF，则可<color=#cc492f>同时存在</color>,不受叠加规则影响。"
+    },
+    {
+        "id": "p_activitysignin_todayrewarddetail",
+        "lang": "每日签到奖励"
+    },
+    {
+        "id": "p_helpcontentitem_levelupbyinsight",
+        "lang": "2.洞悉后角色将获得的提升"
+    },
+    {
+        "id": "p_helpcontentitem_insightcondition",
+        "lang": "3.洞悉所需消耗材料及条件"
+    },
+    {
+        "id": "p_helpcontentitem_opensummondesc",
+        "lang": "1.由此查看当前湖中可征集者信息"
+    },
+    {
+        "id": "p_helpcontentitem_previewfulllevel",
+        "lang": "2.由此查看湖中可征集者的最高等级属性"
+    },
+    {
+        "id": "p_helpcontentitem_remainpower",
+        "lang": "1.当前所剩余的活性"
+    },
+    {
+        "id": "p_helpcontentitem_leveldesc",
+        "lang": "2.关卡内容与机制介绍"
+    },
+    {
+        "id": "p_helpcontentitem_beginchallenge",
+        "lang": "3.本关卡将消耗的活性。点击此处，开始关卡挑战。"
+    },
+    {
+        "id": "p_helpcontentitem_levelcondition",
+        "lang": "4.完成两项挑战后，可解锁厄险模式"
+    },
+    {
+        "id": "p_helpcontentitem_bossleveldetail",
+        "lang": "1.由此展开敌方信息预览"
+    },
+    {
+        "id": "p_helpcontentitem_previewthings",
+        "lang": "2.由此展开掉落物品预览"
+    },
+    {
+        "id": "p_helpcontentitem_reviewstory",
+        "lang": "1.已通关的剧情可以在此回顾"
+    },
+    {
+        "id": "p_helpcontentitem_hardmode",
+        "lang": "2.由此切换为厄险模式"
+    },
+    {
+        "id": "p_helpcontentitem_seeword",
+        "lang": "在厄险模式中，将会有特殊情况从而改变战局。\n点击此处可查看详细信息。"
+    },
+    {
+        "id": "p_helpcontentitem_showinsightcount",
+        "lang": "1.不同的角色将会面临不同的洞悉深度"
+    },
+    {
+        "id": "p_helpcontentitem_insightthreetimes",
+        "lang": "6<space=1.38em>与5<space=1.33em>角色可进行3次洞悉"
+    },
+    {
+        "id": "p_helpcontentitem_insighttwice",
+        "lang": "4<space=1.35em>及以下角色可进行2次洞悉"
+    },
+    {
+        "id": "p_characterdatauttu_1",
+        "lang": "欢迎来到UTTU。这是一本杂志。"
+    },
+    {
+        "id": "p_characterdatauttu_2",
+        "lang": "不要跳过这一页。\n它与其他庸俗、无趣 、陈词滥调、毫无作用的扉页不同。它是重要的。"
+    },
+    {
+        "id": "p_characterdatauttu_3",
+        "lang": "阅读指南"
+    },
+    {
+        "id": "p_characterdatauttu_4",
+        "lang": "1.  不要质疑UTTU的真实性。我们只讲诉真正的神秘学家身上真正的故事。\n2.  UTTU只需一本。当购买季度卡后，你可以在每月十五日更新杂志的内容。<line-height=120%>\n3.  每期更新杂志内容时，请将UTTU杂志本体放置在橱柜或是壁炉的柴火之下。不要点<line-height=80%>\n火或是留下光源，然后走开到半径2.7m外，等待10到15分钟即可。在更新期间听到缝\n纫与爬行声是正常的。<line-height=110%>\n4.  不要对艺术采访专栏感到疑惑。你需要知道，艺术品就是艺术品。他们可以是活着的，<line-height=80%> 也可以是死的。所有值得讲诉的人都能够成为一座艺术品。"
+    },
+    {
+        "id": "p_characterdatauttu_5",
+        "lang": "5.  阅读采访专栏期间，你有概率会闻到书页上传来香气，这是正常的情况。\n6.  不要对会动的照片大惊小怪，不要让任何活动照片接触到黑咖啡和火柴。\n8.  将UTTU远离火堆。它是一本神秘学界杂志，而非防火杂志。"
+    },
+    {
+        "id": "p_characterdatauttu_6",
+        "lang": "<margin=0.2em>9.   与第8条相反，UTTU具有耐水性。但是不要尝试将它长时间地浸泡在水中。如果因为失误导致了杂志长时间湿润，请备好足够的驱虫剂。<line-height=125%>\n<margin=0em>10.  别问第七条去哪儿了。\n11.  如果你在附页中看见了任何关于梦魇回购的广告，不要打上面的<line-height=100%>\n电话，也不要试图去捕捉那些怪兽。当你的孩子对你报告异状时，让\n他睡前多吃一颗牛奶糖。<line-height=130%>\n12.  尽可能享受阅读UTTU的时间。"
+    },
+    {
+        "id": "p_characterdatauttu_7",
+        "lang": "我们伫立于阴影中，讲述所有曾不为人知的故事。\n如沉默的编织者，如漆黑夜中的诱蛾灯。"
+    },
+    {
+        "id": "p_task_dayactive",
+        "lang": "每日活跃"
+    },
+    {
+        "id": "p_task_weekactive",
+        "lang": "每周活跃"
+    },
+    {
+        "id": "p_task_nofinish",
+        "lang": "前往"
+    },
+    {
+        "id": "p_task_finish",
+        "lang": "可领取"
+    },
+    {
+        "id": "p_task_get",
+        "lang": "已完成"
+    },
+    {
+        "id": "p_helpcontentitem_bosslevel",
+        "lang": "1.红色关卡为BOSS关卡"
+    },
+    {
+        "id": "p_helpcontentitem_teachlevel",
+        "lang": "3.SP关卡为教学关卡"
+    },
+    {
+        "id": "p_helpcontentitem_storylevel",
+        "lang": "4.录像带关卡为纯剧情关卡"
+    },
+    {
+        "id": "p_helpcontentitem_switchsection",
+        "lang": "5.由此快速切换主线章节"
+    },
+    {
+        "id": "p_helpcontentitem_lightstar",
+        "lang": "2.<space=2.1em>代表已完成的挑战"
+    },
+    {
+        "id": "p_helpcontentitem_darkstar",
+        "lang": "代表着尚未完成的挑战"
+    },
+    {
+        "id": "p_home_reset",
+        "lang": "重置"
+    },
+    {
+        "id": "p_home_restore",
+        "lang": "还原"
+    },
+    {
+        "id": "p_home_confirm",
+        "lang": "确认"
+    },
+    {
+        "id": "p_home_more",
+        "lang": "更多"
+    },
+    {
+        "id": "p_home_back_last",
+        "lang": "孤屿回收"
+    },
+    {
+        "id": "p_activitynovicesign_claim",
+        "lang": "可领取"
+    },
+    {
+        "id": "p_activitynovicesign_rookie",
+        "lang": "新手"
+    },
+    {
+        "id": "p_activitynovicesign_daysign",
+        "lang": "日手札"
+    },
+    {
+        "id": "p_activitynovicesign_get",
+        "lang": "已领取"
+    },
+    {
+        "id": "p_powerbuy_toggletip",
+        "lang": "本日登录不再提醒 "
+    },
+    {
+        "id": "p_activitynovicesign_tomorrowget",
+        "lang": "明日可领"
+    },
+    {
+        "id": "p_shareview_hideview",
+        "lang": "隐藏界面"
+    },
+    {
+        "id": "p_shareview_sharetips",
+        "lang": "点击图片进行分享\n<size=28>可在设置中关闭</size>"
+    },
+    {
+        "id": "p_herogroupview_recommendlevel",
+        "lang": "推荐等级："
+    },
+    {
+        "id": "p_herogroupview_target",
+        "lang": "目标"
+    },
+    {
+        "id": "p_herogrouprecommenditem_use",
+        "lang": "使用"
+    },
+    {
+        "id": "p_equipinfo_arcanum",
+        "lang": "心相增幅"
+    },
+    {
+        "id": "p_equipinfo_normal_title",
+        "lang": "心相增幅"
+    },
+    {
+        "id": "p_equipinfo_exp_title",
+        "lang": "印刻材料"
+    },
+    {
+        "id": "p_equipinfo_refine_title",
+        "lang": "增幅材料"
+    },
+    {
+        "id": "p_equipstory_effect",
+        "lang": "印象"
+    },
+    {
+        "id": "p_playerclothview_furious",
+        "lang": "司辰的激情"
+    },
+    {
+        "id": "p_playerclothview_aspell",
+        "lang": "咒语"
+    },
+    {
+        "id": "p_playerclothview_inuse",
+        "lang": "使用中"
+    },
+    {
+        "id": "p_playerclothview_beselected",
+        "lang": "使用"
+    },
+    {
+        "id": "p_playerclothview_furious1",
+        "lang": "使用神秘术"
+    },
+    {
+        "id": "p_playerclothview_furious2",
+        "lang": "移动神秘术"
+    },
+    {
+        "id": "p_playerclothview_furious3",
+        "lang": "融合神秘术"
+    },
+    {
+        "id": "p_playerclothview_furious4",
+        "lang": "回合恢复"
+    },
+    {
+        "id": "p_playerclothview_furious5",
+        "lang": "初始激情"
+    },
+    {
+        "id": "p_playerclothview_furious6",
+        "lang": "击杀敌人"
+    },
+    {
+        "id": "p_playerclothview_furious7",
+        "lang": "我方死亡"
+    },
+    {
+        "id": "p_herogroupview_enemy1",
+        "lang": "敌"
+    },
+    {
+        "id": "p_herogroupview_enemy2",
+        "lang": "人"
+    },
+    {
+        "id": "p_herogroupview_target1",
+        "lang": "目"
+    },
+    {
+        "id": "p_herogroupview_target2",
+        "lang": "标"
+    },
+    {
+        "id": "p_activitynovicetaskview_curprogress",
+        "lang": "当前进度"
+    },
+    {
+        "id": "p_activitynovicetaskview_rewards",
+        "lang": "奖励"
+    },
+    {
+        "id": "p_activitynovicetaskview_receive",
+        "lang": "领取"
+    },
+    {
+        "id": "p_activitynovicetaskitem_goto",
+        "lang": "前往"
+    },
+    {
+        "id": "p_activitynovicetaskitem_get",
+        "lang": "已领取"
+    },
+    {
+        "id": "p_activitynovicetaskitem_canreceive",
+        "lang": "可领取"
+    },
+    {
+        "id": "p_activitynovicetaskview_hasreceived",
+        "lang": "奖励已领取"
+    },
+    {
+        "id": "p_activitynovicesightview_jump",
+        "lang": "跳转"
+    },
+    {
+        "id": "p_herogrouprecomendview_tips",
+        "lang": "数据源于最近一万场玩家的首通阵容及平均等级统计"
+    },
+    {
+        "id": "p_herogrouprecomendview_nullinfo",
+        "lang": "暂无信息"
+    },
+    {
+        "id": "p_dungeonmapinteractiveitem_submit",
+        "lang": "提交"
+    },
+    {
+        "id": "p_dungeonmap_getreward",
+        "lang": "可领取奖励"
+    },
+    {
+        "id": "p_dungeonmap_rewardtip",
+        "lang": "奖励说明"
+    },
+    {
+        "id": "p_summonpooldetail_probability",
+        "lang": "出现概率:"
+    },
+    {
+        "id": "p_summonpooldetail_up_probability",
+        "lang": "占%s星出率的"
+    },
+    {
+        "id": "p_dungeonequipentry_reward",
+        "lang": "奖励预览："
+    },
+    {
+        "id": "p_dungeonequipentry_survey",
+        "lang": "调查"
+    },
+    {
+        "id": "p_herogroup_challenge",
+        "lang": "跨级挑战"
+    },
+    {
+        "id": "p_fightfail_averageLevel",
+        "lang": "敌方挑战等级："
+    },
+    {
+        "id": "p_characterskin_dressing",
+        "lang": "着装中"
+    },
+    {
+        "id": "p_characterskin_dress",
+        "lang": "着装"
+    },
+    {
+        "id": "p_characterskin_buy",
+        "lang": "购买"
+    },
+    {
+        "id": "p_characterskin_notget",
+        "lang": "未获得"
+    },
+    {
+        "id": "p_characterskin_activityget",
+        "lang": "活动获得"
+    },
+    {
+        "id": "p_characterskin_skinstore",
+        "lang": "衣着风尚"
+    },
+    {
+        "id": "p_characterskin_rank",
+        "lang": "洞悉二解锁"
+    },
+    {
+        "id": "p_dungeonreschapteritem_specialopen",
+        "lang": "特别开启"
+    },
+    {
+        "id": "p_handbook_character",
+        "lang": "<size=65>U</size>TTU人物合辑"
+    },
+    {
+        "id": "p_handbook_equip",
+        "lang": "<size=65>相</size>从心生"
+    },
+    {
+        "id": "p_handbook_story",
+        "lang": "<size=65>以</size>影像之"
+    },
+    {
+        "id": "p_dungeonequip_complete",
+        "lang": "调查完毕"
+    },
+    {
+        "id": "p_helpcontentitem_specialevent",
+        "lang": "1.此<#CC492F>标识</color>指示着本幕故事中仍有尚未被发掘的隐藏信息。"
+    },
+    {
+        "id": "p_helpcontentitem_question",
+        "lang": "2.点击<#CC492F>感叹号</color>，了解更多隐藏信息。"
+    },
+    {
+        "id": "p_helpcontentitem_point",
+        "lang": "3.掌握隐藏信息，有助于获得<#CC492F>行迹</color>，并兑换相应的<#CC492F>奖励</color>。"
+    },
+    {
+        "id": "p_helpcontentitem_hardmodecondition",
+        "lang": "2.更复杂的情形，请加以利用。"
+    },
+    {
+        "id": "p_helpcontentitem_goal",
+        "lang": "1.需要达成的目标"
+    },
+    {
+        "id": "p_helpcontentitem_star",
+        "lang": "1.星级对应着不同的目标"
+    },
+    {
+        "id": "p_helpcontentitem_elemAttribute",
+        "lang": "2.此处显示着敌人的灵感"
+    },
+    {
+        "id": "p_helpcontentitem_detail",
+        "lang": "3.点击此标识，可了解敌人的更多信息。"
+    },
+    {
+        "id": "p_helpcontentitem_passgoal",
+        "lang": "通关目标：可解锁下一关"
+    },
+    {
+        "id": "p_helpcontentitem_extralgoal",
+        "lang": "额外目标：可获得纯雨滴，并解锁厄险模式"
+    },
+    {
+        "id": "p_helpcontentitem_hardgoal",
+        "lang": "困难目标：敌方难度up，通关可获得纯雨滴"
+    },
+    {
+        "id": "p_helpcontentitem_dungeonmaptips",
+        "lang": "新的故事将在通过本章节所有关卡，且掌握足够的<#CC492F>行迹</color>后开启。"
+    },
+    {
+        "id": "p_fightguideitem_clothepower",
+        "lang": "1.此处可查看当前的<#CC492F>激情</color>。"
+    },
+    {
+        "id": "p_fightguideitem_skill",
+        "lang": "2.当蕴蓄足够多的激情时，即可召唤切片中对应的<#CC492F>仪式</color>。"
+    },
+    {
+        "id": "p_helpcontentitem_skillcost",
+        "lang": "1.通过此处的说明，可得知<#CC492F>激情</color>的获得方式。"
+    },
+    {
+        "id": "p_helpcontentitem_clotheffect",
+        "lang": "2.当前咒语效果显示于此。"
+    },
+    {
+        "id": "p_store_firstrecharge",
+        "lang": "首充双倍"
+    },
+    {
+        "id": "p_headsettip_txt1",
+        "lang": "请您佩戴耳机"
+    },
+    {
+        "id": "p_headsettip_txt2",
+        "lang": "“因为此刻正有细雨落下，或曾经落下”"
+    },
+    {
+        "id": "p_equipdecompose_decompose",
+        "lang": "解离"
+    },
+    {
+        "id": "p_equipdecompose_batch",
+        "lang": "紫色心相"
+    },
+    {
+        "id": "p_equipdecompose_decomposepreview",
+        "lang": "心相解离"
+    },
+    {
+        "id": "p_characterbackpack_decompose",
+        "lang": "解离"
+    },
+    {
+        "id": "p_characterswitch_getdate",
+        "lang": "获得日期"
+    },
+    {
+        "id": "p_charactertalentup_attributeDetail",
+        "lang": "属性详情"
+    },
+    {
+        "id": "p_charactertalentup_talentup",
+        "lang": "共鸣提升"
+    },
+    {
+        "id": "p_charactertalentlevelupview_talentup",
+        "lang": "提升共鸣"
+    },
+    {
+        "id": "p_charactertalentchess_role",
+        "lang": "共鸣"
+    },
+    {
+        "id": "p_charactertalentchess_attribute",
+        "lang": "属性"
+    },
+    {
+        "id": "p_charactertalenttip_reduce",
+        "lang": "共鸣衰减"
+    },
+    {
+        "id": "p_charactertalentup_getpreview",
+        "lang": "获得预览"
+    },
+    {
+        "id": "p_charactertalent_attrempty",
+        "lang": "载入思绪以获得属性"
+    },
+    {
+        "id": "p_equipinfo_attributeDetail",
+        "lang": "属性详情"
+    },
+    {
+        "id": "p_roombuildingfilterview_raredown",
+        "lang": "降序"
+    },
+    {
+        "id": "p_roombuildingfilterview_rareup",
+        "lang": "升序"
+    },
+    {
+        "id": "p_roombuildingitem_beplaced",
+        "lang": "已放置"
+    },
+    {
+        "id": "p_roomscreeningview_notplaced",
+        "lang": "未放置"
+    },
+    {
+        "id": "p_roombuildingfilterview_rare",
+        "lang": "稀有度："
+    },
+    {
+        "id": "p_roomscreeningview_placingstate",
+        "lang": "放置状态："
+    },
+    {
+        "id": "p_roomscreeningview_placingrange",
+        "lang": "占地范围："
+    },
+    {
+        "id": "p_roomstandbyview_edit",
+        "lang": "荒原编辑"
+    },
+    {
+        "id": "p_roomstandbyview_map",
+        "lang": "概览"
+    },
+    {
+        "id": "p_roomstandbyview_close",
+        "lang": "关闭"
+    },
+    {
+        "id": "p_roomstandbyview_screening",
+        "lang": "筛选"
+    },
+    {
+        "id": "p_roomstandbyview_place",
+        "lang": "建筑"
+    },
+    {
+        "id": "p_roomstandbyview_decoration",
+        "lang": "装饰"
+    },
+    {
+        "id": "p_roomstandbyview_production",
+        "lang": "功能"
+    },
+    {
+        "id": "p_equipstrengthen_breakmaterial",
+        "lang": "心相升维素材"
+    },
+    {
+        "id": "p_equiprefine_refinelevel",
+        "lang": "心相增幅"
+    },
+    {
+        "id": "p_equipstrengthen_break",
+        "lang": "升维"
+    },
+    {
+        "id": "p_equiprefine_refine",
+        "lang": "增幅"
+    },
+    {
+        "id": "p_equiprefine_samenameequip",
+        "lang": "同名心相"
+    },
+    {
+        "id": "p_equipskilllevelup_arcanum",
+        "lang": "神秘术"
+    },
+    {
+        "id": "p_dungoenweekwalkview_dreamtask",
+        "lang": "测验任务"
+    },
+    {
+        "id": "p_dungoenweekwalkview_exchangeshop",
+        "lang": "兑换商店"
+    },
+    {
+        "id": "p_dungeonweekwalkview_device",
+        "lang": "装置重启："
+    },
+    {
+        "id": "p_dungeonweekwalkview_task",
+        "lang": "任务刷新："
+    },
+    {
+        "id": "p_dungeonweekwalkview_difficulty",
+        "lang": "难度等级："
+    },
+    {
+        "id": "p_materialtip_hard",
+        "lang": "厄险"
+    },
+    {
+        "id": "p_commonheroitemnew_repeat",
+        "lang": "协助中"
+    },
+    {
+        "id": "p_commonheroitemnew_noteam",
+        "lang": "不可编队"
+    },
+    {
+        "id": "p_roomfunction_strengthen",
+        "lang": "提升"
+    },
+    {
+        "id": "p_roomfunction_back",
+        "lang": "返回生产"
+    },
+    {
+        "id": "p_roomfactory_totaltime",
+        "lang": "总时间"
+    },
+    {
+        "id": "p_roomfactory_emptytip",
+        "lang": "点击选择制作配方"
+    },
+    {
+        "id": "p_roomfactory_unlocktip",
+        "lang": "强化建筑后解锁"
+    },
+    {
+        "id": "p_roomfactoryrecipe_order",
+        "lang": "序列"
+    },
+    {
+        "id": "p_roomfactoryrecipe_consumetime",
+        "lang": "耗时"
+    },
+    {
+        "id": "p_roomfactoryrecipe_quality",
+        "lang": "品质"
+    },
+    {
+        "id": "p_roomexchange_findorder",
+        "lang": "寻找订单"
+    },
+    {
+        "id": "p_roomexchange_order",
+        "lang": "订单"
+    },
+    {
+        "id": "p_equipstrengthen_maxLevel",
+        "lang": "已印刻至满级"
+    },
+    {
+        "id": "p_equiprefine_maxLevel",
+        "lang": "已增幅至满级"
+    },
+    {
+        "id": "p_roomfactory_pause",
+        "lang": "暂停中"
+    },
+    {
+        "id": "p_roomfactory_rewardget",
+        "lang": "领取"
+    },
+    {
+        "id": "p_roomfactory_sure",
+        "lang": "确认"
+    },
+    {
+        "id": "p_roomfactory_cancel",
+        "lang": "取消"
+    },
+    {
+        "id": "p_roomcollect_rewardget",
+        "lang": "领取"
+    },
+    {
+        "id": "p_roomcollect_strengthenpreview",
+        "lang": "强化预览"
+    },
+    {
+        "id": "p_roomcollect_rolecollect",
+        "lang": "角色采集"
+    },
+    {
+        "id": "p_roomcollect_store",
+        "lang": "库存："
+    },
+    {
+        "id": "p_roomcollect_expspeed",
+        "lang": "经验速度："
+    },
+    {
+        "id": "p_roomcollect_gatherspeed",
+        "lang": "恩赐周期："
+    },
+    {
+        "id": "p_roomcollect_totaltime",
+        "lang": "总时间："
+    },
+    {
+        "id": "p_roomcombine_start",
+        "lang": "合成"
+    },
+    {
+        "id": "p_fightstat_fight",
+        "lang": "出战"
+    },
+    {
+        "id": "p_fightfailview_outofround",
+        "lang": "回合用尽"
+    },
+    {
+        "id": "p_fightfailview_fightfail",
+        "lang": "挑战失败"
+    },
+    {
+        "id": "p_roomtradeview_turnbackproduct",
+        "lang": "返回生产"
+    },
+    {
+        "id": "p_roomtradeitemdetail_strengthenprev",
+        "lang": "强化预览"
+    },
+    {
+        "id": "p_roomtradeitemdetail_nosetting",
+        "lang": "未设置"
+    },
+    {
+        "id": "p_weekwalkview_herogroup",
+        "lang": "阵容"
+    },
+    {
+        "id": "p_roomtradeview_trade",
+        "lang": "交易所"
+    },
+    {
+        "id": "p_roommachineview_machine",
+        "lang": "加工厂"
+    },
+    {
+        "id": "p_roomchangeview_change",
+        "lang": "合成厂"
+    },
+    {
+        "id": "p_roomgatherview_gather",
+        "lang": "采集厂"
+    },
+    {
+        "id": "p_roomformulaitem_lack",
+        "lang": "库存不足"
+    },
+    {
+        "id": "p_roombackblock_confirm",
+        "lang": "一键回收"
+    },
+    {
+        "id": "p_roombackblock_cancel",
+        "lang": "退出回收"
+    },
+    {
+        "id": "p_roombackblock_noselect",
+        "lang": "未选择地块"
+    },
+    {
+        "id": "p_roombackblock_tip",
+        "lang": "点击选择需要回收的地块，再点击取消选中"
+    },
+    {
+        "id": "p_room_blockpackage_quality",
+        "lang": "稀有度"
+    },
+    {
+        "id": "p_room_blockpackage_blocknumber",
+        "lang": "地块数量"
+    },
+    {
+        "id": "p_room_blockpackgae_detailed",
+        "lang": "详细列表"
+    },
+    {
+        "id": "p_room_blockpackeage_simple",
+        "lang": "简单列表"
+    },
+    {
+        "id": "p_roomtradeitem_rewardget",
+        "lang": "可领取"
+    },
+    {
+        "id": "p_weekwalkmapinteractiveitem_finishtask",
+        "lang": "完成"
+    },
+    {
+        "id": "p_weekwalkmapinteractiveitem_battle",
+        "lang": "进入挑战"
+    },
+    {
+        "id": "p_dungeonweekwalkview_challenge",
+        "lang": "<size=72>挑</size><space=0.2em><voffset=-0.1em>战"
+    },
+    {
+        "id": "p_dungeonmaplevel_fightcount",
+        "lang": "深度解析次数："
+    },
+    {
+        "id": "p_dungeonmaplevel_costcount",
+        "lang": "消耗次数："
+    },
+    {
+        "id": "p_charactertip_baseattribute",
+        "lang": "基础属性 "
+    },
+    {
+        "id": "p_roomgathertipview_remaintime",
+        "lang": "剩余时间:"
+    },
+    {
+        "id": "p_roomgathertipview_tips",
+        "lang": "是否使用逝水沙漏加速其时间流逝？"
+    },
+    {
+        "id": "p_roomexptree_eachcost",
+        "lang": "每次消耗："
+    },
+    {
+        "id": "p_roomexptree_totaltime",
+        "lang": "总时间:"
+    },
+    {
+        "id": "p_roomexptree_stopproduct",
+        "lang": "后停止生成"
+    },
+    {
+        "id": "p_handbookequip_classifyrank",
+        "lang": "分类筛选"
+    },
+    {
+        "id": "p_characterdataitemview_canunlock",
+        "lang": "可解锁"
+    },
+    {
+        "id": "p_dungeonmaplevelview_get",
+        "lang": "可获得："
+    },
+    {
+        "id": "p_dungeonelementrewardview_rewarddetail",
+        "lang": "奖励详情"
+    },
+    {
+        "id": "p_characterrankupresult_hp",
+        "lang": "生命"
+    },
+    {
+        "id": "p_characterrankupresult_atk",
+        "lang": "攻击"
+    },
+    {
+        "id": "p_characterrankupresult_def",
+        "lang": "现实防御"
+    },
+    {
+        "id": "p_characterrankupresult_mdef",
+        "lang": "精神防御"
+    },
+    {
+        "id": "p_characterrankupresult_technic",
+        "lang": "技巧"
+    },
+    {
+        "id": "p_summonpool_normalrolepool",
+        "lang": "常规角色池"
+    },
+    {
+        "id": "p_summonpool_normalequippool",
+        "lang": "心相普通池"
+    },
+    {
+        "id": "p_summonpool_roleuppool",
+        "lang": "角色UP池"
+    },
+    {
+        "id": "p_summonpool_timelimit",
+        "lang": "限时"
+    },
+    {
+        "id": "p_summonpool_convertstore",
+        "lang": "银行兑换"
+    },
+    {
+        "id": "p_summonpool_detail",
+        "lang": "详情"
+    },
+    {
+        "id": "p_summonpool_record",
+        "lang": "回顾"
+    },
+    {
+        "id": "p_summonpool_equip_record",
+        "lang": "回顾"
+    },
+    {
+        "id": "p_dungeonpuzzleanswerview_submit",
+        "lang": "提交"
+    },
+    {
+        "id": "p_summonpool_equipdetail",
+        "lang": "详情"
+    },
+    {
+        "id": "p_summonpool_probabilityup",
+        "lang": "以上获得概率提升！！！"
+    },
+    {
+        "id": "p_dungeonpuzzleanswerview_inputtip",
+        "lang": "点击输入文本"
+    },
+    {
+        "id": "p_dungeonreward_normaldrop",
+        "lang": "常规掉落"
+    },
+    {
+        "id": "p_equipskilllevelupview_skilladvance",
+        "lang": "成像"
+    },
+    {
+        "id": "p_equipskilllevelupview_skillbase",
+        "lang": "振幅"
+    },
+    {
+        "id": "p_fightview_reviewfight",
+        "lang": "行为复现中"
+    },
+    {
+        "id": "p_herogroupview_replayready",
+        "lang": "行为复现准备中，阵容不可更改…"
+    },
+    {
+        "id": "p_teachnotetopicitem_lock",
+        "lang": "未解锁"
+    },
+    {
+        "id": "p_teachnoterewarditem_finish",
+        "lang": "已领取"
+    },
+    {
+        "id": "p_teachnoteview_reward",
+        "lang": "奖励"
+    },
+    {
+        "id": "p_teachnoteview_curprogress",
+        "lang": "课题完成情况"
+    },
+    {
+        "id": "p_teachnoteview_getall",
+        "lang": "可领取"
+    },
+    {
+        "id": "p_dungeonequipguideview_look",
+        "lang": "前往查看"
+    },
+    {
+        "id": "p_dungeonmapinteractiveitem_win",
+        "lang": "完成"
+    },
+    {
+        "id": "p_dungeonmapinteractiveitem_finishtask",
+        "lang": "完成"
+    },
+    {
+        "id": "p_dungeonmapinteractiveitem_placeholder",
+        "lang": "点击输入文本"
+    },
+    {
+        "id": "p_weekwalkguideview_tip1",
+        "lang": "人工梦游<size=36><voffset=-4><space=7>解锁</size>"
+    },
+    {
+        "id": "p_weekwalkguideview_tip2",
+        "lang": "梦游装置已设置完毕，可随时沉入梦境"
+    },
+    {
+        "id": "p_playerclothguideview_tip1",
+        "lang": "最初的刻度<size=36><voffset=-4><space=7>解锁"
+    },
+    {
+        "id": "p_characterguidetalentview_tip1",
+        "lang": "思绪共鸣<size=36><voffset=-4><space=7>解锁</size>"
+    },
+    {
+        "id": "p_characterguidetalentview_tip2",
+        "lang": "对于某部分人来说，比起“共鸣”，\n他们更适合使用“觉察”。"
+    },
+    {
+        "id": "p_summonmainequip_one",
+        "lang": "造影一次"
+    },
+    {
+        "id": "p_summonmainequip_tentimes",
+        "lang": "造影十次"
+    },
+    {
+        "id": "p_weekwalktarotview_title",
+        "lang": "墨菲斯金属"
+    },
+    {
+        "id": "p_weekwalkbuffbindingview_subjects",
+        "lang": "受蔽者"
+    },
+    {
+        "id": "p_weekwalkbuffbindingview_beneficiary",
+        "lang": "蜕变者"
+    },
+    {
+        "id": "p_weekwalkbuffbindingview_effect",
+        "lang": "蜕变效果"
+    },
+    {
+        "id": "p_weekwalkbuffbindingview_cognitive",
+        "lang": "阻碍认知"
+    },
+    {
+        "id": "p_teachnoteview_lock",
+        "lang": "完成前置补习后解锁"
+    },
+    {
+        "id": "p_socialplayinfo_personalspace",
+        "lang": "个人空间"
+    },
+    {
+        "id": "p_socialplayinfo_addfriend",
+        "lang": "添加好友"
+    },
+    {
+        "id": "p_socialplayinfo_removefriend",
+        "lang": "删除好友"
+    },
+    {
+        "id": "p_socialplayinfo_visitroom",
+        "lang": "拜访荒原"
+    },
+    {
+        "id": "p_socialplayinfo_addblacklist",
+        "lang": "加入黑名单"
+    },
+    {
+        "id": "p_socialplayinfo_removeblacklist",
+        "lang": "移除黑名单"
+    },
+    {
+        "id": "p_socialplayinfo_informplayertxt",
+        "lang": "举报玩家"
+    },
+    {
+        "id": "p_teachnote_finishallcourses",
+        "lang": "完成全部补习即可获得奖励"
+    },
+    {
+        "id": "p_teachnoterewarditem_receive",
+        "lang": "可领取"
+    },
+    {
+        "id": "p_teachnoterewarditem_lock",
+        "lang": "未解锁"
+    },
+    {
+        "id": "p_teachnoteview_rewarddetailtitle",
+        "lang": "课题奖励"
+    },
+    {
+        "id": "p_activitynovicetask_rewardget",
+        "lang": "已领取"
+    },
+    {
+        "id": "p_commonheroitemnew_restrict",
+        "lang": "无法上阵"
+    },
+    {
+        "id": "p_commonheroitemnew_hurt",
+        "lang": "苏醒"
+    },
+    {
+        "id": "p_fightsuccview_coverconfirm",
+        "lang": "确定"
+    },
+    {
+        "id": "p_fightsuccview_covertip",
+        "lang": "检测到回合数更少的记忆\n是否覆盖当前记忆"
+    },
+    {
+        "id": "p_summonmainequipview_singlefree",
+        "lang": "首次免费"
+    },
+    {
+        "id": "p_charactertalentlevelupresult_maxnum",
+        "lang": "最大数量"
+    },
+    {
+        "id": "p_charactertalentlevelupresult_capacityup",
+        "lang": "容量提升"
+    },
+    {
+        "id": "p_dungeonequipguideview_tip",
+        "lang": "心相<size=36><voffset=-4><space=7>解锁</size>"
+    },
+    {
+        "id": "p_roomstrengthleft_placingrange",
+        "lang": "占地范围"
+    },
+    {
+        "id": "p_roomstrengthleft_resourcerequire",
+        "lang": "资源要求"
+    },
+    {
+        "id": "p_dungeoncumulativerewardpackview_tips",
+        "lang": "完成故事、厄险模式关卡及主线地图中的小径可获得行迹"
+    },
+    {
+        "id": "p_roomexptree_giftperiod",
+        "lang": "创造效率："
+    },
+    {
+        "id": "p_roomtaskui_need",
+        "lang": "[需求]"
+    },
+    {
+        "id": "p_character_tip_desc",
+        "lang": "包含角色和心相属性"
+    },
+    {
+        "id": "p_roomstrengthright_resourcerequire",
+        "lang": "繁荣需求"
+    },
+    {
+        "id": "p_roomstrengthright_occupate",
+        "lang": "环境区占用"
+    },
+    {
+        "id": "p_dungeonequipguideview_maxlevel",
+        "lang": "显示心相满级属性"
+    },
+    {
+        "id": "p_fightfailview_tip1",
+        "lang": "选择灵感克制的角色，可有效提升神秘术伤害"
+    },
+    {
+        "id": "p_fightfailview_tip2",
+        "lang": "升级角色、印刻心相，可获得更多属性提升"
+    },
+    {
+        "id": "p_roomopenguideview_tip1",
+        "lang": "不休荒原<size=36><voffset=-4><space=7>解锁"
+    },
+    {
+        "id": "p_roomopenguideview_tip2",
+        "lang": "它与世隔绝，静候新的足迹"
+    },
+    {
+        "id": "p_equipteamshowitem_skilladvance",
+        "lang": "成像"
+    },
+    {
+        "id": "p_helpcontentitem_1_1",
+        "lang": "1.角色资料入口"
+    },
+    {
+        "id": "p_helpcontentitem_1_2",
+        "lang": "2.这里是角色信任度显示，去和角色互动提升吧"
+    },
+    {
+        "id": "p_helpcontentitem_1_3",
+        "lang": "3.角色定位标签"
+    },
+    {
+        "id": "p_helpcontentitem_1_4",
+        "lang": "4.角色属性显示，点击展开更多高级属性"
+    },
+    {
+        "id": "p_helpcontentitem_2_1",
+        "lang": "1.提高角色对战能力"
+    },
+    {
+        "id": "p_helpcontentitem_2_2",
+        "lang": "2.使角色进入全新的视域，突破提升的界限"
+    },
+    {
+        "id": "p_helpcontentitem_2_3",
+        "lang": "3.洞悉后唤起的传承，点击可展开详细说明"
+    },
+    {
+        "id": "p_helpcontentitem_2_4",
+        "lang": "4.角色所掌握的神秘术，点击可展开详细说明"
+    },
+    {
+        "id": "p_helpcontentitem_2_5",
+        "lang": "5.提高角色的能力"
+    },
+    {
+        "id": "p_helpcontentitem_3_1",
+        "lang": "1.不同的角色将会面临不同的洞悉深度"
+    },
+    {
+        "id": "p_helpcontentitem_3_2",
+        "lang": "2.洞悉角色后，角色将迎来提升，并解锁新的<color=#ff906a>传承技能</color>"
+    },
+    {
+        "id": "p_helpcontentitem_3_3",
+        "lang": "3.4   及以上角色洞悉2可解锁<color=#ff906a>本色形态</color>"
+    },
+    {
+        "id": "p_helpcontentitem_3_4",
+        "lang": "6   与5   角色可进行3次洞悉"
+    },
+    {
+        "id": "p_helpcontentitem_3_5",
+        "lang": "4   及以下角色可进行2次洞悉"
+    },
+    {
+        "id": "p_helpcontentitem_4_1",
+        "lang": "1.由此查看当前湖中可征集者<color=#ff906a>属性</color>"
+    },
+    {
+        "id": "p_helpcontentitem_4_2",
+        "lang": "2.由此查看当前湖中可征集者信息"
+    },
+    {
+        "id": "p_helpcontentitem_15_1",
+        "lang": "1.所有目标完成后，将开启行为复现功能"
+    },
+    {
+        "id": "p_helpcontentitem_15_2",
+        "lang": "2.行为复现模式中，将使用上一次通关的阵容进行复现战斗！"
+    },
+    {
+        "id": "p_helpcontentitem_16_1",
+        "lang": "行为复现将重复上次战斗的指示，中途无法再进行调整"
+    },
+    {
+        "id": "p_helpcontentitem_20_1",
+        "lang": "1.在故事中获得2   后将能前行至厄险处"
+    },
+    {
+        "id": "p_helpcontentitem_20_2",
+        "lang": "2.战斗将更为艰难，但回报亦有所增长"
+    },
+    {
+        "id": "p_helpcontentitem_21_1",
+        "lang": "1.每日有<color=#ff906a>两次“深度解析次数”</color>，行动不消耗活性，且所获将大幅增加"
+    },
+    {
+        "id": "p_helpcontentitem_21_2",
+        "lang": "2.完成解析后可获得<color=#ff906a>心相</color>，以及一些闪烁的念头"
+    },
+    {
+        "id": "p_helpcontentitem_22_1",
+        "lang": "每段思绪都有独特的属性"
+    },
+    {
+        "id": "p_helpcontentitem_22_2",
+        "lang": "将思绪嵌入脑内，可获得相应的提升"
+    },
+    {
+        "id": "p_helpcontentitem_23_1",
+        "lang": "可在脑内整理思绪片段"
+    },
+    {
+        "id": "p_helpcontentitem_23_2",
+        "lang": "点击删除将清空所有思绪"
+    },
+    {
+        "id": "p_helpcontentitem_23_3",
+        "lang": "点击进行旋转"
+    },
+    {
+        "id": "p_helpcontentitem_23_4",
+        "lang": "拖出即可取消嵌入"
+    },
+    {
+        "id": "p_helpcontentitem_24_1",
+        "lang": "1.扩展脑内容量"
+    },
+    {
+        "id": "p_helpcontentitem_24_2",
+        "lang": "2.增强思绪"
+    },
+    {
+        "id": "p_helpcontentitem_24_3",
+        "lang": "3.获得新的思绪片段"
+    },
+    {
+        "id": "p_helpcontentitem_24_4",
+        "lang": "提升共鸣可深化思维"
+    },
+    {
+        "id": "p_helpcontentitem_25_1",
+        "lang": "1.每周仅有一次检验机会 ，请仔细确认梦游装置档位"
+    },
+    {
+        "id": "p_helpcontentitem_25_2",
+        "lang": "2.通过梦境检验，将获取应有的酬劳"
+    },
+    {
+        "id": "p_helpcontentitem_26_1",
+        "lang": "1.梦境共有三层"
+    },
+    {
+        "id": "p_helpcontentitem_26_2",
+        "lang": "2.探索梦境的各处角落，获取酬劳并前往下一层"
+    },
+    {
+        "id": "p_helpcontentitem_26_3",
+        "lang": "3.每层均可选择一种墨菲斯金属，以辅助进行神秘学能力检测。请谨慎面对挑战"
+    },
+    {
+        "id": "p_helpcontentitem_27_1",
+        "lang": "1.可查看当前推荐阵容"
+    },
+    {
+        "id": "p_helpcontentitem_27_2",
+        "lang": "2.目标星级对应的内容"
+    },
+    {
+        "id": "p_helpcontentitem_27_3",
+        "lang": "3.此处显示挑战详情"
+    },
+    {
+        "id": "p_helpcontentitem_27_4",
+        "lang": "点击放大镜可查看详细信息"
+    },
+    {
+        "id": "p_helpcontentitem_28_1",
+        "lang": "1.目标星级对应的内容"
+    },
+    {
+        "id": "p_helpcontentitem_28_2",
+        "lang": "2.厄险模式挑战难度更高"
+    },
+    {
+        "id": "p_helpcontentitem_29_1",
+        "lang": "1.通过此处的说明，可得知激情的获得方式"
+    },
+    {
+        "id": "p_helpcontentitem_29_2",
+        "lang": "2.当前咒语效果显示于此"
+    },
+    {
+        "id": "p_helpcontentitem_32_1",
+        "lang": "每日两次深度解析<color=#ff906a>不消耗活性</color>，且将获得<color=#ff906a>额外</color>的馈赠"
+    },
+    {
+        "id": "p_helpcontentitem_jiaoxue_1",
+        "lang": "1.此处代表教学课题，需收集元件或完成前置课题以解锁新课题"
+    },
+    {
+        "id": "p_helpcontentitem_jiaoxue_2",
+        "lang": "2.此处代表教学课程，一个课题下有多个课程，需按顺序完成"
+    },
+    {
+        "id": "p_helpcontentitem_jiaoxue2_1",
+        "lang": "1.完成教学课题后，可前往此处领取奖励"
+    },
+    {
+        "id": "p_helpcontentitem_jiaoxue2_2",
+        "lang": "2.全部补习完成可领取教学笔记的最终奖励！"
+    },
+    {
+        "id": "p_helpcontentitem_139_1",
+        "lang": "同阶位的相同咒语邻接时将自动<color=#f08d6b>融合升阶</color>，\n高阶咒语具有更出色的效果"
+    },
+    {
+        "id": "p_helpcontentitem_140_1",
+        "lang": "释放神秘术的同时，促使其他咒语<color=#f08d6b>融合</color>升阶，此为收益极高的战斗策略"
+    },
+    {
+        "id": "p_helpcontentitem_141_1",
+        "lang": "有时，可通过<color=#f08d6b>移动咒语</color>触发多次<color=#f08d6b>融合</color>升阶，以酝酿更多高阶咒语"
+    },
+    {
+        "id": "p_helpcontentitem_142_1",
+        "lang": "<color=#f08d6b>锁定</color>克制目标后咒语会附带<color=#f08d6b>【克制】</color>标识，对敌人释放<color=#f08d6b>克制</color>咒语能够事半功倍"
+    },
+    {
+        "id": "p_helpcontentitem_143_1",
+        "lang": "需优先解决即将<color=#f08d6b>行动多次</color>的敌人"
+    },
+    {
+        "id": "p_helpcontentitem_143_2",
+        "lang": "表示敌人已被<color=#f08d6b>锁定</color>，当前释放的所有神秘术均会以其为目标"
+    },
+    {
+        "id": "p_helpcontentitem_144_1",
+        "lang": "需注意：本场战斗中的敌人会免疫特定类型的伤害"
+    },
+    {
+        "id": "p_helpcontentitem_144_2",
+        "lang": "<color=#f08d6b>[隐蔽]:</color>  闪避非至终的仪式的<color=#f08d6b>现实创伤攻击</color>"
+    },
+    {
+        "id": "p_helpcontentitem_144_3",
+        "lang": "<color=#f08d6b>[坚定]:</color>  闪避非至终的仪式的<color=#f08d6b>精神创伤攻击</color>"
+    },
+    {
+        "id": "p_helpcontentitem_145_1",
+        "lang": "敌人即将释放多次攻击型神秘术。请迅速<color=#f08d6b>缴械</color>该敌人，阻止其对我方造成伤害"
+    },
+    {
+        "id": "p_helpcontentitem_146_1",
+        "lang": "敌人即将释放多次辅助型神秘术。请迅速<color=#f08d6b>缄默</color>该敌人，阻止其行动"
+    },
+    {
+        "id": "p_helpcontentitem_147_1",
+        "lang": "敌人正在释放至终仪式，需<color=#e99b56>封印</color>该敌人，阻止其对我方造成伤害"
+    },
+    {
+        "id": "p_helpcontentitem_148_1",
+        "lang": "削减生命较多的敌人的<color=#e99b56>激情</color>，阻止其释放<color=#e99b56>至终仪式</color>"
+    },
+    {
+        "id": "p_helpcontentitem_148_2",
+        "lang": "优先<color=#e99b56>击败</color>未受控制且即将行动的敌人，阻止其对我方造成伤害"
+    },
+    {
+        "id": "p_helpcontentitem_149_1",
+        "lang": "受<color=#f08d6b>石化</color>影响，角色无法进行<color=#f08d6b>任何行动</color>\n但受到以下类型伤害将解除<color=#f08d6b>石化</color>"
+    },
+    {
+        "id": "p_helpcontentitem_149_2",
+        "lang": "现实创伤"
+    },
+    {
+        "id": "p_helpcontentitem_150_1",
+        "lang": "将酝酿的<color=#f08d6b>“有求百应”</color>与十四行诗的咒语融合，使咒语<color=#f08d6b>阶次提升</color>并获得缴械敌人的效果"
+    },
+    {
+        "id": "p_helpcontentitem_151_1",
+        "lang": "此处显示角色的<color=#f08d6b>激情</color>点数"
+    },
+    {
+        "id": "p_helpcontentitem_151_2",
+        "lang": "<color=#ff906a>使用咒语</color>，<color=#ff906a>移动咒语</color>，<color=#ff906a>提升咒语阶次</color>，都将为角色积攒激情!"
+    },
+    {
+        "id": "p_helpcontentitem_151_3",
+        "lang": "当角色激情满溢，下次生成咒语时可获得<color=#ff906a>至终的仪式</color>的咒语！"
+    },
+    {
+        "id": "p_helpcontentitem_152_1",
+        "lang": "部分神秘术具有<color=#f08d6b>特殊效果</color>，需满足一定条件才\n可生效，制胜关键在于运用策略，触发效果"
+    },
+    {
+        "id": "p_helpcontentitem_152_2",
+        "lang": "单体攻击，造成180%精神创伤；<color=#f08d6b>若自身当前生命值低于50%，则额外造成60%精神创伤</color>"
+    },
+    {
+        "id": "p_helpcontentitem_152_3",
+        "lang": "予你风暴！"
+    },
+    {
+        "id": "p_helpcontentitem_161_1",
+        "lang": "当前酝酿的咒语无法击退敌人，需要借助<color=#f08d6b>【律的调校】</color>，重新酝酿咒语"
+    },
+    {
+        "id": "p_helpcontentitem_162_1",
+        "lang": "敌人已十分虚弱，只需<color=#f08d6b>一次攻击</color>即可击退"
+    },
+    {
+        "id": "p_helpcontentitem_204_1",
+        "lang": "<color=#f08d6b>群体攻击</color>的神秘术，其<color=#f08d6b>第二目标</color>将从场上剩余敌人中随机选择"
+    },
+    {
+        "id": "p_helpcontentitem_204_2",
+        "lang": "<color=#f08d6b>群体攻击</color>，对2名敌人造成135% 精神创伤；若自身当前生命值低于50%，则额外造成45%精神创伤"
+    },
+    {
+        "id": "p_helpcontentitem_204_3",
+        "lang": "可怜虫"
+    },
+    {
+        "id": "p_helpcontentitem_301_1",
+        "lang": "4    及以上角色洞悉2可解锁<color=#ff906a>本色形态</color>"
+    },
+    {
+        "id": "p_helpcontentitem_14101_1",
+        "lang": "部分咒语升阶后将附带额外效果，可用于<color=#ff906a>控制</color>敌人"
+    },
+    {
+        "id": "p_helpcontentitem_14101_2",
+        "lang": "部分升阶后的咒语伤害会得到提升，可用于<color=#ff906a>击退</color>敌人"
+    },
+    {
+        "id": "p_helpcontentitem_14201_1",
+        "lang": "<color=#f08d6b>锁定目标</color>后释放的咒语将攻击被锁定目标。已释放的咒语则不受影响"
+    },
+    {
+        "id": "p_helpcontentitem_14201_2",
+        "lang": "根据<color=#f08d6b>克制</color>关系，切换目标释放克制咒语，是取得胜利的关键"
+    },
+    {
+        "id": "p_helpcontentitem_14401_1",
+        "lang": "对于<color=#f08d6b>隐蔽</color>状态下的敌人，需用能造成<color=#f08d6b>精神伤害</color>的神秘术对抗"
+    },
+    {
+        "id": "p_helpcontentitem_14401_2",
+        "lang": "对于<color=#f08d6b>坚定</color>状态下的敌人，需用能造成<color=#f08d6b>现实伤害</color>的神秘术对抗"
+    },
+    {
+        "id": "p_helpcontentitem_14501_1",
+        "lang": "<color=#f08d6b>缴械</color>生命较多的敌人，通过控制效果延缓攻势"
+    },
+    {
+        "id": "p_helpcontentitem_14501_2",
+        "lang": "优先<color=#f08d6b>击败</color>未受控制且即将行动的敌人，阻止其对我方造成伤害"
+    },
+    {
+        "id": "p_helpcontentitem_14601_1",
+        "lang": "<color=#f08d6b>缄默</color>生命较多的敌人，通过控制效果延缓攻势"
+    },
+    {
+        "id": "p_helpcontentitem_14601_2",
+        "lang": "优先<color=#f08d6b>击败</color>未受控制且即将行动的敌人，阻止其对我方造成伤害"
+    },
+    {
+        "id": "p_helpcontentitem_14701_1",
+        "lang": "<color=#e99b56>封印</color>即将释放至终仪式的敌人"
+    },
+    {
+        "id": "p_helpcontentitem_14701_2",
+        "lang": "优先<color=#e99b56>击败</color>未受控制且即将行动的敌人，阻止其对我方造成伤害"
+    },
+    {
+        "id": "p_helpcontentitem_15101_1",
+        "lang": "角色<color=#ff906a>激情将满</color>时，优先使其释放神秘术，为其<color=#ff906a>蕴蓄至终仪式</color>"
+    },
+    {
+        "id": "p_helpcontentitem_15201_1",
+        "lang": "部分咒语具有<color=#f08d6b>特殊效果</color>，需满足一定条件才可以生效，制胜关键在于运用策略，触发效果"
+    },
+    {
+        "id": "p_helpcontentitem_15201_2",
+        "lang": "予你风暴！"
+    },
+    {
+        "id": "p_helpcontentitem_15201_3",
+        "lang": "单体攻击，造成180%精神创伤；<color=#ff906a>若自身当前生命值低于50%，则额外造成60%精神创伤</color>"
+    },
+    {
+        "id": "p_helpcontentitem_15202_1",
+        "lang": "在适当的时机释放<color=#f08d6b>治疗咒语</color>，以触发其他咒语的特殊效果"
+    },
+    {
+        "id": "p_helpcontentitem_15202_2",
+        "lang": "出牌次序："
+    },
+    {
+        "id": "p_helpcontentitem_15203_1",
+        "lang": "冬的咒语可为我方提供<color=#f08d6b>属性提升</color>，从而触发夏利咒语的特殊效果，以击退敌人"
+    },
+    {
+        "id": "p_helpcontentitem_15203_2",
+        "lang": "出牌次序："
+    },
+    {
+        "id": "p_helpcontentitem_16101_1",
+        "lang": "移动咒语<color=#f08d6b>提升其阶次</color>，酝酿并释放神秘术<color=#f08d6b>缴械</color>敌人，通过控制效果延缓敌人攻势"
+    },
+    {
+        "id": "p_helpcontentitem_16201_1",
+        "lang": "击退敌人后，可利用<color=#f08d6b>多余的行动次数</color>，释放<color=#f08d6b>治疗、增益</color>神秘术，整备队伍以应对下一轮攻势"
+    },
+    {
+        "id": "p_helpcontentitem_16801_1",
+        "lang": "当前建筑占用的<color=#f08d6b>繁荣度</color>"
+    },
+    {
+        "id": "p_helpcontentitem_16801_2",
+        "lang": "当前建筑所在环境区的繁荣度<color=#f08d6b>占用情况</color>"
+    },
+    {
+        "id": "p_helpcontentitem_16801_3",
+        "lang": "当前<color=#f08d6b>柯恩宝贝</color>的使用情况"
+    },
+    {
+        "id": "p_helpcontentitem_16801_4",
+        "lang": "使用<color=#f08d6b>柯恩宝贝</color>进行提升"
+    },
+    {
+        "id": "p_helpcontentitem_16401_1",
+        "lang": "孤屿"
+    },
+    {
+        "id": "p_helpcontentitem_16401_2",
+        "lang": "荒原由多座<color=#cc492f>六边形孤屿</color>拼接而成，每座孤屿都可在拼接时<color=#cc492f>自由旋转</color>，调整方向"
+    },
+    {
+        "id": "p_helpcontentitem_16402_1",
+        "lang": "环境和环境区块"
+    },
+    {
+        "id": "p_helpcontentitem_16402_2",
+        "lang": "孤屿由6片边界区与孤屿中心，共7片区域组成"
+    },
+    {
+        "id": "p_helpcontentitem_16402_3",
+        "lang": "雕塑"
+    },
+    {
+        "id": "p_helpcontentitem_16402_4",
+        "lang": "植物"
+    },
+    {
+        "id": "p_helpcontentitem_16402_5",
+        "lang": "废墟"
+    },
+    {
+        "id": "p_helpcontentitem_16402_6",
+        "lang": "河流"
+    },
+    {
+        "id": "p_helpcontentitem_16402_7",
+        "lang": "无环境"
+    },
+    {
+        "id": "p_helpcontentitem_16402_8",
+        "lang": "每片区域都有可能出现四种自然环境中的一种，每种环境提供对应的<color=#cc492f>1点繁荣度</color>"
+    },
+    {
+        "id": "p_helpcontentitem_16402_9",
+        "lang": "单座孤屿上不相邻的同类\n边界区需通过孤屿中心相连"
+    },
+    {
+        "id": "p_helpcontentitem_16403_1",
+        "lang": "环境区块的连接"
+    },
+    {
+        "id": "p_helpcontentitem_16403_2",
+        "lang": "相接壤的同类环境区块互相连接，构成同类型环境区\n每块环境能够提供基础繁荣度，多块同类环境连成的环境区能够提供<color=#cc492f>额外的繁荣度</color>\n单座孤屿上不相邻的<color=#cc492f>同类边界区</color>可借由孤屿中心相连"
+    },
+    {
+        "id": "p_helpcontentitem_16901_1",
+        "lang": "繁荣度任务的分类"
+    },
+    {
+        "id": "p_helpcontentitem_16901_2",
+        "lang": "拓展任务"
+    },
+    {
+        "id": "p_helpcontentitem_16901_3",
+        "lang": "需使环境群落的繁荣度超出任务要求值，以完成任务"
+    },
+    {
+        "id": "p_helpcontentitem_16901_4",
+        "lang": "<color=#cc492f>需求任务</color>"
+    },
+    {
+        "id": "p_helpcontentitem_16901_5",
+        "lang": "需求任务为带有标记的<color=#cc492f>特殊任务</color>\n需使环境群落的繁荣度<color=#cc492f>恰好符合任务要求</color>\n若放置孤屿使繁荣度超出任务要求，任务将失败"
+    },
+    {
+        "id": "p_helpcontentitem_17001_1",
+        "lang": "绿洲"
+    },
+    {
+        "id": "p_helpcontentitem_17001_2",
+        "lang": "荒原中存在着漂浮的绿洲，其内蕴丰富"
+    },
+    {
+        "id": "p_helpcontentitem_17001_3",
+        "lang": "令<color=#cc492f>绿洲</color>与<color=#cc492f>荒原</color>接壤，增长生机以凝聚孤屿\n与绿洲接壤的环境群落繁荣度将提升为<color=#cc492f>2倍</color>\n已受绿洲滋养的孤屿将不会再次获得提升"
+    },
+    {
+        "id": "p_helpcontentitem_18101_1",
+        "lang": "建筑的放置条件"
+    },
+    {
+        "id": "p_helpcontentitem_18101_2",
+        "lang": "该建筑的<color=#cc492f>建筑范围</color>，此处代表占据五座孤屿"
+    },
+    {
+        "id": "p_helpcontentitem_18101_3",
+        "lang": "该建筑为荒原提供的<color=#cc492f>活力</color>"
+    },
+    {
+        "id": "p_helpcontentitem_18101_4",
+        "lang": "该建筑所占用的环境群落<color=#cc492f>繁荣度</color>，收获车库\n只能放置于植物中，且占用10点植物<color=#cc492f>繁荣度</color>"
+    },
+    {
+        "id": "p_helpcontentitem_18102_1",
+        "lang": "建筑预放置后，所有<color=#f08d6b>满足类型</color>需求的环境\n群落将于上方显示其<color=#f08d6b>繁荣度</color>"
+    },
+    {
+        "id": "p_helpcontentitem_18102_2",
+        "lang": "<color=#f08d6b>繁荣度足够</color>时，可供放置建筑的环境群落将<color=#f08d6b>高亮显示</color>"
+    },
+    {
+        "id": "p_helpcontentitem_18103_1",
+        "lang": "收获车库为荒原提供了10点活力，提高活力将<color=#f08d6b>加成</color>荒原中所有环境群落的<color=#f08d6b>繁荣度</color>"
+    },
+    {
+        "id": "p_helpcontentitem_18104_1",
+        "lang": "仓库中产物的<color=#f08d6b>数量及其上限</color>"
+    },
+    {
+        "id": "p_helpcontentitem_18104_2",
+        "lang": "当前建筑占用<color=#f08d6b>占地信息</color>"
+    },
+    {
+        "id": "p_helpcontentitem_18104_3",
+        "lang": "当前建筑的<color=#f08d6b>库存</color>使用情况"
+    },
+    {
+        "id": "p_helpcontentitem_18104_4",
+        "lang": "当前建筑的<color=#f08d6b>采获时序</color>"
+    },
+    {
+        "id": "p_helpcontentitem_18104_5",
+        "lang": "库存中的产物可在此<color=#f08d6b>领取至仓库</color>，它们另有用处"
+    },
+    {
+        "id": "p_helpcontentitem_18401_1",
+        "lang": "行动次数盈余时，可<color=#f08d6b>移动对应角色的咒语</color>获取激情，帮助其蕴蓄<color=#f08d6b>至终的仪式</color>"
+    },
+    {
+        "id": "p_helpcontentitem_20401_1",
+        "lang": "优先使用<color=#f08d6b>单体攻击</color>的神秘术，击退一名敌人，以确保能稳定选取<color=#f08d6b>群体攻击</color>神秘术的第二目标"
+    },
+    {
+        "id": "p_helpcontentitem_20401_2",
+        "lang": "出牌次序："
+    },
+    {
+        "id": "p_helpcontentitem_20402_1",
+        "lang": "继续释放<color=#f08d6b>单体攻击</color>的神秘术，击退虚弱的敌人，以确保能稳定选取<color=#f08d6b>群体攻击</color>神秘术的第二目标"
+    },
+    {
+        "id": "p_helpcontentitem_20402_2",
+        "lang": "出牌次序："
+    },
+    {
+        "id": "p_helpcontentitem_40101_1",
+        "lang": "资源区块的链接"
+    },
+    {
+        "id": "p_helpcontentitem_40101_2",
+        "lang": "同孤屿上的相同资源区块，和相邻的相同资源区块，均视为连接关系\n连接起来的资源区块构成一个该资源的资源区"
+    },
+    {
+        "id": "p_helpcontentitem_40102_1",
+        "lang": "完成荒原任务，可获得荒原<color=#f08d6b>装饰建筑</color>、<color=#f08d6b>孤屿组合</color>与其他丰富馈赠"
+    },
+    {
+        "id": "p_helpcontentitem_40103_1",
+        "lang": "活力"
+    },
+    {
+        "id": "p_helpcontentitem_40103_2",
+        "lang": "在荒原中摆放孤屿和建筑，可提升荒原<color=#e99b56>活力</color>，增加荒原中<color=#e99b56>微尘</color>与<color=#e99b56>利齿子儿</color>的产出"
+    },
+    {
+        "id": "p_helpcontentitem_40201_1",
+        "lang": "建筑的放置条件"
+    },
+    {
+        "id": "p_helpcontentitem_40201_2",
+        "lang": "该建筑的建筑范围，\n此处代表占据1座孤屿"
+    },
+    {
+        "id": "p_helpcontentitem_40201_3",
+        "lang": "建筑的放置条件"
+    },
+    {
+        "id": "p_helpcontentitem_40201_4",
+        "lang": "该建筑为荒原提供的活力值"
+    },
+    {
+        "id": "p_helpcontentitem_40202_1",
+        "lang": "1.选择多座孤屿进行回收"
+    },
+    {
+        "id": "p_helpcontentitem_40202_2",
+        "lang": "2.令荒原回归最初的状态"
+    },
+    {
+        "id": "p_helpcontentitem_40202_3",
+        "lang": "3.可查看与选择当前拥有的孤屿组合"
+    },
+    {
+        "id": "p_helpcontentitem_40203_1",
+        "lang": "1.古厅规模与荒原基本信息"
+    },
+    {
+        "id": "p_helpcontentitem_40203_2",
+        "lang": "2.扩建古厅规模"
+    },
+    {
+        "id": "p_helpcontentitem_40203_3",
+        "lang": "3.如愿甘泉可<color=#ff906a>合成</color>材料"
+    },
+    {
+        "id": "p_helpcontentitem_40203_4",
+        "lang": "4.微尘钟楼与利齿市集可生产<color=#ff906a>基础材料</color>"
+    },
+    {
+        "id": "p_helpcontentitem_40401_1",
+        "lang": "1.当前产出序列的生产信息"
+    },
+    {
+        "id": "p_helpcontentitem_40401_2",
+        "lang": "2.收获库存中的产物"
+    },
+    {
+        "id": "p_helpcontentitem_40402_1",
+        "lang": "可在古厅处快速领取产出的材料"
+    },
+    {
+        "id": "p_helpcontentitem_40601_1",
+        "lang": "古厅升级后，荒原可连接的孤屿上限增加"
+    },
+    {
+        "id": "p_helpcontentitem_40602_1",
+        "lang": "古厅升级后，将解锁新的荒原任务"
+    },
+    {
+        "id": "p_helpcontentitem_40701_1",
+        "lang": "1.点击可更换合成道具"
+    },
+    {
+        "id": "p_helpcontentitem_40701_2",
+        "lang": "2.合成需求素材"
+    },
+    {
+        "id": "p_helpcontentitem_40701_3",
+        "lang": "3.合成数量"
+    },
+    {
+        "id": "p_helpcontentitem_40702_1",
+        "lang": "如愿甘泉"
+    },
+    {
+        "id": "p_helpcontentitem_40702_2",
+        "lang": "WISHING SPPING"
+    },
+    {
+        "id": "p_helpcontentitem_40702_3",
+        "lang": "可在此进行造形，合成多种<color=#ff906a>养成材料</color>"
+    },
+    {
+        "id": "p_helpcontentitem_40703_1",
+        "lang": "消耗已有材料，转化为所需的事物"
+    },
+    {
+        "id": "p_helpcontentitem_40704_1",
+        "lang": "提升如愿甘泉的等级，以解锁更多配方"
+    },
+    {
+        "id": "p_helpcontentitem_50101_1",
+        "lang": "1.完成测验任务可获取丰厚酬劳"
+    },
+    {
+        "id": "p_helpcontentitem_50101_2",
+        "lang": "2.使用梦境流体，在此交换珍贵之物"
+    },
+    {
+        "id": "p_helpcontentitem_50102_1",
+        "lang": "测验任务将<color=#ff906a>每周更新</color>，并<color=#ff906a>保留进度</color>，请及时获取酬劳"
+    },
+    {
+        "id": "p_helpcontentitem_50103_1",
+        "lang": "1.点击事物进行交互"
+    },
+    {
+        "id": "p_helpcontentitem_50103_2",
+        "lang": "2.点此可重置梦境"
+    },
+    {
+        "id": "p_helpcontentitem_50103_3",
+        "lang": "3.点此可查看测验酬劳"
+    },
+    {
+        "id": "p_helpcontentitem_50103_4",
+        "lang": "4.点此可查看关卡详情"
+    },
+    {
+        "id": "p_helpcontentitem_50104_1",
+        "lang": "人工梦游玩法说明"
+    },
+    {
+        "id": "p_helpcontentitem_50104_2",
+        "lang": "梦游是对自我的审视与检验，意味着极大的挑战，参与挑战可获得<color=#ff906a>纯雨滴</color>与<color=#ff906a>共鸣材料</color>酬劳"
+    },
+    {
+        "id": "p_helpcontentitem_50105_1",
+        "lang": "人工梦游玩法说明"
+    },
+    {
+        "id": "p_helpcontentitem_50105_2",
+        "lang": "1.<indent=6.3%>梦游由多个<color=#ff906a>梦境</color>组成，每个梦都叙说着一段故事"
+    },
+    {
+        "id": "p_helpcontentitem_50105_3",
+        "lang": "2.步入故事，参与挑战，可<color=#ff906a>获得星星</color>"
+    },
+    {
+        "id": "p_helpcontentitem_50105_4",
+        "lang": "点击进入梦境"
+    },
+    {
+        "id": "p_helpcontentitem_50106_1",
+        "lang": "人工梦游玩法说明"
+    },
+    {
+        "id": "p_helpcontentitem_50106_2",
+        "lang": "3.根据获得的<color=#ff906a>总星数</color>，可获取梦境长廊<color=#ff906a>酬劳</color>"
+    },
+    {
+        "id": "p_helpcontentitem_50107_1",
+        "lang": "人工梦游玩法说明"
+    },
+    {
+        "id": "p_helpcontentitem_50107_2",
+        "lang": "4.<indent=2.4%>根据获得的<color=#ff906a>总星数</color>评定酬劳。通过的梦境挑战越多，所获的酬劳越丰厚。<color=#ff906a>每周</color>都有新的酬劳可获取，并且酬劳进度不会重置。"
+    },
+    {
+        "id": "p_helpcontentitem_50108_1",
+        "lang": "选择想要重置到的梦境片段"
+    },
+    {
+        "id": "p_helpcontentitem_50108_2",
+        "lang": "1.经重置后，当前<#ff906a>所选及以后</color>的片段将变为未完成状态"
+    },
+    {
+        "id": "p_helpcontentitem_50108_3",
+        "lang": "2.当前片段及以后已获得的星数将被<#ff906a>重置</color>"
+    },
+    {
+        "id": "p_helpcontentitem_50109_1",
+        "lang": "梦境重置后，战前已苏醒的角色仍将保持苏醒状态"
+    },
+    {
+        "id": "p_helpcontentitem_50109_2",
+        "lang": "苏醒的角色本轮无法参与行动"
+    },
+    {
+        "id": "p_helpcontentitem_50110_1",
+        "lang": "人工梦游玩法说明"
+    },
+    {
+        "id": "p_helpcontentitem_50110_2",
+        "lang": "基础规则"
+    },
+    {
+        "id": "p_helpcontentitem_50110_3",
+        "lang": "1.人工梦游由<#ff906a>浅眠域</color>和<#ff906a>深眠域</color>构成，每个眠域包含多个梦境；\n2.通过探索人工梦游中的梦境，获得星数，根据总星数可在<#ff906a>测验任务</color>中获取丰厚的酬劳；\n3.测验任务的进度将于<#ff906a>每周</color>重置，但不会重置总星数。"
+    },
+    {
+        "id": "p_helpcontentitem_50110_4",
+        "lang": "浅眠域"
+    },
+    {
+        "id": "p_helpcontentitem_50110_5",
+        "lang": "1.在浅眠域中，需要完成每个梦境的探索，才可开启下一场梦游；\n2.完成梦境挑战后，可领取<#ff906a>梦境长廊</color>的酬劳。浅眠域的梦境长廊酬劳<#ff906a>不会重置</color>。"
+    },
+    {
+        "id": "p_helpcontentitem_50110_6",
+        "lang": "深眠域"
+    },
+    {
+        "id": "p_helpcontentitem_50110_7",
+        "lang": "1.深眠域在活动时间开启。深眠域开启后会周期刷新梦境，刷新时间为每月<#ff906a>1日</color>与<#ff906a>16日</color>的<#ff906a>凌晨5时（UTC+8）</color>；\n2.完成梦境挑战后，可领取<#ff906a>深眠试验</color>的酬劳。深眠域的深眠试验酬劳，会随周期刷新而重置；\n3.在同一周期下，深眠域梦境将受同一关卡规则影响。"
+    },
+    {
+        "id": "p_helpcontentitem_50111_1",
+        "lang": "人工梦游玩法说明"
+    },
+    {
+        "id": "p_helpcontentitem_50111_2",
+        "lang": "苏醒机制"
+    },
+    {
+        "id": "p_helpcontentitem_50111_3",
+        "lang": "1.随着梦境的深入，浅眠域的<#ff906a>第六层及此后区域</color>将会受到<#ff906a>苏醒机制</color>的影响；\n2.受苏醒机制影响，战斗胜利后，部分角色会暂时苏醒。处于苏醒状态的角色，将<#ff906a>不可参加</color>下一次战斗；\n3.梦境越深入，受苏醒机制影响的角色越多；\n4.苏醒机制仅作用于当前梦境，<#ff906a>不会影响</color>下一个梦境的探索。"
+    },
+    {
+        "id": "p_helpcontentitem_50111_4",
+        "lang": "重置机制"
+    },
+    {
+        "id": "p_helpcontentitem_50111_5",
+        "lang": "1.在人工梦游中，可选择已探索的任意片段，<#ff906a>重置</color>该片段及其后续部分的探索进度；\n2.角色苏醒数据将被该片段<#ff906a>记录</color>，并随之同步重置；\n3.重置后，该片段及以后已获得的星数将被<#ff906a>重置</color>；\n4.重置<#ff906a>不会影响</color>酬劳获取。"
+    },
+    {
+        "id": "p_helpcontentitem_50501_1",
+        "lang": "1.队伍角色在战斗胜利后将暂时<color=#ff906a>苏醒</color>"
+    },
+    {
+        "id": "p_helpcontentitem_50501_2",
+        "lang": "2.苏醒时<color=#ff906a>无法参战</color>。下次战斗结束后，可重新加入队伍"
+    },
+    {
+        "id": "p_helpcontentitem_50801_1",
+        "lang": "苏醒"
+    },
+    {
+        "id": "p_helpcontentitem_50801_2",
+        "lang": "从第六层开始，每场战斗胜利后，部分角色将暂时<color=#e99b56>苏醒</color>。苏醒角色无法参加下一场战斗\n梦境越深入，战斗后苏醒的角色<color=#e99b56>将会越多</color>，请谨慎选择参战角色"
+    },
+    {
+        "id": "p_helpcontentitem_xxph_1",
+        "lang": "为角色设置心相偏好后，角色进入编队时，将会<color=#e99b56>自动记忆</color>偏好心相"
+    },
+    {
+        "id": "p_summonpoolhistoryview_1",
+        "lang": "名字"
+    },
+    {
+        "id": "p_summonpoolhistoryview_2",
+        "lang": "类型"
+    },
+    {
+        "id": "p_summonpoolhistoryview_3",
+        "lang": "征集时间"
+    },
+    {
+        "id": "p_summonpoolhistoryview_4",
+        "lang": "6   保底"
+    },
+    {
+        "id": "p_summonpoolhistoryview_5",
+        "lang": "可在本页面查询最近90天内的征集记录。征集记录有30分钟左右的延迟，若无记录请稍后重新打开。"
+    },
+    {
+        "id": "p_settingsaccount_accountinfo",
+        "lang": "账户信息"
+    },
+    {
+        "id": "p_settingsaccount_accountcenter",
+        "lang": "用户中心"
+    },
+    {
+        "id": "p_settingsaccount_redeemcode",
+        "lang": "兑换码"
+    },
+    {
+        "id": "p_settingsaccount_redeemcodereward",
+        "lang": "兑换码奖励"
+    },
+    {
+        "id": "p_settingsaccount_other",
+        "lang": "其他"
+    },
+    {
+        "id": "p_settingsaccount_exitlogin",
+        "lang": "退出登录"
+    },
+    {
+        "id": "p_settingsaccount_jump",
+        "lang": "前往"
+    },
+    {
+        "id": "p_settingsaccount_exit",
+        "lang": "退出"
+    },
+    {
+        "id": "p_settingscdkey_reward",
+        "lang": "兑换奖励"
+    },
+    {
+        "id": "p_settingscdkey_inputcdkey",
+        "lang": "输入兑换码"
+    },
+    {
+        "id": "p_settingsgraphics_fullscreen",
+        "lang": "全屏"
+    },
+    {
+        "id": "p_settingsgraphics_ratio",
+        "lang": "分辨率"
+    },
+    {
+        "id": "p_settingsvoicepackage_voicedownmgr",
+        "lang": "语音包管理"
+    },
+    {
+        "id": "p_fight_enemycardtip",
+        "lang": "敌方行动次数:"
+    },
+    {
+        "id": "p_equiprefineview_lang_attributelv",
+        "lang": "下一级效果"
+    },
+    {
+        "id": "p_summonmaincharacternewbie_des",
+        "lang": "查看详情"
+    },
+    {
+        "id": "p_summonmaincharacternewbie_summon",
+        "lang": "已经征集:"
+    },
+    {
+        "id": "p_summonmaincharacternewbie_tips",
+        "lang": "<color=#FF9B5E>三十次</color>征集内，必定邀请一名"
+    },
+    {
+        "id": "p_summonmaincharacternewbie_hero",
+        "lang": "角色"
+    },
+    {
+        "id": "p_summonmaincategoryitem_invite",
+        "lang": "必邀六星"
+    },
+    {
+        "id": "p_summonpoolhistory_emptyrecord",
+        "lang": "暂无记录"
+    },
+    {
+        "id": "p_weekwalkluckycasinoview_luckydice",
+        "lang": "幸运骰子"
+    },
+    {
+        "id": "p_charactertalentleveluppreview_upgradepreview",
+        "lang": "提升预览"
+    },
+    {
+        "id": "p_activitysigninview_todayrewardget",
+        "lang": "今日奖励已领取"
+    },
+    {
+        "id": "p_fighttechniqueguideview_recommendInspiration",
+        "lang": "推荐灵感"
+    },
+    {
+        "id": "p_fightfailview_tipstitle",
+        "lang": "角色强度较低"
+    },
+    {
+        "id": "p_fightfailview_tipstitle_1",
+        "lang": "角色灵感被克制"
+    },
+    {
+        "id": "p_fightfailview_tipstitle_2",
+        "lang": "附加条件"
+    },
+    {
+        "id": "p_fightfailview_leveltitle",
+        "lang": "等级"
+    },
+    {
+        "id": "p_fightfailview_talenttitle",
+        "lang": "共鸣"
+    },
+    {
+        "id": "p_fightfailview_equiptitle",
+        "lang": "心相"
+    },
+    {
+        "id": "p_roommachineview_producelinedetail",
+        "lang": "<size=70>生</size>产线详情"
+    },
+    {
+        "id": "p_roommachineformulateitem_getresource",
+        "lang": "点击收取资源"
+    },
+    {
+        "id": "p_roommachineformulateitem_empty",
+        "lang": "闲置中"
+    },
+    {
+        "id": "p_roomchangeview_synthesisworkshop",
+        "lang": "<size=70>合</size>成车间"
+    },
+    {
+        "id": "p_roomgatherview_productline",
+        "lang": "<size=70>采</size>集生产线"
+    },
+    {
+        "id": "p_roomproductline_prouctline",
+        "lang": "Ares_生产线"
+    },
+    {
+        "id": "p_fightfailview_teachnote_tip1",
+        "lang": "尝试按照指引进行操作"
+    },
+    {
+        "id": "p_fightfailview_teachnote_tip2",
+        "lang": "战斗开始前查看教学笔记说明"
+    },
+    {
+        "id": "p_roomproductline_hurttip",
+        "lang": "前往处理灾害"
+    },
+    {
+        "id": "p_roomproductline_productcount",
+        "lang": "生产次数:"
+    },
+    {
+        "id": "p_roomformulaitem_lock",
+        "lang": "生产线等级满足后解锁"
+    },
+    {
+        "id": "p_roominitbuilding_planenum",
+        "lang": "孤屿数量"
+    },
+    {
+        "id": "p_roominitbuilding_buildinghome",
+        "lang": "古厅"
+    },
+    {
+        "id": "p_roominitbuilding_plane",
+        "lang": "孤屿"
+    },
+    {
+        "id": "p_roominitbuilding_buildingactive",
+        "lang": "活力"
+    },
+    {
+        "id": "p_roominitbuilding_storenum",
+        "lang": "<size=70>库</size>存数量"
+    },
+    {
+        "id": "p_roominitbuilding_strengthbuilding",
+        "lang": "古厅扩建"
+    },
+    {
+        "id": "p_roomlevelup_leveluppreview",
+        "lang": "强化预览"
+    },
+    {
+        "id": "p_roomlevelup_levelup",
+        "lang": "扩建古厅"
+    },
+    {
+        "id": "p_roomproductlinelevelupview_levelup",
+        "lang": "提升"
+    },
+    {
+        "id": "p_mainthumbnailview_namecn",
+        "lang": "图鉴"
+    },
+    {
+        "id": "p_mainthumbnailview_namecn_1",
+        "lang": "好友"
+    },
+    {
+        "id": "p_mainthumbnailview_namecn_2",
+        "lang": "公告"
+    },
+    {
+        "id": "p_mainthumbnailview_namecn_3",
+        "lang": "签到"
+    },
+    {
+        "id": "p_mainthumbnailview_namecn_4",
+        "lang": "设置"
+    },
+    {
+        "id": "p_mainview_mail",
+        "lang": "邮件"
+    },
+    {
+        "id": "p_summonpooldetaildescview_tips",
+        "lang": "以下出现概率上升！！！"
+    },
+    {
+        "id": "p_taskview_titledesc",
+        "lang": "完成<color=#f6ba6b>幕前·六</color>，获得十四行诗衣着"
+    },
+    {
+        "id": "p_taskitem_getall",
+        "lang": "当前存在多个可领取奖励的任务"
+    },
+    {
+        "id": "p_packagestoregoodsview_cost",
+        "lang": "售价"
+    },
+    {
+        "id": "p_packagestoregoodsview_productcontent",
+        "lang": "商品内容"
+    },
+    {
+        "id": "p_herogroupeditview_quickedit",
+        "lang": "快捷编队"
+    },
+    {
+        "id": "p_packagestoregoodsview_remainsold",
+        "lang": "限时贩卖"
+    },
+    {
+        "id": "p_sdkexitgameview_txt_desc",
+        "lang": "是否返回登录界面？"
+    },
+    {
+        "id": "p_sdkexitgameview_txt",
+        "lang": "取消"
+    },
+    {
+        "id": "p_sdkexitgameview_txt_1",
+        "lang": "返回登录"
+    },
+    {
+        "id": "p_level_max",
+        "lang": "等级上限"
+    },
+    {
+        "id": "p_show_max_attribute",
+        "lang": "查看该心相满级属性"
+    },
+    {
+        "id": "p_mailview_sender",
+        "lang": "发件人："
+    },
+    {
+        "id": "p_activitynorsignitem_getcn",
+        "lang": "已领取"
+    },
+    {
+        "id": "p_storylogview_titlecn",
+        "lang": "<size=52>剧</size>情回顾"
+    },
+    {
+        "id": "p_characterswitchview_timerank",
+        "lang": "获取时间"
+    },
+    {
+        "id": "p_characterswitchview_rarerank",
+        "lang": "稀有度"
+    },
+    {
+        "id": "p_commonpropview_titlecn",
+        "lang": "获得物品"
+    },
+    {
+        "id": "p_commonheroitemnew_showing",
+        "lang": "展示中"
+    },
+    {
+        "id": "p_technoteview_locktip",
+        "lang": "完成前置课程解锁"
+    },
+    {
+        "id": "p_dungeonmaptaskview_title",
+        "lang": "远处，似乎有事或物在等待着你"
+    },
+    {
+        "id": "p_taskview_novicetogglename",
+        "lang": "故事的最初"
+    },
+    {
+        "id": "p_taskcommonitem_receiveall",
+        "lang": "全部领取"
+    },
+    {
+        "id": "p_taskview_get",
+        "lang": "已领取"
+    },
+    {
+        "id": "p_normalstoregoodsview_salepricetxtcn",
+        "lang": "售价："
+    },
+    {
+        "id": "p_playermodifynameview_titlecn",
+        "lang": "名称更新"
+    },
+    {
+        "id": "p_playermodifynameview_txt",
+        "lang": "请输入新的名称"
+    },
+    {
+        "id": "p_roomtaskdetailview_finish",
+        "lang": "无后续任务"
+    },
+    {
+        "id": "p_normalstoregoodsview_title",
+        "lang": "拥有"
+    },
+    {
+        "id": "p_roomview_tracking",
+        "lang": "古厅定位"
+    },
+    {
+        "id": "p_playerinfoview_level",
+        "lang": "等级："
+    },
+    {
+        "id": "p_roominitbuildingview_txttile",
+        "lang": "古厅"
+    },
+    {
+        "id": "p_roominitbuildingview_expfactory",
+        "lang": "<size=60>经</size><indent=63>验加工厂"
+    },
+    {
+        "id": "p_roominitbuildingview_coinfactory",
+        "lang": "<size=60>金</size><indent=63>币加工厂"
+    },
+    {
+        "id": "p_roominitbuildingview_combinefactory",
+        "lang": "<size=60>合</size><indent=60>成厂"
+    },
+    {
+        "id": "p_roominitbuildingview_getresource",
+        "lang": "收取资源"
+    },
+    {
+        "id": "p_roominitbuildingview_free",
+        "lang": "闲置中"
+    },
+    {
+        "id": "p_roominitbuildingview_lock",
+        "lang": "扩建古厅后解锁"
+    },
+    {
+        "id": "p_roomtaskdetailview_running",
+        "lang": "进行中"
+    },
+    {
+        "id": "p_characterbackpackview_dmgtype",
+        "lang": "伤害类型"
+    },
+    {
+        "id": "p_characterbackpackview_attrtype",
+        "lang": "角色灵感"
+    },
+    {
+        "id": "p_characterbackpackview_reset",
+        "lang": "重置"
+    },
+    {
+        "id": "p_characterbackpackview_confirm",
+        "lang": "确认"
+    },
+    {
+        "id": "p_storemonthcardview_buy",
+        "lang": "购买"
+    },
+    {
+        "id": "p_roomgatherview_upgrade",
+        "lang": "提升"
+    },
+    {
+        "id": "p_roomchangeview_title",
+        "lang": "<size=60>合</size><indent=59><voffset=-4>成厂"
+    },
+    {
+        "id": "p_charactertalentchessview_recommendwear",
+        "lang": "快捷装载"
+    },
+    {
+        "id": "p_charactertalentlevelupview_load",
+        "lang": "思绪\n<size=36>   装载"
+    },
+    {
+        "id": "p_charactertalenttipview_emptytip",
+        "lang": "当前暂无思绪"
+    },
+    {
+        "id": "p_charactertalentlevelupresultview_levelup",
+        "lang": "共鸣提升至"
+    },
+    {
+        "id": "p_normalstoregoodsitem_soldout",
+        "lang": "售罄"
+    },
+    {
+        "id": "p_normalstoregoodsitem_has",
+        "lang": "已拥有"
+    },
+    {
+        "id": "p_mainthumbnailview_namecn_5",
+        "lang": "反馈"
+    },
+    {
+        "id": "p_herogroupview_recommendattr",
+        "lang": "推荐灵感："
+    },
+    {
+        "id": "p_herogroupview_recommended",
+        "lang": "克制"
+    },
+    {
+        "id": "p_herogroupview_counter",
+        "lang": "被克"
+    },
+    {
+        "id": "p_dungeonrewardview_getreward",
+        "lang": "已获得"
+    },
+    {
+        "id": "p_roomblockpackageview_filtrate",
+        "lang": "孤屿数量"
+    },
+    {
+        "id": "p_roombackblockview_turnup",
+        "lang": "回收"
+    },
+    {
+        "id": "p_roombackblockview_notturnup",
+        "lang": "不能回收"
+    },
+    {
+        "id": "p_roomview_total",
+        "lang": "全"
+    },
+    {
+        "id": "p_roomblockpackageview_select",
+        "lang": "已选择"
+    },
+    {
+        "id": "p_sdksandboxpayview_good",
+        "lang": "商品："
+    },
+    {
+        "id": "p_sdksandboxpayview_cost",
+        "lang": "金额："
+    },
+    {
+        "id": "p_sdksandboxpayview_balance",
+        "lang": "沙盒余额："
+    },
+    {
+        "id": "p_sdksandboxpayview_sandbox",
+        "lang": "沙盒支付"
+    },
+    {
+        "id": "p_sdksandboxpayview_sure",
+        "lang": "确认支付"
+    },
+    {
+        "id": "p_weekwalkview_detail",
+        "lang": "关卡详情"
+    },
+    {
+        "id": "p_weekwalklayerview_shallow",
+        "lang": "浅眠域"
+    },
+    {
+        "id": "p_characterequipsettingview_tip",
+        "lang": "※设置后角色上阵将默认使用此心相"
+    },
+    {
+        "id": "p_characterequipsettingview_txt",
+        "lang": "设置偏好"
+    },
+    {
+        "id": "p_characterequipsettingview_txt1",
+        "lang": "暂无选择"
+    },
+    {
+        "id": "p_roomblockpackageview_empty",
+        "lang": "孤屿耗尽"
+    },
+    {
+        "id": "p_weekwalkenemyinfoview_rule",
+        "lang": "附加条件"
+    },
+    {
+        "id": "p_weekwalkenemyinfoview_enemyinfo",
+        "lang": "敌人"
+    },
+    {
+        "id": "p_weekwalkenemyinfoview_skill",
+        "lang": "神秘术"
+    },
+    {
+        "id": "p_weekwalkenemyinfoview_reset",
+        "lang": "重置本层"
+    },
+    {
+        "id": "p_weekwalkrewardview_weektask",
+        "lang": "每周任务"
+    },
+    {
+        "id": "p_weekwalkrewardview_dreamtask",
+        "lang": "梦境长廊"
+    },
+    {
+        "id": "p_weekwalkrewardview_challengetask",
+        "lang": "深眠试验"
+    },
+    {
+        "id": "p_weekwalkrewarditem_notget",
+        "lang": "未达成"
+    },
+    {
+        "id": "p_weekwalkrewarditem_canget",
+        "lang": "可领取"
+    },
+    {
+        "id": "p_weekwalkrewarditem_hasget",
+        "lang": "已领取"
+    },
+    {
+        "id": "p_weekwalkrewarditem_allget",
+        "lang": "全部领取"
+    },
+    {
+        "id": "p_weekwalkrewarditem_allgetdesc",
+        "lang": "当前存在多个可获取酬劳的任务"
+    },
+    {
+        "id": "p_teachnoteview_reward1",
+        "lang": "伟大乐队"
+    },
+    {
+        "id": "p_teachnoteview_reward2",
+        "lang": "十四行诗的造像"
+    },
+    {
+        "id": "p_teachnoteview_receivereward",
+        "lang": "领取奖励"
+    },
+    {
+        "id": "p_weekwalkrewardview_tip",
+        "lang": "*累计获得的总星数不会重置，每周都会获得酬劳！"
+    },
+    {
+        "id": "p_currencydiamondexchangeview_txt",
+        "lang": "兑换"
+    },
+    {
+        "id": "p_currencydiamondexchangeview_salepricetxtcn",
+        "lang": "消耗:"
+    },
+    {
+        "id": "p_roomcharacterplaceinfoview_currentplace",
+        "lang": "当前放置角色："
+    },
+    {
+        "id": "p_roomcharacterplaceinfoview_remove",
+        "lang": "移除角色："
+    },
+    {
+        "id": "p_dungeonpuzzlemazedrawview_tip1",
+        "lang": "拖动魔精\n指示移动"
+    },
+    {
+        "id": "p_dungeonpuzzlemazedrawview_tip2",
+        "lang": "经过目标\n派发传单"
+    },
+    {
+        "id": "p_dungeonpuzzlemazedrawview_tip3",
+        "lang": "完成目标\n到达终点"
+    },
+    {
+        "id": "p_dungeonpuzzlemazedrawview_forbiden",
+        "lang": "禁止通过区域"
+    },
+    {
+        "id": "p_equipinfoteamshowview_text",
+        "lang": "暂无选择"
+    },
+    {
+        "id": "p_materialtipview_langtxt",
+        "lang": "包含内容"
+    },
+    {
+        "id": "p_roomview_placecharacter",
+        "lang": "放置角色"
+    },
+    {
+        "id": "p_roominitbuildingview_go",
+        "lang": "前往查看"
+    },
+    {
+        "id": "p_roominventoryselectview_save",
+        "lang": "保存"
+    },
+    {
+        "id": "p_roomviewbuilding_edit",
+        "lang": "孤屿"
+    },
+    {
+        "id": "p_roomformulaitem_choose",
+        "lang": "选择"
+    },
+    {
+        "id": "p_storetipview_title",
+        "lang": "<size=60>注</size>意事项"
+    },
+    {
+        "id": "p_task_novicegrowitemtip",
+        "lang": "【成长的返还】系列任务将返还所有养成素材"
+    },
+    {
+        "id": "p_careertip_desc1",
+        "lang": "<color=#ca6c6c>自然克制</color>时造成的创伤提高<color=#ca6c6c>30%</color>"
+    },
+    {
+        "id": "p_careertip_desc2",
+        "lang": "<color=#ca6c6c>灵感克制</color>时造成的创伤提高<color=#ca6c6c>30%</color>"
+    },
+    {
+        "id": "p_weekwalkview_reward",
+        "lang": "本层酬劳"
+    },
+    {
+        "id": "p_weekwalklayerrewarditem_notget",
+        "lang": "未达成"
+    },
+    {
+        "id": "p_characterrankupresultview_leveluptip",
+        "lang": "基础属性提升"
+    },
+    {
+        "id": "p_roomviewbuilding_emptybuilding",
+        "lang": "尚未获得建筑"
+    },
+    {
+        "id": "p_roominventoryselectview_finish",
+        "lang": "孤屿已耗尽"
+    },
+    {
+        "id": "p_weekwalkrewardview_title",
+        "lang": "测验任务酬劳"
+    },
+    {
+        "id": "p_characterexskillview_txt",
+        "lang": "塑造详情"
+    },
+    {
+        "id": "p_fightfocusview_equip",
+        "lang": "心相"
+    },
+    {
+        "id": "p_in_filter",
+        "lang": "筛选中"
+    },
+    {
+        "id": "p_charactertalentlevelupresult_level",
+        "lang": "思绪等级"
+    },
+    {
+        "id": "p_charactertalenttipview_reducetip",
+        "lang": "嵌入4个同种思绪时，其属性将会衰减至特定比例"
+    },
+    {
+        "id": "p_summonmaincharacternewbie_tipstxt",
+        "lang": "第一滴雨"
+    },
+    {
+        "id": "p_summonmaincharacternewbie_tipstxt1",
+        "lang": "<size=115><voffset=-13>30</voffset></size>次<color=#ffffff>征集内，必定邀请一名</color>6    角色"
+    },
+    {
+        "id": "p_equipinfoteamshowview_heroempty",
+        "lang": "暂无角色"
+    },
+    {
+        "id": "p_equipinfoteamshowview_compare",
+        "lang": "对比"
+    },
+    {
+        "id": "p_equipinfoteamshowview_inteam",
+        "lang": "记忆中"
+    },
+    {
+        "id": "p_equipinfoteamshowview_fold",
+        "lang": "收起"
+    },
+    {
+        "id": "p_equipinfoteamshowview_current",
+        "lang": "当前"
+    },
+    {
+        "id": "p_dungeoncumulativerewardsview_titlecn",
+        "lang": "行迹"
+    },
+    {
+        "id": "p_dungeoncumulativerewardsview_tips",
+        "lang": "完成对应章节故事，通过<#AC5320>故事、厄险模式以及小径</color>积累行迹，以开启下一章。"
+    },
+    {
+        "id": "p_dungeoncumulativerewardsview_curprogress",
+        "lang": "当前行迹点："
+    },
+    {
+        "id": "p_fightstat_data",
+        "lang": "数据总览"
+    },
+    {
+        "id": "p_fightstat_skill",
+        "lang": "神秘术"
+    },
+    {
+        "id": "p_fightstat_useskillcount",
+        "lang": "神秘术使用次数"
+    },
+    {
+        "id": "p_informplayertipview_informtarget",
+        "lang": "举报对象："
+    },
+    {
+        "id": "p_informplayertipview_inform",
+        "lang": "举报"
+    },
+    {
+        "id": "p_informplayertipview_informreason",
+        "lang": "举报原因"
+    },
+    {
+        "id": "p_informplayertipview_informinputtxt",
+        "lang": "输入详情描述（可选，最多100字）"
+    },
+    {
+        "id": "p_weekwalkenemyinfoview_careertip1",
+        "lang": "<color=#CA4E32>自然克制</color>时造成的创伤提高<color=#CA4E32>30%</color>"
+    },
+    {
+        "id": "p_weekwalkenemyinfoview_careertip2",
+        "lang": "<color=#CA4E32>灵感克制</color>时造成的创伤提高<color=#CA4E32>30%</color>"
+    },
+    {
+        "id": "p_weekwalkenemyinfoview_attributetip",
+        "lang": "灵感克制"
+    },
+    {
+        "id": "p_mailview_renew",
+        "lang": "前往续约"
+    },
+    {
+        "id": "p_mailview_deadline",
+        "lang": "即将过期"
+    },
+    {
+        "id": "p_settingssoundview_volume",
+        "lang": "音量"
+    },
+    {
+        "id": "p_settingslanguageview_voice",
+        "lang": "语音"
+    },
+    {
+        "id": "p_settingslanguageview_language",
+        "lang": "语言"
+    },
+    {
+        "id": "p_settingsgraphicsview_frameratetip",
+        "lang": "较高的帧率可能会导致卡顿"
+    },
+    {
+        "id": "p_settingsgraphicsview_energytip",
+        "lang": "开启后，游戏将使用较低的画质与帧率以减少耗电"
+    },
+    {
+        "id": "p_settingsgraphicsview_energy",
+        "lang": "节能模式"
+    },
+    {
+        "id": "p_settingsgraphicsview_screenshottip",
+        "lang": "开启后，可使用快速截屏分享功能"
+    },
+    {
+        "id": "p_giftpacksview_weektitle",
+        "lang": "当周物资酬宾"
+    },
+    {
+        "id": "p_giftpacksview_weekconfirm",
+        "lang": "前往选购"
+    },
+    {
+        "id": "p_giftpacksview_monthtitle",
+        "lang": "月度征集酬宾"
+    },
+    {
+        "id": "p_firstchargeview_title",
+        "lang": "新人邀约"
+    },
+    {
+        "id": "p_firstchargeview_btn",
+        "lang": "前往购买"
+    },
+    {
+        "id": "p_chargeviewitem_recharge",
+        "lang": "首充赠送"
+    },
+    {
+        "id": "p_activityenter_finish",
+        "lang": "活动已结束"
+    },
+    {
+        "id": "p_puzzleconnectlineview_tip1",
+        "lang": "旋转电路以接通电源并连通激活所有电容若电路中有异常电路"
+    },
+    {
+        "id": "p_puzzleconnectlineview_tip2",
+        "lang": "则电路就会发生短路！"
+    },
+    {
+        "id": "p_fightsuccview_backtosource",
+        "lang": "<u>返回来源</u>"
+    },
+    {
+        "id": "p_sdkfitagetipview_tip",
+        "lang": "适龄提示"
+    },
+    {
+        "id": "p_sdkfitagetipview_sure",
+        "lang": "确定"
+    },
+    {
+        "id": "p_sdkfitagetipview_desc",
+        "lang": "一、本游戏是一款策略类回合制游戏，适用于年满12周岁及以上的用户，建议未成年人在家长的监护下使用游戏产品。\n\n二、本游戏基于架空的故事背景和世界观，画面色彩艳丽，剧情明朗且积极向上，游戏玩法需要玩家有一定的策略思维意识，以及临场对局势的判断能力，鼓励玩家在思考中选择最优质的解法，以达到通关的同时提升自我的满足感。游戏中有基于文字的陌生人社交系统，但社交系统管理遵循相关法律法规。\n\n三、本游戏有用户实名认证系统，认证为未成年人的用户即将接受以下管理：\n1、未成年人游玩时间限制：\n游戏仅会在周五、周六、周日和法定节假日每日20时-21时，向未成年人提供1小时游戏服务。\n\n2、游戏中部分玩法和道具需要付费，根据相关规定：\n  1) 未满8周岁的用户不能付费。\n  2) 8周岁以上未满16周岁的用户，单次充值上限50元人民币，每月充值上限200元人民币。\n  3) 16周岁以上未满18周岁的用户，单次充值上限100元人民币，每月充值上限400元人民币。\n\n四、本游戏为一款近代复古神秘学RPG，玩家可以在游玩过程中锻炼统筹规划能力和思维能力，游戏中会设置较多的解密关卡，考验玩家的观察力和思维模式。精美的游戏画面与特色的角色配音，可以为玩家提供丰富的游戏体验。"
+    },
+    {
+        "id": "p_roomview_store",
+        "lang": "购入"
+    },
+    {
+        "id": "p_dungeonmaplevelview_recommendlv",
+        "lang": "推荐等级："
+    },
+    {
+        "id": "p_weekwalklayerrewardview_deeptip",
+        "lang": "深眠试验酬劳每月1号、16号凌晨5点刷新！"
+    },
+    {
+        "id": "p_roomblockpackageview_recentget",
+        "lang": "最近获得"
+    },
+    {
+        "id": "p_explorequittipview_quit",
+        "lang": "暂时离开"
+    },
+    {
+        "id": "p_explorequittipview_reset",
+        "lang": "重置地图"
+    },
+    {
+        "id": "p_explorequittipview_fightprogress",
+        "lang": "战斗进度"
+    },
+    {
+        "id": "p_explorequittipview_boxprogress",
+        "lang": "宝箱进度"
+    },
+    {
+        "id": "p_explorequittipview_exploreprogress",
+        "lang": "探索度"
+    },
+    {
+        "id": "p_exploreview_exploreprogress",
+        "lang": "探索度:"
+    },
+    {
+        "id": "p_weekwalkruleview_title",
+        "lang": "深眠域关卡规则"
+    },
+    {
+        "id": "p_weekwalkreviveview_rule",
+        "lang": "选择要保留的角色"
+    },
+    {
+        "id": "p_weekwalkreviveview_confirm",
+        "lang": "确定"
+    },
+    {
+        "id": "p_weekwalklayerview_except",
+        "lang": "即将开启，敬请期待"
+    },
+    {
+        "id": "p_dungeonpuzzleouijaview_tip",
+        "lang": "转动水晶球，占卜十四行诗心中所想"
+    },
+    {
+        "id": "p_versionactivitymainview_hasget",
+        "lang": "已获得："
+    },
+    {
+        "id": "p_roominfotipview_blockpackagetheme",
+        "lang": "孤屿组合主题"
+    },
+    {
+        "id": "p_roominfotipview_buy",
+        "lang": "购买"
+    },
+    {
+        "id": "p_roominfotipview_source",
+        "lang": "来源"
+    },
+    {
+        "id": "p_roominfotipview_jump",
+        "lang": "跳转"
+    },
+    {
+        "id": "p_seasonselectbuffview_debuff",
+        "lang": "灾异"
+    },
+    {
+        "id": "p_seasonselectbuffview_buff",
+        "lang": "庇护:"
+    },
+    {
+        "id": "p_seasonselectbuffview_integral",
+        "lang": "<size=48>难</size>度积分:"
+    },
+    {
+        "id": "p_seasonselectbuffview_enterherogroup",
+        "lang": "进入编队"
+    },
+    {
+        "id": "p_seasonselectbuffview_debuffpreview",
+        "lang": "<#D97373><size=30>灾异</size></color><space=0.22em>总览"
+    },
+    {
+        "id": "p_seasonselectbuffview_buffpreview",
+        "lang": "<#65b96f><size=30>庇护</size></color><space=0.22em>总览"
+    },
+    {
+        "id": "p_versionactivitydungeonmaplevelview_type1",
+        "lang": "故事"
+    },
+    {
+        "id": "p_versionactivitydungeonmaplevelview_type2",
+        "lang": "意外"
+    },
+    {
+        "id": "p_versionactivitydungeonmaplevelview_type3",
+        "lang": "艰难"
+    },
+    {
+        "id": "p_versionactivitydungeonmaplevelview_type4",
+        "lang": "危机"
+    },
+    {
+        "id": "p_versionactivitydungeonmaplevelview_get",
+        "lang": "可获得："
+    },
+    {
+        "id": "p_versionactivitydungeonmaplevelview_start",
+        "lang": "开始行动"
+    },
+    {
+        "id": "p_seasonview_reward",
+        "lang": "奖励"
+    },
+    {
+        "id": "p_seasonlevelupview_unlock",
+        "lang": "难度解锁"
+    },
+    {
+        "id": "p_seasontaskview_levelreward",
+        "lang": "常驻关卡奖励"
+    },
+    {
+        "id": "p_seasontaskview_seasonreward",
+        "lang": "限时关卡奖励"
+    },
+    {
+        "id": "p_seasontaskitem_goto",
+        "lang": "前往"
+    },
+    {
+        "id": "p_seasontaskitem_canreceive",
+        "lang": "可领取"
+    },
+    {
+        "id": "p_seasontaskitem_get",
+        "lang": "已完成"
+    },
+    {
+        "id": "p_fightsuccview_level",
+        "lang": "评级："
+    },
+    {
+        "id": "p_fightsuccview_grade",
+        "lang": "感召力："
+    },
+    {
+        "id": "p_characterbackpacksearchfilterview_info1",
+        "lang": "现实创伤"
+    },
+    {
+        "id": "p_characterbackpacksearchfilterview_info2",
+        "lang": "精神创伤"
+    },
+    {
+        "id": "p_characterbackpacksearchfilterview_attr1",
+        "lang": "岩"
+    },
+    {
+        "id": "p_characterbackpacksearchfilterview_attr2",
+        "lang": "星"
+    },
+    {
+        "id": "p_characterbackpacksearchfilterview_attr3",
+        "lang": "木"
+    },
+    {
+        "id": "p_characterbackpacksearchfilterview_attr4",
+        "lang": "兽"
+    },
+    {
+        "id": "p_characterbackpacksearchfilterview_attr5",
+        "lang": "灵"
+    },
+    {
+        "id": "p_characterbackpacksearchfilterview_attr6",
+        "lang": "智"
+    },
+    {
+        "id": "p_dungeonmaplevelview_specialdrop",
+        "lang": "特殊掉落："
+    },
+    {
+        "id": "p_activitywarmupgameview_add",
+        "lang": "添加"
+    },
+    {
+        "id": "p_activitywarmupgameview_order",
+        "lang": "添加的材料顺序"
+    },
+    {
+        "id": "p_activitywarmupview_challenge",
+        "lang": "开始研制"
+    },
+    {
+        "id": "p_activitywarmupview_summoncount",
+        "lang": "委托天数"
+    },
+    {
+        "id": "p_activitywarmupview_finish",
+        "lang": "已完成"
+    },
+    {
+        "id": "p_activitywarmupview_note",
+        "lang": "【查看笔记】"
+    },
+    {
+        "id": "p_roominitbuildingview_part1",
+        "lang": "微尘钟楼"
+    },
+    {
+        "id": "p_roominitbuildingview_part2",
+        "lang": "利齿市集"
+    },
+    {
+        "id": "p_roominitbuildingview_part3",
+        "lang": "如愿甘泉"
+    },
+    {
+        "id": "p_roominitbuildingview_get",
+        "lang": "收取"
+    },
+    {
+        "id": "p_roominitbuildingview_combine",
+        "lang": "去合成"
+    },
+    {
+        "id": "p_roomproductlineview_productline",
+        "lang": "生产线"
+    },
+    {
+        "id": "p_roomproductlineview_get",
+        "lang": "一键收取"
+    },
+    {
+        "id": "p_roomproductlineview_noget",
+        "lang": "暂无资源可收取"
+    },
+    {
+        "id": "p_roomproductlineview_needproduct",
+        "lang": "待创造"
+    },
+    {
+        "id": "p_roomproductlineview_producting",
+        "lang": "创造中"
+    },
+    {
+        "id": "p_roomproductlineview_full",
+        "lang": "库存已满"
+    },
+    {
+        "id": "p_activitywarmuptaskitem_finish",
+        "lang": "已完成"
+    },
+    {
+        "id": "p_activitywarmuptaskitem_receive",
+        "lang": "领取"
+    },
+    {
+        "id": "p_activitywarmuptaskitem_goto",
+        "lang": "前往"
+    },
+    {
+        "id": "p_activitywarmupnews_title",
+        "lang": "卫星短讯"
+    },
+    {
+        "id": "p_versionactivityexchangetaskview_dailytask",
+        "lang": "每日任务"
+    },
+    {
+        "id": "p_versionactivityexchangetaskview_challengetask",
+        "lang": "挑战任务"
+    },
+    {
+        "id": "p_versionactivityexchangetaskview_receive",
+        "lang": "领取"
+    },
+    {
+        "id": "p_versionactivityexchangetaskview_jump",
+        "lang": "前往"
+    },
+    {
+        "id": "p_versionactivityexchangetaskview_finish",
+        "lang": "已完成"
+    },
+    {
+        "id": "p_versionactivityexchangeview_getres",
+        "lang": "获取感声元件"
+    },
+    {
+        "id": "p_versionactivityexchangeview_hasgotten",
+        "lang": "已获得"
+    },
+    {
+        "id": "p_versionactivityexchangeview_unfinish",
+        "lang": "待翻译"
+    },
+    {
+        "id": "p_versionactivityexchangeview_finish",
+        "lang": "回顾"
+    },
+    {
+        "id": "p_versionactivityexchangeview_get",
+        "lang": "可翻译"
+    },
+    {
+        "id": "p_fightsuccview_equipdaily",
+        "lang": "特殊"
+    },
+    {
+        "id": "p_versionactivitypushboxtaskview_receive",
+        "lang": "领取"
+    },
+    {
+        "id": "p_versionactivitypushboxtaskview_jump",
+        "lang": "前往"
+    },
+    {
+        "id": "p_versionactivitypushboxtaskview_finish",
+        "lang": "已完成"
+    },
+    {
+        "id": "p_seasonselectbuffview_level1",
+        "lang": "闲暇"
+    },
+    {
+        "id": "p_seasonselectbuffview_level2",
+        "lang": "普通"
+    },
+    {
+        "id": "p_seasonselectbuffview_level3",
+        "lang": "困局"
+    },
+    {
+        "id": "p_seasonselectbuffview_level4",
+        "lang": "厄境"
+    },
+    {
+        "id": "p_helpcontentitem_warmup1_1",
+        "lang": "选择委托<#E5906A>前往</color>关卡"
+    },
+    {
+        "id": "p_helpcontentitem_warmup2_1",
+        "lang": "卫星专栏玩法说明"
+    },
+    {
+        "id": "p_helpcontentitem_warmup2_2",
+        "lang": "点击<#E5906A>调制配方</color>"
+    },
+    {
+        "id": "p_helpcontentitem_warmup2_3",
+        "lang": "按照配方顺序，放入<#E5906A>研磨材料</color>，成功即可获得奖励"
+    },
+    {
+        "id": "p_helpcontentitem_warmup3_1",
+        "lang": "卫星专栏玩法说明"
+    },
+    {
+        "id": "p_helpcontentitem_warmup3_2",
+        "lang": "点击<#E5906A>委托奖励</color>可查看更多任务以及奖励"
+    },
+    {
+        "id": "p_equiprefineview_noteffect",
+        "lang": "此心相不可增幅"
+    },
+    {
+        "id": "p_roomstoreview_commontxt",
+        "lang": "孤屿专栏"
+    },
+    {
+        "id": "p_meilannimainview_part1",
+        "lang": "剩余关卡"
+    },
+    {
+        "id": "p_meilannimainview_part3",
+        "lang": "天后解锁"
+    },
+    {
+        "id": "p_meilanniview_threat",
+        "lang": "威胁值："
+    },
+    {
+        "id": "p_meilanniview_actioncount",
+        "lang": "行动次数："
+    },
+    {
+        "id": "p_meilannientrustview_titlecn",
+        "lang": "展出详情"
+    },
+    {
+        "id": "p_meilannientrustview_accept",
+        "lang": "接受挑战"
+    },
+    {
+        "id": "p_meilannientrustview_acceptagain",
+        "lang": "再次\n接受挑战"
+    },
+    {
+        "id": "p_meilannientrustview_gossip",
+        "lang": "小道消息"
+    },
+    {
+        "id": "p_meilannientrustview_reset",
+        "lang": "重置行动"
+    },
+    {
+        "id": "p_meilannitaskitem_finish",
+        "lang": "已完成"
+    },
+    {
+        "id": "p_meilannitaskitem_goto",
+        "lang": "前往"
+    },
+    {
+        "id": "p_meilannitaskitem_receive",
+        "lang": "领取"
+    },
+    {
+        "id": "p_meilannisettlementview_finalrating",
+        "lang": "最终评级"
+    },
+    {
+        "id": "p_meilannisettlementview_score",
+        "lang": "行动得分"
+    },
+    {
+        "id": "p_meilannisettlementview_goods",
+        "lang": "目标物品"
+    },
+    {
+        "id": "p_meilannisettlementview_settlement",
+        "lang": "行动总结"
+    },
+    {
+        "id": "p_versionactivitytaskview_getalldesc",
+        "lang": "当前存在多个可领取的任务"
+    },
+    {
+        "id": "p_versionactivitytaskitem_goto",
+        "lang": "前往"
+    },
+    {
+        "id": "p_versionactivitytaskitem_receive",
+        "lang": "领取"
+    },
+    {
+        "id": "p_versionactivitytaskitem_hasgot",
+        "lang": "已领取"
+    },
+    {
+        "id": "p_versionactivitytaskview_stamp",
+        "lang": "雷米特纪念邮票"
+    },
+    {
+        "id": "p_versionactivitytaskview_hasgot",
+        "lang": "已获得"
+    },
+    {
+        "id": "p_versionactivitypushboxgameview_security",
+        "lang": "警戒值:"
+    },
+    {
+        "id": "p_versionactivitypushboxgameview_undo",
+        "lang": "撤回"
+    },
+    {
+        "id": "p_versionactivitypushboxgameview_reset",
+        "lang": "重置"
+    },
+    {
+        "id": "p_activitychessmapgame_restart",
+        "lang": "重新开始"
+    },
+    {
+        "id": "p_activitychessmapgame_curround",
+        "lang": "当前回合:"
+    },
+    {
+        "id": "p_activity109chessrewardview_title",
+        "lang": "获得线索"
+    },
+    {
+        "id": "p_activity109chesstaskitem_goto",
+        "lang": "前往"
+    },
+    {
+        "id": "p_activity109chesstaskitem_receive",
+        "lang": "可领取"
+    },
+    {
+        "id": "p_activity109chesstaskitem_finish",
+        "lang": "已领取"
+    },
+    {
+        "id": "p_meilannitaskitem_getalldesc",
+        "lang": "当前存在多个可领取的任务"
+    },
+    {
+        "id": "p_meilannitaskitem_getall",
+        "lang": "全部领取"
+    },
+    {
+        "id": "p_activity109chessresultview_quit",
+        "lang": "退出关卡"
+    },
+    {
+        "id": "p_activity109chessresultview_restart",
+        "lang": "再次挑战"
+    },
+    {
+        "id": "p_bpruletipsview_title",
+        "lang": "点唱机规则说明"
+    },
+    {
+        "id": "p_bppropview_title",
+        "lang": "获得物品"
+    },
+    {
+        "id": "p_bpbuyview_title",
+        "lang": "提升分贝等级"
+    },
+    {
+        "id": "p_bpbuyview_saleprice",
+        "lang": "售价："
+    },
+    {
+        "id": "p_bpbuyview_buy",
+        "lang": "购买"
+    },
+    {
+        "id": "p_bpchargeview_hasbuy",
+        "lang": "已购买"
+    },
+    {
+        "id": "p_bpchargeview_recommend",
+        "lang": "鬃毛\n特荐"
+    },
+    {
+        "id": "p_bp_title",
+        "lang": "吼吼点唱机"
+    },
+    {
+        "id": "p_bpbuyview_titleen",
+        "lang": "DECIBEL LEVEL-UP"
+    },
+    {
+        "id": "p_bpbonusview_btnPay_en",
+        "lang": "UNLOCK COLLECTOR'S EDITION"
+    },
+    {
+        "id": "p_bpbonusview_btnGetAll_en",
+        "lang": "CLAIM ALL"
+    },
+    {
+        "id": "p_bpchargeview_nameen",
+        "lang": "Through Mirrors and Curtains"
+    },
+    {
+        "id": "p_bpruletipsview_titleen",
+        "lang": "JUKEBOX DETAILS"
+    },
+    {
+        "id": "p_bptaskview_finishen",
+        "lang": "CLAIM"
+    },
+    {
+        "id": "p_bp_title_en",
+        "lang": "ROAR JUKEBOX"
+    },
+    {
+        "id": "p_bp_story_first",
+        "lang": "会"
+    },
+    {
+        "id": "p_bp_story_des",
+        "lang": "          发出奇怪吼叫声的怪异机器，收听内置其中的播放列表可获得各种奖励。吼吼分贝的等级越高，可收听的吼吼光碟就越多。\n      鬃毛银行一度推行又匆匆消失的神秘机器，没人能预测它在何时会出现在何地。\n      由于机器设立的奖励无比丰厚，所以即便里面搭载的“歌曲”十分刺耳，也挡不住那些神秘学家花费半生的时间苦苦寻觅。\n      近期，关于某种“难以忍受的噪音”的投诉信件堆满了基金会的怪现象信箱，无一例外的，所有人都在或焦躁或亢奋地讨论着那台在每一个喧嚷夜晚出没、行为放纵的点唱机。部分当事人表示自己从刺耳的噪音中得到了一笔相当丰厚的奖赏，他们急切地期待着吼吼点唱机的下一次出现，而更多人则声称这一切都是“告别安宁夜”社团所制造的乱象。\n      现该点唱机已计入基金会审查名录。"
+    },
+    {
+        "id": "p_bptaskview_daytask",
+        "lang": "日记"
+    },
+    {
+        "id": "p_bptaskview_weektask",
+        "lang": "周报"
+    },
+    {
+        "id": "p_bptaskview_othertask",
+        "lang": "公约"
+    },
+    {
+        "id": "p_bpchargeview_left_desc",
+        "lang": "播放列表内皆是经由特殊仪式录制的典藏版吼吼光碟。虽然刺耳的问题并未改善，但相对的，点唱机对付出者的回报会更为丰厚。"
+    },
+    {
+        "id": "p_bpchargeview_right_desc",
+        "lang": "鬃毛银行倾情推荐的典藏吼吼光碟礼包。购买后除了开通典藏播放列表外，还可获得鬃毛银行提供的其他稀有奖励。"
+    },
+    {
+        "id": "p_replay_case",
+        "lang": "案件回放"
+    },
+    {
+        "id": "p_activitychessmapinteract_end",
+        "lang": "终点"
+    },
+    {
+        "id": "p_versionactivitytripenter_lock",
+        "lang": "未解锁"
+    },
+    {
+        "id": "p_bpview_reward",
+        "lang": "专注嘉奖"
+    },
+    {
+        "id": "p_bpview_task",
+        "lang": "读碟时间"
+    },
+    {
+        "id": "p_bpview_info",
+        "lang": "<color=white>解锁<color=#dc6a34>典藏吼吼光碟</color>后，分贝等级<color=#dc6a34>30级</color>获得"
+    },
+    {
+        "id": "p_bpenterview_icon",
+        "lang": "限定头像"
+    },
+    {
+        "id": "p_bpenterview_stampname",
+        "lang": "「金杯岁月」"
+    },
+    {
+        "id": "p_bpenterview_clickenter",
+        "lang": "点击启动"
+    },
+    {
+        "id": "p_bpenterview_skillname",
+        "lang": "镜中幕间"
+    },
+    {
+        "id": "p_bpenterview_name",
+        "lang": "——夏利"
+    },
+    {
+        "id": "p_bpenterview_enname",
+        "lang": "Through Mirrors and Curtains"
+    },
+    {
+        "id": "p_bpview_exp",
+        "lang": "吼吼分贝"
+    },
+    {
+        "id": "p_bpbonusview_pay",
+        "lang": "典藏吼吼光碟"
+    },
+    {
+        "id": "p_bpbonusview_free",
+        "lang": "普通吼吼光碟"
+    },
+    {
+        "id": "p_bpbonusview_btnbuy",
+        "lang": "解锁典藏光碟"
+    },
+    {
+        "id": "p_bpbonusview_btnget",
+        "lang": "一键领取"
+    },
+    {
+        "id": "p_bpview_levelupbtn",
+        "lang": "提升分贝"
+    },
+    {
+        "id": "p_versionactivitytradequoteview_minprice",
+        "lang": "今日交易需求"
+    },
+    {
+        "id": "p_versionactivitytradequoteview_cancel",
+        "lang": "取消"
+    },
+    {
+        "id": "p_versionactivitytradequoteview_myquote",
+        "lang": "我的报价:"
+    },
+    {
+        "id": "p_versionactivitytradequoteview_bossquote",
+        "lang": "魔精报价:"
+    },
+    {
+        "id": "p_versionactivitytradequoteview_confirm",
+        "lang": "确认报价"
+    },
+    {
+        "id": "p_versionactivitytradequoteview_agreen",
+        "lang": "直接交易"
+    },
+    {
+        "id": "p_versionactivitytradequoteview_retry",
+        "lang": "再次议价"
+    },
+    {
+        "id": "p_versionactivitydungeonmaplevelview_traptip",
+        "lang": "陷阱生效中"
+    },
+    {
+        "id": "p_versionactivitytraderewardview_getalldesc",
+        "lang": "当前累计积分可领取多个奖励"
+    },
+    {
+        "id": "p_versionactivitytraderewardview_getall",
+        "lang": "全部领取"
+    },
+    {
+        "id": "p_versionactivitytraderewardview_unable",
+        "lang": "积分不足"
+    },
+    {
+        "id": "p_versionactivitytraderewardview_get",
+        "lang": "领取"
+    },
+    {
+        "id": "p_versionactivitytraderewardview_hasreceive",
+        "lang": "已领取"
+    },
+    {
+        "id": "p_versionactivitytradeshopview_unable",
+        "lang": "材料不足"
+    },
+    {
+        "id": "p_versionactivitytradeshopview_deal",
+        "lang": "成交"
+    },
+    {
+        "id": "p_versionactivitytradeshopview_minprice",
+        "lang": "魔精一口价"
+    },
+    {
+        "id": "p_versionactivitytradeview_daily",
+        "lang": "每日交易"
+    },
+    {
+        "id": "p_versionactivitytradeview_shop",
+        "lang": "一口价商店"
+    },
+    {
+        "id": "p_versionactivitytradeview_reward",
+        "lang": "累计奖励"
+    },
+    {
+        "id": "p_versionactivitytraderewardview_iconname",
+        "lang": "兔儿臼齿"
+    },
+    {
+        "id": "p_versionactivitytradequoteview_unable",
+        "lang": "材料不足"
+    },
+    {
+        "id": "p_versionactivitytradequoteview_bargain",
+        "lang": "议价"
+    },
+    {
+        "id": "p_meilannidialogitem_shelve",
+        "lang": "暂时搁置<#686767><b>[</b>离开<b>]</b></color>"
+    },
+    {
+        "id": "p_fightquittipview_fightinfo",
+        "lang": "战斗信息"
+    },
+    {
+        "id": "p_fightfailview_fightfirstfail",
+        "lang": "（完整返还）"
+    },
+    {
+        "id": "p_activity114diceview_need",
+        "lang": "需求点数："
+    },
+    {
+        "id": "p_activity114diceview_point",
+        "lang": "投掷点数"
+    },
+    {
+        "id": "p_versionactivity_1_2_114getnewfeatureview_title",
+        "lang": "获得新特质"
+    },
+    {
+        "id": "p_versionactivity_1_2_114chatview_need",
+        "lang": "需求"
+    },
+    {
+        "id": "p_versionactivity_1_2_114chatview_quit",
+        "lang": "找个借口离开"
+    },
+    {
+        "id": "p_versionactivity_1_2_114chatview_warntip",
+        "lang": "一次性检定事件，失败后无法再尝试"
+    },
+    {
+        "id": "p_versionactivity_1_2_114taskview_nofinish",
+        "lang": "未完成"
+    },
+    {
+        "id": "p_versionactivity_1_2_114taskview_get",
+        "lang": "可领取"
+    },
+    {
+        "id": "p_versionactivity_1_2_114taskview_finish",
+        "lang": "已完成"
+    },
+    {
+        "id": "p_versionactivity_1_2_114view_task",
+        "lang": "任务"
+    },
+    {
+        "id": "p_versionactivity_1_2_114mainview_baseattr",
+        "lang": "素质"
+    },
+    {
+        "id": "p_versionactivity_1_2_114mainview_specialattr",
+        "lang": "特质"
+    },
+    {
+        "id": "p_versionactivity_1_2_114mainview_locktip",
+        "lang": "一天后可用"
+    },
+    {
+        "id": "p_versionactivity_1_2_114mainview_attention",
+        "lang": "注意力"
+    },
+    {
+        "id": "p_activitywarmupgameview_home",
+        "lang": "返回主界面"
+    },
+    {
+        "id": "p_activitywarmupgameview_restart",
+        "lang": "重新开始"
+    },
+    {
+        "id": "p_helpcontentitem_warmup1_title",
+        "lang": "卫星专栏玩法说明"
+    },
+    {
+        "id": "p_helpcontentitem_warmup1_2",
+        "lang": "击败魔精获取<#E5906A>研磨材料</color>"
+    },
+    {
+        "id": "p_activitywarmupopenview_title",
+        "lang": "卫星专栏"
+    },
+    {
+        "id": "p_activitywarmupopenview_start",
+        "lang": "开始"
+    },
+    {
+        "id": "p_activitywarmupopenview_info",
+        "lang": "    伦敦的某著名报社向全城发布了一条公开的 <#5D3121><size=36>解密人征集令</size></color>—— <voffset=0.1em>他们宣称拾获了一沓涂鸦着鲜艳艺术符号</voffset>的神秘图纸，并认为图纸上的 <#5D3121><size=36>神秘配方</size></color> 可能藏着一场惊天的大阴谋，成功解读者能够获得报社丰厚的酬劳。"
+    },
+    {
+        "id": "p_activitywarmupview_newstitle",
+        "lang": "卫星短讯"
+    },
+    {
+        "id": "p_activitywarmupview_newsdetail",
+        "lang": "详细"
+    },
+    {
+        "id": "p_versionactivity_1_2_114mainview_todayschedule",
+        "lang": "今日日程"
+    },
+    {
+        "id": "p_versionactivity_1_2_114mainview_doing",
+        "lang": "进行中"
+    },
+    {
+        "id": "p_versionactivity_1_2_114mainview_cuntdownday",
+        "lang": "倒数日"
+    },
+    {
+        "id": "p_versionactivity_1_2_114mainview_chooseclass",
+        "lang": "选择科目"
+    },
+    {
+        "id": "p_activitynovicesignview_charactername",
+        "lang": "帕米埃"
+    },
+    {
+        "id": "p_summonmainview_role",
+        "lang": "角色"
+    },
+    {
+        "id": "p_summonmainview_equip",
+        "lang": "心相"
+    },
+    {
+        "id": "p_weekwalkreviveview_recommend",
+        "lang": "下一关推荐灵感:"
+    },
+    {
+        "id": "p_dungeonweekwalkview_empty",
+        "lang": "测验任务暂未达成"
+    },
+    {
+        "id": "p_dungeonweekwalkview_totalrewards",
+        "lang": "累计奖励"
+    },
+    {
+        "id": "p_versionactivitypushboxgame_quit",
+        "lang": "退出挑战"
+    },
+    {
+        "id": "p_versionactivitypushboxgame_restart",
+        "lang": "重新开始"
+    },
+    {
+        "id": "p_hepcontentitem_versionactivitypushbox1_1",
+        "lang": "1. <space=-0.12em>当<#E5906A>展柜</color>移至<#E5906A>压感装置</color>之上，大\n<space=1.1em>门将悄然而开"
+    },
+    {
+        "id": "p_hepcontentitem_versionactivitypushbox1_2",
+        "lang": "2.<space=0.27em>大门即是<#E5906A>逃生出口</color>"
+    },
+    {
+        "id": "p_hepcontentitem_versionactivitypushbox2_1",
+        "lang": "1. <space=-0.1em>此处可调整<#E5906A>行动路径</color>"
+    },
+    {
+        "id": "p_hepcontentitem_versionactivitypushbox2_2",
+        "lang": "2.<space=0.27em>点击以<#E5906A>重新</color>解题"
+    },
+    {
+        "id": "p_hepcontentitem_versionactivitypushbox2_3",
+        "lang": "3.<space=0.27em>点击以<#E5906A>修改</color>上一步骤"
+    },
+    {
+        "id": "p_hepcontentitem_versionactivitypushbox3_1",
+        "lang": "1. <space=-0.28em>若警戒值达到<#E5906A>100</color>，梅兰妮将被\n   发现，解题失败"
+    },
+    {
+        "id": "p_hepcontentitem_versionactivitypushbox3_2",
+        "lang": "2.<space=-0.1em>安保员会<#E5906A>间歇调整</color>他们的<#E5906A>监视方向</color>，请加以利用"
+    },
+    {
+        "id": "p_hepcontentitem_versionactivitypushbox3_3",
+        "lang": "经过安保员身前将引起他们的警觉"
+    },
+    {
+        "id": "p_hepcontentitem_versionactivitypushbox4_1",
+        "lang": "1. <space=-0.16em>若被探照灯发现，警戒值将增加<#E5906A>100</color>"
+    },
+    {
+        "id": "p_hepcontentitem_versionactivitypushbox4_2",
+        "lang": "2.<voffset=0.1em><space=0.18em>展柜是<#E5906A>阻挡探照灯</color>的关键，不妨善加利用"
+    },
+    {
+        "id": "p_hepcontentitem_versionactivitypushbox4_3",
+        "lang": "探照灯将照亮前方区域，请小心应对"
+    },
+    {
+        "id": "p_hepcontentitem_versionactivitypushbox5_1",
+        "lang": "1.<space=0.17em>拿好迷雾药剂，前往该处，以<#E5906A>遮蔽安保员与\n<space=1.1em>探照灯的视线</color>"
+    },
+    {
+        "id": "p_hepcontentitem_versionactivitypushbox5_2",
+        "lang": "2.<space=0.18em>迷雾仅<#E5906A>持续5秒</color>，请多加注意"
+    },
+    {
+        "id": "p_roominitbuildingview_elevate",
+        "lang": "提升"
+    },
+    {
+        "id": "p_roommaterialtipview_theme",
+        "lang": "商品内容"
+    },
+    {
+        "id": "p_weekwalkresetview_title",
+        "lang": "梦境重置"
+    },
+    {
+        "id": "p_weekwalkresetview_tips1",
+        "lang": "将重置到梦境片段："
+    },
+    {
+        "id": "p_weekwalkresetview_tips2",
+        "lang": "请选择需要重置的片段"
+    },
+    {
+        "id": "p_weekwalkresetview_tips3",
+        "lang": "暂无完成的片段"
+    },
+    {
+        "id": "p_weekwalkresetview_tips4",
+        "lang": "苏醒角色（不可上阵）"
+    },
+    {
+        "id": "p_weekwalkresetview_confirm",
+        "lang": "确认重置"
+    },
+    {
+        "id": "p_weekwalkview_reset",
+        "lang": "梦境重置"
+    },
+    {
+        "id": "p_weekwalkreviveview_retain",
+        "lang": "保留"
+    },
+    {
+        "id": "p_meilanniview_exhibition",
+        "lang": "展品"
+    },
+    {
+        "id": "p_meilanniview_normalevent",
+        "lang": "通常事件"
+    },
+    {
+        "id": "p_meilanniview_specialevent",
+        "lang": "突发事件"
+    },
+    {
+        "id": "p_meilanniview_reset",
+        "lang": "重置行动"
+    },
+    {
+        "id": "p_roomproductlinelevelupview_lacktip",
+        "lang": "条件不满足"
+    },
+    {
+        "id": "p_roomproductlinelevelupview_costtitle",
+        "lang": "条件"
+    },
+    {
+        "id": "p_meilannientrustview_actioninfo",
+        "lang": "行动信息"
+    },
+    {
+        "id": "p_weekwalkresetview_selectlevel",
+        "lang": "将重置到片段挑战前的状态"
+    },
+    {
+        "id": "p_versionactivityrewarditem_finish",
+        "lang": "已完成"
+    },
+    {
+        "id": "p_dungeonmapview_activitystorymode",
+        "lang": "<color=#f1f1f1><size=57>故</size></color><space=5>事模式"
+    },
+    {
+        "id": "p_dungeonmapview_activityhardmode",
+        "lang": "<color=#c5c5c5><size=57>探</size></color><space=5>索模式"
+    },
+    {
+        "id": "p_versionactivity_1_1_dungeonmap_normalmodeunlock",
+        "lang": "<color=#f1f1f1><size=57>故</size></color><space=5><color=#c6d1c6>事模式</color>"
+    },
+    {
+        "id": "p_versionactivity_1_1_dungeonmap_normalmodelock",
+        "lang": "<color=#626262><size=57>故</size></color><space=5><color=#4d514d>事模式</color>"
+    },
+    {
+        "id": "p_versionactivity_1_1_dungeonmap_hardmodeunlock",
+        "lang": "<color=#c5c5c5><size=57>探</size></color><space=5><color=#a99599>索模式</color>"
+    },
+    {
+        "id": "p_versionactivity_1_1_dungeonmap_hardmodelock",
+        "lang": "<color=#7a7a7a><size=57>探</size></color><space=5><color=#695c5f>索模式</color>"
+    },
+    {
+        "id": "p_giftpackview_buy_orange",
+        "lang": "前往"
+    },
+    {
+        "id": "p_giftpackview_buy_black",
+        "lang": "选购"
+    },
+    {
+        "id": "p_giftpackview_pack2_orange",
+        "lang": "新客"
+    },
+    {
+        "id": "p_giftpackview_pack2_black",
+        "lang": "特惠"
+    },
+    {
+        "id": "p_giftpackview_pack3_orange",
+        "lang": "月度"
+    },
+    {
+        "id": "p_giftpackview_pack3_black",
+        "lang": "征集酬宾"
+    },
+    {
+        "id": "p_packagestoregoodsview_gains",
+        "lang": "*累计获得"
+    },
+    {
+        "id": "p_packagestoregoodsview_immediately",
+        "lang": "立即获得"
+    },
+    {
+        "id": "p_packagestoregoodsview_signin",
+        "lang": "每日获得"
+    },
+    {
+        "id": "p_weekwalkshallowsettlementview_closetip",
+        "lang": "点击空白关闭"
+    },
+    {
+        "id": "p_weekwalkshallowsettlementview_hasreceived",
+        "lang": "已领取"
+    },
+    {
+        "id": "p_weekwalkshallowsettlementview_empty",
+        "lang": "暂无完成的测验任务"
+    },
+    {
+        "id": "p_weekwalkshallowsettlementview_receive",
+        "lang": "全部领取"
+    },
+    {
+        "id": "p_weekwalkshallowsettlementview_title",
+        "lang": "浅眠域训练报告"
+    },
+    {
+        "id": "p_weekwalkshallowsettlementview_overview",
+        "lang": "报告总览"
+    },
+    {
+        "id": "p_weekwalkshallowsettlementview_refresh",
+        "lang": "本周测验任务已刷新"
+    },
+    {
+        "id": "p_weekwalkshallowsettlementview_totalrewards",
+        "lang": "累计酬劳"
+    },
+    {
+        "id": "p_weekwalkdeeplayernoticeview_title",
+        "lang": "深眠域装置提示"
+    },
+    {
+        "id": "p_weekwalkdeeplayernoticeview_title_open",
+        "lang": "深眠域已开启"
+    },
+    {
+        "id": "p_weekwalkdeeplayernoticeview_resettip",
+        "lang": "深眠域已完成重启"
+    },
+    {
+        "id": "p_weekwalkdeeplayernoticeview_rewards",
+        "lang": "酬劳预览"
+    },
+    {
+        "id": "p_weekwalkdeeplayernoticeview_start",
+        "lang": "开启挑战"
+    },
+    {
+        "id": "p_weekwalkdeeplayernoticeview_closetip",
+        "lang": "点击空白关闭"
+    },
+    {
+        "id": "p_weekwalkdeeplayernoticeview_rule",
+        "lang": "本期规则"
+    },
+    {
+        "id": "p_roomthemetipview_collectdetail",
+        "lang": "收集详情"
+    },
+    {
+        "id": "p_mainview_testtask",
+        "lang": "先遣任务"
+    },
+    {
+        "id": "p_versionactivity_1_2_dreamtailview_normal",
+        "lang": "普通"
+    },
+    {
+        "id": "p_versionactivity_1_2_dreamtailview_hard",
+        "lang": "困难"
+    },
+    {
+        "id": "p_versionactivity_1_2_dreamtailview_canusehero",
+        "lang": "可试用角色"
+    },
+    {
+        "id": "p_versionactivity_1_2_dreamtailview_recommend",
+        "lang": "推荐等级："
+    },
+    {
+        "id": "p_versionactivity_1_2_dreamtailview_normaltask",
+        "lang": "普通要点"
+    },
+    {
+        "id": "p_versionactivity_1_2_dreamtailview_hardtask",
+        "lang": "困难要点"
+    },
+    {
+        "id": "p_versionactivity_1_2_dreamtailview_start",
+        "lang": "开始行动"
+    },
+    {
+        "id": "p_versionactivity_1_2_dreamtailview_finish",
+        "lang": "已领取"
+    },
+    {
+        "id": "p_versionactivity_1_2_dreamtailview_get",
+        "lang": "可领取"
+    },
+    {
+        "id": "p_versionactivity_1_2_dreamtailview_unfinish",
+        "lang": "未完成"
+    },
+    {
+        "id": "p_versionactivity_1_2_dreamtailview_locktip",
+        "lang": "完成普通要点后揭示"
+    },
+    {
+        "id": "p_activitychessmapgame_optip",
+        "lang": "请选择格子丢出道具"
+    },
+    {
+        "id": "p_versionactivity_1_2_taskview_goto",
+        "lang": "前往"
+    },
+    {
+        "id": "p_versionactivity_1_2_taskview_receive",
+        "lang": "可领取"
+    },
+    {
+        "id": "p_versionactivity_1_2_taskview_finish",
+        "lang": "已完成"
+    },
+    {
+        "id": "p_versionactivity_1_2_taskview_getall",
+        "lang": "全部领取"
+    },
+    {
+        "id": "p_versionactivity_1_2_taskview_getalltip",
+        "lang": "当前存在多个可领取的任务"
+    },
+    {
+        "id": "p_versionactivity_1_2_taskview_activity",
+        "lang": "林中阁楼"
+    },
+    {
+        "id": "p_versionactivity_1_2_dungeonmapinteractiveitem_canget",
+        "lang": "可获得："
+    },
+    {
+        "id": "p_versionactivity_1_2_facilitytipview_overview",
+        "lang": "设施总览"
+    },
+    {
+        "id": "p_versionactivity_1_2_herogroupview_facility",
+        "lang": "设施"
+    },
+    {
+        "id": "p_storeblockpackageview_title",
+        "lang": "【限时上架】"
+    },
+    {
+        "id": "p_storeblockpackageview_name",
+        "lang": "「音讯之声」"
+    },
+    {
+        "id": "p_storeblockpackageview_desc",
+        "lang": "*集齐当期<color=#8e7254>活动兑换</color>及<color=#8e7254>荒原构<space=10>想商店</color>的主题套装后可获取"
+    },
+    {
+        "id": "p_storeblockpackageview_buy",
+        "lang": "前往<color=#be5634>选购</color>"
+    },
+    {
+        "id": "p_bpchargeview_label1",
+        "lang": "分贝等级立即提升<size=48><voffset=-4><color=#ffe4b9>10</color></voffset></size>级"
+    },
+    {
+        "id": "p_bpchargeview_label2",
+        "lang": "包含典藏吼吼光碟所有奖励"
+    },
+    {
+        "id": "p_bpchargeview_label3",
+        "lang": "限定专属头像"
+    },
+    {
+        "id": "p_storeroleskinview_title",
+        "lang": "限时售卖"
+    },
+    {
+        "id": "p_storeroleskinview_buy",
+        "lang": "前往<color=#ff9f51>购买</color>"
+    },
+    {
+        "id": "p_exploreview_optip",
+        "lang": "交互中，点击空白处取消"
+    },
+    {
+        "id": "p_explorebackpackpropitem_inuse",
+        "lang": "使用中"
+    },
+    {
+        "id": "p_explorebackpackview_empty",
+        "lang": "暂无道具"
+    },
+    {
+        "id": "p_seasonmainview_task",
+        "lang": "成就条目"
+    },
+    {
+        "id": "p_seasonmainview_progress",
+        "lang": "市场货架"
+    },
+    {
+        "id": "p_seasonmainview_assembly",
+        "lang": "UTTU零售"
+    },
+    {
+        "id": "p_seasonmainview_celebrity",
+        "lang": "名人卡册"
+    },
+    {
+        "id": "p_giftmultiplechoiceitem_needtag",
+        "lang": "所需"
+    },
+    {
+        "id": "p_exploremainview_start",
+        "lang": "？"
+    },
+    {
+        "id": "p_exploremainview_progress",
+        "lang": "本章收集进度"
+    },
+    {
+        "id": "p_exploremainview_exploring",
+        "lang": "探索中"
+    },
+    {
+        "id": "p_seasonmarketview_pass",
+        "lang": "已通关"
+    },
+    {
+        "id": "p_seasonlevelinfoview_start",
+        "lang": "开始阅读"
+    },
+    {
+        "id": "p_seasonlevelinfoview_enemylv",
+        "lang": "敌人等级："
+    },
+    {
+        "id": "p_seasonlevelinfoview_unlock",
+        "lang": "解锁："
+    },
+    {
+        "id": "p_seasonlevelinfoview_stage",
+        "lang": "翻开篇章："
+    },
+    {
+        "id": "p_seasonsettlementview_rewards",
+        "lang": "获得奖励："
+    },
+    {
+        "id": "p_seasonsettlementview_finish",
+        "lang": "[章节完成]"
+    },
+    {
+        "id": "p_seasonmaterialtipview_tip",
+        "lang": "可在活动中提升"
+    },
+    {
+        "id": "p_seasonequipview_empty",
+        "lang": "未携带"
+    },
+    {
+        "id": "p_seasonequipview_dress",
+        "lang": "携带"
+    },
+    {
+        "id": "p_seasonfightfailview_label",
+        "lang": "附加条件"
+    },
+    {
+        "id": "p_seasonfightfailview_tipstitle_1",
+        "lang": "角色灵感被克制"
+    },
+    {
+        "id": "p_seasonheroview_dress",
+        "lang": "装备"
+    },
+    {
+        "id": "p_seasonmulticardchoiceview_title",
+        "lang": "请从以下名人卡中选择一个作为奖励"
+    },
+    {
+        "id": "p_seasonmulticardchoiceview_tips",
+        "lang": "长按名人卡或点击放大镜可查看详情"
+    },
+    {
+        "id": "p_seasonmulticardchoiceview_confirm",
+        "lang": "确认"
+    },
+    {
+        "id": "p_seasonsecretlandviewentranceitem_tagbuff",
+        "lang": "单体伤害值"
+    },
+    {
+        "id": "p_seasonsecretlandviewentranceitem_reward",
+        "lang": "奖励："
+    },
+    {
+        "id": "p_seasonsecretlandview_btnsummon",
+        "lang": "更换书目"
+    },
+    {
+        "id": "p_seasonsecretlandentranceview_reward",
+        "lang": "最高可获得"
+    },
+    {
+        "id": "p_activitystoryshowview_goto",
+        "lang": "前往"
+    },
+    {
+        "id": "p_seasonspecialmarketview_start",
+        "lang": "阅读"
+    },
+    {
+        "id": "p_seasonsecretlandentranceview_start",
+        "lang": "开始阅读"
+    },
+    {
+        "id": "p_seasonspecialmarketview_pass",
+        "lang": "已通关"
+    },
+    {
+        "id": "p_seasonrewardpreview_readprogress",
+        "lang": "<size=61>阅</size>读进度"
+    },
+    {
+        "id": "p_seasonrewardpreview_tips1",
+        "lang": "完成超级市场挑战增加翻阅进度"
+    },
+    {
+        "id": "p_seasonrewardpreview_tips2",
+        "lang": "一对嘴唇久久凝视着最后那段文字，结霜的注解与温热的鼻息于海面上空相遇，降下阵雨。"
+    },
+    {
+        "id": "p_seasonrewardpreview_tips3",
+        "lang": "寒流与暖流交汇，百年后的渔场诞生自这对沉默的鱼。"
+    },
+    {
+        "id": "p_seasonrewardpreview_headicontip",
+        "lang": "<size=46><#D27E01>限定</color></size>头像"
+    },
+    {
+        "id": "p_seasonrewardpreview_apple",
+        "lang": "胡士托的回声"
+    },
+    {
+        "id": "p_seasontaskview_getalldesc",
+        "lang": "当前存在多个可领取奖励的任务"
+    },
+    {
+        "id": "p_seasontaskview_getall",
+        "lang": "全部领取"
+    },
+    {
+        "id": "p_seasontaskview_title",
+        "lang": "<size=73>成</size>就条目"
+    },
+    {
+        "id": "p_seasonherogroupview_enemylevel",
+        "lang": "敌人等级："
+    },
+    {
+        "id": "p_activitydreamshowview_canget",
+        "lang": "可领取"
+    },
+    {
+        "id": "p_activitydreamshowview_rewardpreview",
+        "lang": "奖励预览"
+    },
+    {
+        "id": "p_activityclassshowview_icon1",
+        "lang": "伟大乐队"
+    },
+    {
+        "id": "p_activityclassshowview_icon2",
+        "lang": "十四行诗的造像"
+    },
+    {
+        "id": "p_weekwalklayerrewardview_shallowtitle",
+        "lang": "梦境长廊酬劳"
+    },
+    {
+        "id": "p_weekwalklayerrewardview_deeptitle",
+        "lang": "深眠试验酬劳"
+    },
+    {
+        "id": "p_seasonherogroupview_rule1",
+        "lang": "精读条例"
+    },
+    {
+        "id": "p_seasonherogroupview_start",
+        "lang": "开始阅读"
+    },
+    {
+        "id": "p_seasonherogroupview_aid",
+        "lang": "援助"
+    },
+    {
+        "id": "p_seasonherogroupview_restrain",
+        "lang": "克制"
+    },
+    {
+        "id": "p_handbookequipviewfilterview_getstate",
+        "lang": "获得情况"
+    },
+    {
+        "id": "p_handbookequipviewfilterview_haveget",
+        "lang": "已获得"
+    },
+    {
+        "id": "p_handbookequipviewfilterview_notget",
+        "lang": "未获得"
+    },
+    {
+        "id": "p_handbookequipviewfilterview_attrtype7",
+        "lang": "灵/智"
+    },
+    {
+        "id": "p_equipinfotipsview_tipseffect",
+        "lang": "[激发中]"
+    },
+    {
+        "id": "p_explorerewardview_title",
+        "lang": "收集奖励"
+    },
+    {
+        "id": "p_explorerewardview_tips",
+        "lang": "？"
+    },
+    {
+        "id": "p_seasonequipheroview_tips",
+        "lang": "通过UTTU零售来获得名人卡"
+    },
+    {
+        "id": "p_seasonequipheroview_empty",
+        "lang": "未装备"
+    },
+    {
+        "id": "p_seasonexchangeview_exchange",
+        "lang": "合并兑换"
+    },
+    {
+        "id": "p_seasoncomposeview_compose",
+        "lang": "兑换"
+    },
+    {
+        "id": "p_seasoncomposeview_tip",
+        "lang": "UTTU名人卡回收处，缴纳三张同品质名人卡，将合并一张相同或更高品质名人卡"
+    },
+    {
+        "id": "p_seasonsettlementview_readprocess",
+        "lang": "翻阅进度："
+    },
+    {
+        "id": "p_seasonmainview_assemblying",
+        "lang": "进行中"
+    },
+    {
+        "id": "p_seasonmainview_discountweek",
+        "lang": "特贩周"
+    },
+    {
+        "id": "p_seasonmarketview_unlock1",
+        "lang": "第一卡位"
+    },
+    {
+        "id": "p_seasonmarketview_unlock2",
+        "lang": "第二卡位"
+    },
+    {
+        "id": "p_seasonmarketview_unlock3",
+        "lang": "闪烁卡位"
+    },
+    {
+        "id": "p_seasonequipview_unload",
+        "lang": "卸下"
+    },
+    {
+        "id": "p_settingsvoicedownloadview_switch",
+        "lang": "直接切换"
+    },
+    {
+        "id": "p_activitynovicesignview_title",
+        "lang": "日"
+    },
+    {
+        "id": "p_activitynovicesignview_title1",
+        "lang": "手札"
+    },
+    {
+        "id": "p_hepcontentitem_roomagreeon_title_en",
+        "lang": "GAMEPLAY    STATEMENT"
+    },
+    {
+        "id": "p_hepcontentitem_roomagreeon_title",
+        "lang": "不休荒原玩法声明"
+    },
+    {
+        "id": "p_hepcontentitem_roomagreeon_desc",
+        "lang": "尊敬的司辰：\n      您好，欢迎体验不休荒原！在体验与使用该系统时，请您遵循您与上海深蓝互动星锑网络科技有限公司共同缔结的《许可及服务协议》，与我们共同营造良好的游戏氛围。在以下列举的行为中，您知悉并确认不会发起或参与：\n      1.任何涉及种族、民族、政治、地域、性别、宗教等歧视内容；\n      2.对任一游戏内群体或者任一现实群体有任何霸凌、侮辱等行为和内容；\n      3.违规的孤屿摆放及其分享行为；\n      4.其他《许可及服务协议》中禁止或不适宜的行为和内容。\n\n      如果您未遵守以上规则，您的游戏服务使用情况可能会受到相应的限制，包括但不限于禁言、清除不休荒原内所有的孤屿和建筑、限制或永久禁止使用不休荒原系统、强制离线、禁止登录、封停账号等措施。\n\n      同时，如果您遇到了上述任意情况，也请通过点击对方角色头像，选择“举报”功能向我们反馈，我们将尽快为您处理。"
+    },
+    {
+        "id": "p_seasonfightruletipview_label",
+        "lang": "附加条件"
+    },
+    {
+        "id": "p_seasonfightruletipview_card",
+        "lang": "名人卡"
+    },
+    {
+        "id": "p_dungeonchapteritem_unlock",
+        "lang": "未解锁"
+    },
+    {
+        "id": "p_seasoncelebritycardgetlview_title",
+        "lang": "获得名人卡"
+    },
+    {
+        "id": "p_helpcontentitem_va_1_1_chessgame1_1",
+        "lang": "1.我方角色每移动一格，计为1回合"
+    },
+    {
+        "id": "p_helpcontentitem_va_1_1_chessgame1_2",
+        "lang": "2.在限定回合内抵达终点格"
+    },
+    {
+        "id": "p_helpcontentitem_va_1_1_chessgame1_3",
+        "lang": "3.完成关卡目标，可获得更多奖励"
+    },
+    {
+        "id": "p_helpcontentitem_va_1_1_chessgame2_1",
+        "lang": "4.点击此处，可重新开始挑战"
+    },
+    {
+        "id": "p_helpcontentitem_va_1_1_chessgame_title",
+        "lang": "小狗与流浪汉玩法说明"
+    },
+    {
+        "id": "p_helpcontentitem_va_1_1_chessgame3_1",
+        "lang": "<#E99B56>我方角色</color>抵达终点格时，完成关卡"
+    },
+    {
+        "id": "p_helpcontentitem_va_1_1_chessgame4_1",
+        "lang": "游客可能会阻挡我方角色的移动路径，<#E99B56>等待对方离开后方可继续前进</color>"
+    },
+    {
+        "id": "p_helpcontentitem_va_1_1_chessgame5_1",
+        "lang": "当我方角色遭遇警官时，视为<#E99B56>挑战失败</color>。为完成关卡，请远离巡逻的警官们。"
+    },
+    {
+        "id": "p_helpcontentitem_va_1_1_chessgame6_1",
+        "lang": "若场上存在两名我方角色，两名角色均抵达终点格时，完成关卡"
+    },
+    {
+        "id": "p_helpcontentitem_va_1_1_chessgame7_1",
+        "lang": "1.移动至道具格时，可使用该道具"
+    },
+    {
+        "id": "p_helpcontentitem_va_1_1_chessgame7_2",
+        "lang": "2.使用道具可以<#E99B56>吸引</color>某些敌方角色的注意，使其向道具所在的格位移动"
+    },
+    {
+        "id": "p_helpcontentitem_va_1_1_chessgame7_3",
+        "lang": "使用道具"
+    },
+    {
+        "id": "p_helpcontentitem_va_1_1_chessgame8_1",
+        "lang": "通过战斗可驱离路径上的魔精"
+    },
+    {
+        "id": "p_helpcontentitem_va_1_1_chessgame9_1",
+        "lang": "收集地图上散落的传单，完成关卡目标"
+    },
+    {
+        "id": "p_helpcontentitem_va_1_1_chessgame10_1",
+        "lang": "在特殊情况下，警官将锁定并持续追捕我方角色"
+    },
+    {
+        "id": "p_commonheroitemnew_trialtag",
+        "lang": "协助"
+    },
+    {
+        "id": "p_versionactivity_1_2_tradeshopview_finish",
+        "lang": "已成交"
+    },
+    {
+        "id": "p_versionnactivity_1_2_tradequoteview_finish",
+        "lang": "已成交"
+    },
+    {
+        "id": "p_characterexskillview_trialtip",
+        "lang": "协助角色无法进行塑造"
+    },
+    {
+        "id": "p_equipinfoteamshowview_trialtip",
+        "lang": "协助角色无法进行操作"
+    },
+    {
+        "id": "p_activitynorsignitem_tomorrowget",
+        "lang": "明日可领"
+    },
+    {
+        "id": "p_charactertalenttipview_trialattributetip",
+        "lang": "共鸣属性"
+    },
+    {
+        "id": "p_seasonherogroupview_label",
+        "lang": "附加条件"
+    },
+    {
+        "id": "p_herogroupview_additionrule",
+        "lang": "附加条件"
+    },
+    {
+        "id": "p_seasoncelebritycarditem_probability",
+        "lang": "概率"
+    },
+    {
+        "id": "p_fightview_enemyinfo",
+        "lang": "敌方情报"
+    },
+    {
+        "id": "p_activityweekwalkdeepview_goto",
+        "lang": "前往"
+    },
+    {
+        "id": "p_activityweekwalkdeepview_rewardpreview",
+        "lang": "奖励预览"
+    },
+    {
+        "id": "p_activityweekwalkdeepview_progress",
+        "lang": "挑战进度"
+    },
+    {
+        "id": "p_activityweekwalkdeepview_rule",
+        "lang": "本期规则"
+    },
+    {
+        "id": "p_vahelpcontentitem_season1_1",
+        "lang": "UTTU闪烁集会路线图"
+    },
+    {
+        "id": "p_vahelpcontentitem_season1_2",
+        "lang": "<size=36><#FF906A>【UTTU超级市场】</color></size>——闪烁集会的中心，通过挑战可获得<#FF906A>衣着、头像</color>等丰厚嘉奖"
+    },
+    {
+        "id": "p_vahelpcontentitem_season1_3",
+        "lang": "<size=26><#777775>*UTTU闪烁集会——由UTTU杂志社定期举办的群体性阅读活动</color></size>"
+    },
+    {
+        "id": "p_vahelpcontentitem_season2_1",
+        "lang": "在<size=36><#FF906A>UTTU超级市场</color></size>可阅读【闪烁总刊】，阅读至对应章节以获得纪念品奖励"
+    },
+    {
+        "id": "p_vahelpcontentitem_season2_2",
+        "lang": "<size=26><#777775>*【闪烁总刊】分为若干章节，随着阅读加深，集会氛围也愈加热烈</color></size>"
+    },
+    {
+        "id": "p_vahelpcontentitem_season3_1",
+        "lang": "“闪烁侧刊”阅读指南"
+    },
+    {
+        "id": "p_vahelpcontentitem_season3_2",
+        "lang": "随机出现多场贩售时，每次可选择1个进行参与"
+    },
+    {
+        "id": "p_vahelpcontentitem_season3_3",
+        "lang": "当UTTU超级市场<#FF906A>阅读章节提升</color>，UTTU零售的<#FF906A>数量、难度、奖励随之提升</color>"
+    },
+    {
+        "id": "p_vahelpcontentitem_season3_4",
+        "lang": "通过<size=36><#FF906A>【UTTU零售】</color></size>阅读“闪烁侧刊”并获得<#FF906A>名人卡</color>"
+    },
+    {
+        "id": "p_vahelpcontentitem_season3_5",
+        "lang": "*名人卡在活动结束后回收</size>"
+    },
+    {
+        "id": "p_vahelpcontentitem_season3_6",
+        "lang": "消耗<#FF906A>【可阅次数】</color>可探访UTTU零售"
+    },
+    {
+        "id": "p_vahelpcontentitem_season3_7",
+        "lang": "*【可阅次数】每日凌晨5时（UTC+8）自动获得5次，至多储存10次"
+    },
+    {
+        "id": "p_vahelpcontentitem_season4_1",
+        "lang": "部分UTTU零售的阅读会出现<size=36><#FF906A>【精读条例】</color></size>"
+    },
+    {
+        "id": "p_vahelpcontentitem_season4_2",
+        "lang": "部分关卡批注了适合的阅读方式，敬请留意"
+    },
+    {
+        "id": "p_vahelpcontentitem_season4_3",
+        "lang": "达成精读条例，将获得双倍掉落奖励"
+    },
+    {
+        "id": "p_vahelpcontentitem_season5_1",
+        "lang": "探访UTTU零售可获得<#FF906A>名人卡</color>，翻阅UTTU超级市场可获得<#FF906A>闪烁名人卡</color>"
+    },
+    {
+        "id": "p_vahelpcontentitem_season5_2",
+        "lang": "闪烁名人卡对<#FF906A>全队成员生效</color>，每次至多携带1张"
+    },
+    {
+        "id": "p_vahelpcontentitem_season5_3",
+        "lang": "名人卡仅对<#FF906A>携带角色生效</color>，随着UTTU超级市场阅读章节提升，单个角色至多携带2张"
+    },
+    {
+        "id": "p_vahelpcontentitem_season6_1",
+        "lang": "看过来！小书虫们！"
+    },
+    {
+        "id": "p_vahelpcontentitem_season6_2",
+        "lang": "<size=36><#FF906A>【特贩周】</color></size><space=-0.35em><voffset=-0.08em>重新展览UTTU超级市场部分章节</voffset>"
+    },
+    {
+        "id": "p_vahelpcontentitem_season6_3",
+        "lang": "特贩周收录的文章将限时<#FF906A>全部开放</color>\n<#FF906A>成就</color>也增加了特贩周相关条目"
+    },
+    {
+        "id": "p_vahelpcontentitem_season6_4",
+        "lang": "*翻阅进度至第20章，才可开启特贩周"
+    },
+    {
+        "id": "p_vahelpcontentitem_season7_1",
+        "lang": "UTTU零售额外推出<voffset=0.07em><space=-0.4em><size=36><#FF906A>【全面精读】</color></size>，翻阅进度提升将增加出现概率"
+    },
+    {
+        "id": "p_vahelpcontentitem_season7_2",
+        "lang": "完成阅读即可获得对应品质的<#FF906A>自选名人卡</color>"
+    },
+    {
+        "id": "p_roomtaskdetailview_edit",
+        "lang": "去编辑"
+    },
+    {
+        "id": "p_roomtaskdetailview_expansion",
+        "lang": "去扩建"
+    },
+    {
+        "id": "p_seasonmarketview_couldget",
+        "lang": "可获得："
+    },
+    {
+        "id": "p_va_1_1_meilanni_1_1",
+        "lang": "以盗制盗玩法说明"
+    },
+    {
+        "id": "p_va_1_1_meilanni_1_2",
+        "lang": "处理事件需消耗行动次数。根据应对策略的不同，事件的走向和影响将发生变化"
+    },
+    {
+        "id": "p_va_1_1_meilanni_1_3",
+        "lang": "结果一"
+    },
+    {
+        "id": "p_va_1_1_meilanni_1_4",
+        "lang": "结果二"
+    },
+    {
+        "id": "p_va_1_1_meilanni_1_5",
+        "lang": "突发事件\n必须处理"
+    },
+    {
+        "id": "p_va_1_1_meilanni_1_6",
+        "lang": "通常事件\n选择处理"
+    },
+    {
+        "id": "p_va_1_1_meilanni_1_7",
+        "lang": "事件过期"
+    },
+    {
+        "id": "p_va_1_1_meilanni_2_1",
+        "lang": "解决突发事件能解除敌人的特殊效果，将其击败即可完成此次挑战"
+    },
+    {
+        "id": "p_va_1_1_meilanni_3_1",
+        "lang": "委托人将综合各个事件的评价，给出此次挑战的最终评级"
+    },
+    {
+        "id": "p_va_1_1_meilanni_3_2",
+        "lang": "* 挑战开始时可获得初始评价分数，若分数降为0，挑战将直接失败"
+    },
+    {
+        "id": "p_normalstoregoodsitem_herofull",
+        "lang": "可获得造像数已达最大"
+    },
+    {
+        "id": "p_seasonspecialmarketview_couldget",
+        "lang": "可获得："
+    },
+    {
+        "id": "p_meilannidialogitem_overdue",
+        "lang": "过期事件"
+    },
+    {
+        "id": "p_seasonretailview_tips",
+        "lang": "请选择其中一个篇章进行阅读…"
+    },
+    {
+        "id": "p_seasonsettlementview_processtip",
+        "lang": "翻阅进度"
+    },
+    {
+        "id": "p_seasonsettlementview_getreward",
+        "lang": "获得奖励"
+    },
+    {
+        "id": "p_characterskintagview_title",
+        "lang": "宣传折页"
+    },
+    {
+        "id": "p_seasonretailview_search",
+        "lang": "寻找书目"
+    },
+    {
+        "id": "p_seasonretailview_normaltip",
+        "lang": "达成精读条例<color=#e47124>双倍掉落</color>"
+    },
+    {
+        "id": "p_seasonretailview_specialtip",
+        "lang": "达成精读条例获得<color=#e47124>自选名人卡</color>"
+    },
+    {
+        "id": "p_seasonfightquittipview_passtarget",
+        "lang": "精读条例"
+    },
+    {
+        "id": "p_seasonsettlementview_maxlayer",
+        "lang": "书岭的顶峰"
+    },
+    {
+        "id": "p_seasonherogroupview_counter",
+        "lang": "被克"
+    },
+    {
+        "id": "p_seasontaskitem_unfinish",
+        "lang": "未达成"
+    },
+    {
+        "id": "p_seasonspecialmarketview_specialmarket",
+        "lang": "特贩周"
+    },
+    {
+        "id": "p_seasonspecialmarketview_leveltip",
+        "lang": "由UTTU超级市场独家推出，将高人气文章收录集结，重新展览！"
+    },
+    {
+        "id": "p_seasonretailview_rule3",
+        "lang": "翻阅进度至第7章后，小概率出现闪烁名人卡"
+    },
+    {
+        "id": "p_versionactivitypuzzleview_tip",
+        "lang": "一份闲暇之余的填字游戏，但愿它能让你会心一笑。"
+    },
+    {
+        "id": "p_weekwalklayerrewardview_dangqian",
+        "lang": "当前"
+    },
+    {
+        "id": "p_weekwalkrewardview_alltxt",
+        "lang": "全部领取"
+    },
+    {
+        "id": "p_handbookcharacterswitchview_txhj",
+        "lang": "特写合集"
+    },
+    {
+        "id": "p_bpbuyview_buylevel",
+        "lang": "购买等级"
+    },
+    {
+        "id": "p_bpchargeview_lefttitle",
+        "lang": "典藏吼吼光碟"
+    },
+    {
+        "id": "p_bpchargeview_righttitle",
+        "lang": "典藏吼吼光碟组"
+    },
+    {
+        "id": "p_bpchargeview_centerdesc",
+        "lang": "镜中幕间"
+    },
+    {
+        "id": "p_bpchargeview_nametxt",
+        "lang": "——夏利"
+    },
+    {
+        "id": "p_bpleveluptipview_maincn",
+        "lang": "分贝等级提升"
+    },
+    {
+        "id": "p_bpview_levelcn",
+        "lang": "分贝等级"
+    },
+    {
+        "id": "p_bpview_weeklimitcn",
+        "lang": "本周分贝上限"
+    },
+    {
+        "id": "p_bpview_maxtxt",
+        "lang": "已达满级"
+    },
+    {
+        "id": "p_characterskingainview_clothing",
+        "lang": "着装"
+    },
+    {
+        "id": "p_characterskingainview_clothed",
+        "lang": "着装中"
+    },
+    {
+        "id": "p_characterskinswitchview_buy",
+        "lang": "购买"
+    },
+    {
+        "id": "p_mailview_title",
+        "lang": "邮件"
+    },
+    {
+        "id": "p_mailview_time",
+        "lang": "时间："
+    },
+    {
+        "id": "p_mainthumbnailview_lang_namecn",
+        "lang": "周边"
+    },
+    {
+        "id": "p_characterview_equipfavorite",
+        "lang": "心相偏好"
+    },
+    {
+        "id": "p_roomformulaview_txt",
+        "lang": "配方列表"
+    },
+    {
+        "id": "p_storemonthcardview_langtxt2",
+        "lang": "每日赠送"
+    },
+    {
+        "id": "p_storemonthcardview_langtxt1",
+        "lang": "购买即可获得"
+    },
+    {
+        "id": "p_summonpoolhistoryview_txt",
+        "lang": "回顾"
+    },
+    {
+        "id": "p_storeblockpackageview_txt",
+        "lang": "前往<color=#be5634>选购</color>"
+    },
+    {
+        "id": "p_roomstoreview_cn",
+        "lang": "即将上新"
+    },
+    {
+        "id": "p_storemonthcardview_#txt_title1",
+        "lang": "咆哮"
+    },
+    {
+        "id": "p_storemonthcardview_#txt_title2",
+        "lang": "的一月"
+    },
+    {
+        "id": "p_storemonthcardview_#txt_dec",
+        "lang": "购买这本月历，当月都在快活的咆哮中度过"
+    },
+    {
+        "id": "p_equipinfoteamshowview_jumptxt",
+        "lang": "前往印刻"
+    },
+    {
+        "id": "p_exploregetitemview_#go_jumptxt",
+        "lang": "来源"
+    },
+    {
+        "id": "p_exploregetitemview_usedesc",
+        "lang": "制造出的岩石非常沉重，但最多同时存在一块\n可以用作机关道具或障碍物"
+    },
+    {
+        "id": "p_explorequittipview_#txt_titlecn",
+        "lang": "岩之遗址"
+    },
+    {
+        "id": "p_roomstoreview_cn1",
+        "lang": "即将上新"
+    },
+    {
+        "id": "p_storeskinview_cn1",
+        "lang": "即 将 上 新"
+    },
+    {
+        "id": "p_roomstoreview_#txt_type",
+        "lang": "主题套装"
+    },
+    {
+        "id": "p_roomstoreview_cn2",
+        "lang": "查看详情"
+    },
+    {
+        "id": "p_roomstoreview_discountcn",
+        "lang": "购买套装优惠"
+    },
+    {
+        "id": "p_roomstoreview_hascn",
+        "lang": "已拥有"
+    },
+    {
+        "id": "p_roomstoreview_emptycn",
+        "lang": "即将上新"
+    },
+    {
+        "id": "p_packagestoregoodsview_txt",
+        "lang": "立即订阅可获得粹雨滴x300。"
+    },
+    {
+        "id": "p_packagestoregoodsview_txt (1)",
+        "lang": "连续30日，每日登录可获得纯雨滴x90和苦目糖果（限时）x1。"
+    },
+    {
+        "id": "p_packagestoregoodsitem_#txt_cn",
+        "lang": "售罄"
+    },
+    {
+        "id": "p_normalstoregoodsview_langtxt",
+        "lang": "包含内容"
+    },
+    {
+        "id": "p_giftpacksview_#txt_pack1",
+        "lang": "首轮征集狂欢"
+    },
+    {
+        "id": "p_giftpacksview_bigtxt",
+        "lang": "精选"
+    },
+    {
+        "id": "p_giftpacksview_smalltxt",
+        "lang": "礼包推荐"
+    },
+    {
+        "id": "p_signindetailview_toptxt2",
+        "lang": "奖励"
+    },
+    {
+        "id": "p_signindetailview_toptxt",
+        "lang": "<size=56>今</size>日"
+    },
+    {
+        "id": "p_signindetailview_bottomtxt",
+        "lang": "奖励"
+    },
+    {
+        "id": "p_signindetailview_toptxt1",
+        "lang": "<size=54>月</size>历"
+    },
+    {
+        "id": "p_settingsvoicepackageview_#txt_desc",
+        "lang": "默认语音和使用中的语音不可删除"
+    },
+    {
+        "id": "p_settingsvoicepackageview_delete",
+        "lang": "删除"
+    },
+    {
+        "id": "p_settingsvoicepackagelistitem_#txt_selected",
+        "lang": "使用中"
+    },
+    {
+        "id": "p_settingsvoicedownloadview_txt",
+        "lang": "语音包下载"
+    },
+    {
+        "id": "p_settingsvoicedownloadview_#txt_desc",
+        "lang": "资源下载完成，是否立即切换语音？"
+    },
+    {
+        "id": "p_settingsvoicedownloadview_#txt_cancel",
+        "lang": "取消"
+    },
+    {
+        "id": "p_activity109chesstaskview_getalldesc",
+        "lang": "当前存在多个可领取的任务"
+    },
+    {
+        "id": "p_activity109chesstaskview_getall",
+        "lang": "全部领取"
+    },
+    {
+        "id": "p_materialtipview_#go_upgrade",
+        "lang": "可在活动中提升"
+    },
+    {
+        "id": "p_materialtipview_content",
+        "lang": "包含内容"
+    },
+    {
+        "id": "p_seasonmainview_top",
+        "lang": "书岭的顶峰"
+    },
+    {
+        "id": "p_seasonretailview_rule2",
+        "lang": "翻阅章节越多，高品质名人卡获取概率越高"
+    },
+    {
+        "id": "p_nicknameconfirmview_confirm",
+        "lang": "确认"
+    },
+    {
+        "id": "p_nicknameconfirmview_cancel",
+        "lang": "取消"
+    },
+    {
+        "id": "p_versionactivitytaskitem_getall",
+        "lang": "全部领取"
+    },
+    {
+        "id": "p_versionactivityenterview_week",
+        "lang": "特贩周"
+    },
+    {
+        "id": "p_storeskingoodsview_remain",
+        "lang": "限时"
+    },
+    {
+        "id": "p_storeskingoodsitem_owned",
+        "lang": "已拥有"
+    },
+    {
+        "id": "p_roomthemetipview_collectdesc",
+        "lang": "集齐<color=#8e7254>套装</color>后自动领取"
+    },
+    {
+        "id": "p_settingsaccountview_destoryaccount",
+        "lang": "账号注销"
+    }
+]

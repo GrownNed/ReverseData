@@ -1,0 +1,22 @@
+[
+    {
+        "chapterId": 11101,
+        "activityId": 11104,
+        "openDay": 1
+    },
+    {
+        "chapterId": 11201,
+        "activityId": 11104,
+        "openDay": 8
+    },
+    {
+        "chapterId": 11301,
+        "activityId": 11104,
+        "openDay": 1
+    },
+    {
+        "chapterId": 11401,
+        "activityId": 11104,
+        "openDay": 1
+    }
+]
