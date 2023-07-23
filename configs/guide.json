@@ -1510,7 +1510,7 @@
         "id": 808,
         "desc": "赛季-特贩周开启首次进入赛季主界面",
         "isOnline": 1,
-        "trigger": "FinishGuide#803",
+        "trigger": "FinishGuide#810",
         "invalid": "ActivityEnd#11100",
         "interruptFinish": 1,
         "priority": 0,

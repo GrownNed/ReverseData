@@ -130,5 +130,27 @@
         "poolDetail": 3,
         "characterDetail": "111211#111212",
         "historyShowType": 4
+    },
+    {
+        "id": 11131,
+        "priority": 1110,
+        "type": 3,
+        "nameCn": "星的栖居",
+        "nameEn": "Where the Star Alighted",
+        "desc": "轮换池",
+        "advertising": "",
+        "banner": "yuanlv",
+        "bannerFlag": 0,
+        "prefabPath": "version_1_2/versionsummonyuanlvhalfview",
+        "customClz": "SummonCharacterProbUpVer123",
+        "cost1": "1#140001#1",
+        "cost10": "1#140002#1|1#140001#10",
+        "initWeight": "5#150|4#850|3#4000|2#4500|1#500",
+        "upWeight": "3048|3022#3037",
+        "awardTime": "60|70",
+        "changeWeight": "5#500",
+        "poolDetail": 4,
+        "characterDetail": "111311",
+        "historyShowType": 4
     }
 ]

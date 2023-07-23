@@ -1657,12 +1657,12 @@
     },
     {
         "id": 900,
-        "name": "？？？",
+        "name": "命题的澄清",
         "color": 1,
         "isNoShow": 0,
         "isNoShowCharacter": 0,
         "isNoShow4ActiveSkill": 0,
-        "desc": "？？？"
+        "desc": "皮克勒斯的下一次普通咒语或至终的仪式获得强化（生效后减少1层）"
     },
     {
         "id": 901,

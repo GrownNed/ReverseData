@@ -1265,7 +1265,7 @@
     },
     {
         "id": "room_levelup_init_character",
-        "lang": "可邀请角色数量上限提升"
+        "lang": "基础可邀请角色数量上限提升"
     },
     {
         "id": "room_levelup_line_reserve",
@@ -2674,5 +2674,13 @@
     {
         "id": "storeskinpreviewview_btnswitch",
         "lang": "立绘"
+    },
+    {
+        "id": "herogroupeditview_recommend",
+        "lang": "推荐灵感："
+    },
+    {
+        "id": "herogroupeditview_notrecommend",
+        "lang": "推荐灵感：无"
     }
 ]

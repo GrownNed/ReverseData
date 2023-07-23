@@ -1,7 +1,7 @@
 [
     {
         "id": 301,
-        "unlocklevel": 2,
+        "unlocklevel": 1,
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
@@ -13,7 +13,7 @@
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
-        "content": "请优先消灭敌方的再生力量，使战斗更加快捷高效"
+        "content": "优先消灭敌方的有生力量，可使战斗更加快捷高效"
     },
     {
         "id": 303,
@@ -21,19 +21,19 @@
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
-        "content": "高阶咒语的效果强于低阶咒语。"
+        "content": "高阶咒语的效果强于低阶咒语"
     },
     {
         "id": 304,
-        "unlocklevel": 2,
+        "unlocklevel": 1,
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
-        "content": "兽克制木、木克制星、星克制岩、岩克制兽\n当角色面对被其克制的敌人时，角色造成的创伤增加"
+        "content": "兽克制木、木克制星、星克制岩、岩克制兽\n当角色攻击被其克制的敌人时，角色造成的创伤增加"
     },
     {
         "id": 305,
-        "unlocklevel": 2,
+        "unlocklevel": 1,
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
@@ -41,15 +41,15 @@
     },
     {
         "id": 306,
-        "unlocklevel": 2,
+        "unlocklevel": 1,
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
-        "content": "【石化】与【眩晕】可以使敌人陷入无法行动的状态"
+        "content": "【石化】、【冰冻】、【眩晕】可以使敌人陷入无法行动的状态"
     },
     {
         "id": 307,
-        "unlocklevel": 2,
+        "unlocklevel": 1,
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
@@ -57,7 +57,7 @@
     },
     {
         "id": 308,
-        "unlocklevel": 2,
+        "unlocklevel": 1,
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
@@ -65,7 +65,7 @@
     },
     {
         "id": 309,
-        "unlocklevel": 2,
+        "unlocklevel": 1,
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
@@ -73,7 +73,7 @@
     },
     {
         "id": 310,
-        "unlocklevel": 2,
+        "unlocklevel": 1,
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
@@ -85,31 +85,23 @@
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
-        "content": "率先集火攻击同个敌人，造成减员，可降低敌方每回合的行动次数"
+        "content": "请注意，【精神创伤】会唤醒陷入【冰冻】状态的敌人"
     },
     {
         "id": 312,
-        "unlocklevel": 2,
+        "unlocklevel": 1,
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
-        "content": "让己方获得【增益】，让敌方陷入【减益】"
-    },
-    {
-        "id": 313,
-        "unlocklevel": 2,
-        "weight": 100,
-        "title": "作战手册-2",
-        "titleen": "Field Manual-2",
-        "content": "灵、智跳脱于兽、木、星、岩灵感之外，仅会对彼此造成更高创伤"
+        "content": "率先集火攻击同个敌人，造成减员，可降低敌方每回合的行动次数"
     },
     {
         "id": 314,
-        "unlocklevel": 2,
+        "unlocklevel": 1,
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
-        "content": "手牌上限取决于我方存活人数，当场上4人存活时，我方拥有7张手牌"
+        "content": "咒语上限取决于我方场上存活和援助人数，当达到4人时，我方将拥有7个咒语"
     },
     {
         "id": 315,
@@ -117,11 +109,11 @@
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
-        "content": "当我方遭遇减员后，回合行动次数将减少，也更为容易获得高阶神秘术。永远不要放弃希望"
+        "content": "当我方减员后，回合行动次数将减少，也更容易获得高阶神秘术。永远不要放弃希望"
     },
     {
         "id": 316,
-        "unlocklevel": 2,
+        "unlocklevel": 1,
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
@@ -129,15 +121,15 @@
     },
     {
         "id": 317,
-        "unlocklevel": 2,
+        "unlocklevel": 1,
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
-        "content": "困难模式中的部分规则同时对敌我双方生效，请注意阅读规则信息，合理地利用它"
+        "content": "部分玩法的战场规则对敌我双方有强力效果，请注意阅读规则信息并合理利用"
     },
     {
         "id": 318,
-        "unlocklevel": 2,
+        "unlocklevel": 1,
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
@@ -145,10 +137,42 @@
     },
     {
         "id": 319,
-        "unlocklevel": 2,
+        "unlocklevel": 1,
         "weight": 100,
         "title": "作战手册-2",
         "titleen": "Field Manual-2",
-        "content": "本源创伤将无视任何防御和创伤减免的固定创伤，也将无法受到任何的形式创伤加成"
+        "content": "本源创伤是无视任何防御和创伤减免的固定创伤，但也无法受到绝大多数的创伤加成"
+    },
+    {
+        "id": 320,
+        "unlocklevel": 1,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "同名的状态效果，会根据效果强度和持续时间进行覆盖"
+    },
+    {
+        "id": 321,
+        "unlocklevel": 1,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "战斗中，不应盲目移动咒语升阶；根据场上形式，合理分配行动次数才是最优解"
+    },
+    {
+        "id": 322,
+        "unlocklevel": 1,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "战斗中，若想快速跳过回合，可以手动移动咒语，消耗行动次数的同时还将获得激情"
+    },
+    {
+        "id": 323,
+        "unlocklevel": 1,
+        "weight": 100,
+        "title": "作战手册-2",
+        "titleen": "Field Manual-2",
+        "content": "艰难的战斗中，合理使用律的调校也是通向胜利重要的一环"
     }
 ]

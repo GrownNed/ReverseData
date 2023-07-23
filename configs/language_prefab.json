@@ -5493,7 +5493,7 @@
     },
     {
         "id": "p_hepcontentitem_versionactivitypushbox5_2",
-        "lang": "2.<space=0.18em>迷雾仅<#E5906A>持续5秒</color>，请多加注意"
+        "lang": "2.<space=0.18em>迷雾仅<#E5906A>持续10秒</color>，请多加注意"
     },
     {
         "id": "p_roominitbuildingview_elevate",
@@ -6774,5 +6774,9 @@
     {
         "id": "p_settingsaccountview_destoryaccount",
         "lang": "账号注销"
+    },
+    {
+        "id": "p_weekwalklayerview_rule",
+        "lang": "本期规则"
     }
 ]

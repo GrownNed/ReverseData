@@ -43426,8 +43426,8 @@
     },
     {
         "template": 81130101,
-        "life": 8443,
-        "attack": 1090,
+        "life": 13554,
+        "attack": 1070,
         "defense": 444,
         "mdefense": 444,
         "technic": 221,
@@ -43451,7 +43451,7 @@
     },
     {
         "template": 81130201,
-        "life": 8443,
+        "life": 11443,
         "attack": 1090,
         "defense": 444,
         "mdefense": 444,
@@ -43476,7 +43476,7 @@
     },
     {
         "template": 81130301,
-        "life": 10998,
+        "life": 20998,
         "attack": 1113,
         "defense": 528,
         "mdefense": 528,
@@ -43501,8 +43501,8 @@
     },
     {
         "template": 81130302,
-        "life": 8470,
-        "attack": 1297,
+        "life": 15170,
+        "attack": 1147,
         "defense": 528,
         "mdefense": 450,
         "technic": 177,
@@ -43526,8 +43526,8 @@
     },
     {
         "template": 81130303,
-        "life": 7999,
-        "attack": 1225,
+        "life": 12199,
+        "attack": 1105,
         "defense": 499,
         "mdefense": 425,
         "technic": 184,
@@ -43602,7 +43602,7 @@
     {
         "template": 81130501,
         "life": 30661,
-        "attack": 1488,
+        "attack": 1388,
         "defense": 607,
         "mdefense": 607,
         "technic": 195,
@@ -43626,7 +43626,7 @@
     },
     {
         "template": 81130601,
-        "life": 64504,
+        "life": 80504,
         "attack": 1243,
         "defense": 590,
         "mdefense": 590,
@@ -43651,8 +43651,8 @@
     },
     {
         "template": 81130701,
-        "life": 11421,
-        "attack": 1155,
+        "life": 21421,
+        "attack": 1085,
         "defense": 548,
         "mdefense": 548,
         "technic": 330,
@@ -43676,8 +43676,8 @@
     },
     {
         "template": 81130702,
-        "life": 9658,
-        "attack": 1244,
+        "life": 15658,
+        "attack": 1164,
         "defense": 508,
         "mdefense": 508,
         "technic": 258,
@@ -43751,8 +43751,8 @@
     },
     {
         "template": 81130901,
-        "life": 10723,
-        "attack": 1409,
+        "life": 25723,
+        "attack": 1280,
         "defense": 587,
         "mdefense": 587,
         "technic": 288,
@@ -43776,8 +43776,8 @@
     },
     {
         "template": 81130902,
-        "life": 10163,
-        "attack": 1400,
+        "life": 18163,
+        "attack": 1250,
         "defense": 528,
         "mdefense": 528,
         "technic": 452,
@@ -43801,8 +43801,8 @@
     },
     {
         "template": 81130903,
-        "life": 11231,
-        "attack": 1135,
+        "life": 18231,
+        "attack": 1085,
         "defense": 539,
         "mdefense": 539,
         "technic": 227,
@@ -43827,7 +43827,7 @@
     {
         "template": 81131001,
         "life": 10163,
-        "attack": 1400,
+        "attack": 1300,
         "defense": 528,
         "mdefense": 528,
         "technic": 162,
@@ -43952,7 +43952,7 @@
     {
         "template": 81131102,
         "life": 10942,
-        "attack": 1389,
+        "attack": 1339,
         "defense": 567,
         "mdefense": 612,
         "technic": 221,
@@ -44001,7 +44001,7 @@
     },
     {
         "template": 81131201,
-        "life": 49212,
+        "life": 75212,
         "attack": 1274,
         "defense": 604,
         "mdefense": 604,
@@ -44052,7 +44052,7 @@
     {
         "template": 81131203,
         "life": 10416,
-        "attack": 1318,
+        "attack": 1268,
         "defense": 567,
         "mdefense": 567,
         "technic": 194,
@@ -44077,7 +44077,7 @@
     {
         "template": 81131204,
         "life": 13042,
-        "attack": 1289,
+        "attack": 1259,
         "defense": 629,
         "mdefense": 567,
         "technic": 425,
@@ -44102,7 +44102,7 @@
     {
         "template": 81131205,
         "life": 10858,
-        "attack": 1389,
+        "attack": 1239,
         "defense": 567,
         "mdefense": 567,
         "technic": 194,
@@ -44126,8 +44126,8 @@
     },
     {
         "template": 81140101,
-        "life": 8782,
-        "attack": 1132,
+        "life": 15613,
+        "attack": 1126,
         "defense": 462,
         "mdefense": 462,
         "technic": 221,
@@ -44151,7 +44151,7 @@
     },
     {
         "template": 81140201,
-        "life": 8782,
+        "life": 12782,
         "attack": 1132,
         "defense": 462,
         "mdefense": 462,
@@ -44176,7 +44176,7 @@
     },
     {
         "template": 81140301,
-        "life": 10575,
+        "life": 12998,
         "attack": 1071,
         "defense": 508,
         "mdefense": 508,
@@ -44201,8 +44201,8 @@
     },
     {
         "template": 81140302,
-        "life": 8142,
-        "attack": 1248,
+        "life": 12170,
+        "attack": 1148,
         "defense": 508,
         "mdefense": 433,
         "technic": 177,
@@ -44226,8 +44226,8 @@
     },
     {
         "template": 81140303,
-        "life": 7690,
-        "attack": 1179,
+        "life": 12199,
+        "attack": 1079,
         "defense": 480,
         "mdefense": 409,
         "technic": 184,
@@ -44251,7 +44251,7 @@
     },
     {
         "template": 81140401,
-        "life": 8508,
+        "life": 7008,
         "attack": 1090,
         "defense": 444,
         "mdefense": 480,
@@ -44276,7 +44276,7 @@
     },
     {
         "template": 81140402,
-        "life": 8508,
+        "life": 7008,
         "attack": 1090,
         "defense": 480,
         "mdefense": 444,
@@ -44302,7 +44302,7 @@
     {
         "template": 81140501,
         "life": 30661,
-        "attack": 1488,
+        "attack": 1388,
         "defense": 607,
         "mdefense": 607,
         "technic": 195,
@@ -44326,7 +44326,7 @@
     },
     {
         "template": 81140601,
-        "life": 64504,
+        "life": 80504,
         "attack": 1243,
         "defense": 590,
         "mdefense": 590,
@@ -44351,8 +44351,8 @@
     },
     {
         "template": 81140701,
-        "life": 11892,
-        "attack": 1202,
+        "life": 28421,
+        "attack": 1285,
         "defense": 570,
         "mdefense": 570,
         "technic": 330,
@@ -44376,8 +44376,8 @@
     },
     {
         "template": 81140702,
-        "life": 10060,
-        "attack": 1294,
+        "life": 16658,
+        "attack": 1264,
         "defense": 528,
         "mdefense": 528,
         "technic": 258,
@@ -44401,8 +44401,8 @@
     },
     {
         "template": 81140801,
-        "life": 11231,
-        "attack": 1135,
+        "life": 11786,
+        "attack": 1191,
         "defense": 539,
         "mdefense": 539,
         "technic": 212,
@@ -44426,8 +44426,8 @@
     },
     {
         "template": 81140802,
-        "life": 9501,
-        "attack": 1222,
+        "life": 11122,
+        "attack": 1275,
         "defense": 499,
         "mdefense": 499,
         "technic": 177,
@@ -44451,8 +44451,8 @@
     },
     {
         "template": 81140901,
-        "life": 10723,
-        "attack": 1409,
+        "life": 23723,
+        "attack": 1190,
         "defense": 587,
         "mdefense": 587,
         "technic": 288,
@@ -44476,8 +44476,8 @@
     },
     {
         "template": 81140902,
-        "life": 10163,
-        "attack": 1400,
+        "life": 14163,
+        "attack": 1180,
         "defense": 528,
         "mdefense": 528,
         "technic": 452,
@@ -44501,8 +44501,8 @@
     },
     {
         "template": 81140903,
-        "life": 11231,
-        "attack": 1135,
+        "life": 14231,
+        "attack": 1000,
         "defense": 539,
         "mdefense": 539,
         "technic": 227,
@@ -44526,8 +44526,8 @@
     },
     {
         "template": 81141001,
-        "life": 10163,
-        "attack": 1400,
+        "life": 9163,
+        "attack": 1250,
         "defense": 528,
         "mdefense": 528,
         "technic": 162,
@@ -44551,8 +44551,8 @@
     },
     {
         "template": 81141002,
-        "life": 10651,
-        "attack": 1268,
+        "life": 9651,
+        "attack": 1218,
         "defense": 528,
         "mdefense": 528,
         "technic": 216,
@@ -44576,8 +44576,8 @@
     },
     {
         "template": 81141003,
-        "life": 11892,
-        "attack": 1202,
+        "life": 10792,
+        "attack": 1152,
         "defense": 570,
         "mdefense": 570,
         "technic": 361,
@@ -44601,8 +44601,8 @@
     },
     {
         "template": 81141004,
-        "life": 11892,
-        "attack": 1202,
+        "life": 9892,
+        "attack": 1152,
         "defense": 570,
         "mdefense": 570,
         "technic": 184,
@@ -44652,7 +44652,7 @@
     {
         "template": 81141102,
         "life": 10942,
-        "attack": 1389,
+        "attack": 1339,
         "defense": 567,
         "mdefense": 612,
         "technic": 221,
@@ -44701,7 +44701,7 @@
     },
     {
         "template": 81141201,
-        "life": 49212,
+        "life": 75212,
         "attack": 1274,
         "defense": 604,
         "mdefense": 604,
@@ -44752,7 +44752,7 @@
     {
         "template": 81141203,
         "life": 10416,
-        "attack": 1318,
+        "attack": 1268,
         "defense": 567,
         "mdefense": 567,
         "technic": 194,
@@ -44777,7 +44777,7 @@
     {
         "template": 81141204,
         "life": 13042,
-        "attack": 1289,
+        "attack": 1259,
         "defense": 629,
         "mdefense": 567,
         "technic": 425,
@@ -44802,7 +44802,7 @@
     {
         "template": 81141205,
         "life": 10858,
-        "attack": 1389,
+        "attack": 1239,
         "defense": 567,
         "mdefense": 567,
         "technic": 194,
